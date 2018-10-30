@@ -1,0 +1,2012 @@
+﻿1_name_lt;Biting Frost
+1_tooltip_lt;For {Counter} turns, on turn start, damage the lowest unit on this row by {Damage}.
+100_fluff;Not all on the Continent choose to follow kings, queens, dukes, and emperors. That isn't to say, however, that they cannot be persuaded by a purse heavy with coin. Everyone has their price, after all.
+100_name;Neutral
+101_fluff;Legions of hideous monsters, from alghoul to zeugl. All tremble before them, Nordling and Nilfgaardian alike.
+101_name;Monsters
+102_fluff;The powerful Nilfgaardian Empire will not stop until their black and gold banners wave over the entire Continent. If recent years are any indication, they may succeed sooner rather than later.
+102_name;Nilfgaard
+1024_name_lt;Dragon's Dream
+1024_tooltip_lt;After {Counter} turns, on turn start, explode and damage all units on the row by {Damage}.
+103_fluff;Kingdoms, duchies, marches... The territories of the North are numerous and varied. Yet, they've no time to fight each other, for the might of the Nilfgaardian Empire deserves one's full attention.
+103_name;Northern Realms
+104_fluff;Rebels who fight for the rights of non-humans. They'll stop at nothing to achieve their goal, turning the Continent's forests into fields of battle... And cemeteries.
+104_name;Scoia'tael
+105_fluff;Fierce warriors who fear neither death nor cold. Yet, they are not without great weaknesses... Mead, song, and a tumbles in the hay.
+105_name;Skellige
+112101_fluff;I go wherever I please, whenever I please.
+112101_name;Ciri
+112101_tooltip;Whenever you lose a round, return this unit from the battlefield to your hand.
+112102_fluff;A twist of a witcher's fingers can light a lamp… or incinerate a foe.
+112102_name;Geralt: Igni
+112102_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Destroy the highest unit(s) on an enemy row with a total of {Power} or more power.
+112103_fluff;If that's what it takes to save the world, it's better to let that world die.
+112103_name;Geralt of Rivia
+112103_tooltip;<keyword=deploy>Deploy</keyword>: Destroy an enemy with {power} or more power.
+112104_fluff;Men, the polite ones, at least, would call me a monster. A blood–drinking freak.
+112104_name;Regis
+112104_tooltip;<keyword=deploy>Deploy</keyword>: Damage all enemies on a row by {Damage}. If any were destroyed, repeat this ability.
+112105_fluff;He becomes invisible at will. His glance hypnotizes into a deep sleep. He then drinks his fill, turns into a bat and flies off. Altogether uncouth.
+112105_name;Regis: Higher Vampire
+112105_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: <keyword=drain>Drain</keyword> all boosts from an enemy.
+112106_fluff;I can take care of myself. Trust me.
+112106_name;Triss Merigold
+112106_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: <keyword=reveal>Reveal</keyword> a random unit from your deck and damage an enemy by its power.
+112107_fluff;Also calls himself Borkh Three Jackdaws… he's not the best at names.
+112107_name;Villentretenmerth
+112107_tooltip;After {Counter} turns, on turn end, destroy the highest unit on the battlefield, excluding self.
+112108_fluff;Magic is Chaos, Art and Science. It is a curse, a blessing and a progression.
+112108_name;Yennefer of Vengerberg
+112108_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Damage all other units by {Damage}. \n<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Boost all other units by {Boost}.
+112109_fluff;Apologies. My exotic pet's a clever birdie, but a wee bit lewd. Paid ten thalers for the beaute.
+112109_name;Zoltan: Scoundrel
+112109_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: <keyword=spawn>Spawn</keyword> and play Duda: Agitator.\n<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: <keyword=spawn>Spawn</keyword> and play Duda: Companion.
+112110_fluff;Know when fairy tales cease to be tales? When people start believing them.
+112110_name;Ciri: Dash
+112110_tooltip;After {Counter} turns, on turn start, draw a card.
+112111_fluff;A blast of concentrated energy that pummels everything in its path. Great for when you forget your keys.
+112111_name;Geralt: Aard
+112111_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Damage {Maxtargets} enemies by {Damage}, and if possible, move them to the ranged row.
+112112_fluff;Amongst the free elves were a handful of Aen Saevherne, or Sages. They were an enigma, bordering on a legend.
+112112_name;Avallac'h: Sage
+112112_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Play an artifact from your deck.
+112113_fluff;A good sorceress must know when to conjure ice… and when to conjure fire.
+112113_name;Yennefer: Conjurer
+112113_tooltip;<keyword=order>Order</keyword>: Damage the highest enemy unit(s) by {Damage}. \n<keyword=cooldown>Cooldown</keyword>: {Cooldown}.
+112201_fluff;A mimic, among the many other names for his sort: changelings, doublings, vexlings… or dopplers.
+112201_name;Dudu
+112201_tooltip;<keyword=deploy>Deploy</keyword>: Transform into a base copy of an enemy unit.
+112202_fluff;I'm a simple witcher, Wolf. Don't fight dragons, don't fraternize with kings and don't sleep with sorceresses…
+112202_name;Eskel
+112202_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=summon>Summon</keyword> Vesemir and Lambert from your deck to this row.
+112203_fluff;If you're to be hanged, ask for water. Anything can happen before they fetch it.
+112203_name;Vesemir
+112203_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=summon>Summon</keyword> Eskel and Lambert from your deck to this row.
+112204_fluff;Now that's the kind of negotiating I understand.
+112204_name;Lambert
+112204_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=summon>Summon</keyword> Eskel and Vesemir from your deck to this row.
+112205_fluff;Never get between a mother dragon and her young.
+112205_name;Myrgtabrakke
+112205_tooltip;<keyword=order>Order</keyword>: Damage an enemy by {Damage}. \n<keyword=charge>Charge</keyword>: {Charges}.
+112206_fluff;The Master of Quartz Mountain, the Destroyer, Trajan's Slayer. In his free time, he likes long walks and candlelight dinners.
+112206_name;Ocvist
+112206_tooltip;<keyword=order>Order</keyword>: Damage all enemies by {Damage}.
+112207_fluff;At least you now know I don't easily lose my head.
+112207_name;Olgierd von Everec
+112207_tooltip;<keyword=order>Order</keyword>: <keyword=heal>Heal</keyword> self.\n<keyword=cooldown>Cooldown</keyword>: {Cooldown}.
+112208_fluff;As time and space collapse before us, they expand behind us. In that way one moves forward through both.
+112208_name;Operator
+112208_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=spawn>Spawn</keyword> and <keyword=summon>Summon</keyword> a base copy of a bronze unit from your hand to this row on each player's side.
+112209_fluff;Mooooo.
+112209_name;Prize-Winning Cow
+112209_tooltip;<keyword=order>Order</keyword>: Transform into Chort.
+112210_fluff;Geralt, we gotta have a man–to–horse talk. No offense, but your riding skills? They leave a bit to be desired, buddy.
+112210_name;Roach
+112210_tooltip;Whenever you play a gold card, <keyword=summon>Summon</keyword> this unit from your deck to a random allied row.
+112211_fluff;Life without savoring the sound of "surreptitious shananacking" is like licking snails through a cloth.
+112211_name;Johnny
+112211_tooltip;<keyword=order>Order</keyword>: Damage a unit by {Damage}. \n<keyword=charge>Charge</keyword>: {Charges}.\nGain {Charges2} <keyword=charge>Charge</keyword> whenever you play a special card.
+112212_fluff;Little Sarah wants to play!
+112212_name;Sarah
+112212_tooltip;<keyword=order>Order</keyword>: Boost a unit by {Boost}. \n<keyword=charge>Charge</keyword>: {Charges}.\nGain {Charges2} <keyword=charge>Charge</keyword> whenever you play a special card.
+112213_fluff;I might just discover I look great without ears… or hands. Apparently the King of Beggars accepts both as partial payment.
+112213_name;King of Beggars
+112213_tooltip;Every turn, on turn end, boost the lowest unit in your hand by {Boost}.
+112214_fluff;One of four bosses who control the city's underworld - the others being Sigi Reuven, Carlo "The Cleaver" Varese and the King of Beggars.
+112214_name;Cyprian Wiley
+112214_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=banish>Banish</keyword> a unit with {Power} power or less.
+112215_fluff;I remember so little… Yet when I think of my rose, I begin to recall what was.
+112215_name;Iris von Everec
+112215_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Destroy an enemy artifact.\n<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Clear all row effects from your side.
+112401_fluff;They say unicorns are fond of virgins. Since finding a virgin these days is as hard as finding a unicorn, no one has been able to verify the theory.
+112401_name;Unicorn
+112401_tooltip;<keyword=deploy>Deploy</keyword>: Boost a unit by {Boost}. If you have Chironex in hand, double that amount.
+112402_fluff;"Gods, that's no unicorn! That's…!" – the last words of Vilemar, a famed collector of curiosities.
+112402_name;Chironex
+112402_tooltip;<keyword=deploy>Deploy</keyword>: Damage a unit by {Damage}. If you have Unicorn in hand, double that amount.
+112403_fluff;Knows one hundred words – eighty of them curses, the rest, connectors.
+112403_name;Duda: Companion
+112403_tooltip;Boost all units on a row by {Boost}.
+112404_fluff;Zoltan's parrot had the extraordinary ability to irritate anyone who spent time with it. Including Zoltan.
+112404_name;Duda: Agitator
+112404_tooltip;Damage all units on a row by {Damage}.
+112405_fluff;A fiend looks a bit like a deer. An enormous, evil deer.
+112405_name;Fiend
+112405_tooltip;<keyword=deploy>Deploy</keyword>: Boost all <keyword=deathwish>Deathwish</keyword> units in your hand by {Boost}.
+113101_fluff;In the Final Age, Hemdall will come forth to face the evil issuing from the land of Morhogg – the legions of wraiths, demons and specters of Chaos.
+113101_name;Ragh Nar Roog
+113101_tooltip;Apply this row effect to an enemy row:\nEvery turn, on turn start, damage the highest unit on this row by {Damage}.
+113102_fluff;A djinn, good sirs, fulfills but three wishes. Thus freed, it flees to dimensions unknown.
+113102_name;The Last Wish
+113102_tooltip;Look at the top {Maxtargets} cards from your deck, then play one and <keyword=banish>Banish</keyword> the other.
+113201_fluff;When you run out of peasants, decoys also make decent arrow fodder.
+113201_name;Decoy
+113201_tooltip;Shuffle an ally on the battlefield into your deck, then play the top unit from your deck.
+113202_fluff;The sky dimmed of a sudden, and clouds amassed over the town. It grew fiendishly dark, and a cold gust swept in. "Oh my," gasped Yennefer. "We're about to make quite the mess, I think."
+113202_name;Merigold's Hailstorm
+113202_tooltip;Damage {Maxtargets} enemies by {Damage}.
+113203_fluff;This ain't no normal storm. This here's the wrath of the gods.
+113203_name;Skellige Storm
+113203_tooltip;Apply this row effect to an enemy row:\nFor {Counter} turns, on turn start, damage all units on this row by {Damage}.
+113204_fluff;The sorcerer Stammelford moved a mountain that obscured the view from his tower. Rumor has it he could only do so for he'd fettered a d'ao, an earth elemental.
+113204_name;Stammelford's Tremors
+113204_tooltip;Damage all enemies by {Damage}.
+113205_fluff;An important part of every Witch Hunter's kit. In one muted flash, it turns the most powerful sorcerer into pork jelly ripe for cutting.
+113205_name;Dimeritium Bomb
+113205_tooltip;Destroy an artifact.
+113206_fluff;Behold Tedd Deireadh, the Final Age. The world destroyed by the White Frost.
+113206_name;White Frost
+113206_tooltip;Destroy all artifacts.
+113207_fluff;Plus one to morale, minus one to hearing.
+113207_name;Commander's Horn
+113207_tooltip;Boost {maxtargets} adjacent units by {Boost}.
+113208_fluff;The druid Vaedermakar controls the elements. He soothes storms into silence, musters destructive hail, summons lightning to turn foes into ash. So I advise you well… treat him with utmost respect.
+113208_name;Vaedermakar
+113208_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Increase all row effect durations by {Counter}.\n<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Decrease all row effect durations by {Counter2}.
+113209_fluff;A few of Alzur's monstrous creations roam the world still. Not least among them the horrid viy, who massacred its mage-creator and destroyed half of Maribor before fleeing into Riverdell's gloomy woodland.
+113209_name;Alzur's Double–Cross
+113209_tooltip;Play the highest unit from your deck.
+113301_fluff;We stand not the slightest chance of incanting a spell so complex as Alzur's Thunder. It is claimed Alzur had a voice like a hunting horn and the diction of a master orator.
+113301_name;Alzur's Thunder
+113301_tooltip;Damage a unit by {Damage}.
+113302_fluff;Best thing about frost? Bodies of the fallen don't rot so quickly.
+113302_name;Biting Frost
+113302_tooltip;Apply this row effect to an enemy row:\nFor {Counter} turns, on turn start, damage the lowest unit on this row by {Damage}.
+113303_fluff;The sun's shinin', Dromle! The sun's shinin'! Maybe there's hope after all…
+113303_name;Clear Skies
+113303_tooltip;Clear all row effects from your side.
+113305_fluff;A good commander's dream… and a bad one's horror.
+113305_name;Impenetrable Fog
+113305_tooltip;Apply this row effect to an enemy row:\nFor {Counter} turns, on turn start, damage the highest unit on this row by {Damage}.
+113306_fluff;Kills quicker than you can recite the Emperor of Nilfgaard's title in full.
+113306_name;Manticore Venom
+113306_tooltip;Damage {MaxTargets} enemies by {Damage}.
+113307_fluff;The beast rushed at them wildly, with fury in its eyes, immune to pain and any strikes the defenders could land. Nothing stood to stop it…
+113307_name;Adrenaline Rush
+113307_tooltip;Give or remove <keyword=resilient>Resilience</keyword> from a unit.
+113308_fluff;Epidemics respect no persons, no borders.
+113308_name;Epidemic
+113308_tooltip;Destroy the lowest unit(s).
+113309_fluff;Geralt took one step back. He'd seen men hit by Scorch before. Or more accurately, seen what remained of them afterwards.
+113309_name;Scorch
+113309_tooltip;Destroy the highest unit(s).
+113310_fluff;Symbolizing spring and rejuvenation, the swallow lent its name to this potion that accelerates the rate at which wounds scab over and heal.
+113310_name;Swallow
+113310_tooltip;Boost a unit by {Boost}.
+113311_fluff;The witcher's face changed… his mien turning inhuman, horrifying.
+113311_name;Thunderbolt
+113311_tooltip;<keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>: Boost a unit by {Boost}. \n<keyword=charge>Charge</keyword>: {Charges}.
+113312_fluff;Even the rain in this land smells vile.
+113312_name;Torrential Rain
+113312_tooltip;Apply this row effect to an enemy row:\nFor {Counter} turns, on turn start, damage {MaxTargets} random units on the row by {Damage}.
+113313_fluff;Every man, woman and child in Skellige can split a foe with an axe. Only a select few can split enemy ears with a rage-filled cry.
+113313_name;An Craite Warcrier
+113313_tooltip;<keyword=deploy>Deploy</keyword>: Boost self by the amount an enemy is damaged.
+113315_fluff;Gaze long into the abyss, and the abyss will gaze back into you.
+113315_name;Bekker's Dark Mirror
+113315_tooltip;Choose a unit. If it's boosted, damage it by double the amount boosted. If it's damaged, boost it by double the amount damaged.
+113316_fluff;Medicus curat, magicae sanat.
+113316_name;Renew
+113316_tooltip;Play a unit from your graveyard.
+113319_fluff;The mage's arms were twisted and bound behind his back. The Redanians gave the fetters a good shake. Terranova cried out, lurched, bent backwards, bowed forward, then retched and groaned. It was clear of what his manacles were made.
+113319_name;Dimeritium Shackles
+113319_tooltip;<keyword=lock>Lock</keyword> a unit and damage it by {Damage}.
+113320_fluff;Eat enough of them, and the world will never be the same…
+113320_name;Mardroeme
+113320_tooltip;Damage a unit by {Damage}, then boost it by {Boost}.
+122101_fluff;I've not been a good father, I know, but… perhaps it's not too late.
+122101_name;Bloody Baron
+122101_tooltip;<keyword=order>Order</keyword>: Double an allied unit's <keyword=charge>Charge</keyword> count.
+122102_fluff;A patriot… and a real pain in the rear.
+122102_name;Vernon Roche
+122102_tooltip;<keyword=spying>Spying</keyword>.\n<keyword=deploy>Deploy</keyword>: Play the top {MaxTargets} cards from your deck.
+122103_fluff;That square should bear the names of my soldiers, of the dead. Not mine.
+122103_name;John Natalis
+122103_tooltip;<keyword=melee>Melee</keyword>: While this unit is on the battlefield, all allied units with <keyword=order>Orders</keyword> gain <keyword=zeal>Zeal</keyword>.
+122104_fluff;Soon the power of kings will wither, and the Lodge shall seize its rightful place.
+122104_name;Philippa Eilhart
+122104_tooltip;postponed
+122105_fluff;Really believe you can dupe me with that tale you just pulled from your arse?
+122105_name;Sigismund Dijkstra
+122105_tooltip;postponed
+122106_fluff;I'm a medic. I tend to know what I'm doing when I prescribe something.
+122106_name;Shani
+122106_tooltip;<keyword=order>Order</keyword>: Give a unit <keyword=immune>Immune</keyword>.
+122107_fluff;Cap'n… our arrows, they've… they've got wings!
+122107_name;Triss: Butterflies
+122107_tooltip;<keyword=deploy>Deploy</keyword>: Boost a random unit in your hand by {Boost}.
+122108_fluff;If I'm to die today, I wish to look smashing for the occasion.
+122108_name;Keira Metz
+122108_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Play a Spell from your deck.
+122201_fluff;Dandelion, you're a cynic, a lecher, a liar – and my best friend.
+122201_name;Dandelion
+122201_tooltip;<keyword=ranged>Ranged</keyword>: Whenever an ally gains a <keyword=charge>Charge</keyword>, boost it by {Boost}.
+122202_fluff;Picture Dandelion in a dress and you've got the general idea.
+122202_name;Priscilla
+122202_tooltip;<keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>: Give a unit {Charges} <keyword=charge>Charge</keyword>. \n<keyword=cooldown>Cooldown</keyword>: {Cooldown}.
+122203_fluff;Piss off! We aren't all philanderers. Some of us have depth…
+122203_name;Thaler
+122203_tooltip;<keyword=deploy>Deploy</keyword>: Remove all <keyword=charge>Charges</keyword> from an enemy unit and give them to Thaler.\n<keyword=order>Order</keyword>: Give {Charges2} <keyword=charge>Charge</keyword> to an allied unit.\n<keyword=charge>Charge</keyword>: {Charges}.
+122204_fluff;Better to live one day as a king than a whole life as a beggar.
+122204_name;Ves
+122204_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage}.\n<keyword=order>Order</keyword>: Give an ally <keyword=zeal>Zeal</keyword>.
+122205_fluff;The Lodge lacks humility. Our lust for power may yet be our undoing.
+122205_name;Síle de Tansarville
+122205_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage}.\n<keyword=order>Order</keyword>: Damage an enemy by {Damage}.
+122206_fluff;The Daughter of the Kaedweni Wilderness.
+122206_name;Sabrina Glevissig
+122206_tooltip;<keyword=spying>Spying</keyword>. \n<keyword=deathwish>Deathwish</keyword>: Damage all units on this row by {Damage}.
+122207_fluff;I once made a prisoner vomit his own entrails… Ah, good times…
+122207_name;Dethmold
+122207_tooltip;<keyword=order>Order</keyword>, <keyword=ranged>Ranged</keyword>: Damage an enemy by the amount Dethmold is boosted.
+122208_fluff;He wears armor made of gold. Of course he's a jerk.
+122208_name;Prince Stennis
+122208_tooltip;<keyword=deploy>Deploy</keyword>: Boost an ally by {Boost} and give it {Charges} <keyword=charge>Charges</keyword>.
+122209_fluff;Join me King Ravodid army. Order got – guard boatses.
+122209_name;Trollololo
+122209_tooltip;postponed
+122210_fluff;They said the queen was prone to outbursts, but I did not expect that…
+122210_name;Princess Pavetta
+122210_tooltip;<keyword=deploy>Deploy</keyword>: Shuffle a bronze unit and all copies of it from your graveyard into your deck.
+122211_fluff;I care only about what's good for Aretuza and my pupils.
+122211_name;Margarita Laux-Antille
+122211_tooltip;<keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>: Spend {Charges} <keyword=charge>Charges</keyword> to <keyword=lock>Lock</keyword> an enemy unit.\n<keyword=charge>Charge</keyword>: {Charges}.
+122212_fluff;Few know more about healing than Nenneke.
+122212_name;Nenneke
+122212_tooltip;<keyword=order>Order</keyword>, <keyword=ranged>Ranged</keyword>: Boost a unit by {Boost}. \n<keyword=charge>Charge</keyword>: {Charges}.
+122213_fluff;Drinkin' without Odrin is like rowin' without a paddle.
+122213_name;Odrin
+122213_tooltip;<keyword=deploy>Deploy</keyword>: Give {Charge} <keyword=charge>Charge</keyword> to all allied units.
+122214_fluff;Forward, you sorry sods! Forward or you'll see the Nilfgaardians are the least of your worries!
+122214_name;Kaedweni Sergeant
+122214_tooltip;<keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>: Boost an ally by {Boost}. \n<keyword=charge>Charge</keyword>: {Charges}.
+122216_fluff;Everyone wantin' to trade in Novigrad's got a clear choice - agree terms with Cleaver or kiss their knees farewell.
+122216_name;Cleaver
+122216_tooltip;<keyword=deploy>Deploy</keyword>: Damage a unit by {Damage} for every card in your hand.
+122301_fluff;What crossbows want to be when they grow up.
+122301_name;Ballista
+122301_tooltip;<keyword=order>Order</keyword>: Damage a unit by {Damage}. \n<keyword=charge>Charge</keyword>: {Charges}.
+122302_fluff;Never manages to hit the same place twice, which, upon further reflection, might constitute a real problem.
+122302_name;Reinforced Ballista
+122302_tooltip;<keyword=order>Order</keyword>: Damage a unit by {Damage}. \n<keyword=charge>Charge</keyword>: {Charges}.
+122303_fluff;Castle won't batter itself down, now will it? Get them trebuchets rollin'!
+122303_name;Trebuchet
+122303_tooltip;<keyword=order>Order</keyword>, <keyword=ranged>Ranged</keyword>: Damage a unit by {Damage}. If it was destroyed, damage units adjacent to it by {Damage}.\n<keyword=charge>Charge</keyword>: {Charges}.
+122304_fluff;The latest rage in assaults on walled cities.
+122304_name;Siege Tower
+122304_tooltip;<keyword=order>Order</keyword>, <keyword=melee>Melee</keyword>: Boost adjacent allies by {Boost}. \n<keyword=charge>Charge</keyword>: {Charges}.
+122306_fluff;See this here tattoo? 'At's me, hackin' at a dragon. A DRAGON, m'lady.
+122306_name;Reaver Hunter
+122306_tooltip;postponed
+122307_fluff;Haven't had much luck with monsters of late, so we enlisted.
+122307_name;Reaver Scout
+122307_tooltip;postponed
+122308_fluff;For glory! For Radovid!
+122308_name;Redanian Knight
+122308_tooltip;postponed
+122309_fluff;"You gotta recalibrate the arm by five degrees."\n"Do what by the what now?"
+122309_name;Siege Support
+122309_tooltip;<keyword=deploy>Deploy</keyword>: Give {Charges} <keyword=charge>Charges</keyword> to a Machine ally.
+122310_fluff;Blue Stripes and Scoia'tael are similar in one regard – hatred fuels both.
+122310_name;Blue Stripes Scout
+122310_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: <keyword=spawn>Spawn</keyword> a copy of a bronze ally at the bottom of your deck.
+122311_fluff;I'd do anything for Temeria. Mostly though, I kill for her.
+122311_name;Blue Stripes Commando
+122311_tooltip;<keyword=order>Order</keyword>: <keyword=summon>Summon</keyword> a copy of this unit from your deck to this row.
+122312_fluff;Stitch red to red, white to white, and everything will be all right.
+122312_name;Field Medic
+122312_tooltip;<keyword=deploy>Deploy</keyword>: Boost adjacent units by {Boost}.
+122313_fluff;Stay calm, everyone. And be alert. The true owners of those cloaks and beaver–skin caps might be elsewhere.
+122313_name;Dun Banner
+122313_tooltip;<keyword=deploy>Deploy</keyword>: Gain <keyword=zeal>Zeal</keyword> if played adjacent to {MaxTargets} Soldiers.\n<keyword=order>Order</keyword>: Damage an enemy by {Damage}.
+122314_fluff;Always wondered – how the blazes do those lads handle nature's call…?
+122314_name;Kaedweni Cavalry
+122314_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Remove all <keyword=charge>Charges</keyword> from an enemy, then damage it by the amount removed.
+122315_fluff;Feel that? The earth trembles each time Big Bertha looses a stone.
+122315_name;Reinforced Trebuchet
+122315_tooltip;<keyword=ranged>Ranged</keyword>: Every turn, on turn end, damage a random enemy on the ranged row by {Damage}.
+122316_fluff;Temeria! Temeria! Gods shed all grace on thee! And smite thy foes with horrid woes, for all eternity!
+122316_name;Temerian Infantry
+122316_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage} for each boosted unit on this row.
+122317_fluff;I'll die for Redania, I'll kill for Redania… I'll even eat worms for Redania!
+122317_name;Redanian Elite
+122317_tooltip;postponed
+122318_fluff;I never miss twice.
+122318_name;Siege Master
+122318_tooltip;Whenever a Machine is placed on this row, give it <keyword=zeal>Zeal</keyword>.
+122401_fluff;Admit your mistakes and bury them proper – else they'll come back to haunt you.
+122401_name;Botchling
+122401_tooltip;Every turn, on turn end, damage the highest enemy by {Damage}. \n<keyword=order>Order</keyword>: Transfrom into Lubberkin.
+122402_fluff;I name thee Dea and embrace thee as my daughter.
+122402_name;Lubberkin
+122402_tooltip;Every turn, on turn end, boost the lowest ally by {Boost}. \n<keyword=order>Order</keyword>: Transform into Botchling.
+122403_fluff;Mages in Nilfgaard are disposable. If one disappoints the Emperor, a dozen others await to provide what he requires.
+122403_name;Vicovaro Novice
+122403_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Draw a card, then place a card from your hand at the top of your deck.
+123201_fluff;Sound the retreat! Regroup! And wait for reinforcements!
+123201_name;Reinforcements
+123201_tooltip;<keyword=spawn>Spawn</keyword> a copy of a bronze allied unit and <keyword=summon>Summon</keyword> it to this row.
+123301_fluff;Not wealth or fame but intentions true –– that's what makes a hero of you!
+123301_name;Temerian Aspirant
+123301_tooltip;<keyword=spawn>Spawn</keyword>
+131101_fluff;Have some dignity. You know how this will end.
+131101_name;Eredin Bréacc Glas
+131101_tooltip;<keyword=order>Order</keyword>: Boost a unit by {Boost} and give it <keyword=immune>Immune</keyword>.
+131102_fluff;Paintings should convey emotion, not words.
+131102_name;Ge'els
+131102_tooltip;<keyword=ranged>Ranged</keyword>: Whenever you play a unit with <keyword=deathwish>Deathwish</keyword>, trigger its <keyword=deathwish>Deathwish</keyword> ability.
+132101_fluff;Some men cannot admit defeat. Some keep fighting from beyond the grave.
+132101_name;Draug
+132101_tooltip;<keyword=deploy>Deploy</keyword>: Transform all Human allies into Kaedweni Revenants without changing their power.
+132102_fluff;He boasted that no weapon would ever pierce his armor. And he was right — even in death.
+132102_name;Imlerith's Wrath
+132102_tooltip;Damage an enemy by the power of your highest ally.
+132103_fluff;We never hunt in these woods. Not even if it means the whole village'll starve.
+132103_name;Woodland Spirit
+132103_tooltip;<keyword=order>Order</keyword>: Boost a unit in your hand by {Boost}.
+132104_fluff;A favorite son who chose a life of villainy.
+132104_name;Caranthir Ar-Feiniel
+132104_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=spawn>Spawn</keyword> a {Power}-power copy of a unit from your hand and <keyword=summon>Summon</keyword> it to this row.
+132105_fluff;You humans have… unusual tastes.
+132105_name;Avallac'h
+132105_tooltip;<keyword=order>Order</keyword>: Give an allied unit <keyword=immune>Immune</keyword>.
+132106_fluff;There are more things in heaven and earth than all the world's philosophers have dreamt.
+132106_name;Caretaker
+132106_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Play an artifact from your graveyard.
+132107_fluff;How to kill a kayran? Simple! Take your best sword… then sell it, and hire a witcher.
+132107_name;Kayran
+132107_tooltip;<keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>: <keyword=consume>Consume</keyword> an ally.\n<keyword=charge>Charge</keyword>: {Charges}.
+132108_fluff;Why fight? There are much better ways to work off excess energy…
+132108_name;Miruna
+132108_tooltip;<keyword=deathwish>Deathwish</keyword>: <keyword=seize>Seize</keyword> an enemy with {Power} or less power.
+132201_fluff;Like a cross between a crab, a spider… and a mountain.
+132201_name;Arachas Behemoth
+132201_tooltip;<keyword=spawn>Spawn</keyword> {MaxTargets} Arachas Drones and <keyword=summon>Summon</keyword> them to this row, then boost all other Insectoids on this row by {Boost}.
+132202_fluff;Most grave hags feed on rotten remains dug out of graves. Yet some sneak into huts, steal children, kill the elderly and in general make very undesirable neighbors.
+132202_name;Mourntart
+132202_tooltip;<keyword=order>Order</keyword>: <keyword=banish>Banish</keyword> all units in your graveyard, then boost self by {Boost} for each.
+132203_fluff;Seen a lot o' ugly critters in me life – morays, lampreys, blobfish… But never nothin' like this!
+132203_name;Abaya
+132203_tooltip;<keyword=thrive>Thrive</keyword>. \n<keyword=deploy>Deploy</keyword>: Trigger a bronze ally's <keyword=deathwish>Deathwish</keyword> ability.
+132204_fluff;”What have I done?” the mage cried out, frightened of his own creation.
+132204_name;Frightener: Dormant
+132204_tooltip;After {Counter} allied units are destroyed, awaken Frightener.
+132205_fluff;An unusual fiend specimen found on Ard Skellig. Unusually picky in terms of food.
+132205_name;Morvudd
+132205_tooltip;<keyword=deploy>Deploy</keyword>: Boost all Beast allies by {Boost}.
+132206_fluff;I'd be your best – and last.
+132206_name;Whispess
+132206_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage}.\nIncrease this damage by {Damage2} whenever you play Brewess or Weavess.
+132207_fluff;We'll cut you up, boy. A fine broth you'll make.
+132207_name;Brewess
+132207_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=consume>Consume</keyword> {MaxTargets} allied unit(s).\nIncrease the number of targets by {Maxtargets2} whenever you play Whispess or Weavess.
+132208_fluff;I sense your pain. I see your fear.
+132208_name;Weavess
+132208_tooltip;<keyword=deploy>Deploy</keyword>: Boost an ally by {Boost}.\nIncrease this boost by {Boost2} whenever you play Whispess or Brewess.
+132209_fluff;One of the world's oldest and deadliest monsters. I used to feel excitement at moments like this. Now the beast is only an obstacle in my way. Its meat and hot blood will help me survive this icy hell.
+132209_name;Imperial Manticore
+132209_tooltip;<keyword=deathwish>Deathwish</keyword>: Destroy the lowest enemy.
+132210_fluff;Can't stand the heat? Then you don't stand a chance.
+132210_name;Colossal Ifrit
+132210_tooltip;<keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>: Damage all units on the opposite row by {Damage}.\n<keyword=cooldown>Cooldown</keyword>: {Cooldown}.
+132211_fluff;Take heed, gents, there's nekkers under this here bridge.
+132211_name;Nekker Warrior
+132211_tooltip;<keyword=thrive>Thrive</keyword>.
+132212_fluff;Fled one time in my life. From the Ice Giant. And I'm not a bit ashamed.
+132212_name;Ice Giant
+132212_tooltip;No ability.
+132213_fluff;How do you fight an earth elemental? You don't. You run. Fast as you can.
+132213_name;Primordial D'ao
+132213_tooltip;No ability.
+132214_fluff;Each Wild Hunt warrior has gone through a rigorous selection process, but Eredin's personal cavalcade includes only the most brutal and most ferocious of the Aen Elle.
+132214_name;Nithral
+132214_tooltip;<keyword=deploy>Deploy</keyword>: Destroy an enemy artifact. If you control the highest unit, damage units adjacent to that artifact by {Damage}.
+132215_fluff;He always grants exactly what you wish for. That's the problem.
+132215_name;Gaunter O'Dimm
+132215_tooltip;<keyword=deploy>Deploy</keyword>: Give an enemy unit <keyword=doomed>Doomed</keyword>.\n<keyword=order>Order</keyword>: Destroy a <keyword=doomed>Doomed</keyword> enemy.
+132216_fluff;Big, bad, ugly. Squats in the sewers.
+132216_name;Toad Prince
+132216_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: <keyword=consume>Consume</keyword> a unit with {Power} or less power.
+132217_fluff;Common harpies feed on carrion. Celaeno harpies… they feed on dreams.
+132217_name;Celaeno Harpy
+132217_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=consume>Consume</keyword> an allied unit.
+132218_fluff;Do not disturb.
+132218_name;Old Speartip: Asleep
+132218_tooltip;No ability.
+132220_fluff;Drinking the blood of the Continent since the Conjunction.
+132220_name;Nekurat
+132220_tooltip;postponed
+132301_fluff;Fog creeps on little cat feet. Foglets creep over the bodies of their victims.
+132301_name;Foglet
+132301_tooltip;<keyword=deathwish>Deathwish</keyword>: <keyword=summon>Summon</keyword> a copy of this unit from your deck to a random allied row.
+132302_fluff;Many primal fears lurk in the hearts of men. The fear of the mist is well–founded…
+132302_name;Ancient Foglet
+132302_tooltip;<keyword=deathwish>Deathwish</keyword>: <keyword=summon>Summon</keyword> this unit from the graveyard to the same row, boost it by {Boost}, and give it <keyword=doomed>Doomed</keyword>.
+132303_fluff;Imagine a cross between a winged snake and a nightmare. Wyverns are worse.
+132303_name;Wyvern
+132303_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage}.
+132304_fluff;Ugly – nature's way of saying "stay away."
+132304_name;Arachas Drone
+132304_tooltip;<keyword=doomed>Doomed</keyword>.
+132305_fluff;These little guys are almost cute, if you ignore the whole vicious killer aspect.
+132305_name;Nekker
+132305_tooltip;<keyword=thrive>Thrive</keyword>.\n<keyword=deploy>Deploy</keyword>: <keyword=spawn>Spawn</keyword> a base copy of this unit and <keyword=summon>Summon</keyword> it to this row.
+132306_fluff;If ghouls are part of the Circle of Life… then it's one vicious circle.
+132306_name;Ghoul
+132306_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: <keyword=consume>Consume</keyword> a unit in your graveyard.
+132307_fluff;Griffins like to toy with their prey. Eat 'em alive, piece by piece.
+132307_name;Griffin
+132307_tooltip;<keyword=deploy>Deploy</keyword>: Destroy an allied unit on this row. If there are no units, destroy self.
+132308_fluff;They sat still on their horses, seemingly relaxed. He saw their weapons – short spears with wide tips. Swords with oddly forged guards. Battle axes. Toothed gisarmes.
+132308_name;Vran Warrior
+132308_tooltip;Whenever a unit is destroyed during your turn, damage a random enemy by {Damage}.
+132309_fluff;The White Frost is coming.
+132309_name;Wild Hunt Warrior
+132309_tooltip;<keyword=deploy>Deploy</keyword>: Damage a unit by {Damage} for each Wild Hunt unit on this row.
+132310_fluff;First the buffalo horns atop their helms penetrate one's view, then the crest betwixt them, and finally the skull–like face exposed beneath their visors.
+132310_name;Wild Hunt Rider
+132310_tooltip;<keyword=deploy>Deploy</keyword>: If you control the highest unit, <keyword=summon>Summon</keyword> a copy of Wild Hunt Rider from your deck to this row.
+132312_fluff;Afraid for the lives, the residents of Hengfors cowered behind thick city walls. A lot of good that did them...
+132312_name;Predatory Dive
+132312_tooltip;Each player destroys their lowest unit.
+132313_fluff;Who would think that overgrown bats would have a taste for gaudy jewelry?
+132313_name;Ekimmara
+132313_tooltip;postponed
+132314_fluff;Though the witchman lusts for gold, for the smiting of a drowner thou shalt give him but a silver penny, or three halfpence, at most.
+132314_name;Drowner
+132314_tooltip;<keyword=thrive>Thrive</keyword>.\n<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage} and move it to the other row.
+132315_fluff;There are many species of harpy, and all are kleptomaniacs.
+132315_name;Harpy
+132315_tooltip;<keyword=doomed>Doomed</keyword>.
+132316_fluff;A harpy egg omelet - a delicious delicacy, good sir. Quite dear, too, for as you might surmise, the wretches don't part with their eggs willingly.
+132316_name;Harpy Egg
+132316_tooltip;<keyword=deathwish>Deathwish</keyword>: <keyword=spawn>Spawn</keyword> a Harpy and <keyword=summon>Summon</keyword> it to a random allied row.
+132402_fluff;Cry 'Havoc!', and let slip the dogs of war.
+132402_name;Wild Hunt Hound
+132402_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage}. If you control the highest unit, damage by {Damage2} instead.
+132403_fluff;"Relax, I know how to tame wolves…"– Dunbar the Hunter's last words.
+132403_name;Wolf Pack
+132403_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage}.
+132404_fluff;A certain mage thought them cute. It was his fate that gave rise to the saying "Don't play with fire…"
+132404_name;Enraged Ifrit
+132404_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage}.
+132405_fluff;They're easily mistaken for rocks. Many a troll's been unpleasantly surprised by gastric grief on that very account.
+132405_name;Frenzied D'ao
+132405_tooltip;<keyword=deploy>Deploy</keyword>: Destroy an enemy artifact.
+132406_fluff;No gate nor wall can stop them. Just one tiny crack — that's all they need...
+132406_name;Maerolorn
+132406_tooltip;<keyword=deploy>Deploy</keyword>: Trigger a bronze ally's <keyword=deathwish>Deathwish</keyword> ability.
+132407_fluff;The most powerful of Nilfgaard's mages have mastered the art of creating golems. On a few occasions, they've even managed to make them fight for the imperial cause…
+132407_name;Imperial Golem
+132407_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=reveal>Reveal</keyword> the top unit from your opponent's deck and damage self by its power, then shuffle it back.
+132408_fluff;Oh, you're in a heap of trouble now…
+132408_name;Old Speartip
+132408_tooltip;No ability.
+132409_fluff;The fool paid heed to superstition, stuffed his ears with wax and didn't hear the warnings. He ran his ship straight into the rocks.
+132409_name;Hideous Feast
+132409_tooltip;Damage an enemy by {Damage} and boost an ally by {Boost}.
+133301_fluff;Stronger than your average shield and far more stylish.
+133301_name;Wyvern Scale Shield
+133301_tooltip;<keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>: Boost a unit by {Boost}. \n<keyword=cooldown>Cooldown</keyword>: {Cooldown}.
+133302_fluff;Damn, the filth's o'errun us… We need a witcher or there's no livin' 'ere!
+133302_name;Arachas Nest
+133302_tooltip;<keyword=spawn>Spawn</keyword> {Counter} 1-power Arachas Drones and <keyword=summon>Summon</keyword> them to an allied row.
+142101_fluff;I inherited my father's ability to assume other forms - well, one other form, in my case.
+142101_name;Saesenthessis
+142101_tooltip;<keyword=immune>Immune</keyword>.\n<keyword=order>Order</keyword>: Remove this unit's <keyword=immune>Immune</keyword> status for the remainder of the turn.
+142102_fluff;It dawns on them once they notice my scar: a realization of imminent death.
+142102_name;Isengrim Faoiltiarna
+142102_tooltip;<keyword=deploy>Deploy</keyword>: Boost all other Elf allies by {Boost}.\nWhenever you play an Elf, boost self by {Boost2}.
+142103_fluff;King or beggar, what's the difference? One dh'oine less.
+142103_name;Iorveth
+142103_tooltip;<keyword=deploy>Deploy</keyword>: Return an allied Trap to your hand, then play a Trap.
+142104_fluff;With each arrow I loose, I think of my da. He'd be proud. I think.
+142104_name;Milva
+142104_tooltip;<keyword=immune>Immune</keyword>.\nBoost self by {Boost} whenever you play a Scoia'tael unit.
+142105_fluff;Drinkin' alone's like crappin' with company.
+142105_name;Zoltan Chivay
+142105_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Destroy a unit with power less than or equal to the number of Dwarf allies.
+142106_fluff;Brokilon bleeds… and not even I can heal it.
+142106_name;Aglaïs
+142106_tooltip;<keyword=deploy>Deploy</keyword>: On turn end, double the amount of boosts on self.
+142107_fluff;Famed for constantly prophesying the world's doom. Not much fun at parties.
+142107_name;Ithlinne Aegli
+142107_tooltip;<keyword=deploy>Deploy</keyword>: Boost a Scoia'tael unit in your hand by {Boost}.
+142108_fluff;Time to look death in the face.
+142108_name;Schirrú
+142108_tooltip;<keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>: Destroy all other units with the same power as Schirrú.
+142201_fluff;I know how to execute orders, so take your advice somewhere else.
+142201_name;Dennis Cranmer
+142201_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Boost adjacent units by {Boost2}.\n<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Boost all other units on this row by {Boost}.
+142202_fluff;I am a Sage. My power lies in possessing knowledge. Not sharing it.
+142202_name;Ida Emean aep Sivney
+142202_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Destroy an artifact.\n<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Boost a unit by {Boost}.
+142203_fluff;We are the drops of rain that together make a ferocious storm.
+142203_name;Yaevinn
+142203_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage} for every Elf ally.
+142204_fluff;I'd gladly kill you from up close, stare in your eyes… But you reek, human.
+142204_name;Toruviel
+142204_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Damage enemies at the ends of a row by {Damage}.\n<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Damage all enemies on a row by {Damage2}.
+142205_fluff;Most terrible things I've witnessed? The Catriona plague, the razing of Vengerberg and the charge of the Vrihedd Dragoons.
+142205_name;Vrihedd Dragoon
+142205_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Move an enemy unit to their other row.\n<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Move an allied unit to your other row.
+142206_fluff;The path to freedom is paved in blood, not ink.
+142206_name;Ciaran aep Easnillen
+142206_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=lock>Lock</keyword> a unit and move it to the other row.
+142207_fluff;Our mead smells rotten to ye, do it? Easy to fix – I'll break yer nose!
+142207_name;Barclay Els
+142207_tooltip;<keyword=deploy>Deploy</keyword>: Boost an ally by {Boost} for each Dwarf ally.
+142208_fluff;Lady Eithné's daughter had inherited her sublime beauty and her wild hatred for all that is human.
+142208_name;Morenn
+142208_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Damage an enemy by {Damage}.\n<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: <keyword=lock>Lock</keyword> a unit.
+142209_fluff;Mona…? No… no. I'm Braenn. A daughter of Brokilon.
+142209_name;Braenn
+142209_tooltip;<keyword=deploy>Deploy</keyword>: If you control {Counter} or more Dryads, gain <keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>: Damage an enemy by {Damage}.\n<keyword=charge>Charge</keyword>: {Charges}.
+142210_fluff;I hate you, dh'oine. You are all the same.
+142210_name;Malena
+142210_tooltip;<keyword=order>Order</keyword>: Move a unit to the other row on its side.\n<keyword=cooldown>Cooldown</keyword>: {Cooldown}.
+142211_fluff;Better to die standing than to live on bent knee.
+142211_name;Aelirenn
+142211_tooltip;If on turn end you control {MaxTargets} or more Elf allies, <keyword=summon>Summon</keyword> this unit from your deck to the melee row.
+142212_fluff;I was there, on the front lines! Right where the fightin' was the thickest!
+142212_name;Sheldon Skaggs
+142212_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by this unit's power.
+142213_fluff;Ever hear o' the dragon Ocvist? From Quartz Mountain? Well, Yarpen Zigrin and his band o' dwarves did 'im in.
+142213_name;Yarpen Zigrin
+142213_tooltip;Every turn, on turn end, if there are no allied units on the battlefield, boost self by {Boost}.
+142214_fluff;Love justifies madness in any of its forms.
+142214_name;Ele'yas
+142214_tooltip;<keyword=deploy>Deploy</keyword>: Damage all damaged units by {Damage} and boost all boosted units by {Boost}.
+142301_fluff;Sure, I'll patch you up. Gonna cost you though.
+142301_name;Hawker Healer
+142301_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Boost an allied unit by {Boost}.\n<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: <keyword=heal>Heal</keyword> an allied unit by {Boost2}.
+142302_fluff;"Vrihedd? What's that mean?" "Trouble."
+142302_name;Vrihedd Brigade
+142302_tooltip;<keyword=deploy>Deploy</keyword>: Damage a random enemy by {Damage}.\nWhenever Vrihedd Brigade is moved to the other row, repeat its <keyword=deploy>Deploy</keyword> ability.
+142303_fluff;Hatred burns brighter than any fire, and cuts deeper than any blade.
+142303_name;Vrihedd Officer
+142303_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Damage an enemy by {Damage}.\n<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Boost an ally by {Boost}.
+142304_fluff;They track like hounds, run like deer and kill like heartless demons.
+142304_name;Dol Blathanna Bomber
+142304_tooltip;<keyword=deploy>Deploy</keyword>: Damage a random enemy on each row by {Damage}.
+142305_fluff;Worked a pickaxe all me life. Battleaxe won't be any trouble.
+142305_name;Dwarven Skirmisher
+142305_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage}. If it survives, boost self by {Boost}.
+142306_fluff;I'm telling ye, we're born fer battle – we slash straight at their knees!
+142306_name;Mahakam Defender
+142306_tooltip;Every turn, on turn end, boost self by {Boost} if this unit is boosted.
+142307_fluff;No matter what you may have heard, elves don't take human scalps. Too much lice.
+142307_name;Vrihedd Sappers
+142307_tooltip;<keyword=deploy>Deploy</keyword>: If you have an Elf in your hand, destroy an enemy artifact.
+142308_fluff;I spit on Scoia'tael ideals, but not on their coin.
+142308_name;Waylay
+142308_tooltip;If there is an Elf ally on the battlefield, destroy a random enemy unit.
+142309_fluff;Temerians, Redanians, all the same. Better off dead.
+142309_name;Vrihedd Vanguard
+142309_tooltip;<keyword=deploy>Deploy</keyword>: Boost self by {Boost} for each Elf in your hand.
+142310_fluff;Take another step, dh'oine. You'd look better with an arrow between your eyes.
+142310_name;Dol Blathanna Archer
+142310_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Damage an enemy by {Damage}.\n<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Damage {MaxTargets} units by {Damage2}.
+142311_fluff;The key's mixin' pleasure an' business – like smackin' foes and gettin' coin for it.
+142311_name;Dwarven Mercenary
+142311_tooltip;<keyword=order>Order</keyword>: Damage an enemy by {Damage}. \n<keyword=charge>Charge</keyword>: {Charges}.\nGain {Charges2} <keyword=charge>Charge</keyword> whenever you play a Dwarf.
+142312_fluff;Elf, dwarf, makes no difference – long as they've got coin.
+142312_name;Hawker Support
+142312_tooltip;<keyword=deploy>Deploy</keyword>: Boost an ally by {Boost}. If you control an artifact, boost by {Boost2} instead.
+142313_fluff;You mean to say the she–elf danced amidst the fray? Have you lost your mind, corporal?!
+142313_name;Elven Wardancer
+142313_tooltip;<keyword=deploy>Deploy</keyword>: If this unit is already boosted, damage an enemy by {Damage}.
+142314_fluff;You might manage to hide from them, but once spotted, don't bother trying to run.
+142314_name;Dol Blathanna Bowman
+142314_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage} for each row that separates it from this unit.
+142315_fluff;I fight for whoever's paying the best. Or whoever's easiest to rob.
+142315_name;Hawker Smuggler
+142315_tooltip;<keyword=melee>Melee</keyword>: Every turn, on turn end, boost a random unit in your hand by {Boost}.
+142316_fluff;By the time we'd heard them, it was already too late…
+142316_name;Blue Mountain Elite
+142316_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Damage an enemy by {Damage} if there are no other units on its row.
+142317_fluff;Only one punishment for disturbin' the peace in Mahakam: a hammer to the heid.
+142317_name;Mahakam Guard
+142317_tooltip;<keyword=deploy>Deploy</keyword>: Boost self by the number of Dwarf allies on the other row.
+142401_fluff;Many nonhumans, fed up with the racism and xenophobia they encounter in the cities, decide to join the Scoia'tael.
+142401_name;Scoia'tael Neophyte
+142401_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=spawn>Spawn</keyword> and <keyword=summon>Summon</keyword> a base copy of this unit to the other allied row.
+143201_fluff;You exact from the earth a blood ransom, ripping out its riches by force. To us it bloomed, bore fruit and gave freely, for it loved us as we loved it.
+143201_name;Serpent Trap
+143201_tooltip;<keyword=ambush>Ambush</keyword>: Destroy the next special card played by your opponent before it triggers any abilities.
+143301_fluff;Careful…! One more step and you'll be turned into molten glass.
+143301_name;Incinerating Trap
+143301_tooltip;<keyword=ambush>Ambush</keyword>: Damage the next unit your opponent plays by {Damage}. \n<keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>: Flip over and damage a unit by {Damage2}.
+152101_fluff;Instead of mournin' the fallen, let's drink to their memory!
+152101_name;Hjalmar an Craite
+152101_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: <keyword=banish>Banish</keyword> a unit in your graveyard and damage an enemy by its power.
+152103_fluff;Only the ignorant dismiss the importance of myths.
+152103_name;Ermion
+152103_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Play an Alchemy card from your deck.
+152104_fluff;When the time comes, the cockerel Kambi shall crow and awaken Hemdall.
+152104_name;Kambi
+152104_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=discard>Discard</keyword> the rightmost card in your hand, then force your opponent to do the same.
+152105_fluff;Skellige must have a strong king. No matter what it takes.
+152105_name;Birna Bran
+152105_tooltip;<keyword=deploy>Deploy</keyword>: Draw {MaxTargets} cards, then <keyword=discard>Discard</keyword> {MaxTargets} cards.
+152106_fluff;WAAAAAAAAAAGH!!!!
+152106_name;Madman Lugos
+152106_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by twice the number of damaged enemies.
+152107_fluff;Her true name's Astrid Lyttneyd Ásgeirrfinnbjornsdottir, but that never fit on any forms.
+152107_name;Coral
+152107_tooltip;<keyword=order>Order</keyword>: <keyword=discard>Discard</keyword> a card, then draw a card. \n<keyword=charge>Charge</keyword>: {Charges}.\nWhenever a special card is <keyword=discard>Discarded</keyword>, damage an enemy by {Damage}.
+152109_fluff;Merely mention this name to a Nilfgaardian, and they'll feel a spreading warmth in their knickers…
+152109_name;Wild Boar of the Sea
+152109_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Damage all damaged enemies by {Damage}.
+152201_fluff;I'm near ready to puke from boredom.
+152201_name;Blueboy Lugos
+152201_tooltip;Whenever this unit takes damage, damage a random enemy unit by {Damage}.
+152202_fluff;At close range, trolls never use weapons. And why would they?
+152202_name;Champion's Charge
+152202_tooltip;Damage a unit by {Damage}. \n<keyword=bloodthirst>Bloodthirst</keyword> {Bloodthirst}: Destroy a unit instead.
+152203_fluff;When a warrant says "dead or alive," most bounty hunters'll just kill you. Not me. Should I catch you, you'll hang, and I'll tickle your feet as you expire.
+152203_name;Djenge Frett
+152203_tooltip;<keyword=bloodthirst>Bloodthirst</keyword> {Bloodthirst}: <keyword=lock>Lock</keyword> an enemy unit.
+152204_fluff;I've gathered all the jarls together. Now make your case.
+152204_name;Donar an Hindar
+152204_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage}.\n<keyword=bloodthirst>Bloodthirst</keyword> {Bloodthirst}: Damage an enemy by {Damage2} instead.
+152205_fluff;Hear ye now the tale of the heroic deeds of Clan an Craite.
+152205_name;Draig Bon-Dhu
+152205_tooltip;<keyword=deploy>Deploy</keyword>: Boost all Warrior allies by {Boost}.
+152206_fluff;An archdruid, a master of alchemy, and the grumpiest old fart in the Isles.
+152206_name;Gremist
+152206_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Play a bronze Alchemy card from your graveyard.
+152207_fluff;Now let's drink to the Emperor of Nilfgaard – may he die of somethin' hideous!
+152207_name;Holger Blackhand
+152207_tooltip;Whenever you play a Ship, boost it by {Boost}.\nWhenever you play a Pirate, damage a random enemy by {Damage}.
+152208_fluff;Some call her the "Iron Maiden."
+152208_name;Jutta an Dimun
+152208_tooltip;<keyword=deploy>Deploy</keyword>: If Jutta an Dimun is the highest unit, damage self by {Damage}.
+152209_fluff;The vilest man Skellige's ever known.
+152209_name;Morkvarg
+152209_tooltip;When this unit moves to the graveyard, <keyword=summon>Summon</keyword> it to the melee row and give it <keyword=doomed>Doomed</keyword>.
+152210_fluff;"Tame"? Och, lad, Skelligers might train bears, but that don't at all mean they tame 'em…
+152210_name;Savage Bear
+152210_tooltip;<keyword=zeal>Zeal</keyword>.\n<keyword=deploy>Deploy</keyword>: Gain {Charges2} <keyword=charge>Charge</keyword> for each Savage Bear in the graveyard.\n<keyword=order>Order</keyword>: Damage a unit by {Damage}.\n<keyword=charge>Charge</keyword>: {Charges}.
+152211_fluff;Fall on your knees and beg Modron Freya for forgiveness.
+152211_name;Sigrdrifa's Rite
+152211_tooltip;<keyword=summon>Summon</keyword> a Warrior from your graveyard to an allied row.
+152213_fluff;The emperor also thought him an accidental king. At first.
+152213_name;Svanrige Tuirseach
+152213_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=bloodthirst>Bloodthirst</keyword> {Bloodthirst}: Boost self by {Boost}.
+152214_fluff;The gods have spoken: a sacrifice is required.
+152214_name;Udalryk an Brokvar
+152214_tooltip;<keyword=order>Order</keyword>: Damage a unit by {Damage}.\n<keyword=charge>Charge</keyword>: {Charges}.\n<keyword=bloodthirst>Bloodthirst</keyword> {Bloodthirst}: Gain <keyword=zeal>Zeal</keyword>.
+152301_fluff;In their ballads skalds claim you cannot tell a berserker changed in the heat of battle from a true–born bear.
+152301_name;Raging Berserker
+152301_tooltip;postponed
+152302_fluff;Now finish your soup, or a berserker'll come and swallow ye whole.
+152302_name;Berserker Marauder
+152302_tooltip;postponed
+152303_fluff;Our clan's bards will sing of my deeds long after you're dead and forgotten!
+152303_name;An Craite Warrior
+152303_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage}. If played from the graveyard, damage it by {Damage2} instead.
+152304_fluff;Better believe we can hunt. Thing is, not much game on Spikeroog…
+152304_name;Brokvar Hunter
+152304_tooltip;<keyword=order>Order</keyword>: Damage a unit by {Damage}. \n<keyword=charge>Charge</keyword>: {Charges}.\nGain {Charges2} <keyword=charge>Charge</keyword> whenever you <keyword=discard>Discard</keyword> a card.
+152305_fluff;Can see the fear in their eyes. Fear o' me… fear o' Clan Dimun!
+152305_name;Dimun Pirate
+152305_tooltip;<keyword=deploy>Deploy</keyword>: Move the top card in your deck to your graveyard.
+152306_fluff;Haul together, hoist the colors high!
+152306_name;Dimun Pirate Captain
+152306_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=bloodthirst>Bloodthirst</keyword> {Bloodthirst}: Damage an enemy by {Damage}.
+152307_fluff;The queen is guarded by the hardiest and fiercest shieldmaidens Skellige's ever known.
+152307_name;Drummond Queensguard
+152307_tooltip;<keyword=order>Order</keyword>: If this unit takes damage, <keyword=spawn>Spawn</keyword> a base copy of it and <keyword=summon>Summon</keyword> it to the right.
+152308_fluff;The deeds of Clan Heymaey will go down in history.
+152308_name;Heymaey Skald
+152308_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=discard>Discard</keyword> a card, then draw a card.
+152309_fluff;Escape them? In the waters of Skellige? Good luck.
+152309_name;Dimun Light Longship
+152309_tooltip;<keyword=order>Order</keyword>: Damage self and an enemy by {Damage}. \n<keyword=cooldown>Cooldown</keyword>: {Cooldown}.
+152310_fluff;Modron Freya, the Great Mother, is the goddess of love, beauty and bounty.
+152310_name;Freya's Blessing
+152310_tooltip;Play a bronze unit from your graveyard.
+152311_fluff;Remember me words – a good shield can save yer life.
+152311_name;An Craite Blacksmith
+152311_tooltip;<keyword=order>Order</keyword>: Boost an ally by {Boost}. \n<keyword=charge>Charge</keyword>: {Charges}.\nGain {Charges2} <keyword=charge>Charge</keyword> whenever you play a Warrior.
+152312_fluff;Swords are for wenches. Get yourself an axe.
+152312_name;Tuirseach Axeman
+152312_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Destroy an enemy with half or less than half of its base power.
+152313_fluff;Friends we show heart, foes we show our axe. Remember that.
+152313_name;Tuirseach Skirmisher
+152313_tooltip;When this unit is <keyword=discard>Discarded</keyword>, <keyword=summon>Summon</keyword> it from your graveyard to the melee row.
+152314_fluff;They say Hemdall's heart swells whenever the longships sail out on a raid.
+152314_name;An Craite Longship
+152314_tooltip;Whenever your opponent plays a unit, damage it by {Damage}.
+152315_fluff;So ye can hit a movin' target at two hundred paces? Me, too. In a storm.
+152315_name;Brokvar Archer
+152315_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Damage an enemy by the amount of damaged units on their side.
+152316_fluff;Man or tree, a Skelligan axe fells it all the same.
+152316_name;Gutting Slash
+152316_tooltip;Damage a unit by {Damage}. \n<keyword=bloodthirst>Bloodthirst</keyword> {Bloodthirst}: Damage a unit by {Damage2} instead.
+152317_fluff;Ye're in for a poundin'.
+152317_name;An Craite Armorsmith
+152317_tooltip;<keyword=deploy>Deploy</keyword>: Boost an ally by {Boost}. If it's a Warrior, boost it by {Boost2} instead.
+152318_fluff;They'll shatter on our shields like waves on a craggy shore.
+152318_name;Drummond Shieldmaiden
+152318_tooltip;The next time this unit takes damage, <keyword=summon>Summon</keyword> a copy of it from your deck to this row.
+152402_fluff;When the time of the White Frost comes, Hemdall will sound the call for battle.
+152402_name;Hemdall
+152402_tooltip;Whenever an allied Warrior damages an enemy, boost self by the amount damaged.
+152403_fluff;"Ehh, too big for a humpback. That's a finback." "A finback? With a snout that short? Those herbs've gone to your head!"
+152403_name;Delirium
+152403_tooltip;Split {Damage} damage randomly between all units on an enemy row.
+152405_fluff;We're going on a bear hunt! We're going to catch a–– THAT THING'S HUGE! RUN!
+152405_name;Elder Bear
+152405_tooltip;No ability.
+152406_fluff;Roooaaar!!!
+152406_name;Raging Bear
+152406_tooltip;<keyword=deploy>Deploy</keyword>: Damage an ally to the left by {Damage}. If there is no ally, damage self by {Damage} instead.
+153201_fluff;Those cursed sorceresses are stealing our thunder! Whyever should folk choose a procedure taking several hours, when some perfumed tart can solve their problem with a wave of her hand?
+153201_name;Restore
+153201_tooltip;<keyword=heal>Heal</keyword> all units on a row.
+153301_fluff;A sight more horrid you've never seen… The poor soul lay shredded as the beast lapped up its blood from the ground all around.
+153301_name;Lacerate
+153301_tooltip;Damage all units on a row by {Damage}.
+162101_fluff;Witchers never die in their beds.
+162101_name;Letho of Gulet
+162101_tooltip;<keyword=deploy>Deploy</keyword>: Remove all redraws from the enemy Leader.
+162102_fluff;I'll take an attentive reconnaissance unit over a fine brigade any day.
+162102_name;Menno Coehoorn
+162102_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Play a Tactic card from your deck.
+162103_fluff;There's never been a problem a well–planned assassination couldn't solve.
+162103_name;Vattier de Rideaux
+162103_tooltip;<keyword=order>Order</keyword>, <keyword=melee>Melee</keyword>: <keyword=seize>Seize</keyword> a <keyword=lock>Locked</keyword> enemy unit.
+162104_fluff;His eyes flashed under his winged helmet. Fire gleamed from his sword's blade.
+162104_name;Cahir Dyffryn
+162104_tooltip;<keyword=melee>Melee</keyword>: Whenever an enemy receives a boost, boost self by the same amount.
+162105_fluff;We are all pawns on his board. Playing a game whose rules we do not know.
+162105_name;Vilgefortz
+162105_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Destroy an enemy unit, then your opponent <keyword=summon>Summons</keyword> the top unit from their deck to a random enemy row.\n<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Destroy an allied unit, then <keyword=summon>Summon</keyword> the top unit from your deck to a random allied row.
+162106_fluff;My mark scars the face of our future empress. That is my proudest achievement.
+162106_name;Stefan Skellen
+162106_tooltip;<keyword=order>Order</keyword>: <keyword=spawn>Spawn</keyword> and play a copy of a Tactic card you played on this turn.
+162107_fluff;Tibor's zeal was legendary. It was said when the emperor passed, he'd not so much bow as somersault.
+162107_name;Tibor Eggebracht
+162107_tooltip;<keyword=deploy>Deploy</keyword>: Your opponent <keyword=summon>Summons</keyword> the top unit from their deck to a random enemy row.
+162108_fluff;Astrology, hydromancy, haruspicy, ceromancy. Ovomancy, spodomancy, metroscopy, brontoscopy…
+162108_name;Xarthisius
+162108_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=reveal>Reveal</keyword> a random card in your deck. If it's a unit, boost self by its power and shuffle it back. If it's an artifact or a special card, play it.
+162201_fluff;A ball of fire? Why, naturally. Whatsoever Your Imperial Majesty desires.
+162201_name;Albrich
+162201_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Move any card from your deck to the top. If it's a unit, boost it by {Boost}.
+162202_fluff;Nilfgaardian mages do have a choice: servile submission, or the gallows.
+162202_name;Assire var Anahid
+162202_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Shuffle a card from the opponent's graveyard into their deck.\n<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Shuffle a card from your graveyard into your deck.
+162203_fluff;Cynthia's talents can be deadly. She needs a tight leash.
+162203_name;Cynthia
+162203_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: <keyword=spawn>Spawn</keyword> The Guardian and place it at the top of your opponent's deck.
+162204_fluff;These are not the hands of an "Excellency," but of a farmer. So we speak peasant to peasant.
+162204_name;Peter Saar Gwynleve
+162204_tooltip;<keyword=deploy>Deploy</keyword>: Restore a unit to its base power.
+162205_fluff;Magic is the highest good. It transcends all borders and divisions.
+162205_name;Fringilla Vigo
+162205_tooltip;<keyword=order>Order</keyword>: <keyword=reveal>Reveal</keyword> a random special card from your opponent's deck, then <keyword=spawn>Spawn</keyword> and play a copy of it.
+162206_fluff;And hands off the girl! Whatever we may be, we're not savages.
+162206_name;Sweers
+162206_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage}.\nIncrease this unit's damage by {Damage2} for each card you have <keyword=reveal>Revealed</keyword>.
+162207_fluff;For a fire mage, he's not very… flamboyant.
+162207_name;Vanhemar
+162207_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Destroy a <keyword=lock>Locked</keyword> enemy unit.
+162208_fluff;Letho's got a plan… what could go wrong?
+162208_name;Auckes
+162208_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=lock>Lock</keyword> an enemy unit.\nIf Serrit is in your hand, <keyword=lock>Lock</keyword> all copies of that unit in the opponent's hand, deck, and on their side of the battlefield.
+162209_fluff;We do what we must. I am not ashamed of that.
+162209_name;Serrit
+162209_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage}. If Auckes is in your hand, damage that unit by {Damage2} instead.
+162210_fluff;Men require constant alluring. Mystique and refinement do the job quite well.
+162210_name;Cantarella
+162210_tooltip;<keyword=spying>Spying</keyword>.\n<keyword=deploy>Deploy</keyword>: Play the top card from your opponent's deck.
+162211_fluff;To describe the manner in which Duke de Wett led the Verden Group as "incompetent" would be far too kind.
+162211_name;Joachim de Wett
+162211_tooltip;<keyword=spying>Spying</keyword>.\n<keyword=deploy>Deploy</keyword>: Play the top non-<keyword=spying>Spying</keyword> unit from your deck, then boost it by {Boost}.
+162212_fluff;"Here she comes," he thought, "our imperial interest. A mock-princess, a mock-queen for Cintra. A mock-ruler for the mouth of the Yarra, future lifeblood of the empire."
+162212_name;False Ciri
+162212_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Move an enemy to the other row.\n<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Destroy an enemy artifact.
+162213_fluff;"Your Imperial Highness…" blurted out the seneschal, whose presence until now had been thoroughly ignored. "I beg your pardon, but Cahir… My son..."
+162213_name;Ceallach Dyffryn
+162213_tooltip;<keyword=deploy>Deploy</keyword>:  Remove all statuses from all units on the battlefield.
+162301_fluff;Learned a lot at Braibant Military Academy. How to scrub potatoes, for instance.
+162301_name;Daerlan Soldier
+162301_tooltip;When you <keyword=reveal>Reveal</keyword> this unit, <keyword=summon>Summon</keyword> it from your deck to a random allied row.
+162302_fluff;Let historians debate whether spreading plague in a besieged city is ethical. We just care if it's effective.
+162302_name;Rot Tosser
+162302_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: <keyword=spawn>Spawn</keyword> and play a Cow Carcass.
+162303_fluff;The North has nothing with which it could surprise us.
+162303_name;Spotter
+162303_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: <keyword=reveal>Reveal</keyword> a random unit from your opponent's deck and boost self by its power.
+162304_fluff;Well... At least, I can't make you more dead...
+162304_name;Experimental Remedy
+162304_tooltip;Play a bronze unit from your opponent's graveyard.
+162305_fluff;I aim for the knees. Always.
+162305_name;Deithwen Arbalest
+162305_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage}, then <keyword=reveal>Reveal</keyword> a random unit from both decks. If yours has more power, repeat the <keyword=deploy>Deploy</keyword> ability.
+162306_fluff;Name's terribly misleading, makes it sound like some corpulent reddish arachnid, not an exquisitely engineered weapon of mass destruction...
+162306_name;Fire Scorpion
+162306_tooltip;<keyword=order>Order</keyword>, <keyword=ranged>Ranged</keyword>: Damage a unit by {Damage}. \n<keyword=charge>Charge</keyword>: {Charges}.\nGain {Charges2} <keyword=charge>Charge</keyword> whenever you play a Tactic card.
+162307_fluff;The Impera Brigade never surrenders. Ever.
+162307_name;Impera Brigade
+162307_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: <keyword=summon>Summon</keyword> a copy of this unit from your deck to this row.
+162308_fluff;Members of the emperor's fanatic body guard fight to the bitter end.
+162308_name;Impera Enforcers
+162308_tooltip;<keyword=order>Order</keyword>: Damage an enemy by {Damage}.\n<keyword=charge>Charge</keyword>: {Charges}.\nGain {Charges2} <keyword=charge>Charge</keyword> whenever you play a <keyword=spying>Spying</keyword> unit.
+162309_fluff;The Emperor will teach the North discipline.
+162309_name;Nauzicaa Sergeant
+162309_tooltip;Whenever a unit with <keyword=deploy>Deploy</keyword> is played, boost self by {Boost}.
+162310_fluff;They call us Death's Heads. Care to find out why?
+162310_name;Nauzicaa Brigade
+162310_tooltip;<keyword=deploy>Deploy</keyword>: Damage a boosted enemy by {Damage}.
+162311_fluff;Pledge your allegiance to our Emperor, Emhyr var Emreis… or die.
+162311_name;Alba Pikeman
+162311_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Damage an enemy by the number of units on its other row.
+162312_fluff;Death and glory!
+162312_name;Alba Spearman
+162312_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage}. Increase the damage by {Damage2} for each adjacent Soldier.
+162313_fluff;Want irrefutable proof of civilization's advance? Look at war. Man gets better at killing with each one.
+162313_name;Combat Engineer
+162313_tooltip;<keyword=deploy>Deploy</keyword>: If you control an artifact, boost self by {Boost}.
+162314_fluff;But… but there's no justice in it! One does not kill the messenger!
+162314_name;Emissary
+162314_tooltip;<keyword=spying>Spying</keyword>.\n<keyword=deploy>Deploy</keyword>: Boost an ally by {Boost}.
+162315_fluff;A spy? No, that's saying far too much. I consider myself more of an observer.
+162315_name;Imperial Diplomacy
+162315_tooltip;<keyword=create>Create</keyword> and play a bronze unit from your opponent's faction.
+162316_fluff;Two ounces of calcium equum, one ounce of rubedo…
+162316_name;Alchemist
+162316_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Swap the power of {MaxTargets} allies.
+162317_fluff;This model specializes in slinging corpses and ripe dung.
+162317_name;Mangonel
+162317_tooltip;Whenever you <keyword=reveal>Reveal</keyword> a card, damage a random enemy by {Damage}.
+162318_fluff;Sons of noble houses, born in the City of the Golden Towers, form the elite backbone of the Imperial Army.
+162318_name;Nilfgaardian Knight
+162318_tooltip;<keyword=deploy>Deploy</keyword>: Boost an enemy by {Boost}. If there are no enemy units, destroy self.
+162401_fluff;Stone fists to stop intruders armed with swords. Ironclad logic to stop those armed with lies.
+162401_name;The Guardian
+162401_tooltip;No ability.
+162402_fluff;That a bird? That a griffin? Naye! That's a…
+162402_name;Cow Carcass
+162402_tooltip;<keyword=spying>Spying</keyword>. <keyword=doomed>Doomed</keyword>.\nAfter 1 turn, on turn end, destroy this unit and the unit on its left.
+163101_fluff;In Nilfgaard, trustful people are considered an endangered species.
+163101_name;Treason
+163101_tooltip;Force an enemy unit to damage adjacent units by its own power.
+163201_fluff;Many believe the empire's power rests upon the shoulders of its disciplined army and dutiful mages. In truth, the Nilfgaardian floren rules the world.
+163201_name;Bribery
+163201_tooltip;<keyword=create>Create</keyword> a unit from your opponent's starting deck, then play it.
+2_name_lt;Impenetrable Fog
+2_tooltip_lt;For {Counter} turns, on turn start, damage the highest unit on this row by {Damage}.
+200008_fluff;A mage responsible for dozens of brilliant inventions. The mind of a generation. Commonly referred to around the Continent as "that bloke with the dish."
+200008_name;Petri's Philter
+200008_tooltip;<keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>: Boost an ally by {Boost} and give it <keyword=zeal>Zeal</keyword>.
+200018_fluff;Vicovaro scholars have determined that, in the absence of imperial aid, drought-stricken provinces lose half their population, two-thirds of their livestock and all their will to rebel.
+200018_name;Korathi Heatwave
+200018_tooltip;<keyword=banish>Banish</keyword> a unit or an artifact.
+200019_fluff;We are but pawns in a game played by old men, sent to fight and die on their senile whims…
+200019_name;Marching Orders
+200019_tooltip;Play the lowest unit from your deck.
+200020_fluff;We have ways of making you talk… alive or dead.
+200020_name;Necromancy
+200020_tooltip;Play a bronze unit from your graveyard and give it <keyword=doomed>Doomed</keyword>.
+200022_fluff;There exist a great many realities outside our own… With the right knowledge, one can contact them and summon beings beyond human fathoming.
+200022_name;Summoning Circle
+200022_tooltip;<keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>: Play a unit from your deck whose Recruit Cost is less than or equal to Summoning Circle's <keyword=charge>Charge</keyword> count, then remove all <keyword=charge>Charges</keyword>.\n<keyword=charge>Charge</keyword>: {Charges2}.\nEvery turn, on turn start, gain {Charges} <keyword=charge>Charge</keyword>.
+200023_fluff;"If substance makes contact with eyes, rinse immediately with cold water, then commence drawing up will."
+200023_name;Arachas Venom
+200023_tooltip;Damage a unit by {Damage}. If it was destroyed, damage its adjacent units by {Damage}.
+200026_fluff;For hundreds of years, Avallac'h tried to recreate the Elder Blood gene through back breeding - yet the elven children thus fostered were but dim sparks compared to Lara's flame.
+200026_name;Wild Hunt Navigator
+200026_tooltip;<keyword=deploy>Deploy</keyword>: Boost an allied unit by {Boost}. If you control the highest unit, boost by {Boost2} instead.
+200028_fluff;Blood for Svalblod! Skulls for his throne!
+200028_name;Vabjorn
+200028_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Destroy a damaged enemy.
+200030_fluff;The old baron treated poachers mercilessly. Luckily for Milaen, the old baron was dead and his men, desperate outlaws.
+200030_name;Milaen
+200030_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Damage an enemy by {Damage}.\n<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Damage {MaxTargets} enemies by {Damage2}.
+200031_fluff;He would just sit there and stare at me, not saying a word. His eyes, they were… fish-like, somehow. No brows, no lashes… Just these balls of water, with a black stone sunk in each. He would devour me with those eyes in total silence. That frightened me more than the beatings.
+200031_name;Leo Bonhart
+200031_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Destroy an enemy with {Power} or more power.\n<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Destroy a Witcher.
+200032_fluff;When Cintra fell, Attre followed, leaving its defenders a choice: accept the Nilfgaardian leash or die.
+200032_name;Rainfarn of Attre
+200032_tooltip;<keyword=deploy>Deploy</keyword>: Boost an enemy by {Boost}, then boost self by {Boost}.
+200033_fluff;The adepts' every whim is catered to - they live like princesses at Aretuza. And in turn half the city lives off servicing them: seamstresses, milliners, confectioners, delivery boys…
+200033_name;Aretuza Adept
+200033_tooltip;<keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>, <keyword=ranged>Ranged</keyword>: Give {Charges} <keyword=charge>Charge</keyword> to an allied unit.\n<keyword=cooldown>Cooldown</keyword>: {Cooldown}.
+200036_fluff;Think o' the greater good?! War's the greatest good, the greatest bad, the greatest damn anythin' man's ever come up with!
+200036_name;Drummond Warmonger
+200036_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>, <keyword=bloodthirst>Bloodthirst</keyword> {Bloodthirst}: Destroy an enemy artifact.
+200037_fluff;Don't stare at his eye, he hates that…
+200037_name;Cyclops
+200037_tooltip;<keyword=deploy>Deploy</keyword>: Destroy an adjacent allied unit and damage an enemy by its power.
+200038_fluff;Folklore claims they sprout from soil watered with the blood of the dying. Thus they flourish in grounds consecrated by pogroms, dark rituals or brutal murders.
+200038_name;Archespore
+200038_tooltip;<keyword=thrive>Thrive</keyword>.\n<keyword=deploy>Deploy</keyword>: Damage a random enemy by {Damage}. \n<keyword=deathwish>Deathwish</keyword>: Repeat the <keyword=deploy>Deploy</keyword> ability.
+200039_fluff;As long as we stand, no human foot shall trample Dol Blathanna's meadows.
+200039_name;Dol Blathanna Sentry
+200039_tooltip;<keyword=melee>Melee</keyword>: Whenever an enemy is moved to the other row, damage it by {Damage}.\n<keyword=ranged>Ranged</keyword>: Whenever an ally is moved to the other row, boost it by {Boost}.
+200040_fluff;Ahh, ye gave me a good laugh there, Nordling! Why, this bastard, ye couldn't even grip it, let alone gut me with it.
+200040_name;An Craite Greatsword
+200040_tooltip;Whenever an enemy on the opposite row takes damage, boost self by {Boost}.
+200041_fluff;Not the best for taking cities, but great for razing them to the ground.
+200041_name;Hefty Helge
+200041_tooltip;<keyword=immune>Immune</keyword>.\n<keyword=order>Order</keyword>: Damage an enemy by {Damage} for each Soldier on this row.
+200042_fluff;Hunting on Mahakam's craggy cliffs is not particularly easy… but nor are dwarves particularly put off by danger.
+200042_name;Mahakam Marauder
+200042_tooltip;<keyword=deploy>Deploy</keyword>: If this unit is already boosted, gain <keyword=resilient>Resilience</keyword>.
+200043_fluff;Once proud jarl of Clan Tordarroch, now a muttering madman.
+200043_name;Harald Houndsnout
+200043_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=spawn>Spawn</keyword> {MaxTargets} of Harald's Pals and <keyword=summon>Summon</keyword> them to your other allied row.\n<keyword=order>Order</keyword>: Damage an ally by {Damage}.\n<keyword=cooldown>Cooldown</keyword>: {Cooldown}.
+200044_fluff;I know the Emperor defends all his lands... but a garrison in this blasted waste is like a chastity belt on a grave hag.
+200044_name;Magne Division
+200044_tooltip;Every turn, on turn end, boost self by {Boost} if this is the only card on this row.
+200046_fluff;In my days I've seen wonders no man's ever dreamt of, and done things no man should ever do.
+200046_name;Tuirseach Veteran
+200046_tooltip;<keyword=deploy>Deploy</keyword>: Damage self by {Damage}.
+200048_fluff;I'm constantly comparing the achievements of Aretuza's adepts with the work done by the lads at Ban Ard, and my conclusion constantly falls in favor of the girls.
+200048_name;Ban Ard Tutor
+200048_tooltip;<keyword=deploy>Deploy</keyword>: Boost an ally by {Boost} for each of its <keyword=charge>Charges</keyword>.
+200049_fluff;Not gonna open up, eh? Guess we gotta knock harder.
+200049_name;Battering Ram
+200049_tooltip;<keyword=deploy>Deploy</keyword>: If you control a Soldier, destroy an enemy artifact.
+200050_fluff;The Great Sun shall warm the North with its rays, even if it means I must slaughter you all!
+200050_name;Vreemde
+200050_tooltip;<keyword=deploy>Deploy</keyword>: Boost a Soldier ally and all copies of it by {Boost}.
+200052_fluff;Some claim Golyat was once a famous knight. Sadly, one day he earned the wrath of the Lady of the Lake, who turned him into a monster.
+200052_name;Golyat
+200052_tooltip;<keyword=deathwish>Deathwish</keyword>: Your opponent <keyword=summon>Summons</keyword> the lowest unit from their deck on the opposite row.
+200053_fluff;The figurine expanded in a flash, pulsing and throbbing, changing its shape and structure like a puff of smoke crawling over the floor. Beams of light revealed movement and hardening materials. A moment later, in the center of the magic circle a human form suddenly appeared.
+200053_name;Artefact Compression
+200053_tooltip;<keyword=lock>Lock</keyword> a unit and restore it to its base power.
+200055_fluff;No one, not even among the higher vampires, knows exactly how old the Unseen Elder is. They only know they should never, under any circumstances, defy his will.
+200055_name;Unseen Elder
+200055_tooltip;<keyword=order>Order</keyword>: Trigger an ally's <keyword=deathwish>Deathwish</keyword> ability.\nOn round start, refresh this ability.
+200056_fluff;Ever heard of an "anterion"? Think of it as the opposite of a lycanthrope: a beast which can take on human form.
+200056_name;Aguara: True Form
+200056_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: <keyword=create>Create</keyword> any special card.
+200058_fluff;I give you three solid leads, trails as fresh as morning dew, the aid of my spies and my court sorceress. Yet in my daughter's stead, you bring me this… monstrosity?
+200058_name;Uma's Curse
+200058_tooltip;<keyword=create>Create</keyword> and play a gold unit.
+200062_fluff;Smarten up right now, or it's off to an aguara with you!
+200062_name;Aguara
+200062_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: <keyword=lock>Lock</keyword> a unit.\n<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Remove a unit's <keyword=lock>Lock</keyword>.
+200067_fluff;When the moon is full, nightmares crawl out of all the dark nooks and crannies of the world.
+200067_name;Moonlight
+200067_tooltip;postponed
+200071_fluff;A diplomat is a man who uses many more words than necessary to express much less than he knows.
+200071_name;Shilard Fitz-Oesterlen
+200071_tooltip;<keyword=deploy>Deploy</keyword>: Set the power of the highest unit in your opponent's hand to {Power}.
+200073_fluff;And the striga's doin' fine. Sure, she takes a bite outta someone from time to time, but you get used to that.
+200073_name;Adda: Striga
+200073_tooltip;<keyword=deploy>Deploy</keyword>: If you control the highest unit, damage an enemy by {Damage}.
+200078_fluff;Imagine a lump of clay. In order to shape it, you must first moisten it or it will crumble. The Trial's initial part does just that. It opens the body to change, so to speak. Only then can the mutagens produce a witcher.
+200078_name;Trial of the Grasses
+200078_tooltip;Boost a unit to {Boost} power. If it's not a Witcher, damage it by {Damage} first.
+200079_fluff;This spell lets you see the last moments of a dead man's life… if you can survive its casting.
+200079_name;Hanmarvyn's Blue Dream
+200079_tooltip;Play a unit from the opponent's graveyard and give it <keyword=doomed>Doomed</keyword>.
+200080_fluff;Well? Somethin' wrong? Venison a wee bit rank for ye? Ehh, princess?
+200080_name;Xavier Moran
+200080_tooltip;<keyword=melee>Melee</keyword>: Whenever this unit receives a boost, boost it by an additional {Boost}.
+200081_fluff;"We don't burn cunning women in Skellige - we take their advice."
+200081_name;Heymaey Herbalist
+200081_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: <keyword=heal>Heal</keyword> an ally by {Boost}, then boost it by {Boost2}.
+200083_fluff;We'd rather keep our names to ourselves. Think of us as… friends of the house.
+200083_name;Iris' Companions
+200083_tooltip;<keyword=deploy>Deploy</keyword>: Draw a card of your choice from your deck, then <keyword=discard>Discard</keyword> a random card.
+200087_fluff;Like the witchers, Dorregaray is a monster aficionado, though he's developed his own classification system. Instead of dividing them into necrophages, ogroids and the like, he just thinks they're all wonderful.
+200087_name;Dorregaray of Vole
+200087_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=lock>Lock</keyword> a unit.
+200088_fluff;The coroner is a calm, peaceful person. He even treats corpses with the utmost delicacy.
+200088_name;Hubert Rejk
+200088_tooltip;<keyword=deploy>Deploy</keyword>: Boost self by the amount of damage you dealt to enemies on this turn.
+200089_fluff;Lost? Well, go be lost somewhere else. Somewhere not on my property, that is. Point your left ear to the sun and keep walking, you'll hit the road soon enough. Well? What're you waiting for?
+200089_name;Nivellen
+200089_tooltip;<keyword=deploy>Deploy</keyword>: Move all units from one row to the other row.
+200091_fluff;The witcher had met thieves that looked like town councilors, town councilors that looked like beggars and kings that looked like thieves. Stregobor, though, always looked exactly like the commonly accepted imagining of a what a mage should look like.
+200091_name;Stregobor
+200091_tooltip;<keyword=ranged>Ranged</keyword>: After {Counter} turns, each player draws a unit and sets its power to {Power}
+200098_fluff;By day, Captain of the Vizima City Guard. By night, merciless avenger and defender of the downtrodden.
+200098_name;Vincent Meis
+200098_tooltip;<keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>, <keyword=melee>Melee</keyword>: Set the power of a non-boosted enemy to {Power}.
+200102_fluff;The gods' speak to me… I hear them whisper from the shadows…
+200102_name;Hym
+200102_tooltip;<keyword=deploy>Deploy</keyword>: Swap this unit's power with a damaged unit's power.
+200103_fluff;10-time winner of the venerable title of Champion of the An Skellig Arena.
+200103_name;Olaf
+200103_tooltip;<keyword=order>Order</keyword>: Boost Olaf by twice the amount he is damaged.
+200104_fluff;Werewolf? Oh, no, no… this is something far, far worse.
+200104_name;Ulfhedinn
+200104_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by half of its current power.
+200105_fluff;Clan Dimun warships are light and fast, perfect for racing down slow merchant frigates.
+200105_name;Dimun Warship
+200105_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage} three times.
+200112_fluff;Legends claim they lure sailors to their doom with their entrancing songs… though more likely, the sailors were more entranced by their other ample charms.
+200112_name;Siren
+200112_tooltip;<keyword=deploy>Deploy</keyword>: Boost a <keyword=deathwish>Deathwish</keyword> ally by {Boost}.
+200114_fluff;Some say lycanthropy's contagious - get bit by a werewolf, you turn into one yourself. Witchers know that's nonsense, of course - only a powerful curse can bring on this condition.
+200114_name;Alpha Werewolf
+200114_tooltip;<keyword=immune>Immune</keyword>. <keyword=thrive>Thrive</keyword>.
+200115_fluff;Assassin — one of the most popular professions at the imperial court, just after scribe and courtesan.
+200115_name;Assassination
+200115_tooltip;Damage a unit by {Damage}. Decrease the damage by {Damage2} for each unit adjacent to it.
+200118_fluff;You can run, but you'll never hide.
+200118_name;Infiltrator
+200118_tooltip;<keyword=melee>Melee</keyword>: On round end, shuffle this unit into your opponent's deck.
+200124_fluff;The School of the Viper shall be reborn… Letho saw to that.
+200124_name;Viper Witcher
+200124_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=reveal>Reveal</keyword> the top card from your opponent's deck and <keyword=banish>Banish</keyword> it.
+200132_fluff;Who are the witch hunters? Scoundrels and fanatics, for the most part, though after the foul deeds perpetrated by the Lodge of Sorceress, many a decent man, outraged to the hilt, joined their ranks...
+200132_name;Witch Hunter
+200132_tooltip;postponed
+200135_fluff;An extraordinarily risky, and thus much revered, Mahakam trade. Its best-known practitioner was a dwarf by the name of Mikkel Bay.
+200135_name;Pyrotechnician
+200135_tooltip;<keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>: Destroy an allied artifact and damage a unit by {Damage}. \n<keyword=cooldown>Cooldown</keyword>: {Cooldown}.
+200136_fluff;Her words might seem unintelligible at times, but they always contain hidden meanings and tremendous wisdom.
+200136_name;Farseer
+200136_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: <keyword=reveal>Reveal</keyword> a random card from your deck. If it's a special card, boost self by {Boost}.
+200138_fluff;Knowledge, my dear, is a privilege, and privileges are only shared among equals.
+200138_name;Sage
+200138_tooltip;Whenever you play a special card, boost self by {Boost}.
+200139_fluff;An Oxenfurt scholar once examined a panther and declared it was nothing more than a leopard of a different color. The panther seemed indifferent to this pronouncement and gobbled him up before he could complete his research.
+200139_name;Panther
+200139_tooltip;<keyword=deploy>Deploy</keyword>: Damage a non-Scoia'tael enemy unit by {Damage}.
+200144_fluff;Don't touch him. Don't look him in the eyes. In fact… don't go anywhere near him.
+200144_name;Tuirseach Bearmaster
+200144_tooltip;<keyword=deploy>Deploy</keyword>: Boost a Beast ally by {Boost}. Increase the boost by {Boost2} for every Beast in your graveyard.
+200145_fluff;The sea's ours, along with everythin' that floats, swims or sails in it!
+200145_name;Dimun Corsair
+200145_tooltip;<keyword=deploy>Deploy</keyword>: Damage a unit by {Damage} for every Ship in your hand.
+200146_fluff;Spikeroog's a barren backwater, but that don't bother us - everythin' we need, we take from you.
+200146_name;Dimun Smuggler
+200146_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Damage a unit by {Damage}, then boost the same unit by {Boost}.
+200147_fluff;A flaminica, the highest position among the druidesses, commands a great deal of respect and wields a great deal of power.
+200147_name;Heymaey Flaminica
+200147_tooltip;Every turn, on turn end, <keyword=heal>Heal</keyword> all damaged allies on this row by {Boost}.
+200149_fluff;He fears nothing save Freya's wrath... and his wife's.
+200149_name;Heymaey Protector
+200149_tooltip;Whenever an adjacent unit takes damage, boost self by {Boost}.
+200154_fluff;We, Foltest, by divine right King of Temeria, Prince of Sodden, Senior Protector of Brugge, etcetera, etcetera, do hereby decree the following…
+200154_name;Royal Decree
+200154_tooltip;Play a unit from your deck.
+200158_fluff;That is not dead which can eternal lie, and with strange aeons even death may die.
+200158_name;Dagon
+200158_tooltip;<keyword=spawn>Spawn</keyword> Impenetrable Fog or Torrential Rain.
+200159_fluff;No one can replace Bran. Though they're sure to try.
+200159_name;Bran Tuirseach
+200159_tooltip;<keyword=order>Order</keyword>: <keyword=discard>Discard</keyword> a card, then draw a card.\nOn round start, refresh this ability.\nWhenever you <keyword=discard>Discard</keyword> a card, damage a random enemy by {Damage}.
+200160_fluff;Nilfgaardians call 'im Tirth ys Muire, the Wild Boar o' the Sea. Use 'im to scare their kiddies!
+200160_name;Crach an Craite
+200160_tooltip;<keyword=order>Order</keyword>: Damage a unit by {Damage}. \n<keyword=cooldown>Cooldown</keyword>: {Cooldown}.
+200161_fluff;No one knows how he got his nickname – no one's dared to ask.
+200161_name;Harald the Cripple
+200161_tooltip;<keyword=order>Order</keyword>: Split {Damage} damage randomly between all enemies.
+200162_fluff;They do not call me the Patient. Take care they do not call you the Headless.
+200162_name;Emhyr var Emreis
+200162_tooltip;<keyword=order>Order</keyword>: Move a card from the battlefield to your hand, then play a card.
+200163_fluff;The summer sun reflected in the quiet waters of the Alba – that's Nilfgaard to me.
+200163_name;Morvran Voorhis
+200163_tooltip;<keyword=order>Order</keyword>: <keyword=reveal>Reveal</keyword> a random card from your opponent's deck. If it's bronze, boost an ally by {Boost}. If gold, boost by {Boost2} instead.\nOn round start, refresh this ability.
+200164_fluff;A sword is but one of many tools at a ruler's disposal.
+200164_name;Jan Calveit
+200164_tooltip;<keyword=order>Order</keyword>: Look at the top {MaxTargets} cards from your deck and play one.
+200165_fluff;To live in peace, we first must kill. This is human oppression's cruel finale.
+200165_name;Francesca Findabair
+200165_tooltip;<keyword=order>Order</keyword>: Play a special card from your graveyard.
+200166_fluff;The dryad queen has eyes of molten silver, and a heart of cold–forged steel.
+200166_name;Eithné
+200166_tooltip;<keyword=order>Order</keyword>: Damage a unit by {Damage}.\n<keyword=charge>Charge</keyword>: {Charges}.\nOn round start, refresh Eithné's <keyword=charge>Charge</keyword> count.
+200167_fluff;That doddery dolt? Ye cannae even tell if he's alive or stuffed!
+200167_name;Brouver Hoog
+200167_tooltip;<keyword=order>Order</keyword>: Move a unit to the other row. If it's an enemy, damage it by {Damage}; if it's an ally, boost it by {Boost}. \n<keyword=charge>Charge</keyword>: {Charges}.
+200168_fluff;Don't need advisors and their schemes. I place my trust in my soldiers' blades.
+200168_name;King Foltest
+200168_tooltip;<keyword=order>Order</keyword>: Boost an ally by {Boost} and give it <keyword=zeal>Zeal</keyword>.\n<keyword=charge>Charge</keyword>: {Charges}.
+200169_fluff;A king should be merciless towards his enemies and generous to his friends.
+200169_name;King Radovid V
+200169_tooltip;Toggle {MaxTargets} units' <keyword=lock>Lock</keyword> statuses. If enemies, deal {Damage} damage to them. <keyword=crew>Crew</keyword>.
+200170_fluff;King Henselt did not look like a thief, but, with all due respect, that's really what he was.
+200170_name;King Henselt
+200170_tooltip;<keyword=order>Order</keyword>: Play a copy of an allied unit on the battlefield from your deck, boost it by {Boost}, and give it <keyword=zeal>Zeal</keyword>.
+200171_fluff;Soldiers loyal to the old baron of Tridam left the city with Falibor, thus becoming renegades wanted by the law.
+200171_name;Tridam Infantry
+200171_tooltip;Whenever this unit receives a boost, damage a random enemy by {Damage}.
+200177_fluff;They call me Sparrowhawk. Know why? Because I eat rats like you for breakfast.
+200177_name;Cerys an Craite
+200177_tooltip;If this unit is in the graveyard, <keyword=summon>Summon</keyword> it to a random allied row whenever you play a unit from your graveyard.
+200209_fluff;I care not for kings and their titles. In the east lives one who truly deserves a crown.
+200209_name;Saskia
+200209_tooltip;<keyword=order>Order</keyword>: Damage an enemy by {Damage}.\n<keyword=cooldown>Cooldown</keyword>: {Cooldown}.\nIf you have an Elf, Dwarf, or Dryad in your hand, decrease <keyword=cooldown>Cooldown</keyword> by {Cooldown2} (limited once per category).
+200212_fluff;Strike his name from the Saga of Elders! No one dare grant him shelter or sustenance!
+200212_name;Skjall
+200212_tooltip;<keyword=deploy>Deploy</keyword>: Damage an undamaged enemy by {Damage}.
+200218_fluff;Skellige legend claims the mighty and terrible Jotunn, King of Giants, reigned over the isles in ancient times. He was slain by Hemdall, but with his dying breath he vowed to return for Ragh nar Roog.
+200218_name;Jotunn
+200218_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Boost self by {Boost} for every unit more your opponent has on the battlefield.
+200220_fluff;I'd be your best – and last.
+200220_name;Whispess: Tribute
+200220_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Play an Organic card from your deck.
+200221_fluff;We'll cut you up, boy. A fine broth you'll make.
+200221_name;Ritual Sacrifice
+200221_tooltip;Trigger all allies' <keyword=deathwish>Deathwish</keyword> abilities.
+200222_fluff;I sense your pain. I see your fear.
+200222_name;Weavess: Incantation
+200222_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: <keyword=consume>Consume</keyword> a unit in your hand and draw a card.
+200223_fluff;There you all stand! With wonderment awake, doubting the plan and high-discovery. Some, as if grappled by the fell mandrake, some, by the black dog's devilry.
+200223_name;Mandrake
+200223_tooltip;<keyword=reset>Reset</keyword> a unit.
+200224_fluff;A certain famous pirate once so loved this intoxicating herb, he earned the nickname 'Crow's Eye.' The theatrical version of his legend omits this, however, to the great consternation of pirate lore sticklers.
+200224_name;Crow's Eye
+200224_tooltip;Trigger a bronze unit's <keyword=deathwish>Deathwish</keyword> ability.
+200225_fluff;Never has there been a beast Fringilla Vigo could not tame.
+200225_name;Vigo's Muzzle
+200225_tooltip;<keyword=seize>Seize</keyword> an enemy with {Power} or less power and <keyword=lock>Lock</keyword> it.
+200226_fluff;Also known as 'the queen of poisons,' wolfsbane is used in many witcher Potions and alchemic brews.
+200226_name;Wolfsbane
+200226_tooltip;Damage all enemies with even power by {Damage}, or damage all enemies with odd power by {Damage}.
+200227_fluff;I've been stationed in Novigrad for thirteen years. I've seen a great deal - cruelty, cynicism, greed. But what is happening there now concerns me greatly.
+200227_name;Henry var Attre
+200227_tooltip;postponed
+200228_fluff;Simple, cheap and deadly efficient - no wonder it's one of the Scoia'tael's favorite traps.
+200228_name;Pitfall Trap
+200228_tooltip;<keyword=ambush>Ambush</keyword>: Destroy the next unit played by your opponent before it triggers any abilities.
+200233_fluff;Always strikes between the vertebrae, under your left kidney or straight into your aorta. That way, it only needs to strike once.
+200233_name;Cockatrice
+200233_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage} for each adjacent Beast.
+200234_fluff;I's a war veteran! Spare me a crown?
+200234_name;Poor Fucking Infantry
+200234_tooltip;<keyword=deploy>Deploy</keyword>: Boost self by {Boost}.
+200235_fluff;Go teach your grandma to suck eggs.
+200235_name;Lambert: Swordmaster
+200235_tooltip;<keyword=deploy>Deploy</keyword>: Destroy an enemy with <keyword=resilient>Resilience</keyword>.
+200236_fluff;Heard you panting from three miles away. Just didn't wanna give up that vantage point.
+200236_name;Eskel: Pathfinder
+200236_tooltip;<keyword=melee>Melee</keyword>: Every turn, on turn end, boost self by {Boost}.
+200237_fluff;Killing monsters is not something to be taken lightly. Ciri must understand that if she's to become one of us.
+200237_name;Vesemir: Mentor
+200237_tooltip;<keyword=deploy>Deploy</keyword>: Boost all Witcher allies in hand, deck, and on the battlefield by {Boost}.
+200293_fluff;"Mark me words, if ye dinnae get up off yer arses, humans're gonnae come here an' steal our wenches!"
+200293_name;Dwarven Agitator
+200293_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Boost a Dwarf in your hand by {Boost}.
+200294_fluff;"You shall defend this standard if it costs you your lives! Gloir aen Ard Feain!"
+200294_name;Standard Bearer
+200294_tooltip;<keyword=deploy>Deploy</keyword>: Boost an ally by {Boost}.\nWhenever you <keyword=reveal>Reveal</keyword> this card, boost a random ally by {Boost2}.
+200295_fluff;You'll smell them long before you see them.
+200295_name;Rotfiend
+200295_tooltip;<keyword=deathwish>Deathwish</keyword>: Damage a random enemy by {Damage}.
+200296_fluff;The wedge of riders thundered into the phalanx with crushing momentum. Like a dagger thrust into an exposed belly, the Alba Division swept unhindered through everything between it and the vital organs of the Temerian Infantry.
+200296_name;Alba Armored Cavalry
+200296_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: <keyword=lock>Lock</keyword> an enemy unit.
+200299_fluff;Not the career he had in mind when he told mummy he wanted to be a musician.
+200299_name;Temerian Drummer
+200299_tooltip;<keyword=order>Order</keyword>: Boost an ally by {Boost} and give it <keyword=zeal>Zeal</keyword>.
+200300_fluff;Skelligers have long known that harpoons are effective against more than mere whales...
+200300_name;Trophy Catch
+200300_tooltip;Move an enemy to the other row and damage it by the number of units on that row.
+200301_fluff;Waves pummel the shore, waves pushed by the prow of the spectral Naglfar. Hemdall's horn rings in the air, and Hemdall stands facing his enemies atop Bifrost, the burning rainbow. The White Frost is nigh, nigh is the time of gale and storm…
+200301_name;Naglfar
+200301_tooltip;Look at {MaxTargets} random gold cards from your deck, then play one and place the other on top.
+200320_fluff;A member of the Bovine Defense Force. Semper fi!
+200320_name;Chort
+200320_tooltip;No ability.
+200502_fluff;Trolls come in many varieties, with differing shapes, sizes and predilections, though always with about as much brains as a bucket of rusty nails.
+200502_name;Ice Troll
+200502_tooltip;Every turn, on turn end, if you have less units than your opponent, boost self by {Boost}.
+200518_fluff;Ebbing is famed for its top-notch mercenaries and light cavalry.
+200518_name;Venendal Elite
+200518_tooltip;<keyword=deploy>Deploy</keyword>: If your Leader's ability was used this turn, damage an enemy by {Damage}.
+200519_fluff;Considered to be the dwarves' greatest contribution to world culture.
+200519_name;Mahakam Ale
+200519_tooltip;Boost a unit by {Boost} and remove its <keyword=lock>Lock</keyword>.
+200520_fluff;Only thing that can rival his swords? His dumplings.
+200520_name;Éibhear Hattori
+200520_tooltip;<keyword=order>Order</keyword>: Play a bronze artifact from your graveyard.
+200523_fluff;The hero Toussaint needs, but not the one it deserves.
+200523_name;Germain Piquant
+200523_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: <keyword=spawn>Spawn</keyword> {Counter} Cows on both sides of this unit.
+200528_fluff;"Skellige women are wild and unpredictable. All units are to treat them as serious threats and never underestimate their capabilities." - General Directive to the Invading Forces of the Imperial Armada
+200528_name;Heymaey Spearmaiden
+200528_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage}, then damage self by {Damage2}.
+200529_fluff;This self-dubbed knight roams the world defending the honor of his beloved Maid Bilberry - though none are certain where she lives, if she lives still or if she ever lived at all.
+200529_name;Ronvid the Incessant
+200529_tooltip;<keyword=deploy>Deploy</keyword>: Boost self by {Boost}.\nWhenever you play a Soldier, <keyword=summon>Summon</keyword> this unit from your graveyard to a random allied row.
+200530_fluff;That beer supposed to be green…?
+200530_name;Tainted Ale
+200530_tooltip;<keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>: Damage a unit by {Damage}. \n<keyword=charge>Charge</keyword>: {Charges}.
+200532_fluff;Boros, the legendary founder of Clan Fuchs, died after overindulging in this beverage - he passed out while reaching for his golden ring, which had fallen into a brook.
+200532_name;Ale of the Ancestors
+200532_tooltip;<keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>: Boost a unit by {Boost}. \n<keyword=cooldown>Cooldown</keyword>: {Cooldown}.
+200534_fluff;Lover of elf and onion soup.
+200534_name;She-Troll of Vergen
+200534_tooltip;<keyword=melee>Melee</keyword>: Whenever an ally is destroyed during your turn, boost self by {Boost}.
+200535_fluff;Combat is a dance, and you must never allow your opponent to lead.
+200535_name;Elven Swordmaster
+200535_tooltip;<keyword=order>Order</keyword>, <keyword=melee>Melee</keyword>: Damage an enemy by {Damage}.\n<keyword=cooldown>Cooldown</keyword>: {Cooldown}.\nWhenever you play an Elf, decrease <keyword=cooldown>Cooldown</keyword> by {Cooldown2}.
+200539_fluff;No man alive, no matter his brawn, no matter his skill, can parry a blow dealt by the tail of a slyzard, the pincers of a giant scorpion or the claws of a griffin.
+200539_name;Slyzard
+200539_tooltip;<keyword=order>Order</keyword>: <keyword=consume>Consume</keyword> an allied unit on this row.\n<keyword=cooldown>Cooldown</keyword>: {Cooldown}.
+200540_fluff;Ugh, these guys can be a real headache.
+200540_name;Aedirnian Mauler
+200540_tooltip;<keyword=order>Order</keyword>: Damage an enemy by {Damage}.
+201523_fluff;He lay down next to Adda's mummified remains, drawing the Yrden Sign on the inner side of her sarcophagus' lid.
+201523_name;Geralt: Yrden
+201523_tooltip;<keyword=deploy>Deploy</keyword>: Restore all units on a row to their base power.
+201559_fluff;Hoooahhh! Hoooaahhh! Hooo! Prepare yer hineys, clowns! Soon we'll be comin' 'round! Tae kick 'em till ye've feet for frowns!
+201559_name;Mahakam Volunteers
+201559_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>:  If there is a Dwarf on this row, <keyword=summon>Summon</keyword> a copy of this unit from your deck to this row.
+201574_fluff;Tall one's Wilmar. Wilfred's to his right. And the lad with the stutter's Wilhelm.
+201574_name;Harald's Pal
+201574_tooltip;<keyword=deathwish>Deathwish</keyword>: Damage a random enemy unit by {Damage}.
+201576_fluff;In Beauclair, everything is better: the wine is sweeter, the cows are bigger and all the ladies are above average.
+201576_name;Cow
+201576_tooltip;<keyword=doomed>Doomed</keyword>.
+201578_fluff;You daft? You mean to sail to Skellige? Those barbarians'll tear you to shreds!
+201578_name;An Craite Marauder
+201578_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Split {Damage} damage randomly between all units.
+201579_fluff;What came first, the chicken or the egg? Compared to the conundrum that is the phoenix, that question seems downright trivial.
+201579_name;Phoenix
+201579_tooltip;On round start, if Phoenix is in your graveyard, <keyword=banish>Banish</keyword> it, then <keyword=spawn>Spawn</keyword> Phoenix Hatchling and <keyword=summon>Summon</keyword> it to a random allied row.
+201580_fluff;Why should something as trivial as birth decide who rules over us?
+201580_name;Usurper
+201580_tooltip;On game start, disable the enemy Leader for the duration of the battle.
+201581_fluff;Ofieri runemasters can combine these into runewords of incredible power.
+201581_name;Stribog Runestone
+201581_tooltip;<keyword=create>Create</keyword> and play a bronze Skellige card.
+201582_fluff;I'm getting a palpable chill from this runestone… did I do something to hurt its feelings?
+201582_name;Zoria Runestone
+201582_tooltip;<keyword=create>Create</keyword> and play a bronze Northern Realms card.
+201583_fluff;Careful. Still hot.
+201583_name;Dazhbog Runestone
+201583_tooltip;<keyword=create>Create</keyword> and play a bronze Nilfgaard card.
+201584_fluff;My blades're so sharp, they can cut paper!
+201584_name;Devana Runestone
+201584_tooltip;<keyword=create>Create</keyword> and play a bronze Monster faction card.
+201585_fluff;I grow faint at the very sight of it…
+201585_name;Morana Runestone
+201585_tooltip;<keyword=create>Create</keyword> and play a bronze Scoia'tael card.
+201587_fluff;It will rise again. Elsewhere, beyond our reach. Blood will flow once more.
+201587_name;Whispering Hillock
+201587_tooltip;Destroy an allied unit, then <keyword=spawn>Spawn</keyword> and play a base copy of it.
+201589_fluff;Though we are now few and scattered, our hearts burn brighter than ever.
+201589_name;Filavandrel aén Fidháil
+201589_tooltip;<keyword=order>Order</keyword>: Boost all units in your hand by {Boost}.
+201595_fluff;Her curse was lifted… but her appetite for raw meat remained.
+201595_name;Princess Adda
+201595_tooltip;<keyword=order>Order</keyword>: Damage a unit by {Damage}.
+201597_fluff;Eist came to Cintra to help Crach an Craite win the hand of Princess Pavetta, yet wound up winning her mother's heart for himself.
+201597_name;Eist Tuirseach
+201597_tooltip;<keyword=order>Order</keyword>: Play a Warrior from your graveyard.
+201598_fluff;The simplest of objects sometimes possess the greatest power.
+201598_name;Bone Talisman
+201598_tooltip;Boost all allies by {Boost}.
+201599_fluff;He hates it when you scratch his belly.
+201599_name;Werecat
+201599_tooltip;<keyword=thrive>Thrive</keyword>.\n<keyword=deploy>Deploy</keyword>: Damage all enemy units on the opposite row by {Damage}.\n<keyword=deathwish>Deathwish</keyword>: Repeat the <keyword=deploy>Deploy</keyword> ability.
+201600_fluff;Some say lycanthropy's contagious - get bit by a werewolf, you turn into one yourself. Witchers know that's nonsense, of course - only a powerful curse can bring on this condition.
+201600_name;Werewolf
+201600_tooltip;<keyword=immune>Immune</keyword>.
+201601_fluff;It's best not to get in Yennefer's way. Especially when she's in a hurry.
+201601_name;Yennefer's Invocation
+201601_tooltip;Choose any unit or artifact on the battlefield and place it at the top of its owner's deck.
+201603_fluff;Why does this monk wear studded gloves…?
+201603_name;Letho: Kingslayer
+201603_tooltip;<keyword=deploy>Deploy</keyword>: Transform into a copy of another unit on the battlefield without changing power.
+201606_fluff;As for forktails, bait them thusly: pound a stake in the soil, bind a goat to it, then hide ye in nearto shrubbery posthaste.
+201606_name;Forktail
+201606_tooltip;<keyword=deploy>Deploy</keyword>: Damage all other units by {Damage}.
+201609_fluff;The trick is to break their wills - but not their bodies.
+201609_name;Slave Hunter
+201609_tooltip;<keyword=deploy>Deploy</keyword>: If there are {MaxTargets} or more units on the opposite row, <keyword=seize>Seize</keyword> the lowest enemy from that row.
+201610_fluff;A free man's got a choice. A slave's choices are made for him.
+201610_name;Slave Infantry
+201610_tooltip;<keyword=deploy>Deploy</keyword>: Transform an allied unit into Slave Infantry.
+201611_fluff;Iorveth may have only one eye, but his inner vision is unmatched.
+201611_name;Iorveth's Gambit
+201611_tooltip;If you have {MaxTargets} or more Traps in your starting deck, play 2 of them at random.
+201612_fluff;What drives a slave driver? A solitary purpose: to see his orders carried out to the letter.
+201612_name;Slave Driver
+201612_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage}. Increase damage by {Damage2} for each <keyword=lock>Locked</keyword> unit.
+201613_fluff;I inherited my father's ability to assume other forms - well, one other form, in my case.
+201613_name;Saesenthessis: Blaze
+201613_tooltip;<keyword=order>Order</keyword>: Damage an enemy by {Damage}. \n<keyword=charge>Charge</keyword>: {Maxtargets}.
+201615_fluff;Before us lies Elskerdeg Pass, and beyond that, Zerrikania and Hakland. Before us lies a long and dangerous road. If we are to walk it together… let us put aside our mistrust.
+201615_name;Isengrim's Council
+201615_tooltip;Look at a random Dwarf, Dryad, and Elf from your deck, then play one.
+201616_fluff;O Great Sun which dost in Heavens fly, save us from the lice which do so stubbornly infest our bloomers.
+201616_name;Master of Disguise
+201616_tooltip;<keyword=order>Order</keyword>: Swap this unit's power with an enemy's power.
+201617_fluff;His is not to reason why, his is but… to peel one damned spud after another.
+201617_name;Recruit
+201617_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=reveal>Reveal</keyword> a random unit in both decks. If yours has higher power, boost self by {Boost}.
+201618_fluff;Though famed for his many virtues, his indomitable courage first and foremost, Seltkirk was not spared the fate which met all those killed in the Battle of Upper Aedirn.
+201618_name;Seltkirk of Gulet
+201618_tooltip;<keyword=order>Order</keyword>, <keyword=melee>Melee</keyword>: <keyword=duel>Duel</keyword> an enemy unit.
+201619_fluff;Will it help? Who knows. Shouldn't do any harm, though. Probably.
+201619_name;Ointment
+201619_tooltip;Boost a bronze Soldier by {Boost} and repeat its <keyword=deploy>Deploy</keyword> ability.
+201620_fluff;The general thought the war for the Lormark would end quickly, with minimal losses… yet wound up fighting it for all eternity.
+201620_name;Vandergrift
+201620_tooltip;<keyword=order>Order</keyword>, <keyword=melee>Melee</keyword>: Damage a unit by {Damage}.\n<keyword=cooldown>Cooldown</keyword>: {Cooldown}.\nIf you control Vandergrift's Blade, damage a unit by {Damage2} instead.
+201621_fluff;We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far.
+201621_name;Kiyan
+201621_tooltip;<keyword=order>Order</keyword>: Damage a unit by Kiyan's <keyword=charge>Charge</keyword> count.\n<keyword=charge>Charge</keyword>: {Charges}.
+201622_fluff;Not every man in the Kaedweni Army supports his king's politics. Yet not a single one would dare say that out loud.
+201622_name;Kaedweni Knight
+201622_tooltip;<keyword=deploy>Deploy</keyword>: If played from the deck, boost self by {Boost}.
+201623_fluff;Most men, seeing a massive boar in the woods, mess their trousers and scurry up the nearest tree. A Skelliger, though - he just drools.
+201623_name;Giant Boar
+201623_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Boost self by {Boost} for every damaged unit.
+201624_fluff;Doomed to repeat the same day over and over again, just like the employees of Cianfanelli Bank.
+201624_name;Kaedweni Revenant
+201624_tooltip;<keyword=order>Order</keyword>: Damage a unit by {Damage}. If it was destroyed, <keyword=spawn>Spawn</keyword> a base copy of Kaedweni Revenant and <keyword=summon>Summon</keyword> it to this row.
+201625_fluff;He fights an endless war whose beginning he no longer remembers.
+201625_name;Cursed Knight
+201625_tooltip;<keyword=deploy>Deploy</keyword>: Transform an allied unit that is not a Cursed Knight into a Cursed Knight without changing its power.
+201626_fluff;Zireael possesses a great power she cannot control. She is a danger - to herself, to others. Until she learns to control it, she should remain isolated.
+201626_name;Ciri: Nova
+201626_tooltip;On turn start, if this is the only unit in your graveyard, <keyword=summon>Summon</keyword> it to a random allied row.
+201627_fluff;Other trolls always considered him a bit odd - after all, who in their right mind would prefer colorful scraps of paper to rocks?
+201627_name;Shupe's Day Off
+201627_tooltip;<keyword=doomed>Doomed</keyword>.\nIf your starting deck has no duplicates, send Shupe on an adventure.
+201628_fluff;Prohibited? Yes. Eliminated? Far from it.
+201628_name;Forbidden Magic
+201628_tooltip;Damage an enemy by {Damage} for every Specter ally.
+201630_fluff;Sabrina's curse spared no one, not even her fellow practitioners.
+201630_name;Damned Sorceress
+201630_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage}.
+201631_fluff;Humans despise dopplers so much, they feel mere execution does not suffice - so they tie any they catch to a stake, cover them in thick clay and bake them in a fire.
+201631_name;Doppler
+201631_tooltip;<keyword=deploy>Deploy</keyword>: Choose a unit in your hand, then boost self by the total number of units in your hand which have the same primary category as that unit.
+201632_fluff;"What's written on this blade? That a curse?" "No. An insult."
+201632_name;Sihil
+201632_tooltip;<keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>: Damage an enemy by {Damage}.\n<keyword=cooldown>Cooldown</keyword>: {Cooldown}.\nWhenever Sihil destroys an enemy, increase Sihil's <keyword=order>Order</keyword> damage by {Damage2} until moved from the battlefield.
+201633_fluff;There are weapons banned in all the Northern Realms, for the wounds they deal are horrible beyond all imagining.
+201633_name;Bloody Flail
+201633_tooltip;<keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>: Damage an enemy by Bloody Flail's <keyword=charge>Charge</keyword> count, then remove all <keyword=charge>Charges</keyword>.\n<keyword=charge>Charge</keyword>: {Charges}.\nWhenever an allied unit gains <keyword=charge>Charges</keyword>, gain the same amount.
+201634_fluff;All it takes is one pebble and we're all done for.
+201634_name;Bekker's Rockslide
+201634_tooltip;Damage a unit by {Damage}.
+201635_fluff;By the gods' gonads, witcher, why'd you bring me this filth?! "I want that beast's head!" - that was a ploughin' figure of ploughin' speech!
+201635_name;Glorious Hunt
+201635_tooltip;Destroy the unit with the highest base power.
+201636_fluff;Hated by men, reviled by elves and always picked last during schoolyard games. No wonder half-elves tend to have a chip on their shoulder.
+201636_name;Half-Elf Hunter
+201636_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage} for each artifact you control.
+201637_fluff;In Zerrikania, dragon worship dominates every aspect of daily life. Thus it comes as no surprise they name weapons in their honor.
+201637_name;Dragon's Dream
+201637_tooltip;Apply this row effect to an enemy row:\nAfter {Counter} turns, on turn start, explode and damage all units on this row by {Damage}.
+201638_fluff;They say elves leave no tracks in the snow, but if you ask me, "they" are just a pack of village idiots, babbling nonsense.
+201638_name;Elven Scout
+201638_tooltip;Whenever an allied Trap is triggered, boost self by {Boost}.
+201639_fluff;Knock, knock… anybody home?
+201639_name;Garrison
+201639_tooltip;Boost a unit by {Boost}.
+201642_fluff;Looks impressive, but good for smearing butter and that's about it.
+201642_name;Ornamental Sword
+201642_tooltip;postponed
+201643_fluff;Elven blades are light, yet deal heavy wounds.
+201643_name;Elven Blade
+201643_tooltip;postponed
+201644_fluff;No one'd ever think I could be a skilled armorer - a human, and a woman to boot. A dwarven blacksmith - that's another story…
+201644_name;Yoana
+201644_tooltip;<keyword=order>Order</keyword>: <keyword=heal>Heal</keyword> an ally by {Boost}.\n<keyword=charge>Charge</keyword>: {Charges}.\nGain {Charges2} <keyword=charge>Charge</keyword> whenever an adjacent unit takes damage.
+201645_fluff;When this knocks you down, you don't get up again.
+201645_name;Crushing Trap
+201645_tooltip;<keyword=ambush>Ambush</keyword>: After {Counter} turns, on turn start, damage all enemy units on the row with the most units by {Damage}. \n<keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>: Flip over and damage all units on a row by {Damage2}.
+201646_fluff;Whatever caused this madness must have been terrifying…
+201646_name;Derran
+201646_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Move up to {MaxTargets} cards from your deck to your graveyard.
+201647_fluff;Someday, when you are older, you could get hit by a boulder.
+201647_name;Rock Barrage
+201647_tooltip;Damage an enemy by {Damage} and move it to the other row.
+201648_fluff;Seltkirk shattered Vandergrift's sword during a knights' tourney in Ard Carraigh. Afterwards Vandergrift, enraged at his weapon's failure, ordered a new one forged, this time with powerful runestones enchanted into it.
+201648_name;Vandergrift's Blade
+201648_tooltip;Whenever you play a Soldier on this row, boost it by {Boost}.
+201650_fluff;With her dying breath, Sabrina Glevissig cast a powerful curse that struck not only her executioners, but all who stood nearby.
+201650_name;Sabrina's Inferno
+201650_tooltip;Damage each non-Specter unit by {Damage}. If any were destroyed, repeat this ability once.
+201653_fluff;Once upon a time, Mahakam held a horn-blowing contest. That day the dwarves made an important discovery: loud noises and snow-capped peaks do not play well together.
+201653_name;Mahakam Horn
+201653_tooltip;<keyword=ambush>Ambush</keyword>: When your opponent passes, boost adjacent units by {Boost}.
+201656_fluff;Hold that spear up, weakling! Not a single horse shall pass!
+201656_name;Mastercrafted Spear
+201656_tooltip;<keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>: Damage a unit by {Damage}.  \n<keyword=cooldown>Cooldown</keyword>: {Cooldown}.
+201657_fluff;A real eye-catcher.
+201657_name;Parasite
+201657_tooltip;Damage an enemy by {Damage}, or boost an ally by {Boost}.
+201659_fluff;It's a winch. Not much to flap your jaw about.
+201659_name;Winch
+201659_tooltip;Play a bronze Machine from your graveyard.
+201660_fluff;No one has ever entered that forest and lived to tell the tale…
+201660_name;Ruehin
+201660_tooltip;<keyword=deathwish>Deathwish</keyword>: On turn end, <keyword=summon>Summon</keyword> this unit from your graveyard to a random allied row.
+201661_fluff;Build bridges, not walls.
+201661_name;Sentry
+201661_tooltip;postponed
+201662_fluff;I don't trust my life to chance. I trust it to a thick coating of Cadaverine on my blade.
+201662_name;Cadaverine
+201662_tooltip;<keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>: Destroy self and all units whose power equals Cadaverine's <keyword=charge>Charge</keyword> count.\n<keyword=charge>Charge</keyword>: {Charges2}.\nEvery turn, on turn start, and whenever you play a Tactic, gain {Charges} <keyword=charge>Charge</keyword>.
+201664_fluff;"An eye for an eye" only ends when the whole world's blind.
+201664_name;Vrygheff
+201664_tooltip;<keyword=deploy>Deploy</keyword>: Trigger the <keyword=deploy>Deploy</keyword> abilities of adjacent bronze Soldiers.
+201676_fluff;No one smuggled as much food to the elves of the Blue Mountains as Gale. He'd bring them sacks of turnips and, prized most of all, leeks.
+201676_name;Pavko Gale
+201676_tooltip;<keyword=order>Order</keyword>: Damage a unit by {Damage}. \n<keyword=cooldown>Cooldown</keyword>: {Cooldown}.
+201696_fluff;Move yer arses! It's a ploughin' trap!
+201696_name;Paulie Dahlberg
+201696_tooltip;<keyword=order>Order</keyword>: Boost the unit on the left by {Boost}, or give the unit on the right <keyword=immune>Immune</keyword>.
+201697_fluff;Vampires all agree: use of this potion is bad sportsmanship.
+201697_name;Black Blood
+201697_tooltip;The next time an enemy receives a boost, destroy that unit and self.
+201698_fluff;Some necrophages have taken such a liking to human flesh, they no longer are content to merely dig up corpses...
+201698_name;Ozzrel
+201698_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: <keyword=consume>Consume</keyword> a unit from your opponent's graveyard.\n<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: <keyword=consume>Consume</keyword> a unit from your graveyard.
+201699_fluff;Don't think they're open for visitors…
+201699_name;Nilfgaardian Gate
+201699_tooltip;postponed
+201700_fluff;This here bridge? Trolls built it a long time ago. Sat under it, made folk pay 'em a hefty copper to pass. Thing is, not many folk pass this way. So they all packed up, went their way. Not the bridge, though. It stayed.
+201700_name;Bridge Troll
+201700_tooltip;<keyword=deathwish>Deathwish</keyword>: Boost the highest ally by {Boost}.
+201701_fluff;What moments before looked like round rocks among the stalagmites now stared at him with enormous, bright, menacing eyes.
+201701_name;Barbegazi
+201701_tooltip;<keyword=order>Order</keyword>: <keyword=consume>Consume</keyword> an allied unit.\n<keyword=charge>Charge</keyword>: {Charges}.
+201704_fluff;If our scouts don't come back, we turn around. The yokels claim these woods are full o' squirrels - and I don't mean the nut-gatherin' kind.
+201704_name;Scout
+201704_tooltip;<keyword=deploy>Deploy</keyword>: Remove a row effect from an allied row.
+201709_fluff;"What's written on this blade? That a curse?" "No. An insult."
+201709_name;Equalize
+201709_tooltip;Damage all enemies with odd power by {Damage}.
+201710_fluff;"What's written on this blade? That a curse?" "No. An insult."
+201710_name;Disrupt
+201710_tooltip;Damage all enemies with even power by {Damage}.
+201725_fluff;Other trolls always considered him a bit odd - after all, who in their right mind would prefer colorful scraps of paper to rocks?
+201725_name;Shupe: Mage
+201725_tooltip;Send Shupe to the Ban Ard Academy for Boys.
+201726_fluff;Other trolls always considered him a bit odd - after all, who in their right mind would prefer colorful scraps of paper to rocks?
+201726_name;Shupe: Mage
+201726_tooltip;<keyword=deploy>Deploy</keyword>: Transform the rightmost card in each player's hand into a random special card.
+201727_fluff;Other trolls always considered him a bit odd - after all, who in their right mind would prefer colorful scraps of paper to rocks?
+201727_name;Shupe: Mage
+201727_tooltip;<keyword=deploy>Deploy</keyword>: Move a random unit to the opposite row.
+201728_fluff;Other trolls always considered him a bit odd - after all, who in their right mind would prefer colorful scraps of paper to rocks?
+201728_name;Shupe: Mage
+201728_tooltip;<keyword=deploy>Deploy</keyword>: Apply a random row effect to all rows.
+201729_fluff;Other trolls always considered him a bit odd - after all, who in their right mind would prefer colorful scraps of paper to rocks?
+201729_name;Shupe: Mage
+201729_tooltip;<keyword=deploy>Deploy</keyword>: Split {Damage} damage randomly between all other units on the battlefield.
+201730_fluff;Other trolls always considered him a bit odd - after all, who in their right mind would prefer colorful scraps of paper to rocks?
+201730_name;Shupe: Mage
+201730_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=spawn>Spawn</keyword> and <keyword=summon>Summon</keyword> a random unit to a random row on each side.
+201731_fluff;Other trolls always considered him a bit odd - after all, who in their right mind would prefer colorful scraps of paper to rocks?
+201731_name;Shupe: Hunter
+201731_tooltip;Send Shupe to the forests of Dol Blathanna.
+201732_fluff;Other trolls always considered him a bit odd - after all, who in their right mind would prefer colorful scraps of paper to rocks?
+201732_name;Shupe: Hunter
+201732_tooltip;<keyword=deploy>Deploy</keyword>: Play a random card from your deck.
+201733_fluff;Other trolls always considered him a bit odd - after all, who in their right mind would prefer colorful scraps of paper to rocks?
+201733_name;Shupe: Hunter
+201733_tooltip;<keyword=deploy>Deploy</keyword>: Split {Damage2} damage randomly between all enemy units.
+201734_fluff;Other trolls always considered him a bit odd - after all, who in their right mind would prefer colorful scraps of paper to rocks?
+201734_name;Shupe: Hunter
+201734_tooltip;<keyword=deploy>Deploy</keyword>: Boost all units in your hand between {Boost} and {Boost2} power.
+201735_fluff;Other trolls always considered him a bit odd - after all, who in their right mind would prefer colorful scraps of paper to rocks?
+201735_name;Shupe: Hunter
+201735_tooltip;<keyword=deploy>Deploy</keyword>: Destroy a random enemy.
+201736_fluff;Other trolls always considered him a bit odd - after all, who in their right mind would prefer colorful scraps of paper to rocks?
+201736_name;Shupe: Hunter
+201736_tooltip;<keyword=deploy>Deploy</keyword>: Apply a random row effect to an enemy row.
+201737_fluff;Other trolls always considered him a bit odd - after all, who in their right mind would prefer colorful scraps of paper to rocks?
+201737_name;Shupe: Knight
+201737_tooltip;Send Shupe to the Imperial Court Military Academy.
+201738_fluff;Other trolls always considered him a bit odd - after all, who in their right mind would prefer colorful scraps of paper to rocks?
+201738_name;Shupe: Knight
+201738_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage3}.
+201739_fluff;Other trolls always considered him a bit odd - after all, who in their right mind would prefer colorful scraps of paper to rocks?
+201739_name;Shupe: Knight
+201739_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=lock>Lock</keyword> a unit.
+201740_fluff;Other trolls always considered him a bit odd - after all, who in their right mind would prefer colorful scraps of paper to rocks?
+201740_name;Shupe: Knight
+201740_tooltip;<keyword=deploy>Deploy</keyword>: Gain <keyword=resilient>Resilience</keyword>.
+201741_fluff;Other trolls always considered him a bit odd - after all, who in their right mind would prefer colorful scraps of paper to rocks?
+201741_name;Shupe: Knight
+201741_tooltip;<keyword=deploy>Deploy</keyword>: Destroy an enemy artifact.
+201742_fluff;Other trolls always considered him a bit odd - after all, who in their right mind would prefer colorful scraps of paper to rocks?
+201742_name;Shupe: Knight
+201742_tooltip;<keyword=deploy>Deploy</keyword>: Boost an ally by {Boost4}.
+201743_fluff;Her children inherited her beauty.
+201743_name;Arachas Queen
+201743_tooltip;Whenever an allied unit is destroyed during your turn, <keyword=spawn>Spawn</keyword> an Arachas Drone and <keyword=summon>Summon</keyword> it to a random allied row.
+201744_fluff;Carried by the wind across the Continent... Sowing madness and blight where they fall.
+201744_name;Spores
+201744_tooltip;Restore a unit to its base power.
+201748_fluff;As King Foltest likes to say, it's not size that counts, but whether it gets the job done.
+201748_name;Foltest's Pride
+201748_tooltip;<keyword=order>Order</keyword>, <keyword=melee>Melee</keyword>: Damage an enemy and all other enemies with power equal to it by {Damage}. \n<keyword=charge>Charge</keyword>: {Charges}.
+201749_fluff;Smell that? That's the smell of happiness.
+201749_name;Golden Froth
+201749_tooltip;Boost all units on a row by {Boost}.
+201753_fluff;We's the militia. We keep the peace.
+201753_name;Peasant Militia
+201753_tooltip;<keyword=deploy>Deploy</keyword>: Boost an ally by {Boost}.
+201772_fluff;I accepted a job once, did it. Asked to choose my reward, I invoked the Law of Surprise.
+201772_name;Geralt: Professional
+201772_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Damage an enemy by {Damage}. If its power was a multiple of {Power}, destroy it instead.
+201773_fluff;Bindings won't suffice. Nor will a gag render her any less dangerous. No, dimeritium is the only solution.
+201773_name;Triss: Telekinesis
+201773_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: <keyword=create>Create</keyword> and play a bronze special card from either player's current deck.
+201774_fluff;Dandelion told me all about your adventures. How he'd ready you for battle with his songs, how he tamed the kayran by playin' his lute...
+201774_name;Dandelion: Vainglory
+201774_tooltip;<keyword=deploy>Deploy</keyword>: Destroy an enemy Beast.
+201776_fluff;The quill is mightier than the sword.
+201776_name;Dandelion: Poet
+201776_tooltip;<keyword=deploy>Deploy</keyword>: Draw a card, then play a card.
+201777_fluff;Fear does not befit us. Yet, there is a certain d'hoine... Vernon Roche. Be wary of him.
+201777_name;Roche: Merciless
+201777_tooltip;<keyword=order>Order</keyword>: <keyword=seize>Seize</keyword> an enemy whose power is less than or equal to Roche Merciless' <keyword=charge>Charge</keyword> count, then remove all <keyword=charge>Charges</keyword>. \n<keyword=charge>Charge</keyword>: {Charges}.\nEvery turn, on turn start, gain {Charges2} <keyword=charge>Charge</keyword>.
+201778_fluff;I must unite the clans. I'd rather avoid war, but if Nilfgaard aims to attack, we must repel them together.
+201778_name;Cerys: Fearless
+201778_tooltip;postponed
+201779_fluff;I hold Brokilon dearer than my own life. She is a mother who cares for her children. I will defend her to my final breath.
+201779_name;Call of the Forest
+201779_tooltip;Shuffle an allied unit into your deck, then play a unit with the same primary category from your deck and boost it by {Boost}.
+201780_fluff;Yes, I have seen the future. And you're not in it.
+201780_name;Yennefer: Divination
+201780_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: <keyword=reveal>Reveal</keyword> a random unit from your deck, then boost an ally by its power.
+201781_fluff;The sisters said you would come. They saw you arrive in the water's surface.
+201781_name;Imlerith
+201781_tooltip;<keyword=order>Order</keyword>: If you control the highest unit, damage a unit by {Damage}. \n<keyword=cooldown>Cooldown</keyword>: {Cooldown}.
+201817_fluff;"Inconceivable. Impossible," Ciri thought, returning to her senses. "Unicorns don't exist, not any more, not in this world. Unicorns are extinct."
+201817_name;Ihuarraquax
+201817_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Each player <keyword=summon>Summons</keyword> the unit with the highest Recruit Cost from their deck to the melee row.\n<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Each player <keyword=summon>Summons</keyword> the unit with the lowest Recruit Cost from their deck to the ranged row.
+202044_fluff;Keep the vermin on a short leash. And don't be afraid to use that whip!
+202044_name;Gimpy Gerwin
+202044_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Damage an enemy and all copies of it by {Damage}.
+202054_fluff;Garnish each serving with grated cheese. Add eyeballs to taste. Serve hot.
+202054_name;Elf and Onion Soup
+202054_tooltip;Destroy {Maxtargets} allied units of the same color, then <keyword=create>Create</keyword> and play a unit of that color.
+202064_fluff;It's not reason I'm devoid of, just emotion.
+202064_name;Ivo of Belhaven
+202064_tooltip;<keyword=order>Order</keyword>, <keyword=melee>Melee</keyword>: Damage an enemy by {Damage}.\n<keyword=charge>Charge</keyword>: {Charges}.\nGain {Charge} <keyword=charge>Charge</keyword> whenever you play a Witcher.
+202093_fluff;Dandelion, you're a cynic, a lecher, a liar – and my best friend.
+202093_name;Dandelion: Vanquisher
+202093_tooltip;No ability.
+202094_fluff;One step toward that wagon and ye'll get an arrow in th' eye!
+202094_name;Caravan Escort
+202094_tooltip;No ability.
+202095_fluff;By Melitele's grace, I swear that path was 'round here somewhere...
+202095_name;Caravan Guide
+202095_tooltip;No ability.
+202096_fluff;If that's what it takes to save the world, it's better to let that world die.
+202096_name;Geralt of Rivia
+202096_tooltip;No ability.
+202097_fluff;These little guys are almost cute, if you ignore the whole vicious killer aspect.
+202097_name;Nekker
+202097_tooltip;No ability.
+202098_fluff;The Good Book says the world is a garden which the gods once conferred upon man. And we men have this garden neglected!
+202098_name;Eyck of Denesle
+202098_tooltip;<keyword=deploy>Deploy</keyword>: If you have a Dragon in your hand, gain <keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>: Destroy a unit with {Power} or more power.
+202099_fluff;Th' Strays of Spalla – 'tis you who lead them? 'Tis you they call the Duke of Dogs?
+202099_name;Gascon
+202099_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Boost self by a random amount between {Power} and {Power2}.
+202100_fluff;The boy's not fit to wear the crown. Hasn't sufficient wit nor valor. I know this, you know this… just, he knows it not.
+202100_name;Prince Villem
+202100_tooltip;<keyword=spying>Spying</keyword>.\n<keyword=deploy>Deploy</keyword>: Play a random gold card from your deck.
+202101_fluff;Your Majesty… For the queen to question commoners, why, it's simply not proper…
+202101_name;Count Caldwell
+202101_tooltip;Every turn, on turn end, move to the row with the highest unit on the battlefield.
+202102_fluff;Your engineer's got a pate like stewed meat, but he kens his trade, that's for certain.
+202102_name;Xavier Lemmens
+202102_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: <keyword=banish>Banish</keyword> all cards in your opponent's graveyard.\n<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: <keyword=banish>Banish</keyword> all cards in your graveyard.
+202103_fluff;When he took roost here, they fought 'im for near a century. Then the dragon got weary o' fightin' and they realized he weren't goin' nowheres, so… they cut a deal. He dinnae bother 'em, they give 'im what he needs.
+202103_name;Keltullis
+202103_tooltip;<keyword=melee>Melee</keyword>: Every turn, on turn end, destroy the lowest unit on the side with the most units.
+202104_fluff;”What have I done?” the mage cried out, frightened of his own creation.
+202104_name;Frightener: Awake
+202104_tooltip;<keyword=immune>Immune</keyword>.
+202105_fluff;The swamp underfoot suddenly exploded with a powerful splash. Two long, mantis-like forelimbs bristling with spikes shot out from the murk. The monstrous, green hooks seized an unlucky footman, dragging him beneath the water's surface.
+202105_name;Glustyworp
+202105_tooltip;<keyword=deploy>Deploy</keyword>: Destroy all units with {Power} power. For each unit destroyed, boost self by {Boost}.
+202106_fluff;Brouver Hoog wanted to kick him out of Mahakam once for having a llama in his living room… it's a long story.
+202106_name;Gabor Zigrin
+202106_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Gain <keyword=resilient>Resilience</keyword>.\n<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Gain <keyword=immune>Immune</keyword>.\nWhenever you play a Dwarf, boost self by {Boost}.
+202107_fluff;Arrived here with his peddler's wagon full o' tricks an' gadgets. Went from house tae house, praised his rubbish tae the high heavens. An' what's it he sold us? Bombs that go off in yer hand! Beard-growth formula that makes yer hair catch fire!
+202107_name;Barnabas Beckenbauer
+202107_tooltip;<keyword=deploy>Deploy</keyword>: Boost an Elf, Dwarf, and Dryad ally by {Boost}.
+202108_fluff;I promised I would never again use magic to harm others.
+202108_name;Isbel of Hagge
+202108_tooltip;<keyword=order>Order</keyword>, <keyword=ranged>Ranged</keyword>: Look at the top card from both decks. Keep one and give the other to your opponent.
+202109_fluff;The coast's picked clean since long! So we set our longships up the Yaruga – for gold and glory!
+202109_name;Lippy Gudmund
+202109_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Swap your graveyard with your deck.
+202110_fluff;Shields are for flower-pickin' saps.
+202110_name;Dagur Two Blades
+202110_tooltip;<keyword=melee>Melee</keyword>: Whenever an enemy takes damage, boost self by {Boost}.
+202111_fluff;The Nilfgaardians proceeded in the queen's very direction without a sign of panic. The man leading the Nilfgaardians was clad in rich robes. He exuded pride... and the scent of musk.
+202111_name;Traheaern var Vdyffir
+202111_tooltip;<keyword=deploy>Deploy</keyword>: Look at the top {MaxTargets} cards in your opponent's deck and move 1 to their graveyard.
+202112_fluff;Under your husband I served ten years, under you another eight. And never in that time did I fight for a more worthy cause.
+202112_name;Reynard Odo
+202112_tooltip;Whenever an allied unit with <keyword=charge>Charge</keyword> is played, give it 1 <keyword=charge>Charge</keyword>.
+202113_fluff;Exceptions are a clear road to human blood spilt. All Scoia'tael must die. Leave the gods to sort the wheat from the chaff.
+202113_name;Black Rayla
+202113_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by the number of Human allies.
+202114_fluff;What came first, the chicken or the egg? Compared to the conundrum that is the phoenix, that question seems downright trivial.
+202114_name;Phoenix Hatchling
+202114_tooltip;<keyword=doomed>Doomed</keyword>. <keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>: Transform into Phoenix.
+202115_fluff;The king once dispatched an envoy to Eldain… despite my advice to the contrary. Found the envoy the next day, eyes gouged out, shaft of his white flag jammed down his throat.
+202115_name;Eldain
+202116_fluff;We're at war, when rulers don't strive nor choose. When rulers grasp sword and shield and ride out to defend their subjects.
+202116_name;Queen Meve
+202117_fluff;Frescoes on the tomb walls depicted Angren's swamps and the beasts that prowled them. Two words were inscribed over the largest of the horrors: Gvaern Ichaer – the Bloody Mistress.
+202117_name;Gernichora
+202118_fluff;In my home, in the civilized world, a general commands his force. He does not rush and thrash about like some rabid hound.
+202118_name;Ardal aep Dahy
+202119_fluff;We're after killin'. Nilfgaardians, Lyrians... 's all the same to us. Strife an' blood an' guts to wash away our shame.
+202119_name;Arnjolf the Patricide
+202121_fluff;Awoo, awoo, awooooo!
+202121_name;Strays of Spalla
+202121_tooltip;<keyword=deploy>Deploy</keyword>: Move a unit to the other row.
+202122_fluff;Knew a young couple once—got separated right after the weddin'. Bomb in the carriage'll do that.
+202122_name;Bomb Heaver
+202122_tooltip;<keyword=deploy>Deploy</keyword>: Destroy an enemy artifact.
+202124_fluff;Like a cross between a crab, a spider… and a mountain.
+202124_name;Arachas Behemoth
+202124_tooltip;No ability.
+202125_fluff;Ugly – nature's way of saying "stay away."
+202125_name;Arachas Drone
+202125_tooltip;No ability.
+202126_fluff;What's in the wagon? And why should I care?
+202126_name;Mercenary Guard
+202126_tooltip;No ability.
+202127_fluff;Left, right, left, right... Couldn't we mix it up ev'ry now an' then?!
+202127_name;Footman Deserter
+202127_tooltip;No ability.
+202128_fluff;Damned bowstring! I've got blisters on me fingers!
+202128_name;Archer Deserter
+202128_tooltip;No ability.
+202129_fluff;Stick 'em with the pointy end.
+202129_name;Spear
+202129_tooltip;No ability.
+202130_fluff;Symbolizing spring and rejuvenation, the swallow lent its name to this potion that accelerates the rate at which wounds scab over and heal.
+202130_name;Swallow
+202130_tooltip;Boost a unit by {Boost}.
+202131_fluff;Stick 'em with the pointy end.
+202131_name;Spear
+202131_tooltip;<keyword=order>Order</keyword>: Damage an enemy by {Damage}.
+202132_fluff;A twist of a witcher's fingers can light a lamp… or incinerate a foe.
+202132_name;Geralt: Igni
+202132_tooltip;<keyword=deploy>Deploy</keyword>: Destroy the highest enemy unit(s).
+202133_fluff;I'm always try to help when I can. But I can't help if I'm dead.
+202133_name;Dandelion: Well-Wisher
+202133_tooltip;<keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>: Boost all allies by {Power}.
+202134_fluff;Her children inherited her beauty.
+202134_name;Swarm Queen
+202134_tooltip;Damage {MaxTargets} enemies by {Damage}.
+202135_fluff;Elves have excellent vision and impeccable aim. Here, let me show you.
+202135_name;Scoia'tael Archer
+202135_tooltip;No ability.
+202136_fluff;You mean to say the she–elf danced amidst the fray? Have you lost your mind, corporal?!
+202136_name;Elven Wardancer
+202136_tooltip;No ability.
+202137_fluff;This forest is our home — and your grave.
+202137_name;Commando Leader
+202137_tooltip;<keyword=order>Order</keyword>: Boost a unit by {Boost}.
+202138_fluff;Nature sometimes give lie to the phrase "youth is beauty."
+202138_name;Arachas Hatchling
+202138_tooltip;No ability.
+202139_fluff;This elf's mine. Mine, I say!
+202139_name;Caravan Leader
+202139_tooltip;Damage a unit and units adjacent to it by {Damage}.
+202140_fluff;Remember, cadets! He who first draws his blade has the advantage over his foe!
+202140_name;Tactical Advantage
+202140_tooltip;<keyword=immune>Immune</keyword>.\n<keyword=order>Order</keyword>: Boost an ally by {Boost}, then <keyword=banish>Banish</keyword> self.\nIf moved away from the battlefield, <keyword=banish>Banish</keyword> self.
+202141_fluff;INVISIBLE, IGNORE
+202141_name;INVISIBLE, IGNORE
+202142_fluff;Take heed, gents, there's nekkers under this here bridge.
+202142_name;Nekker Warrior
+202142_tooltip;No ability.
+202143_fluff;If ghouls are part of the Circle of Life… then it's one vicious circle.
+202143_name;Ghoul
+202143_tooltip;No ability.
+202144_fluff;Fog creeps on little cat feet. Foglets creep over the bodies of their victims.
+202144_name;Foglet
+202144_tooltip;No ability.
+202145_fluff;Many primal fears lurk in the hearts of men. The fear of the mist is well–founded…
+202145_name;Ancient Foglet
+202145_tooltip;No ability.
+202146_fluff;A fiend looks a bit like a deer. An enormous, evil deer.
+202146_name;Fiend
+202146_tooltip;No ability.
+202147_fluff;There! 'Tween them trees!
+202147_name;Tracker
+202147_tooltip;<keyword=order>Order</keyword>: Damage a unit by {Damage}.
+202148_fluff;My king enjoys life... enjoys pleasures and indulges often. But none of this has hindered his ability to govern the realm bloody well.
+202148_name;King Demavend III
+202148_tooltip;<keyword=order>Order</keyword>: Give {Charge} <keyword=charge>Charge</keyword> to a unit. \n<keyword=cooldown>Cooldown</keyword>: {Cooldown}.
+202149_fluff;Don't matter if it crawls, slithers, climbs—you name it, I've eaten it. As for things that fly... I once ate a kite just 'cause it had flour stuck to it.
+202149_name;Angoulême
+202149_tooltip;<keyword=order>Order</keyword>: Play a random artifact from your opponent's deck.
+202150_fluff;It's been near half a century since I last practiced medicine. The years haven't been kind to my memory... Nor the dexterity of my fingers.
+202150_name;Vysogota of Corvo
+202150_tooltip;<keyword=zeal>Zeal</keyword>.\n<keyword=order>Order</keyword>, <keyword=ranged>Ranged</keyword>: Boost a unit by {Boost}. \n<keyword=charge>Charge</keyword>: {Charges}.\nGain {Charges2} <keyword=charge>Charge</keyword> whenever either player plays a card.
+202151_fluff;From afar, he looks like a bear. From up close, well... A larger bear.
+202151_name;Falibor
+202151_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Destroy an enemy unit with <keyword=order>Orders</keyword>.
+202152_fluff;Anna hated her husband so much that she was ready to do anything in order to be free of the man — and the child he had put inside her.
+202152_name;Anna Strenger
+202152_tooltip;If on turn end this unit is boosted, boost adjacent units by {Boost}.
+202153_fluff;A horseman's worth no less than his steed. And Lyrian horses are among the Continent's best.
+202153_name;Lyrian Cavalry
+202153_tooltip;Whenever you play a unit with <keyword=order>Orders</keyword>, boost self by {Boost}.
+202154_fluff;Get off your high horse and face me!
+202154_name;Rivian Pikeman
+202154_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage}. If it was destroyed, damage another enemy by {Damage2}.
+202155_fluff;I can find the bull's-eye from a hundred paces! Perhaps not with my first shot, mind you...
+202155_name;Lyrian Arbalest
+202155_tooltip;<keyword=order>Order</keyword>: Damage a unit by {Damage}. \n<keyword=charge>Charge</keyword>: {Charges}.\nGain {Charges2} <keyword=charge>Charge</keyword> whenever you play a card with <keyword=order>Orders</keyword>.
+202156_fluff;Best not laugh at their silly-arse hats. Believe me.
+202156_name;Lyrian Landsknecht
+202156_tooltip;<keyword=order>Order</keyword>: Damage a unit by {Damage}. If Lyrian Landsknecht is boosted, damage a unit by {Damage2} instead.
+202157_fluff;Sure, I'll patch you up. Gonna cost you though.
+202157_name;Hawker Healer
+202157_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Boost an ally by {Boost}.\n<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: <keyword=heal>Heal</keyword> an ally.
+202158_fluff;Elf, dwarf, makes no difference – long as they've got coin.
+202158_name;Hawker Support
+202158_tooltip;<keyword=deploy>Deploy</keyword>: Boost an ally by {Boost}.
+202159_fluff;Combat is a dance, and you must never allow your opponent to lead.
+202159_name;Elven Swordmaster
+202159_tooltip;<keyword=order>Order</keyword>: Damage an enemy by {Damage}.\n<keyword=cooldown>Cooldown</keyword>: {Cooldown2}.\nIf the enemy was destroyed, reduce <keyword=cooldown>Cooldown</keyword> by {Cooldown1}.
+202160_fluff;You'll smell them long before you see them.
+202160_name;Rotfiend
+202160_tooltip;No ability.
+202161_fluff;Our folk they feed, and our foes they bleed.
+202161_name;Lyrian Scytheman
+202161_tooltip;<keyword=deploy>Deploy</keyword>: Boost self by {Boost} for each boosted ally.
+202162_fluff;Alive or dead, this elf shall be mine. Mark my words.
+202162_name;Caravan Leader
+202162_tooltip;No ability.
+202163_fluff;Elven blades are light, yet deal heavy wounds.
+202163_name;Elven Blade
+202163_tooltip;Damage a non-Elf unit by {Damage}.
+202164_fluff;We'll never be taken by surprise. Not on my watch.
+202164_name;Elven Sentry
+202164_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by the number of rows separating it from this unit.
+202165_fluff;Man or deer, it's the same idea – aim 'tween the shoulders.
+202165_name;Elven Hunter
+202165_tooltip;<keyword=deploy>Deploy</keyword>: Damage an enemy by {Damage}. If it survives, boost self by {Boost}.
+202166_fluff;Do you feel lucky? Well, do ya, dh'oine?!
+202166_name;Elven Roughneck
+202166_tooltip;No ability.
+202167_fluff;Most left out of fear. I left 'cause I was bored.
+202167_name;Sadist Deserter
+202167_tooltip;No ability.
+202168_fluff;Why learn to change iron to gold when I can simply earn it by using what I already know?
+202168_name;Sorceress Mercenary
+202168_tooltip;<keyword=deploy>Deploy</keyword>: Boost a unit by {Boost}.
+202169_fluff;Bones and oaths —I've proven quite skilled at breaking both.
+202169_name;Champion Mercenary
+202169_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Boost self by {Boost}.
+202170_fluff;Finally! I can play what I want, as loud as I want!
+202170_name;Drummer
+202170_tooltip;Every 5 turns, on turn start, boost adjacent units by {Boost}.
+202171_fluff;Whosoever wields it shall find victory in battle. Then betrayed shall he perish.
+202171_name;Cursed Blade
+202171_tooltip;<keyword=order>Order</keyword>: Boost a unit by {Boost} and give it <keyword=doomed>Doomed</keyword>, then destroy self.
+202172_fluff;Don't know which was worse in the army — the pay or the food.
+202172_name;Veteran
+202172_tooltip;No ability.
+202173_fluff;One step toward that wagon and ye'll get an arrow in th' eye!
+202173_name;Caravan Escort
+202173_tooltip;No ability.
+202174_fluff;By Melitele's grace, I swear that path was 'round here somewhere...
+202174_name;Caravan Guide
+202174_tooltip;No ability.
+202175_fluff;What's in the wagon? And why should I care?
+202175_name;Mercenary Guard
+202175_tooltip;<keyword=deploy>Deploy</keyword>, <keyword=melee>Melee</keyword>: Boost self by {Boost2}.\n<keyword=deploy>Deploy</keyword>, <keyword=ranged>Ranged</keyword>: Boost all other units on this row by {Boost}.
+202176_fluff;A good commander's dream… and a bad one's horror.
+202176_name;Impenetrable Fog
+202176_tooltip;Apply this row effect to an enemy row:\nFor {Counter} turns, on turn start, damage the highest unit on this row by {Damage}.
+202177_fluff;They say elves understand horses better than they do humans. They're not wrong.
+202177_name;Scoia'tael Rider
+202177_tooltip;<keyword=deploy>Deploy</keyword>: Damage a unit by {Damage}.
+202178_fluff;Abandon a friend in peril? Never!
+202178_name;Dandelion: Loyal Friend
+202178_tooltip;On round end, move this card from the graveyard to your deck.
+202179_fluff;Remember, cadets! He who first draws his blade has the advantage over his foe!
+202179_name;Tactical Advantage
+202179_tooltip;<keyword=immune>Immune</keyword>. <keyword=doomed>Doomed</keyword>.\n<keyword=order>Order</keyword>: Boost an ally by {Boost}, then <keyword=banish>Banish</keyword> self.
+202180_fluff;Sun shone bright just a moment past! On the gods I swear it!
+202180_name;Unnatural Fog
+202180_tooltip;Every turn, on turn start, damage the highest unit on this row by {Damage}.
+32_name_lt;Ragh Nar Roog
+32_tooltip_lt;Every turn, on turn start, damage the highest unit on this row by {Damage}.
+4_name_lt;Torrential Rain
+4_tooltip_lt;For {Counter} turns, on turn start, damage {MaxTargets} random units by {Damage}.
+64_name_lt;Skellige Storm
+64_tooltip_lt;For {Counter} turns, on turn start, damage all units on a row by {Damage}.
+card_category_1;Double Agent
+card_category_10;Wild Hunt
+card_category_11;Tactic
+card_category_12;Beast
+card_category_13;Leader
+card_category_14;Mage
+card_category_15;Boss
+card_category_16;Vampire
+card_category_17;Cintra
+card_category_18;Insectoid
+card_category_19;Stray
+card_category_2;Construct
+card_category_20;Spell
+card_category_21;Redania
+card_category_22;Siege Support
+card_category_23;Clan Drummond
+card_category_24;Specter
+card_category_25;Cursed
+card_category_26;Soldier
+card_category_27;Kaedwen
+card_category_28;Vodyanoi
+card_category_29;Clan Tuirseach
+card_category_3;Clan Tordarroch
+card_category_30;Clan Dimun
+card_category_31;Witcher
+card_category_32;Cultist
+card_category_33;Alchemy
+card_category_34;Reckless
+card_category_35;Clan Heymaey
+card_category_36;Blitz
+card_category_37;Dryad
+card_category_38;Special
+card_category_39;Elf
+card_category_4;Lyria
+card_category_40;Necrophage
+card_category_41;Machine
+card_category_42;Aedirn
+card_category_43;Support
+card_category_44;Clan an Craite
+card_category_46;Trap
+card_category_47;Dwarf
+card_category_48;Draconid
+card_category_49;Siege Engine
+card_category_5;Temeria
+card_category_50;Officer
+card_category_52;Weather
+card_category_53;Organic
+card_category_54;Item
+card_category_55;Hazard
+card_category_56;Boon
+card_category_57;Ambush
+card_category_58;Doomed
+card_category_59;Bear
+card_category_6;Ogroid
+card_category_60;Blue Stripes
+card_category_61;Breedable
+card_category_62;Devourer
+card_category_63;Dragon
+card_category_64;Harpy
+card_category_65;Medic
+card_category_66;Stubborn
+card_category_67;Permadeath
+card_category_68;Peasant
+card_category_69;Potion
+card_category_7;Relict
+card_category_70;Regressing
+card_category_71;Shapeshifter
+card_category_73;Token
+card_category_75;Agent
+card_category_76;Pirate
+card_category_77;Ship
+card_category_78;Human
+card_category_79;Knight
+card_category_8;Clan Brokvar
+card_category_80;Gnome
+card_category_81;Plant
+card_category_82;Demon
+card_category_83;Bandit
+card_category_84;Vran
+card_category_85;Druid
+card_category_86;Warrior
+card_category_87;Svalblod
+card_category_9;Test
+card_token_berserk;obsolete
+card_token_doomed;Status that removes the unit from the game after it moves to the graveyard.
+card_token_immune;Cannot be targeted.
+card_token_lock;Status that disables a card’s abilities and removes other statuses. Disables and flips over face-down cards.
+card_token_marked;This unit is marked. It is now the target of the abilities of the card that marked it.
+card_token_resilience;Status that allows a card to remain on the board at round end, then restores it to base power if boosted.
+card_token_spying;Status for a unit played on or moved to the opposite side of the battlefield.
+keyword_ambush;<#600101>Ambush:</color> Played face down, then flips over when the ability's condition is met.
+keyword_armor;<#600101>Armor:</color> Absorbs a given amount of damage, then is removed.
+keyword_aura;<#600101>Aura:</color> Passive ability that is undone when the unit is destroyed or Locked.
+keyword_banish;<#600101>Banish:</color> Remove from the game. Does not trigger Deathwish abilities.
+keyword_banish_in_graveyard;<#600101>Doomed:</color> Units: Remove from the game when moved from the Board to the Graveyard.\nSpecial Cards: Remove from the game after triggering the card's ability.
+keyword_bloodthirst;<#600101>Bloodthirst:</color> Number of damaged enemy units required to trigger this ability.
+keyword_bond;<#600101>Bond:</color> Trigger this ability each time a copy of this Unit is played on the same side.
+keyword_boon;<#600101>Boon:</color> Positive row effect. Replaced by other row effects and removed on round end.
+keyword_boost;<#600101>Boost:</color> Increase a Unit's current Power.
+keyword_boosted;<#600101>Boosted:</color> A Boosted Unit's current Power is more than its base Power.
+keyword_brave;<#600101>Brave:</color> Trigger this ability if your opponent is winning the current Round (calculated after placing this Unit and any Units it Spawns).
+keyword_charge;<#600101>Charge:</color> The number of times an Order ability can be used. Only cards with Charge: X can gain additional Charges.
+keyword_charm;<#600101>Charm:</color> Move an enemy to the opposite row.
+keyword_clone;<#600101>Clone:</color> An exact copy of a card, with the same current Power and abilities.
+keyword_conceal;<#600101>Conceal:</color> Turn over a face-up card in hand.
+keyword_consume;<#600101>Consume:</color> Eat a unit and boost by its power. If it's on the battlefield, destroy it. If in hand or deck, move it to the graveyard. If in the graveyard, remove it from the game.
+keyword_cooldown;<#600101>Cooldown:</color> The number of turns before an Order ability can be reused.
+keyword_counter;<#600101>Counter:</color> Reduce the Counter whenever the given condition is met. Reset the Counter when the Unit leaves the Board.
+keyword_craven;<#600101>Craven:</color> Trigger this ability if your opponent is losing the current Round.
+keyword_create;<#600101>Create:</color> Spawn one of three randomly chosen cards from a specified faction and from neutral cards, unless otherwise specified.
+keyword_crew;<#600101>Crew:</color> This unit triggers the ability of Crewed units played adjacent to it.
+keyword_crewed;<#600101>Crewed:</color> When played, trigger this ability once for each adjacent Crew unit.
+keyword_damage;<#600101>Damage:</color> Decrease a Unit's current Power.
+keyword_damaged;<#600101>Damaged:</color> A Damaged Unit's current Power is less than its base Power.
+keyword_deadlock;<#600101>Clash:</color> Trigger this ability only if neither player has passed.
+keyword_deathwish;<#600101>Deathwish:</color> Trigger this ability when moved from the battlefield to the graveyard. Note: Units that are Banished are not sent to the graveyard.
+keyword_demote;<#600101>Demote:</color> Convert a Gold card to Silver (or Bronze, if Bronze was the card's original color).
+keyword_deploy;<#600101>Deploy:</color> Trigger this ability when played.
+keyword_destroy;<#600101>Destroy:</color> Move the card to the Graveyard.
+keyword_discard;<#600101>Discard:</color> Move a card from your hand to the graveyard. Note: Related abilities are not triggered when discarding manually.
+keyword_doomed;<#600101>Doomed:</color> Status that removes the unit from the game after it moves to the graveyard.
+keyword_drain;<#600101>Drain:</color> Deal damage and boost self by the same amount.
+keyword_draw;<#600101>Draw:</color> Move the top card or cards from your Deck to your Hand.
+keyword_duel;<#600101>Duel:</color> Units take turns dealing damage equal to their power until one of them is destroyed.
+keyword_enemy;<#600101>Enemy:</color> A Unit on your opponent's side of the Board.
+keyword_fatigue;<#600101>Single-Use:</color> This card's ability can be used only once per game.
+keyword_friendly;<#600101>Ally:</color> A Unit on your side of the Board.
+keyword_gamble;<#600101>Gamble:</color> Play a game of chance.
+keyword_gold;<#600101>Immune:</color> Status whereby this card cannot be targeted.
+keyword_hazard;<#600101>Hazard:</color> Negative row effect. Replaced by other row effects and removed on round end.
+keyword_heal;<#600101>Heal:</color> If a unit's current power is lower than its base power, restore it either to base power or by the amount specified.
+keyword_highest;<#600101>Highest:</color> Highest power, ties are resolved randomly.
+keyword_idle;<#600101>Idle:</color> The number of turns a unit must remain on the board before it can be triggered.
+keyword_immobile;Cannot be moved.
+keyword_immune;<#600101>Immune:</color> Cannot be targeted.
+keyword_leadership;<#600101>Leadership:</color> Trigger this ability when either Leader card is played (but before the Leader's ability is resolved).
+keyword_lock;<#600101>Lock:</color> Status that disables a card’s abilities and removes other statuses. Disables and flips over face-down cards.
+keyword_lowest;<#600101>Lowest:</color> Lowest power, ties are resolved randomly.
+keyword_melee;<#600101>Melee:</color> This ability can only be used while on the melee row.
+keyword_mulligan;<#600101>Mulligan:</color> Shuffle a card from your hand into your deck and draw the top card from your Deck.
+keyword_muster;<#600101>Summon:</color> Play automatically from the deck.
+keyword_non_decoyable;<#600101>Stubborn:</color> Cannot be moved back to the hand.
+keyword_order;<#600101>Order:</color> An ability triggered manually by the player. Cards with Order cannot be used for 1 turn after being placed on the battlefield.
+keyword_overstrain;<#600101>Effort:</color> Perform the specified action for every card targeted by the preceding ability.
+keyword_pair;<#600101>Pair:</color> Trigger this ability when 2 copies of this card are present on the Board.
+keyword_promote;<#600101>Promote:</color> Convert the card to Gold until the Round ends.
+keyword_ranged;<#600101>Ranged:</color> This ability can only be used while on the ranged row.
+keyword_reach;<#600101>Reach:</color> The distance in rows that you can target.
+keyword_regress;<#600101>Regress:</color> Return the card to its original state.
+keyword_regressing;<#600101>Regressing:</color> When this Unit is removed from the Board, its base Power is returned to the value it has in the Collection. Not disabled by Lock.
+keyword_reset;<#600101>Reset:</color> Restore a card to its default state (as it would appear in the Deck Builder).
+keyword_resilient;<#600101>Resilience:</color> Status that allows a unit to remain on the board at round end, then restores it to base power if boosted.
+keyword_resistant;<#600101>Resistant:</color> A Resistant Unit is not affected by the specified Hazard effect.
+keyword_restrained;Cannot target Bosses.
+keyword_resurrect;<#600101>Resurrect:</color> Play from your graveyard.
+keyword_retaliation;<#600101>Retaliation:</color> Trigger this ability whenever this Unit is Damaged but not sent to the Graveyard.
+keyword_reveal;<#600101>Reveal:</color> Show a card to both players, then hide it back in the hand or deck.
+keyword_revealed;<#600101>Revealed:</color> A card in the hand that has been turned over.
+keyword_revenge;<#600101>Revenge:</color> Trigger this ability when the card is moved from the Board to the Graveyard during your opponent's turn.
+keyword_round_end;<#600101>Round End:</color> Trigger this ability when the Round ends.
+keyword_seize;<#600101>Seize:</color> Move an enemy to the opposite row.
+keyword_shield;<#600101>Shield:</color> A Shield token protects a Unit from the next effect that Damages, Weakens or sets this Unit to a lower Power.
+keyword_solitary;<#600101>Solitary:</color> Trigger this ability if there is only 1 copy of this card on the Board.
+keyword_spawn;<#600101>Spawn:</color> Add a card to the game.
+keyword_spring;<#600101>Spring:</color> Turn over a face down Ambush card and trigger its ability.
+keyword_spying;<#600101>Spying:</color> Status for a unit played on or moved to the opposite side of the battlefield.
+keyword_strengthen;<#600101>Strengthen:</color> Increase the base power of a unit.
+keyword_stubborn;<#600101>Stubborn:</color> Cannot be replayed or returned to the hand.
+keyword_summon;<#600101>Summon:</color> Move automatically to the battlefield (not considered played).
+keyword_swap;<#600101>Swap:</color> Move a card from hand to deck and draw another in its place during your turn.
+keyword_thrive;<#600101>Thrive:</color> Boost this unit by 1 whenever an ally with higher power is played. 
+keyword_timer;<#600101>Timer:</color> Reduce the Timer by 1 every turn while this Unit is on the Board. Trigger the ability when it reaches 0 (at the start or end of the turn). Reset the Timer when the Unit leaves the Board.
+keyword_token;<#600101>Token:</color> A unit that is removed from the game on round end.
+keyword_transform;<#600101>Transform:</color> Convert into a different card.
+keyword_trio;<#600101>Trio:</color> Exactly 3 Unlocked copies of a Unit on a row.
+keyword_truce;<#600101>Truce:</color> If neither player has passed.
+keyword_turn_end;<#600101>Turn End:</color> Trigger this ability at the end of your turn.
+keyword_turn_start;<#600101>Turn Start:</color> Trigger this ability at the start of your turn.
+keyword_veteran;<#600101>Veteran X:</color> At the start of Rounds 2 and 3, Strengthen this Unit by X, wherever it is.
+keyword_weaken;<#600101>Weaken:</color> Decrease the base power of a unit. If it falls below 1, remove it from the game. Does not trigger Deathwish abilities.
+keyword_zeal;<#600101>Zeal:</color> An Order ability can be used on the same turn the card is placed on the battlefield.
+

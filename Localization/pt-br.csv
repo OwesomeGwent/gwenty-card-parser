@@ -1,0 +1,2012 @@
+﻿1_name_lt;Frio Congelante
+1_tooltip_lt;Por {Counter} turnos, no começo do turno, causa {Damage} de dano à unidade mais baixa desta fileira.
+100_fluff;Nem todos no Continente decidem seguir reis, rainhas, duques e imperadores. No entanto, isto não quer dizer que não podem ser persuadidos por uma bolsa pesada de moedas. Todos têm o seu preço, afinal.
+100_name;Neutras
+101_fluff;Legiões de monstros horrendos, do carniçal-atroz ao zeugl. Todos tremem diante deles, tanto nórdicos quanto nilfgaardianos.
+101_name;Monstros
+102_fluff;O poderoso Império Nilfgaardiano não vai parar até suas bandeiras pretas e douradas tremularem em todo o Continente. Se os últimos anos indicam alguma coisa, talvez sejam bem-sucedidos muito em breve.
+102_name;Nilfgaard
+1024_name_lt;Sonho do Dragão
+1024_tooltip_lt;Após {Counter} turnos, no início do turno, explode e causa {Damage} de dano a todas as unidades na fileira.
+103_fluff;Reinos, ducados, fronteiras... Os territórios do Norte são numerosos e variados. Mesmo assim, eles não têm tempo para conflitos internos, pois o poderio do Império Nilfgaardiano merece sua atenção total.
+103_name;Reinos do Norte
+104_fluff;Rebeldes que lutam pelos direitos de não-humanos. Eles não serão detidos por nada para alcançarem seu objetivo, transformando as florestas do Continente em campos de batalha... e cemitérios.
+104_name;Scoia'tael
+105_fluff;Guerreiros ferozes que não temem a morte nem o frio. Mesmo assim, eles têm suas fraquezas... hidromel, música e rolar no palheiro.
+105_name;Skellige
+112101_fluff;Eu vou aonde eu quiser, a hora que eu quiser.
+112101_name;Ciri
+112101_tooltip;Sempre que você perder uma rodada, retorne esta unidade do campo de batalha para a sua mão.
+112102_fluff;O movimento dos dedos de um bruxo pode acender uma lâmpada... ou incinerar um inimigo.
+112102_name;Geralt: Igni
+112102_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword> : destrói a(s) unidade(s) mais alta(s) de uma fileira inimiga com poder total de ao menos {Power}.
+112103_fluff;Se isso for o que é preciso para salvar o mundo, é melhor deixá-lo morrer.
+112103_name;Geralt de Rívia
+112103_tooltip;<keyword=deploy>Mobilização</keyword>: destrói um inimigo com {power} de poder ou mais.
+112104_fluff;Os humanos educados me chamam de monstro, de aberração bebedora de sangue.
+112104_name;Regis
+112104_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a todos os inimigos em uma fileira. Se algum for destruído, repete esta habilidade.
+112105_fluff;Ele fica invisível quando quer. Seu olhar hipnotiza em sono profundo. Ele então bebe a sua bebida, se transforma em morcego e voa. Tudo muito rude.
+112105_name;Regis: Vampiro Ancião
+112105_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: <keyword=drain>drena</keyword> todos os reforços de um inimigo.
+112106_fluff;Posso cuidar de mim mesma. Creia-me.
+112106_name;Triss Merigold
+112106_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: <keyword=reveal>revela</keyword> uma unidade aleatória do seu baralho e causa dano a um inimigo equivalente ao seu poder.
+112107_fluff;Também é conhecido como Borkh Três Gralhas... Ele não é muito bom com nomes.
+112107_name;Villentretenmerth
+112107_tooltip;Após {Counter} turnos, no fim do turno, destrói a unidade mais alta no campo de batalha, com exceção de si mesma.
+112108_fluff;A magia é caos, arte e ciência. É uma maldição, uma bênção e um avanço.
+112108_name;Yennefer
+112108_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: causa {Damage} a todas as outras unidades. \n<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: reforça todas as outras unidades em {Boost}.
+112109_fluff;Perdão. Meu animalzinho exótico é um pássaro inteligente, mas um pouco pervertido. Paguei dez thalers pela belezinha.
+112109_name;Zoltan: Patife
+112109_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: <keyword=spawn>faz surgir</keyword> Duda: Agitador e o usa.\n<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: <keyword=spawn>faz surgir</keyword> Duda: Companheiro e o usa.
+112110_fluff;Sabe quando os contos de fada não são só contos? Quando as pessoas acreditam.
+112110_name;Ciri: Investida
+112110_tooltip;Após {Counter} turnos, no começo do turno, compra uma carta.
+112111_fluff;Uma descarga de energia concentrada que espanca tudo em seu caminho. Ótima para quando você esquece as chaves.
+112111_name;Geralt: Aard
+112111_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: causa {Damage} de dano a {Maxtargets} inimigos e, se possível, move eles para a fileira de longa distância.
+112112_fluff;Dentre os elfos livres havia alguns Aen Saevherne, ou Sábios. Eles eram um enigma, beirando o status de lenda.
+112112_name;Avallac'h: Sábio
+112112_tooltip;<keyword=deploy>Mobilização</keyword>,<keyword=ranged>Longa distância</keyword>: usa um artefato do seu baralho.
+112113_fluff;Uma boa feiticeira deve saber quando conjurar gelo... e quando conjurar fogo.
+112113_name;Yennefer: Conjuradora
+112113_tooltip;<keyword=order>Ordem</keyword>: causa {Damage} de dano à(s) unidade(s) mais alta(s) do inimigo. \n<keyword=cooldown>Tempo de espera</keyword>: {Cooldown}.
+112201_fluff;Um mímico, entre muitos outros nomes para pessoas como ele: metamorfo, dublê, sósia... ou farsante.
+112201_name;Dudu
+112201_tooltip;<keyword=deploy>Mobilização</keyword>: se transforma em uma cópia básica de uma unidade inimiga.
+112202_fluff;Sou um simples bruxo, Lobo. Não mato dragões, não fraternizo com reis e não pego feiticeiras...
+112202_name;Eskel
+112202_tooltip;<keyword=deploy>Mobilização</keyword>: <keyword=summon>invoca</keyword> Vesemir e Lambert do seu baralho para esta fileira.
+112203_fluff;Se for ser enforcado, peça por água. Tudo pode acontecer antes que a tragam.
+112203_name;Vesemir
+112203_tooltip;<keyword=deploy>Mobilização</keyword>: <keyword=summon>invoca</keyword> Eskel e Lambert do seu baralho para esta fileira.
+112204_fluff;Isso sim é o tipo de negociação que eu entendo.
+112204_name;Lambert
+112204_tooltip;<keyword=deploy>Mobilização</keyword>: <keyword=summon>invoca</keyword> Eskel e Vesemir do seu baralho para esta fileira.
+112205_fluff;Nunca separe uma mãe dragão de sua cria.
+112205_name;Myrgtabrakke
+112205_tooltip;<keyword=order>Ordem</keyword>: causa {Damage} de dano a um inimigo. \n<keyword=charge>Carga</keyword>: {Charges}.
+112206_fluff;O mestre do Monte Quartzo, o destruidor, o matador de Trajan. Em seu tempo livre, ele gosta de caminhadas e jantares à luz de velas.
+112206_name;Ocvist
+112206_tooltip;<keyword=order>Ordem</keyword>: causa {Damage} de dano a todos os inimigos.
+112207_fluff;Pelo menos agora sabes que não perco minha cabeça tão facilmente.
+112207_name;Olgierd von Everec
+112207_tooltip;<keyword=order>Ordem</keyword>: <keyword=heal>cura</keyword> a si mesma.\n<keyword=cooldown>Tempo de espera</keyword>: {Cooldown}.
+112208_fluff;Assim como tempo e o espaço se desmancham à nossa frente, eles se ampliam atrás de nós. E assim cada um avança por ambos.
+112208_name;Operador
+112208_tooltip;<keyword=deploy>Mobilização</keyword>: <keyword=spawn>faz surgir</keyword> e <keyword=summon>invoca</keyword> uma cópia básica de uma unidade de bronze da sua mão para esta fileira em cada lado do jogador.
+112209_fluff;Muuuuu.
+112209_name;Vaca Premiada
+112209_tooltip;<keyword=order>Ordem</keyword>: transforma-se em Chorabash.
+112210_fluff;Geralt, precisamos ter uma conversa de homem pra égua. Sem ofensa, mas as suas habilidade de condução deixam a desejar, camarada.
+112210_name;Carpeado
+112210_tooltip;Sempre que usar uma carta de ouro, <keyword=summon>invoca</keyword> esta unidade do seu baralho para uma fileira aliada aleatória.
+112211_fluff;A vida sem saborear o som de "xícara de chá gelado" é como lamber lesmas enroladas em pano.
+112211_name;Johnny
+112211_tooltip;<keyword=order>Ordem</keyword>: causa {Damage} de dano a uma unidade.\n<keyword=charge>Carga</keyword>: {Charges}.\nGanha {Charges2} de <keyword=charge>carga</keyword> sempre que jogar uma carta especial.
+112212_fluff;A pequena Sarah quer brincar!
+112212_name;Sarah
+112212_tooltip;<keyword=order>Ordem</keyword>: reforça uma unidade em {Boost}.\n<keyword=charge>Carga</keyword>: {Charges}.\nSempre que usar uma carta especial, ganha {Charges2} de <keyword=charge>carga</keyword>.
+112213_fluff;Eu posso descobrir o quão lindo eu fico sem orelhas... ou mãos. Aparentemente, o Rei dos Mendigos aceita ambas como pagamentos parciais.
+112213_name;Rei dos Mendigos
+112213_tooltip;A cada turno, no fim do turno, reforça a unidade mais baixa na sua mão em {Boost}.
+112214_fluff;Um dos quatro chefões que controlam o submundo da cidade – os outros são Sigi Reuven, Carlo "Cutelo" Varese e o Rei dos Mendigos.
+112214_name;Wily Cipriano
+112214_tooltip;<keyword=deploy>Mobilização</keyword>: <keyword=banish>bane</keyword> uma unidade com {Power} de poder ou menos.
+112215_fluff;Eu lembro tão pouco... e mesmo assim quando penso na rosa, começo a me lembrar do que era.
+112215_name;Iris von Everec
+112215_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: destrói um artefato inimigo.\n<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: retira todos os efeitos de fileira do seu lado.
+112401_fluff;Dizem que unicórnios gostam de virgens. Já que achar uma virgem hoje em dia é tão difícil quanto achar um unicórnio, ninguém conseguiu comprovar a teoria.
+112401_name;Unicórnio
+112401_tooltip;<keyword=deploy>Mobilização</keyword>: reforça uma unidade em {Boost}. Se você tiver Chironex na mão, a quantidade dobra.
+112402_fluff;"Deuses, isso não é um unicórnio! Isso é...!" as últimas palavras de Vilemar, um famoso colecionador de curiosidades.
+112402_name;Chironex
+112402_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a uma unidade. Se você tiver Unicórnio na mão, a quantidade dobra.
+112403_fluff;Conhece cem palavras, oitenta delas são insultos e as demais são conectivos.
+112403_name;Duda: Companheiro
+112403_tooltip;Reforça todas as unidades em uma fileira em {Boost}.
+112404_fluff;O papagaio de Zoltan tinha a habilidade extraordinária de irritar qualquer um que passasse algum tempo com ele. Inclusive Zoltan.
+112404_name;Duda: Agitador
+112404_tooltip;Causa {Damage} de dano a todas as unidades em uma fileira.
+112405_fluff;Um demônio parece quase como um cervo, como um cervo grande e maligno.
+112405_name;Demônio
+112405_tooltip;<keyword=deploy>Mobilização</keyword>: reforça todas as unidades de <keyword=deathwish>Desejo de Morte</keyword> na sua mão em {Boost}.
+113101_fluff;Na Era Final, Hemdall vai surgir para enfrentar o mal vindo da terra de Morhögg, legiões de aparições, demônios e espectros do caos.
+113101_name;Ragh Nar Roog
+113101_tooltip;Aplica este efeito de fileira a uma fileira inimiga:\nA cada turno, no começo do turno, causa {Damage} de dano à unidade mais alta da fileira.
+113102_fluff;Um djinn, bons senhores, realiza três desejos. Quando libertado, ele foge para dimensões desconhecidas.
+113102_name;O Último Desejo
+113102_tooltip;Olha as {Maxtargets} cartas no topo do seu baralho, depois usa uma e <keyword=banish>bane</keyword> a outra.
+113201_fluff;Quando você fica sem camponeses, outras iscas servem para atrair as flechas.
+113201_name;Isca
+113201_tooltip;Embaralha um aliado do campo de batalha no seu baralho, depois usa a unidade no topo do seu baralho.
+113202_fluff;O céu se escureceu de repente e nuvens se reuniram sobre a cidade. A escuridão aumentou diabolicamente e uma rajada fria se instaurou. "Oh, nossa", disse Yennefer, "acho que estamos prestes a fazer uma grande bagunça".
+113202_name;Merigold: Granizo
+113202_tooltip;Causa {Damage} de dano a {Maxtargets} inimigos.
+113203_fluff;Isso não é uma tempestade normal. Isso aqui é a ira dos deuses.
+113203_name;Skellige: Tempestade
+113203_tooltip;Aplica este efeito de fileira a uma fileira inimiga:\nPor {Counter} turnos, no começo do turno, causa {Damage} de dano a todas as unidades da fileira.
+113204_fluff;O feiticeiro Stammelford moveu uma montanha que obscurecia a vista da torre dele. Dizem que ele só conseguiu fazer isso porque acorrentou um d'ao, um elemental da terra.
+113204_name;Tremores
+113204_tooltip;Causa {Damage} de dano a todos os inimigos.
+113205_fluff;Uma parte importante de todo equipamento de caçador de feiticeiros. Em um instante, transforma o feiticeiro mais poderoso em gelatina de porco pronta para cortar.
+113205_name;Bomba de Dimerítio
+113205_tooltip;Destrói um artefato.
+113206_fluff;Contemple Tedd Deireadh, a Era Final. Esse é o mundo destruído pela Geada Branca.
+113206_name;Geada Branca
+113206_tooltip;Destrói todos os artefatos.
+113207_fluff;Mais um para a moral, menos um para audição.
+113207_name;Comandante: Corneta
+113207_tooltip;Reforça {maxtargets} unidades adjacentes em {Boost}.
+113208_fluff;O druida vaedermakar controla os elementos. Ele acalma e silencia tempestades, reúne o granizo destrutivo e invoca relâmpagos para transformar inimigos em cinzas. Então eu te aconselho... Trate-o com o maior respeito.
+113208_name;Vaedermakar
+113208_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: aumenta a duração de todos os efeitos de fileira em {Counter}.\n<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: reduz todas as durações de efeitos de fileira em {Counter2}.
+113209_fluff;Algumas das monstruosas criações de Alzur ainda vagam pelo mundo. Não menos importante é o horrível viy, que massacrou seu mago-criador e destruiu metade de Maribor antes de fugir para os bosques sombrios de Riverdell.
+113209_name;Cruz Dupla de Alzur
+113209_tooltip;Usa a unidade mais alta do seu baralho.
+113301_fluff;Não temos a mínima chance de realizar um feitiço tão complexo como o Trovão de Alzur. É dito que Alzur tinha a voz de uma corneta de caça e a dicção de um mestre orador.
+113301_name;Trovão de Alzur
+113301_tooltip;Causa {Damage} de dano a uma unidade.
+113302_fluff;O melhor da geada? Os corpos dos mortos não apodrecem tão rápido.
+113302_name;Frio Congelante
+113302_tooltip;Aplica este efeito de fileira a uma fileira inimiga: \nPor {Counter} turnos, no começo do turno, causa {Damage} de dano à unidade mais baixa desta fileira.
+113303_fluff;O Sol tá brilhando, Dromle! O Sol tá brilhando! Acho que ainda temos chance...
+113303_name;Céu Limpo
+113303_tooltip;Retira todos os efeitos de fileira do seu lado.
+113305_fluff;O sonho de um bom comandante... e o terror de um péssimo.
+113305_name;Névoa Impenetrável
+113305_tooltip;Aplica este efeito de fileira a uma fileira inimiga:\nPor {Counter} turnos, no começo do turno, causa {Damage} de dano à unidade mais alta desta fileira.
+113306_fluff;Mata mais rápido do que você consegue recitar o título inteiro do imperador de Nilfgaard.
+113306_name;Veneno de mantícora
+113306_tooltip;Causa {Damage} de dano a {MaxTargets} inimigos.
+113307_fluff;A fera avançou neles, selvagem, com fúria nos olhos e imune a dor e a qualquer ataque que os defensores poderiam desferir. Nada poderia detê-la...
+113307_name;Pico de Adrenalina
+113307_tooltip;Concede ou remove <keyword=resilient>resiliência</keyword> de uma unidade.
+113308_fluff;As epidemias não respeitam pessoas ou fronteiras.
+113308_name;Epidemia
+113308_tooltip;Destrói a(s) unidade(s) mais baixa(s).
+113309_fluff;Geralt se afastou. Ele já viu homens serem atingidos por Incinerar antes. Ou, mais precisamente, viu o que restou deles depois.
+113309_name;Incinerar
+113309_tooltip;Destrói a(s) unidade(s) mais alta(s).
+113310_fluff;Simbolizando nascimento e rejuvenescimento, esta poção acelera a velocidade na qual as feridas cicatrizam e curam.
+113310_name;Andorinha
+113310_tooltip;Reforça uma unidade em {Boost}.
+113311_fluff;O rosto do bruxo mudou... Sua expressão se tornou desumana, horrenda.
+113311_name;Trovoada
+113311_tooltip;<keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>: reforça uma unidade em {Boost}.\n<keyword=charge>Carga</keyword>: {Charges}.
+113312_fluff;Até a chuva daqui tem cheiro podre.
+113312_name;Chuva Torrencial
+113312_tooltip;Aplica este efeito de fileira a uma fileira inimiga:\nPor {Counter} turnos, no começo do turno, causa {Damage} de dano a {MaxTargets} unidades aleatórias da fileira.
+113313_fluff;Qualquer homem, mulher e criança em Skellige consegue cortar um inimigo com um machado. Mas só um grupo seleto consegue cortar as orelhas do inimigo com um grito de fúria.
+113313_name;An Craite: Clamante
+113313_tooltip;<keyword=deploy>Mobilização</keyword>: reforça a si mesma com a quantidade de dano sofrido por um inimigo.
+113315_fluff;Encare por muito tempo o abismo, que o abismo encarará você de volta.
+113315_name;Espelho de Bekker
+113315_tooltip;Escolha uma unidade. Se estiver reforçada, causa dano a ela equivalente a duas vezes o seu reforço. Se estiver danificada, reforça-a em duas vezes o seu dano sofrido.
+113316_fluff;Medicus curat, magicae sanat.
+113316_name;Renovar
+113316_tooltip;Usa uma unidade da sua pilha de descarte.
+113319_fluff;Os braços do mago estavam torcidos e presos atrás das costas. Os redanianos deram uma boa sacudida nos grilhões. Terranova gritou, saltou, se curvou para trás, se curvou para frente, vomitou e gemeu. Estava claro do que eram feitas as suas algemas.
+113319_name;Grilhão de Dimerítio
+113319_tooltip;<keyword=lock>Bloqueia</keyword> uma unidade e causa {Damage} de dano a ela.
+113320_fluff;Depois de comer vários deles, o mundo nunca mais será o mesmo...
+113320_name;Mardroeme
+113320_tooltip;Causa {Damage} de dano em uma unidade, depois a reforça em {Boost}.
+122101_fluff;Não fui um bom pai, eu sei, mas... talvez não seja tarde demais.
+122101_name;Barão Sanguinário
+122101_tooltip;<keyword=order>Ordem</keyword>: dobra a contagem de <keyword=charge>carga</keyword> de uma unidade aliada.
+122102_fluff;Um patriota... e um filho da mãe, literalmente.
+122102_name;Vernon Roche
+122102_tooltip;<keyword=spying>Espionagem</keyword>.\n<keyword=deploy>Mobilização</keyword>: usa as {MaxTargets} cartas no topo do seu baralho.
+122103_fluff;Esse quadrado deveria ter os nomes dos meus soldados, dos mortos, não o meu.
+122103_name;John Natalis
+122103_tooltip;<keyword=melee>Corpo a corpo</keyword>: enquanto esta unidade estiver no campo de batalha, todas as unidades aliadas com <keyword=order>Ordens</keyword> ganham <keyword=zeal>Zelo</keyword>.
+122104_fluff;Logo, o poder dos reis murchará, e a Estada tomará o seu lugar de direito.
+122104_name;Philippa Eilhart
+122104_tooltip;postponed
+122105_fluff;Você acha mesmo que me engana com essa história que acabou de inventar?
+122105_name;Sigismund Dijkstra
+122105_tooltip;postponed
+122106_fluff;Sou uma médica. Costumo saber o que faço quando prescrevo alguma coisa.
+122106_name;Shani
+122106_tooltip;<keyword=order>Ordem</keyword>: concede <keyword=immune>imune</keyword> a uma unidade.
+122107_fluff;Capitão... nossas flechas, elas... elas criaram asas!
+122107_name;Triss: Borboletas
+122107_tooltip;<keyword=deploy>Mobilização</keyword>: Reforça uma unidade aleatória na sua mão em {Boost}.
+122108_fluff;Se eu for morrer hoje, quero estar estonteante para a ocasião.
+122108_name;Keira Metz
+122108_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: usa um feitiço do seu baralho.
+122201_fluff;Dandelion, você é cínico, tarado, mentiroso e o meu melhor amigo.
+122201_name;Dandelion
+122201_tooltip;<keyword=ranged>Longa distância</keyword>: sempre que um aliado ganha uma <keyword=charge>carga</keyword>, reforça-o em {Boost}.
+122202_fluff;Imagine Dandelion de vestido e você tem uma boa ideia de quem se trata.
+122202_name;Priscilla
+122202_tooltip;<keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>: concede {Charges} de <keyword=charge>carga</keyword> a uma unidade.\n<keyword=cooldown>Tempo de espera</keyword>: {Cooldown}.
+122203_fluff;Se manda! Não somos todos tarados, caralho. Alguns de nós têm sentimentos.
+122203_name;Thaler
+122203_tooltip;<keyword=deploy>Mobilização</keyword>: remove todas as <keyword=charge>cargas</keyword> de um inimigo e a dá elas a Thaler.\n<keyword=order>Ordem</keyword>: concede {Charges2} de <keyword=charge>carga</keyword> a uma unidade aliada.\n<keyword=charge>Carga</keyword>: {Charges}.
+122204_fluff;É melhor viver um dia como rei do que uma vida inteira como um pedinte.
+122204_name;Ves
+122204_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo. \n<keyword=order>Ordem</keyword>: concede <keyword=zeal>Zelo</keyword> a um aliado.
+122205_fluff;A Estada não é humilde. O nosso desejo de poder pode ser o nosso fim.
+122205_name;Síle de Tansarville
+122205_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo.\n<keyword=order>Ordem</keyword>: causa {Damage} de dano a um inimigo.
+122206_fluff;A filha da selva de Kaedwen.
+122206_name;Sabrina Glevissig
+122206_tooltip;<keyword=spying>Espionagem</keyword>.\n<keyword=deathwish>Desejo de Morte</keyword>: causa {Damage} de dano a todas as unidades nesta fileira.
+122207_fluff;Uma vez, fiz um prisioneiro vomitar as próprias tripas... Ah, os bons tempos...
+122207_name;Dethmold
+122207_tooltip;<keyword=order>Ordem</keyword>, <keyword=ranged>Longa distância</keyword>: causa dano a um inimigo equivalente à quantidade de reforço recebido por Dethmold.
+122208_fluff;Ele veste uma armadura de ouro. Claro que é um idiota.
+122208_name;Príncipe Stennis
+122208_tooltip;<keyword=deploy>Mobilização</keyword>: reforça um aliado em {Boost} e lhe concede {Charges} de <keyword=charge>carga</keyword>.
+122209_fluff;Eu me juntar a exército Radovid. Ordem receber, proteger os barcoses.
+122209_name;Trololó
+122209_tooltip;postponed
+122210_fluff;Disseram que a rainha tendia a ter acessos de raiva, mas não imaginava que...
+122210_name;Princesa Pavetta
+122210_tooltip;<keyword=deploy>Mobilização</keyword>: embaralha uma unidade de bronze e todas as suas cópias da sua pilha de descarte no seu baralho.
+122211_fluff;Só me importo com o que é bom para Aretuza e meus pupilos.
+122211_name;Margarita Laux-Antille
+122211_tooltip;<keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>: gasta {Charges} <keyword=charge>cargas</keyword> para <keyword=lock>bloquear</keyword> uma unidade inimiga.\n<keyword=charge>Carga</keyword>: {Charges}.
+122212_fluff;Poucos sabem mais sobre a arte da cura que Nenneke.
+122212_name;Nenneke
+122212_tooltip;<keyword=order>Ordem</keyword>, <keyword=ranged>Longa distância</keyword>: reforça uma unidade em {Boost}.\n<keyword=charge>Carga</keyword>: {Charges}.
+122213_fluff;Beber sem Odrin é como remar sem um remo.
+122213_name;Odrin
+122213_tooltip;<keyword=deploy>Mobilização</keyword>: concede {Charge} de <keyword=charge>carga</keyword> a todas as unidades aliadas.
+122214_fluff;Avante, pobres coitados! Avante ou os nilfgaardianos serão a menor de suas preocupações!
+122214_name;Kaedwen: Sargento
+122214_tooltip;<keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>: reforça um aliado em {Boost}.\n<keyword=charge>Carga</keyword>: {Charges}.
+122216_fluff;Todos que desejam comercializar em Novigrad têm duas opções: aceitar os termos do Cutelo ou dar adeus.
+122216_name;Cutelo
+122216_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} a uma unidade para cada carta na sua mão.
+122301_fluff;O que as bestas querem ser quando crescerem.
+122301_name;Balista
+122301_tooltip;<keyword=order>Ordem</keyword>: causa {Damage} de dano a uma unidade. \n<keyword=charge>Carga</keyword>: {Charges}.
+122302_fluff;Nunca consegue acertar no mesmo lugar duas vezes, o que, pensando bem, pode ser um problema sério.
+122302_name;Balista Reforçada
+122302_tooltip;<keyword=order>Ordem</keyword>: causa {Damage} de dano a uma unidade. \n<keyword=charge>Carga</keyword>: {Charges}.
+122303_fluff;O castelo não vai se derrubar sozinho, vai? Mexam esses trabucos!
+122303_name;Trabuco
+122303_tooltip;<keyword=order>Ordem</keyword>, <keyword=ranged>Longa distância</keyword>: causa {Damage} de dano a uma unidade. Se ela for destruída, causa {Damage} de dano às unidades adjacentes a ela.\n<keyword=charge>Carga</keyword>:{Charges}.
+122304_fluff;A nova moda em ataques a cidades muradas.
+122304_name;Torre de Cerco
+122304_tooltip;<keyword=order>Ordem</keyword>, <keyword=melee>Corpo a corpo</keyword>: reforça aliados adjacentes em {Boost}.\n<keyword=charge>Carga</keyword>: {Charges}.
+122306_fluff;Está vendo essa tatuagem? Sou eu, atacando um dragão. Um DRAGÃO, senhora.
+122306_name;Saqueador Caçador
+122306_tooltip;postponed
+122307_fluff;Não tivemos muita sorte com monstros recentemente, então nos alistamos.
+122307_name;Saqueador Batedor
+122307_tooltip;postponed
+122308_fluff;Pela glória! Por Radovid!
+122308_name;Cavaleiro Redaniano
+122308_tooltip;postponed
+122309_fluff;"Precisa recalibrar o braço em cinco graus." "Precisa o que e quanto?"
+122309_name;Auxiliar de Cerco
+122309_tooltip;<keyword=deploy>Mobilização</keyword>: concede {Charges} de <keyword=charge>carga</keyword> a uma máquina aliada.
+122310_fluff;Os Listras Azuis e os Scoia'tael têm uma semelhança: o ódio alimenta ambos.
+122310_name;Batedor dos Listras Azuis
+122310_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: <keyword=spawn>faz surgir</keyword> uma cópia de um aliado de bronze para o fim do seu baralho.
+122311_fluff;Faria qualquer coisa por Teméria, mas, na maioria das vezes, eu mato por ela.
+122311_name;Listra Azul: Comando
+122311_tooltip;<keyword=order>Ordem</keyword>: <keyword=summon>invoca</keyword> uma cópia desta unidade do seu baralho para esta fileira.
+122312_fluff;Vermelho no vermelho, branco no branco e tudo estará bem.
+122312_name;Médica de Campo
+122312_tooltip;<keyword=deploy>Mobilização</keyword>: reforça unidades adjacentes em {Boost}.
+122313_fluff;Todos, fiquem calmos. E em alerta. Os verdadeiros donos desses mantos e desses chapéus de pele de castor podem estar em outro lugar.
+122313_name;Bandeira de Dun
+122313_tooltip;<keyword=deploy>Mobilização</keyword>: ganha <keyword=zeal>Zelo</keyword> se usado adjacente a {MaxTargets} soldados.\n<keyword=order>Ordem</keyword>: causa {Damage} de dano a um inimigo.
+122314_fluff;Sempre quis saber... como diachos esses rapazes lidam com os chamados da natureza?
+122314_name;Kaedwen: Cavalaria
+122314_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: remove todas as <keyword=charge>cargas</keyword> de um inimigo, depois causa dano a ele equivalente ao número de cargas removidas.
+122315_fluff;Sentiu isso? A terra treme toda vez que a grande Bertha perde uma pedra.
+122315_name;Trabuco Reforçado
+122315_tooltip;<keyword=ranged>Longa distância</keyword>: a cada turno, no fim do turno, causa {Damage} de dano a um inimigo aleatório na fileira de longa distância.
+122316_fluff;Teméria! Teméria! Que os deuses lhe concedam sua graça! E pela eternidade golpeiem seus inimigos com desgraça!
+122316_name;Teméria: Infantaria
+122316_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo por cada unidade reforçada nesta fileira.
+122317_fluff;Morrerei pela Redânia, matarei pela Redânia... Comerei minhocas pela Redânia!
+122317_name;Elite Redaniana
+122317_tooltip;postponed
+122318_fluff;Nunca erro uma segunda vez.
+122318_name;Mestre em Cerco
+122318_tooltip;Sempre que uma máquina é colocada nesta fileira, concede <keyword=zeal>zelo</keyword> a ela.
+122401_fluff;Reconheça os seus erros e enterre-os, ou eles voltarão para assombrá-lo.
+122401_name;Fetulho
+122401_tooltip;A cada turno, no fim do turno, causa {Damage} de dano ao inimigo mais poderoso.\n<keyword=order>Ordem</keyword>: transforma-se em um Protego.
+122402_fluff;Dou-te o nome de Dea... E te aceito como minha filha.
+122402_name;Protego
+122402_tooltip;A cada turno, no fim do turno, reforça o aliado menos poderoso em {Boost}.\n<keyword=order>Ordem</keyword>: transforma-se em um Fetulho.
+122403_fluff;Os magos em Nilfgaard são descartáveis. Se um deles decepciona o imperador, uma dúzia aguarda para dar o que ele deseja.
+122403_name;Novato de Vicovaro
+122403_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: compra uma carta, depois coloca uma carta da sua mão no topo do seu baralho.
+123201_fluff;Soe a retirada! Reagrupar! E espere reforços!
+123201_name;Reforços
+123201_tooltip;<keyword=spawn>Faz surgir</keyword> uma cópia de uma unidade de bronze aliada e a <keyword=summon>invoca</keyword> para esta fileira.
+123301_fluff;Não é riqueza ou fama, mas a sincera intenção, é isso que um herói tem no coração!
+123301_name;Aspirante Temeriano
+123301_tooltip;<keyword=spawn>Faz surgir</keyword>
+131101_fluff;Tenha um pouco de dignidade. Sabes bem como isto termina.
+131101_name;Eredin Bréacc Glas
+131101_tooltip;<keyword=order>Ordem</keyword>: reforça uma unidade em {Boost} e concede a ela <keyword=immune>imune</keyword>.
+131102_fluff;Pinturas devem transmitir emoções, não palavras.
+131102_name;Ge'els
+131102_tooltip;<keyword=ranged>Longa distância</keyword>: sempre que você usa uma unidade com <keyword=deathwish>Desejo de Morte</keyword>, sua habilidade de <keyword=deathwish>Desejo de Morte</keyword> é ativada.
+132101_fluff;Alguns homens não admitem derrota. Alguns continuam lutando do além.
+132101_name;Draug
+132101_tooltip;<keyword=deploy>Mobilização</keyword>: transforma todos os aliados humanos em Kaedwen: Regressários sem mudar o poder deles.
+132102_fluff;Ele dizia que nenhuma arma perfuraria sua armadura. E tinha razão, mesmo após sua morte.
+132102_name;Ira de Imlerith
+132102_tooltip;Causa dano a um inimigo no valor do poder do seu aliado mais alto.
+132103_fluff;Nunca caçamos nesta floresta, mesmo que o vilarejo inteiro passe fome.
+132103_name;Espírito do Bosque
+132103_tooltip;<keyword=order>Ordem</keyword>: reforça uma unidade na sua mão em {Boost}.
+132104_fluff;Um filho favorecido que escolheu uma vida de vilania.
+132104_name;Caranthir Ar-Feiniel
+132104_tooltip;<keyword=deploy>Mobilização</keyword>: <keyword=spawn>faz surgir</keyword> uma cópia com {Power} de poder de uma unidade da sua mão e a <keyword=summon>invoca</keyword> para esta fileira.
+132105_fluff;Vocês, humanos, possuem... gostos incomuns.
+132105_name;Avallac'h
+132105_tooltip;<keyword=order>Ordem</keyword>: concede <keyword=immune>Imune</keyword> a uma unidade aliada.
+132106_fluff;Há mais coisas entre o céu e a terra do que sonharam todos os vãos filósofos do mundo.
+132106_name;Caseiro
+132106_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: usa um artefato da sua pilha de descarte.
+132107_fluff;Como matar um kayran? Pegue a sua melhor espada e venda-a para contratar um bruxo.
+132107_name;Kayran
+132107_tooltip;<keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>: <keyword=consume>Consome</keyword> um aliado.\n<keyword=charge>Carga</keyword>: {Charges}.
+132108_fluff;Por que lutar? Há muitos meios melhores para se liberar o excesso de energia...
+132108_name;Miruna
+132108_tooltip;<keyword=deathwish>Desejo de Morte</keyword>: <keyword=seize>toma</keyword> um inimigo com {Power} de poder ou menos.
+132201_fluff;Um cruzamento entre um caranguejo, uma aranha... e uma montanha.
+132201_name;Aracna Gigante
+132201_tooltip;<keyword=spawn>Faz surgir</keyword> {MaxTargets} aracnas machos e os <keyword=summon>invoca</keyword> para esta fileira, depois reforça todos os outros Insectoides nesta fileira em {Boost}.
+132202_fluff;A maioria das bruxas sepulcrais se alimentam de restos apodrecidos escavados de túmulos. Mas algumas entram escondidas em cabanas, roubam crianças, matam os idosos e geralmente são vizinhas muito indesejadas.
+132202_name;Bruxa Lamuriosa
+132202_tooltip;<keyword=order>Ordem</keyword>: <keyword=banish>bane</keyword> todas as unidades na sua pilha de descarte, depois reforça a si mesma em {Boost} por cada unidade banida.
+132203_fluff;Já vi muitos bichos feios na minha vida, moreias, lampreias, peixe-gota... mas nunca algo assim!
+132203_name;Abaya
+132203_tooltip;<keyword=thrive>Prosperar</keyword>.\n<keyword=deploy>Mobilização</keyword>: ativa a habilidade de <keyword=deathwish>Desejo de Morte</keyword> de um aliado de bronze.
+132204_fluff;"O que foi que eu fiz?", disse o mago, assustado com a sua criação.
+132204_name;Espanto: Dormente
+132204_tooltip;Após {Counter} unidades aliadas terem sido destruídas, acorda o Espanto.
+132205_fluff;Uma espécie incomum de demônio encontrada em Ard Skellig. Curiosamente exigente com a comida.
+132205_name;Morvudd
+132205_tooltip;<keyword=deploy>Mobilização</keyword>: reforça todos os aliados Feras em {Boost}.
+132206_fluff;Eu seria a sua melhor... e a última.
+132206_name;Sibilante
+132206_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo.\nAumenta este dano em {Damage2} sempre que usar Alquimista ou Tecelã.
+132207_fluff;A gente vai te picar todinho, moleque. Vai dar um ótimo caldo.
+132207_name;Alquimista
+132207_tooltip;<keyword=deploy>Mobilização</keyword>: <keyword=consume>consome</keyword> {MaxTargets} unidade(s) aliada(s).\nAumenta o número de alvos em {Maxtargets2} sempre que usa Sibilante ou Tecelã.
+132208_fluff;Sinto a sua dor. Vejo o seu medo.
+132208_name;Tecelã
+132208_tooltip;<keyword=deploy>Mobilização</keyword>: reforça um aliado em {Boost}.\nAumenta este reforço em {Boost2} sempre que usar Sibilante ou Alquimista.
+132209_fluff;Um dos monstros mais antigos e letais do mundo. Eu costumava sentir euforia em momentos como este, mas agora a besta é só um obstáculo no meu caminho. Sua carne e sangue quente me ajudarão a sobreviver a este inferno gélido.
+132209_name;Mantícora Imperial
+132209_tooltip;<keyword=deathwish>Desejo de Morte</keyword>: destrói o inimigo mais baixo.
+132210_fluff;O calor não é para você? Então a vitória também não é.
+132210_name;Ifrit Colossal
+132210_tooltip;<keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>: causa {Damage} de dano a todas as unidades na fileira oposta.\n<keyword=cooldown>Tempo de espera</keyword>: {Cooldown}.
+132211_fluff;Cuidado, rapazes, tem nekkers debaixo desta ponte aqui.
+132211_name;Nekker guerreiro
+132211_tooltip;<keyword=thrive>Prosperar</keyword>.
+132212_fluff;Fugi uma vez na vida. Foi do Gigante de Gelo. Não tenho vergonha nenhuma.
+132212_name;Gigante de Gelo
+132212_tooltip;Sem habilidade.
+132213_fluff;Como se luta contra um elemental de terra? Não se luta. Se corre. E rápido.
+132213_name;D'ao Primordial
+132213_tooltip;Sem habilidade.
+132214_fluff;Cada guerreiro da caçada selvagem passou por um rigoroso processo de seleção, mas a cavalaria pessoal de Eredin conta apenas com mais brutais e ferozes de Aen Elle.
+132214_name;Nithral
+132214_tooltip;<keyword=deploy>Mobilização</keyword>: destrói um artefato inimigo. Se você controla a unidade mais alta, causa {Damage} de dano às unidades adjacentes ao artefato.
+132215_fluff;Ele sempre concede exatamente o que desejamos. Este é o problema.
+132215_name;Gaunter O'Dim
+132215_tooltip;<keyword=deploy>Mobilização</keyword>: concede <keyword=doomed>Condenado</keyword> a uma unidade inimiga.\n<keyword=order>Ordem</keyword>: destrói um inimigo <keyword=doomed>Condenado</keyword>.
+132216_fluff;Grande, mau e feio. Mora nos esgotos.
+132216_name;Sapo Príncipe
+132216_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: <keyword=consume>consome</keyword> uma unidade com {Power} de poder ou menos.
+132217_fluff;Harpias comuns comem carniça. Harpias celaeno, essas devoram sonhos.
+132217_name;Harpia celaeno
+132217_tooltip;<keyword=deploy>Mobilização</keyword>: <keyword=consume>consome</keyword> uma unidade aliada.
+132218_fluff;Não perturbe.
+132218_name;Velho Lança: Dormente
+132218_tooltip;Sem habilidade.
+132220_fluff;Bebendo o sangue do continente desde a Conjunção.
+132220_name;Nekurato
+132220_tooltip;postponed
+132301_fluff;A névoa chega sorrateiramente. Nevolosos chegam matando.
+132301_name;Nevoloso
+132301_tooltip;<keyword=deathwish>Desejo de Morte</keyword>: <keyword=summon>invoca</keyword> uma cópia desta unidade do seu baralho a uma fileira aliada aleatória.
+132302_fluff;Muitos medos primitivos jazem no coração dos homens. O medo da névoa tem razão de ser...
+132302_name;Antigo Nevoloso
+132302_tooltip;<keyword=deathwish>Desejo de Morte</keyword>: <keyword=summon>invoca</keyword> esta unidade da pilha de descarte para a mesma fileira, reforça-a em {Boost} e a concede <keyword=doomed>Condenado</keyword>.
+132303_fluff;Imagine o filho de uma cobra alada e um pesadelo. Os wyverns são piores.
+132303_name;Wyvern
+132303_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo.
+132304_fluff;Feiura é como a natureza diz: "fica longe".
+132304_name;Aracna macho
+132304_tooltip;<keyword=doomed>Condenado</keyword>.
+132305_fluff;Esses pequenos são quase bonitinhos, se ignorar que são assassinos impiedosos.
+132305_name;Nekker
+132305_tooltip;<keyword=thrive>Prosperar</keyword>.\n<keyword=deploy>Mobilização</keyword>: <keyword=spawn>faz surgir</keyword> uma cópia básica desta unidade e a <keyword=summon>invoca</keyword> para esta fileira.
+132306_fluff;Se carniçais são parte do ciclo da vida, esse ciclo deve ser bem abusivo.
+132306_name;Carniçal
+132306_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: <keyword=consume>consome</keyword> uma unidade na sua pilha de descarte.
+132307_fluff;Grifos gostam de brincar com a presa. Gostam de comê-la viva, aos pedaços.
+132307_name;Grifo
+132307_tooltip;<keyword=deploy>Mobilização</keyword>: destrói uma unidade aliada nesta fileira. Se não há unidades, destrói a si mesma.
+132308_fluff;Eles ficavam parados em cima de seus cavalos, relaxados. Ele viu as armas deles: lanças curtas com pontas largas, espadas com guardas esquisitas, machados de batalha, bisarmas dentadas.
+132308_name;Guerreiro Vran
+132308_tooltip;Sempre que uma unidade é destruída durante o seu turno, causa {Damage} de dano a um inimigo aleatório.
+132309_fluff;A Geada Branca está vindo.
+132309_name;Caçada: Guerreiro
+132309_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a uma unidade por unidade de Caçada Selvagem nesta fileira.
+132310_fluff;Primeiro os chifres de búfalo em seus elmos invadem sua visão, depois o brasão entre eles, e finalmente o rosto caveiroso exposto por baixo de suas viseiras.
+132310_name;Caçada: Cavaleiro
+132310_tooltip;<keyword=deploy>Mobilização</keyword>: se você controla a unidade mais alta, <keyword=summon>invoca</keyword> uma cópia de Cavaleiro da Caçada Selvagem do seu baralho para esta fileira.
+132312_fluff;Temerosos por suas vidas, os moradores de Hengfors se esconderam atrás das espessas muralhas da cidade. Ganharam muito com isso...
+132312_name;Mergulho de Predador
+132312_tooltip;Cada jogador destrói a sua unidade mais baixa.
+132313_fluff;Quem diria que morcegos gigantes teriam uma queda por joias cafonas?
+132313_name;Ekimmu
+132313_tooltip;postponed
+132314_fluff;Por mais que o bruxo cobice o ouro, pelo extermínio de um afogador não deverás dar-lhe mais que uma moeda de prata ou três meio centavos.
+132314_name;Afogador
+132314_tooltip;<keyword=thrive>Prosperar</keyword>.\n<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo e o move para a outra fileira.
+132315_fluff;Há várias espécies de harpias. Todas são cleptomaníacas.
+132315_name;Harpia
+132315_tooltip;<keyword=doomed>Condenado</keyword>.
+132316_fluff;Omelete de ovo de harpia, uma iguaria deliciosa, meu senhor. Muito valorizada também, pois, como deve saber, elas não gostam muito que levem seus ovos.
+132316_name;Ovo de Harpia
+132316_tooltip;<keyword=deathwish>Desejo de Morte</keyword>: <keyword=spawn>faz surgir</keyword> uma Harpia e a <keyword=summon>invoca</keyword> para uma fileira aliada aleatória.
+132402_fluff;Grite "Devastar!" e libere os cães da guerra.
+132402_name;Caçada: Cérberos
+132402_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo. Se você controla a unidade mais alta, causa {Damage2} de dano em vez disso.
+132403_fluff;"Relaxa, eu sei domar lobos...", últimas palavras de Dunbar, o caçador.
+132403_name;Alcateia
+132403_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo.
+132404_fluff;Um certo mago os achava bonitinhos. Foi o destino dele que fez surgir o ditado: "não brinque com fogo..."
+132404_name;Ifrit Enfurecido
+132404_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo.
+132405_fluff;São facilmente confundidos com pedras. Muitos trolls foram desagradavelmente surpreendidos com dores gástricas por isso.
+132405_name;D'ao Frenético
+132405_tooltip;<keyword=deploy>Mobilização</keyword>: destrói um artefato inimigo.
+132406_fluff;Nenhum portão nem muro pode detê-los. Só uma rachadura, é tudo que precisam...
+132406_name;Maerolorn
+132406_tooltip;<keyword=deploy>Mobilização</keyword>: ativa a habilidade de <keyword=deathwish>Desejo de Morte</keyword> de um aliado de bronze.
+132407_fluff;Os magos mais poderosos de Nilfgaard dominaram a arte de criar golens. Em algumas ocasiões, até conseguiram fazê-los lutar pela causa imperial...
+132407_name;Golem Imperial
+132407_tooltip;<keyword=deploy>Mobilização</keyword>: <keyword=reveal>revela</keyword> a unidade no topo do baralho do seu oponente e causa dano a si mesma equivalente ao poder da unidade revelada, depois a embaralha de volta.
+132408_fluff;Ah, você está com problemas até o pescoço agora...
+132408_name;Velho Lança
+132408_tooltip;Sem habilidade.
+132409_fluff;O tolo acreditou em superstições, encheu seus ouvidos de cera e não escutou os avisos. Ele jogou seu navio pra cima do rochedo.
+132409_name;Banquete Horrendo
+132409_tooltip;Causa {Damage} de dano a um inimigo e reforça um aliado em {Boost}.
+133301_fluff;Mais forte que o escudo comum e muito mais estiloso.
+133301_name;Escudo de Wyvern
+133301_tooltip;<keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>: reforça uma unidade em {Boost}. \n<keyword=cooldown>Tempo de espera</keyword>: {Cooldown}.
+133302_fluff;Droga, a imundície tomou conta... Precisamos de um bruxo ou não tem como viver aqui!
+133302_name;Ninho de Aracnas
+133302_tooltip;<keyword=spawn>Faz surgir</keyword> {Counter} Aracnas Machos com 1 de poder e as <keyword=summon>invoca</keyword> para uma fileira aliada.
+142101_fluff;Herdei a habilidade de meu pai de assumir outras formas... Bem, uma outra forma, no meu caso.
+142101_name;Saesenthessis
+142101_tooltip;<keyword=immune>Imune</keyword>.\n<keyword=order>Ordem</keyword>: remove o status <keyword=immune>Imune</keyword> desta unidade pelo restante do turno.
+142102_fluff;Eles percebem quando veem a minha cicatriz: percebem que a morte é iminente.
+142102_name;Isengrim Faoiltiarna
+142102_tooltip;<keyword=deploy>Mobilização</keyword>: reforça todos os outros aliados elfos em {Boost}.\nSempre que usar um elfo, reforça a si mesma em {Boost2}.
+142103_fluff;Rei ou mendigo, qual a diferença? Um dh'oine a menos.
+142103_name;Iorveth
+142103_tooltip;<keyword=deploy>Mobilização</keyword>: devolve uma armadilha aliada para a sua mão, depois usa uma armadilha.
+142104_fluff;A cada flecha que solto, penso no meu pai. Ele estaria orgulhoso. Eu acho.
+142104_name;Milva
+142104_tooltip;<keyword=immune>Imune</keyword>.\nReforça a si mesma em {Boost} sempre que você usa uma unidade Scoia'tael.
+142105_fluff;Beber sozinho é igual a cagar acompanhado.
+142105_name;Zoltan Chivay
+142105_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: destrói uma unidade com poder menor ou igual ao número de anões aliados.
+142106_fluff;Brokilon sangra... e nem mesmo eu posso curá-la.
+142106_name;Aglaïs
+142106_tooltip;<keyword=deploy>Mobilização</keyword>: no final do turno, dobra os reforços em si mesma.
+142107_fluff;Conhecido por constantemente profetizar o fim do mundo. Não traz muita diversão a festas.
+142107_name;Ithlinne Aegli
+142107_tooltip;<keyword=deploy>Mobilização</keyword>: reforça uma unidade Scoia'tael na sua mão em {Boost}.
+142108_fluff;Hora de encarar a morte de frente.
+142108_name;Schirrú
+142108_tooltip;<keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>: destrói todas as outras unidades com o mesmo poder que Schirrú.
+142201_fluff;Eu sei como cumprir ordens, então poupe-me dos seus conselhos.
+142201_name;Dennis Cranmer
+142201_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: reforça as unidades adjacentes em {Boost2}.\n<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: reforça todas as outras unidades nesta fileira em {Boost}.
+142202_fluff;Sou um sábio. O meu poder é possuir conhecimento, não compartilhá-lo.
+142202_name;Ida Emean aep Sivney
+142202_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: destrói um artefato.\n<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: reforça uma unidade em {Boost}.
+142203_fluff;Somos as gotas de chuva que compõem uma tempestade feroz.
+142203_name;Yaevinn
+142203_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo por cada elfo aliado.
+142204_fluff;Mataria você de perto com gosto, olhando nos olhos, mas você fede, humano.
+142204_name;Toruviel
+142204_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: causa {Damage} de dano a inimigos nas pontas de uma fileira.\n<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: causa {Damage2} de dano a todos os inimigos em uma fileira.
+142205_fluff;As coisas mais terríveis que eu já testemunhei? A praga Catriona, a queima de Vengerberg e o ataque dos Dragões Vrihedd.
+142205_name;Dragão Vrihedd
+142205_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: move uma unidade inimiga para sua outra fileira.\n<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: move uma unidade aliada para sua outra fileira.
+142206_fluff;O caminho à liberdade é traçado pelo sangue, não pela tinta.
+142206_name;Ciaran aep Easnillen
+142206_tooltip;<keyword=deploy>Mobilização</keyword>: <keyword=lock>bloqueia</keyword> uma unidade e a move para a outra fileira.
+142207_fluff;O nosso hidromel tem cheiro podre? Fácil. É só eu quebrar o seu nariz!
+142207_name;Barclay Els
+142207_tooltip;<keyword=deploy>Mobilização</keyword>: reforça um aliado em {Boost} por cada anão aliado.
+142208_fluff;A filha da senhorita Eithné herdou a sublime beleza dela junto de seu ódio selvagem por tudo o que é humano.
+142208_name;Morenn
+142208_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: causa {Damage} de dano a um inimigo.\n<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: <keyword=lock>bloqueia</keyword> uma unidade.
+142209_fluff;Mona...? Não, não. Eu sou Braenn. Uma filha de Brokilon.
+142209_name;Braenn
+142209_tooltip;<keyword=deploy>Mobilização</keyword>: se você controla {Counter} ou mais dríades, ganha <keyword=zeal>zelo</keyword>.\n<keyword=order>Ordem</keyword>: causa {Damage} de dano a um inimigo.\n<keyword=charge>Carga</keyword>: {Charges}.
+142210_fluff;Eu odeio você, dh'oine. São todos iguais.
+142210_name;Malena
+142210_tooltip;<keyword=order>Ordem</keyword>: move uma unidade para a outra fileira no lado dela.\n<keyword=cooldown>Tempo de espera</keyword>: {Cooldown}.
+142211_fluff;Melhor morrer de pé que viver de joelhos.
+142211_name;Aelirenn
+142211_tooltip;Se, no fim do turno, você controlar {MaxTargets} ou mais elfos aliados, <keyword=summon>invoca</keyword> esta unidade do seu baralho para a fileira de combate corpo a corpo.
+142212_fluff;Eu estava lá, no fronte, bem onde a batalha era mais intensa!
+142212_name;Sheldon Skaggs
+142212_tooltip;<keyword=deploy>Mobilização</keyword>: causa dano a um inimigo equivalente ao poder desta unidade.
+142213_fluff;Já ouviu falar do dragão Ocvist? Do Monte Quartzo? Bom, foi Yarpen Zigrin e seu bando de anões que deram um fim a ele.
+142213_name;Yarpen Zigrin
+142213_tooltip;A cada turno, no fim do turno, se não há unidades aliadas no campo de batalha, reforça a si mesma em {Boost}.
+142214_fluff;O amor justifica a loucura em quaisquer das suas formas.
+142214_name;Ele'yas
+142214_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a todas as unidades danificadas e reforça em {Boost} todas as unidades reforçadas.
+142301_fluff;Claro que te ajudo com as feridas, mas isso vai custar.
+142301_name;Curandeira Havekar
+142301_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: reforça uma unidade aliada em {Boost}.\n<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: <keyword=heal>cura</keyword> uma unidade aliada em {Boost2}.
+142302_fluff;"Vrihedd? O que quer dizer?" "Problemas."
+142302_name;Brigada Vrihedd
+142302_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo aleatório.\nSempre que Brigada Vrihedd for movida para a outra fileira, repete sua habilidade de <keyword=deploy>Mobilização</keyword>.
+142303_fluff;O ódio queima mais forte que o fogo e corta mais fundo que qualquer espada.
+142303_name;Oficial Vrihedd
+142303_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: causa {Damage} de dano a uma unidade inimiga.\n<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: reforça um aliado em {Boost}.
+142304_fluff;Eles seguem rastros como cães, correm como cervos e matam como desalmados.
+142304_name;Dol Blathanna: Pícara
+142304_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo aleatório em cada fileira.
+142305_fluff;Trabalhei com picaretas a vida inteira. Machados de guerra não serão problema.
+142305_name;Anão Escaramuçador
+142305_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo. Se ele sobreviver, reforça a si mesma em {Boost}.
+142306_fluff;Estou dizendo que nascemos para lutar. Atacamos diretamente nos joelhos!
+142306_name;Defensor de Mahakam
+142306_tooltip;A cada turno, no fim do turno, reforça a si mesma em {Boost} se esta unidade já foi reforçada.
+142307_fluff;Seja lá o que tenham te dito, elfos não pegam o cabelo de humanos. Tem piolhos demais.
+142307_name;Sapadores Vrihedd
+142307_tooltip;<keyword=deploy>Mobilização</keyword>: se você tem um elfo na sua mão, destrói um artefato inimigo.
+142308_fluff;Eu cuspo nos ideais dos Scoia'tael, mas não no dinheiro deles.
+142308_name;Extorquir
+142308_tooltip;Se há um elfo aliado no campo de batalha, destrói uma unidade inimiga aleatória.
+142309_fluff;Temerianos, redanianos, todos iguais. São melhores quando mortos.
+142309_name;Vanguarda Vrihedd
+142309_tooltip;<keyword=deploy>Mobilização</keyword>: reforça a si mesmo em {Boost} para cada elfo na sua mão.
+142310_fluff;Dê mais um passo, dh'oine. Você ficaria bem com uma flecha entre os olhos.
+142310_name;Dol Blathanna: Arco
+142310_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: causa {Damage} de dano a um inimigo.\n<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: causa {Damage2} de dano a {MaxTargets} unidades.
+142311_fluff;A chave é mesclar o prazer e o trabalho, como quando se bate em inimigos e ganha-se dinheiro por isso.
+142311_name;Anão Mercenário
+142311_tooltip;<keyword=order>Ordem</keyword>: causa {Damage} de dano a um inimigo.\n<keyword=charge>Carga</keyword>: {Charges}.\nGanha {Charges2} de <keyword=charge>carga</keyword> sempre que você usar um Anão.
+142312_fluff;Elfo, anão, tanto faz. Desde que tenham dinheiro.
+142312_name;Auxiliar Havekar
+142312_tooltip;<keyword=deploy>Mobilização</keyword>: reforça um aliado em {Boost}. Se você controla um artefato, reforça-o em {Boost2} em vez disso.
+142313_fluff;Quer dizer que a elfa dançou no meio do combate? Você ficou louco, soldado?!
+142313_name;Elfa Dançarina de Guerra
+142313_tooltip;<keyword=deploy>Mobilização</keyword>: se esta unidade está reforçada, causa {Damage} de dano a um inimigo.
+142314_fluff;Você talvez consiga se esconder deles, mas, se for visto, nem pense em tentar correr.
+142314_name;Dol Blathanna: Flecha
+142314_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo por fileira entre ele e esta unidade.
+142315_fluff;Luto por quem quer que pague mais, ou pelo mais fácil de roubar.
+142315_name;Contrabando Havekar
+142315_tooltip;<keyword=melee>Corpo a corpo</keyword>: a cada turno, no fim do turno, reforça uma unidade aleatória na sua mão em {Boost}.
+142316_fluff;Quando finalmente ouvimos eles, já era tarde demais...
+142316_name;Elite Élfica
+142316_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: causa {Damage} de dano a um inimigo se não há outras unidades na sua fileira.
+142317_fluff;Só há uma punição para quem perturba a paz em Mahakam: uma martelada na cabeça.
+142317_name;Guarda de Mahakam
+142317_tooltip;<keyword=deploy>Mobilização</keyword>: reforça a si mesma pelo número de aliados anões na outra fileira.
+142401_fluff;Muitos não-humanos, cansados do racismo e da xenofobia que encontram nas cidades, decidiram se juntar aos Scoia'tael.
+142401_name;Neófito Scoia'tael
+142401_tooltip;<keyword=deploy>Mobilização</keyword>: <keyword=spawn>faz surgir</keyword> e <keyword=summon>invoca</keyword> uma cópia básica desta unidade para a outra fileira aliada.
+143201_fluff;Você demanda pagamento em sangue da terra, arrancando riquezas dela pela força. A nós, ela dava frutos livremente e por isso nos amava e nós a ela.
+143201_name;Armadilha de Serpente
+143201_tooltip;<keyword=ambush>Emboscada</keyword>: destrói a próxima carta especial usada por seu oponente antes que qualquer habilidade seja ativada.
+143301_fluff;Cuidado...! Mais um passo e você vai se transformar em vidro derretido.
+143301_name;Armadilha com Fogo
+143301_tooltip;<keyword=ambush>Emboscada</keyword>: causa {Damage} de dano à próxima unidade que seu oponente usar.\n<keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>: vira para cima e causa {Damage2} de dano a uma unidade.
+152101_fluff;Em vez de lamentar aqueles que perdemos, vamos beber em homenagem a eles!
+152101_name;Hjalmar an Craite
+152101_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: <keyword=banish>bane</keyword> uma unidade na sua pilha de descarte e causa dano a um inimigo equivalente ao poder dela.
+152103_fluff;Apenas os ignorantes são incapazes de valorizar a importância dos mitos.
+152103_name;Arminho
+152103_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: usa uma carta de alquimia do seu baralho.
+152104_fluff;Quando chegar a hora certa, ouviremos o canto do galo Kambi e presenciaremos o despertar de Hemdall.
+152104_name;Kambi
+152104_tooltip;<keyword=deploy>Mobilização</keyword>: <keyword=discard>descarta</keyword> a carta mais à direita na sua mão, depois obriga seu oponente a fazer o mesmo.
+152105_fluff;Skellige precisa de um rei forte. Custe o que custar.
+152105_name;Birna Bran
+152105_tooltip;<keyword=deploy>Mobilização</keyword>: compra {MaxTargets} cartas, depois <keyword=discard>descarta</keyword> {MaxTargets} cartas.
+152106_fluff;WAAAAAAAAAAGH!!!
+152106_name;Lugos Maluco
+152106_tooltip;<keyword=deploy>Mobilização</keyword>: causa dano a um inimigo equivalente a duas vezes o número de inimigos que sofreram dano.
+152107_fluff;O nome verdadeiro dela é Astrid Lyttneyd Ásgeirrfinnbjornsdottir, mas nenhum formulário tinha espaço pra isso.
+152107_name;Coral
+152107_tooltip;<keyword=order>Ordem</keyword>: <keyword=discard>descarta</keyword> uma carta, depois compra uma carta.\n<keyword=charge>Carga</keyword>: {Charges}.\nSempre que uma carta especial é <keyword=discard>descartada</keyword>, causa {Damage} de dano a um inimigo.
+152109_fluff;Basta mencionar esse nome para os nilfgaardianos que eles borram as ceroulas.
+152109_name;Javardo dos Mares
+152109_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: causa {Damage} de dano a todos os inimigos danificados.
+152201_fluff;Estou prestes a vomitar de tanto tédio.
+152201_name;Lugos Todo Roxo
+152201_tooltip;Sempre que esta unidade sofre dano, causa {Damage} de dano a uma unidade inimiga aleatória.
+152202_fluff;A curta distância, trolls nunca usam armas. E por que usariam?
+152202_name;Investida do Campeão
+152202_tooltip;Causa {Damage} de dano a uma unidade. \n<keyword=bloodthirst>Sede de Sangue</keyword> {Bloodthirst}: destrói uma unidade em vez disso.
+152203_fluff;Quando uma ordem de prisão diz "vivo ou morto", a maioria dos caçadores de recompensa vai simplesmente te matar. Não eu. Se eu te pegar, você vai ser enforcado e eu vou te fazer cócegas enquanto isso.
+152203_name;Djenge Frett
+152203_tooltip;<keyword=bloodthirst>Sede de Sangue</keyword> {Bloodthirst}: <keyword=lock>bloqueia</keyword> uma unidade inimiga.
+152204_fluff;Já reuni todos os burgomestres. Diga o que tem a dizer.
+152204_name;Donar an Hindar
+152204_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo.\n<keyword=bloodthirst>Sede de Sangue</keyword> {Bloodthirst}: causa {Damage2} de dano a um inimigo em vez disso.
+152205_fluff;Ouça agora as histórias dos feitos heroicos do clã an Craite.
+152205_name;Draig Bon-Dhu
+152205_tooltip;<keyword=deploy>Mobilização</keyword>: reforça todos os aliados Guerreiros em {Boost}.
+152206_fluff;Um arquedruida, mestre em alquimia e o velho mais rabugento das ilhas.
+152206_name;Gremist
+152206_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: usa uma carta de Alquimia de bronze da sua pilha de descarte.
+152207_fluff;Um brinde ao imperador de Nilfgaard... Que ele tenha uma morte horrível!
+152207_name;Holger Mão-Negra
+152207_tooltip;Sempre que você usar um Navio, reforce-o em {Boost}.\nSempre que você usar um Pirata, causa {Damage} de dano a um inimigo aleatório.
+152208_fluff;Alguns a chamam de "Dama de Ferro".
+152208_name;Jutta an Dimun
+152208_tooltip;<keyword=deploy>Mobilização</keyword>: se Jutta an Dimun é a unidade mais alta, causa {Damage} de dano a si mesma.
+152209_fluff;O homem mais vil que Skellige já conheceu.
+152209_name;Morkvarg
+152209_tooltip;Quando esta unidade vai para a pilha de descarte, ela é <keyword=summon>invocada</keyword> para a fileira corpo a corpo e ganha <keyword=doomed>Condenado</keyword>.
+152210_fluff;"Domar"? Och, rapaz, Skelligers podem treinar ursos, mas isso não quer dizer que eles são domados...
+152210_name;Urso Selvagem
+152210_tooltip;<keyword=zeal>Zelo</keyword>.\n<keyword=deploy>Mobilização</keyword>: ganha {Charges2} de <keyword=charge>carga</keyword> por cada Urso Selvagem na pilha de descarte.\n<keyword=order>Ordem</keyword>: causa {Damage} de dano a uma unidade.\n<keyword=charge>Carga</keyword>: {Charges}.
+152211_fluff;Fique de joelhos e implore à Modron Freya por perdão.
+152211_name;Rito de Sigrdrifa
+152211_tooltip;<keyword=summon>Invoca</keyword> um guerreiro da sua pilha de descarte para uma fileira aliada.
+152213_fluff;O imperador também achou que ele tivesse sido coroado por acidente. No princípio.
+152213_name;Svanrige Tuirseach
+152213_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=bloodthirst>Sede de Sangue</keyword> {Bloodthirst}: reforça a si mesma em {Boost}.
+152214_fluff;Os deuses falaram: é necessário um sacrifício.
+152214_name;Udalryk an Brokvar
+152214_tooltip;<keyword=order>Ordem</keyword>: causa {Damage} de dano a uma unidade.\n<keyword=charge>Carga</keyword>: {Charges}.\n<keyword=bloodthirst>Sede de Sangue</keyword> {Bloodthirst}: ganha <keyword=zeal>zelo</keyword>.
+152301_fluff;As canções dos escaldos dizem que um berserker transformado no calor da batalha não pode ser distinguido de um urso de verdade.
+152301_name;Berserker Indomável
+152301_tooltip;postponed
+152302_fluff;Agora termine de tomar sua sopa ou um berserker vai vir e te engolir inteiro.
+152302_name;Saqueador Berserker
+152302_tooltip;postponed
+152303_fluff;Os bardos do nosso clã cantarão meus feitos muito depois de você estar morto e esquecido!
+152303_name;An Craite: Guerreiro
+152303_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo. Se for usada da pilha de descarte, causa {Damage2} de dano em vez disso.
+152304_fluff;Pode crer, podemos caçar. Só que... não tem muito a se caçar em Spikeroog...
+152304_name;Caçador Brokvar
+152304_tooltip;<keyword=order>Ordem</keyword>: causa {Damage} de dano a uma unidade.\n<keyword=charge>Carga</keyword>: {Charges}.\nGanha {Charges2} de <keyword=charge>carga</keyword> sempre que <keyword=discard>descartar</keyword> uma carta.
+152305_fluff;Dá para ver o medo nos olhos deles. O medo de mim... o medo do clã Dimun!
+152305_name;Dimun: Pirata
+152305_tooltip;<keyword=deploy>Mobilização</keyword>: move a carta no topo do seu baralho para a sua pilha de descarte.
+152306_fluff;Puxem juntos, icem as cores no alto!
+152306_name;Dimun: Capitão pirata
+152306_tooltip;<keyword=deploy>Mobilização</keyword>.\n<keyword=bloodthirst>Sede de Sangue</keyword> {Bloodthirst}: causa {Damage} de dano a um inimigo.
+152307_fluff;A rainha é vigiada pelas escudeiras mais fortes e valentes que Skellige já viu.
+152307_name;Guarda Real Drummond
+152307_tooltip;<keyword=order>Ordem</keyword>: se esta unidade sofre dano, <keyword=spawn>faz surgir</keyword> uma cópia básica dela e a <keyword=summon>invoca</keyword> à direita.
+152308_fluff;Os feitos do clã Heymaey entrarão para a história.
+152308_name;Heymaey: Escaldo
+152308_tooltip;<keyword=deploy>Mobilização</keyword>: <keyword=discard>descarta</keyword> uma carta, depois compra uma carta.
+152309_fluff;Escapar deles? Nas águas de Skellige? Boa sorte.
+152309_name;Dimun: Dracar leve
+152309_tooltip;<keyword=order>Ordem</keyword>: causa {Damage} de dano a si mesma e a um inimigo.\n<keyword=cooldown>Tempo de espera</keyword>: {Cooldown}.
+152310_fluff;Modron Freya, a Grande Mãe, é a deusa do amor, da beleza e da fartura.
+152310_name;Bênção de Freya
+152310_tooltip;Usa uma unidade de bronze da sua pilha de descarte.
+152311_fluff;Lembre-se das minhas palavras, um bom escudo pode salvar sua vida.
+152311_name;An Craite: Ferreiro
+152311_tooltip;<keyword=order>Ordem</keyword>: reforça um aliado em {Boost}.\n<keyword=charge>Carga</keyword>: {Charges}.\nGanha {Charges2} de <keyword=charge>carga</keyword> sempre que você usa um guerreiro.
+152312_fluff;Espadas são pra moçoilas. Vai arranjar um machado.
+152312_name;Tuirseach: Machadeiro
+152312_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: destrói um inimigo com metade da sua base de poder ou menos.
+152313_fluff;Aos amigos mostramos o coração. Aos inimigos o machado. Lembre-se.
+152313_name;Tuirseach: Combatente
+152313_tooltip;Quando esta unidade é <keyword=discard>descartada</keyword>, é <keyword=summon>invocada</keyword> da sua pilha de descarte para a fileira de combate corpo a corpo.
+152314_fluff;O coração de Hemdall se enche de alegria sempre que os dracares partem para mais um ataque.
+152314_name;An Craite: Dracar
+152314_tooltip;Sempre que seu oponente usa uma unidade, causa {Damage} de dano a ela.
+152315_fluff;Quer dizer que você consegue acertar um alvo em movimento a 150 metros de distância? Eu também, só que durante uma tempestade.
+152315_name;Arqueiro Brokvar
+152315_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: causa dano a um inimigo equivalente ao número de unidades danificadas no lado dele.
+152316_fluff;Homem ou árvore, para um machado de Skellige dá na mesma.
+152316_name;Golpe Estripador
+152316_tooltip;Causa {Damage} de dano a uma unidade.\n<keyword=bloodthirst>Sede de Sangue</keyword> {Bloodthirst}: causa {Damage2} de dano a uma unidade em vez disso.
+152317_fluff;Você vai levar uma surra.
+152317_name;An Craite: Armeiro
+152317_tooltip;<keyword=deploy>Mobilização</keyword>: reforça um aliado em {Boost}. Se ele é um guerreiro, reforça-o em {Boost2} em vez disso.
+152318_fluff;Eles serão destruídos ao colidir com os nossos escudos como ondas na praia escarpada.
+152318_name;Escudeira dos Drummond
+152318_tooltip;Na próxima vez em que esta unidade sofrer dano, <keyword=summon>invoca</keyword> uma cópia dela do seu baralho para esta fileira.
+152402_fluff;Quando chegar a hora da geada branca, Hemdall bradará o seu chamado para a batalha.
+152402_name;Hemdall
+152402_tooltip;Sempre que um guerreiro aliado causa dano a um inimigo, reforça a si mesma com o dano causado.
+152403_fluff;"Ahh, grande demais para uma corcunda. É uma baleia." "Uma baleia? Com um focinho pequeno desses? Essas ervas aí afetaram sua cabeça!"
+152403_name;Delírio
+152403_tooltip;Divide {Damage} de dano aleatoriamente entre todas as unidades em uma fileira inimiga.
+152405_fluff;Nós vamos caçar ursos! Nós vamos pegar um... ESSA COISA É ENORME! CORRAM!
+152405_name;Urso Ancião
+152405_tooltip;Sem habilidade.
+152406_fluff;Grauuur!
+152406_name;Urso Feroz
+152406_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um aliado à esquerda. Se não há um aliado, causa {Damage} de dano a si mesma.
+153201_fluff;Aquelas feiticeiras amaldiçoadas estão roubando nosso brilho! Por que o povo escolheria um procedimento que leva várias horas quando uma garota cheirosa pode resolver seu problema com um aceno?
+153201_name;Restaurar
+153201_tooltip;<keyword=heal>Cura</keyword> todas as unidades em uma fileira.
+153301_fluff;A visão mais horrível que você já viu... A pobre alma foi despedaçada enquanto a fera lambia o seu sangue no chão ao redor.
+153301_name;Lacerar
+153301_tooltip;Causa {Damage} de dano a todas as unidades em uma fileira.
+162101_fluff;Os bruxos nunca morrem na cama.
+162101_name;Letho de Gulet
+162101_tooltip;<keyword=deploy>Mobilização</keyword>: remove todas as possibilidades de comprar novamente do líder inimigo.
+162102_fluff;Prefiro uma unidade de reconhecimento dedicada a uma brigada.
+162102_name;Menno Coehoorn
+162102_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: usa uma carta de tática do seu baralho.
+162103_fluff;Nunca houve problema que um assassinato bem planejado não resolvesse.
+162103_name;Vattier de Rideaux
+162103_tooltip;<keyword=order>Ordem</keyword>, <keyword=melee>Corpo a corpo</keyword>: <keyword=seize>toma</keyword> uma unidade inimiga <keyword=lock>bloqueada</keyword>.
+162104_fluff;Seus olhos piscaram sob o elmo alado, e fogo brilhou na lâmina da sua espada.
+162104_name;Cahir Dyffryn
+162104_tooltip;<keyword=melee>Corpo a corpo</keyword>: sempre que um inimigo é reforçado, reforça a si mesma em um valor equivalente.
+162105_fluff;Somos todos peões no tabuleiro dele. Em um jogo cujas regras não conhecemos.
+162105_name;Vilgefortz
+162105_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: destrói uma unidade inimiga, depois seu oponente <keyword=summon>invoca</keyword> a unidade no topo do baralho dele para uma fileira inimiga aleatória.\n<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: destrói uma unidade aliada, depois <keyword=summon>invoca</keyword> a unidade no topo do seu baralho para uma fileira aliada aleatória.
+162106_fluff;Minha maior conquista é macular a face da futura imperatriz com a minha marca.
+162106_name;Stefan Skellen
+162106_tooltip;<keyword=order>Ordem</keyword>: <keyword=spawn>faz surgir</keyword> e usa uma cópia de uma carta de tática que você usou neste turno.
+162107_fluff;O zelo de Tibor era lendário. Dizem que quando o imperador faleceu, ele não apenas se curvou, deu cambalhota.
+162107_name;Tibor Eggebracht
+162107_tooltip;<keyword=deploy>Mobilização</keyword>: seu oponente <keyword=summon>invoca</keyword> a unidade no topo do baralho dele para uma fileira inimiga aleatória.
+162108_fluff;Astrologia, hidromancia, aruspício, ceromancia, ovomancia, espodomancia, metroscopia, broncoscopia...
+162108_name;Xarthisius
+162108_tooltip;<keyword=deploy>Mobilização</keyword>: <keyword=reveal>revela</keyword> uma carta aleatória do seu baralho. Se for uma unidade, reforça a si mesma com o poder dela e a embaralha de volta. Se for um artefato ou uma carta especial, usa a carta.
+162201_fluff;Uma bola de fogo? É claro. Tudo que Vossa Majestade Imperial desejar.
+162201_name;Albrich
+162201_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: move qualquer carta do seu baralho para o topo. Se for uma unidade, reforça-a em {Boost}.
+162202_fluff;Magos nilfgaardianos têm uma escolha: submissão servil ou a forca.
+162202_name;Assire var Anahid
+162202_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: embaralha uma carta da pilha de descarte do oponente no baralho dele.\n<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: embaralha uma carta da sua pilha de descarte no seu baralho.
+162203_fluff;Cynthia pode ser letal. Ela precisa de uma coleira forte.
+162203_name;Cynthia
+162203_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: <keyword=spawn>faz surgir</keyword> o Guardião e o coloca no topo do baralho do oponente.
+162204_fluff;Essas não são as mãos de uma "Excelência", e sim de um fazendeiro. Então falamos de camponês pra camponês.
+162204_name;Peter Saar Gwynleve
+162204_tooltip;<keyword=deploy>Mobilização</keyword>: restaura uma unidade para sua base de poder.
+162205_fluff;A magia é o maior bem. Ela transcende todas as fronteiras e divisões.
+162205_name;Fringilla Vigo
+162205_tooltip;<keyword=order>Ordem</keyword>: <keyword=reveal>revela</keyword> uma carta especial aleatória do baralho do oponente, depois <keyword=spawn>faz surgir</keyword> e usa uma cópia dela.
+162206_fluff;E tire as mãos da garota! Podemos ser tudo, menos selvagens.
+162206_name;Sweers
+162206_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo.\nAumenta o dano desta unidade em {Damage2} por cada carta que você <keyword=reveal>revelou</keyword>.
+162207_fluff;Para um mago do fogo, ele não é muito... chama-tivo.
+162207_name;Vanhemar
+162207_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: destrói uma unidade inimiga <keyword=lock>bloqueada</keyword>.
+162208_fluff;Letho tem um plano... o que pode dar errado?
+162208_name;Auckes
+162208_tooltip;<keyword=deploy>Mobilização</keyword>: <keyword=lock>bloqueia</keyword> uma unidade inimiga.\nSe Serrit está na sua mão, <keyword=lock>bloqueia</keyword> todas as cópias desta unidade na mão, no baralho ou no campo de batalha do oponente.
+162209_fluff;Fazemos o que é preciso. Não tenho vergonha disso.
+162209_name;Serrit
+162209_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo. Se Auckes está na sua mão, causa {Damage2} de dano em vez disso.
+162210_fluff;Homens precisam de sedução frequente. O misticismo e o refino dão conta do trabalho.
+162210_name;Cantarella
+162210_tooltip;<keyword=spying>Espionagem</keyword>.\n<keyword=deploy>Mobilização</keyword>: usa a carta no topo do baralho do seu oponente.
+162211_fluff;Dizer que o duque de Wett liderou o Grupo de Verden de maneira "incompetente" seria um elogio.
+162211_name;Joachim de Wett
+162211_tooltip;<keyword=spying>Espionagem</keyword>.\n<keyword=deploy>Mobilização</keyword>: usa a unidade no topo do seu baralho, exceto <keyword=spying>espiã</keyword>, e a reforça em {Boost}.
+162212_fluff;"Lá vem ela", ele pensou, "nosso interesse imperial". Falsa princesa, falsa rainha de Cintra. Falsa governante do Yarra, futuro sangue do império.
+162212_name;Ciri Falsa
+162212_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: move um inimigo para a outra fileira.\n<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: destrói um artefato inimigo.
+162213_fluff;"Vossa Alteza Imperial..." soltou o senescal, cuja presença até então havia sido ignorada. "Desculpe-me, mas Cahir... Meu filho..."
+162213_name;Ceallach Dyffryn
+162213_tooltip;<keyword=deploy>Mobilização</keyword>: remove os status de todas as unidades no campo de batalha.
+162301_fluff;Aprendi muito na Academia Militar de Braibant: como lavar batatas, por exemplo.
+162301_name;Soldado Daerlan
+162301_tooltip;Ao <keyword=reveal>revelar</keyword> esta unidade, você <keyword=summon>invoca</keyword> uma cópia dela do seu baralho a uma fileira aliada aleatória.
+162302_fluff;Se espalhar uma peste em uma cidade sitiada é ético ou não, deixo para os historiadores decidirem. O que eu sei é que é eficiente.
+162302_name;Lançador de Podridão
+162302_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: <keyword=spawn>faz surgir</keyword> e usa uma Carcaça de Vaca.
+162303_fluff;O norte não tem nada com o que ele pode nos surpreender.
+162303_name;Observador
+162303_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: <keyword=reveal>revela</keyword> uma unidade aleatória do baralho do seu oponente e reforça a si mesma com o poder dela.
+162304_fluff;Bom... Pelo menos eu não posso te deixar mais morto...
+162304_name;Remédio Experimental
+162304_tooltip;Usa uma unidade de bronze da pilha de descarte do oponente.
+162305_fluff;Eu miro no joelho. Sempre.
+162305_name;Besteiro de Deithwen
+162305_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo, depois <keyword=reveal>revela</keyword> uma unidade aleatória de ambos os baralhos. Se o poder da sua for maior, repete a habilidade de <keyword=deploy>Mobilização</keyword>.
+162306_fluff;O nome é terrivelmente enganoso, nos leva a imaginar um grande aracnídeo vermelho, não uma arma de destruição em massa engenhosamente projetada...
+162306_name;Escorpião de Fogo
+162306_tooltip;<keyword=order>Ordem</keyword>, <keyword=ranged>Longa distância</keyword>: causa {Damage} de dano a uma unidade.\n<keyword=charge>Carga</keyword>: {Charges}.\nGanha {Charges2} de <keyword=charge>carga</keyword> sempre que você usa uma carta de tática.
+162307_fluff;A Brigada Imperial nunca se rende. Nunca.
+162307_name;Brigada Imperial
+162307_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: <keyword=summon>invoca</keyword> uma cópia desta unidade do seu baralho para esta fileira.
+162308_fluff;Membros da fanática guarda do imperador lutam até o fim.
+162308_name;Sentinela Imperial
+162308_tooltip;<keyword=order>Ordem</keyword>: causa {Damage} de dano a um inimigo.\n<keyword=charge>Carga</keyword>: {Charges}.\nGanha {Charges2} de <keyword=charge>carga</keyword> sempre que você usar uma unidade de <keyword=spying>Espionagem</keyword>.
+162309_fluff;O imperador vai ensinar disciplina ao Norte.
+162309_name;Sargento Nauzicaa
+162309_tooltip;Sempre que uma unidade com <keyword=deploy>Mobilização</keyword> é usada, reforça a si mesma em {Boost}.
+162310_fluff;Chamam-nos de Cabeças da Morte. Quer descobrir por quê?
+162310_name;Brigada Nauzicaa
+162310_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo reforçado.
+162311_fluff;Jure lealdade ao nosso imperador, Emhyr var Emreis... ou morra.
+162311_name;Piqueiro Alba
+162311_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: causa dano a um inimigo equivalente ao número de unidades na outra fileira dele.
+162312_fluff;Morte e glória!
+162312_name;Lanceiro Alba
+162312_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo. Aumenta o dano em {Damage2} por soldado adjacente.
+162313_fluff;Quer prova irrefutável do avanço da civilização? Olhe para a guerra. Cada uma traz meios melhores para matar os homens.
+162313_name;Engenheiro Bélico
+162313_tooltip;<keyword=deploy>Mobilização</keyword>: se você controla um artefato, reforça a si mesma em {Boost}.
+162314_fluff;Mas... não há justiça nisso! Não se mata o mensageiro!
+162314_name;Emissário
+162314_tooltip;<keyword=spying>Espionagem</keyword>.\n<keyword=deploy>Mobilização</keyword>: reforça um aliado em {Boost}.
+162315_fluff;Um espião? Não, isso é exagero. Eu me considero mais um observador.
+162315_name;Diplomacia Imperial
+162315_tooltip;<keyword=create>Cria</keyword> e usa uma unidade de bronze da facção do seu oponente.
+162316_fluff;Duas onças de calcium equum, uma onça de rubedo...
+162316_name;Iniciado
+162316_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: troca o poder de {MaxTargets} aliados.
+162317_fluff;Este modelo se especializa em lançar cadáveres e esterco recente.
+162317_name;Manganela
+162317_tooltip;Sempre que você <keyword=reveal>revela</keyword> uma carta, causa {Damage} de dano a um inimigo aleatório.
+162318_fluff;Filhos de casas nobres, nascidos na Cidade de Torres Douradas, do pilar de elite do exército imperial.
+162318_name;Nilfgaard: Cavaleiro
+162318_tooltip;<keyword=deploy>Mobilização</keyword>: reforça um inimigo em {Boost}. Se não há unidades inimigas, destrói a si mesma.
+162401_fluff;Punho de pedra para impedir intrusos armados com espadas. Lógica de ferro para impedir aqueles armados com mentiras.
+162401_name;O Guardião
+162401_tooltip;Sem habilidade.
+162402_fluff;É um pássaro? É um grifo? Não! É uma...
+162402_name;Carcaça de Vaca
+162402_tooltip;<keyword=spying>Espionagem</keyword>. <keyword=doomed>Condenado</keyword>.\nApós 1 turno, no fim do turno, destrói esta unidade e a unidade à esquerda dela.
+163101_fluff;Em Nilfgaard, pessoas confiáveis são consideradas uma espécie em extinção.
+163101_name;Traição
+163101_tooltip;Força uma unidade inimiga a causar dano às unidades adjacentes equivalente ao seu próprio poder.
+163201_fluff;Muitos acreditam que o poder do império está nos ombros de seu exército disciplinado e magos obedientes. Na verdade, o florim nilfgaardiano governa o mundo.
+163201_name;Suborno
+163201_tooltip;<keyword=create>Cria</keyword> uma unidade a partir do baralho inicial do seu oponente, depois a usa.
+2_name_lt;Névoa Impenetrável
+2_tooltip_lt;Por {Counter} turnos, no começo do turno, causa {Damage} de dano à unidade mais alta desta fileira.
+200008_fluff;Um mago responsável por dúzias de invenções brilhantes. A mente de uma geração. Comumente referenciado no Continente como "aquele cara com o prato".
+200008_name;Filtro de Petri
+200008_tooltip;<keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>: reforça um aliado em {Boost} e concede <keyword=zeal>zelo</keyword> a ele.
+200018_fluff;Estudiosos de Vicovaro determinaram que, na ausência de ajuda imperial, províncias assoladas pela seca perdem metade de sua população, dois terços de seu gado e toda a vontade de se rebelar.
+200018_name;Korathi Chamardente
+200018_tooltip;<keyword=banish>Bane</keyword> uma unidade ou artefato.
+200019_fluff;Somos apenas peões em um jogo de velhos, enviados para lutar e morrer conforme seus caprichos senis...
+200019_name;Ordens de Marcha
+200019_tooltip;Usa a unidade mais baixa do seu baralho.
+200020_fluff;Temos formas de fazer você falar... vivo ou morto.
+200020_name;Necromancia
+200020_tooltip;Usa uma unidade de bronze da sua pilha de descarte e concede <keyword=doomed>Condenado</keyword> a ela.
+200022_fluff;Existem muitas realidades além da nossa... Com o conhecimento certo, é possível contatá-las e invocar seres além da compreensão humana.
+200022_name;Círculo de Invocação
+200022_tooltip;<keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>: usa uma unidade do seu baralho com custo de recrutamento igual ou menor à contagem de <keyword=charge>cargas</keyword> do Círculo de Invocação, depois remove todas as <keyword=charge>cargas</keyword>.\n<keyword=charge>Carga</keyword>: {Charges2}.\nA cada turno, no começo do turno, ganha {Charges} de <keyword=charge>carga</keyword>.
+200023_fluff;"Em caso de contato com os olhos, enxágue imediatamente com água fria e comece a fazer seu testamento."
+200023_name;Veneno de Aracna
+200023_tooltip;Causa {Damage} de dano a uma unidade. Se ela for destruída, causa {Damage} de dano às unidades adjacentes.
+200026_fluff;Por centenas de anos, Avallac'h tentou recriar o gene do Sangue Ancestral através de seleção e reprodução, mas os filhos élficos gerados dessa forma eram apenas faíscas comparados à chama de Lara.
+200026_name;Caçada: Navegadora
+200026_tooltip;<keyword=deploy>Mobilização</keyword>: reforça uma unidade aliada em {Boost}. Se você controla a unidade mais alta, reforça-a em {Boost2} em vez disso.
+200028_fluff;Sangue para Svalblod! Caveiras para seu trono!
+200028_name;Vabjorn
+200028_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: destrói um inimigo danificado.
+200030_fluff;O velho barão tratava caçadores sem misericórdia. Felizmente para Milaen, o velho barão estava morto e seus homens eram bandidos desesperados.
+200030_name;Milaen
+200030_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: causa {Damage} de dano a um inimigo.\n<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: causa {Damage2} de dano a {MaxTargets} inimigos.
+200031_fluff;Ele apenas ficava sentado lá e me olhava sem dizer uma palavra. De alguma forma, seus olhos eram... como de peixes. Sem sobrancelhas nem cílios... Apenas bolhas com uma pedra negra mergulhada em cada uma delas. Ele me devorava com esses olhos em silêncio total. Isso me assustava mais do que as sovas.
+200031_name;Leo Bonhart
+200031_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: destrói um inimigo com {Power} de poder ou mais.\n<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: destrói um bruxo.
+200032_fluff;Quando Cintra caiu, Attre caiu logo depois, deixando uma escolha para seus defensores: aceitar a coleira de Nilfgaard ou morrer.
+200032_name;Rainfarn de Attre
+200032_tooltip;<keyword=deploy>Mobilização</keyword>: reforça um inimigo em {Boost}, depois reforça a si mesma em {Boost}.
+200033_fluff;As adeptas têm todos os seus caprichos atendidos. Elas vivem como princesas em Aretuza e, em troca, metade da cidade ganha a vida a seu serviço: costureiras, chapeleiros, artesões, confeiteiros, mensageiros...
+200033_name;Adepta de Aretuza
+200033_tooltip;<keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>, <keyword=ranged>Longa distância</keyword>: concede {Charges} de <keyword=charge>carga</keyword> a uma unidade aliada.\n<keyword=cooldown>Tempo de espera</keyword>: {Cooldown}.
+200036_fluff;Qual é o bem maior?! A guerra é o bem maior, o mal maior, a maior maldição que um homem pode encontrar!
+200036_name;Drummond: Belicista
+200036_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>, <keyword=bloodthirst>Sede de Sangue</keyword> {Bloodthirst}: destrói um artefato inimigo.
+200037_fluff;Não olhe para o olho dele, ele odeia isso...
+200037_name;Ciclope
+200037_tooltip;<keyword=deploy>Mobilização</keyword>: destrói uma unidade aliada adjacente e causa dano a um inimigo equivalente ao poder dela.
+200038_fluff;O folclore afirma que elas brotam do solo irrigado pelo sangue dos moribundos. Por isso, elas florescem nos terrenos profanados pelos pogrons, rituais sombrios, ou assassinatos brutais.
+200038_name;Arquespora
+200038_tooltip;<keyword=thrive>Prosperar</keyword>.\n<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo aleatório.\n<keyword=deathwish>Desejo de Morte</keyword>: repete a habilidade de <keyword=deploy>Mobilização</keyword>.
+200039_fluff;Enquanto estivermos de pé, nenhum pé humano pisoteará os campos de Dol Blathanna.
+200039_name;Dol Blathanna: Guarda
+200039_tooltip;<keyword=melee>Corpo a corpo</keyword>: sempre que um inimigo for movido para a outra fileira, ele sofre {Damage} de dano.\n<keyword=ranged>Longa distância</keyword>: sempre que um aliado for movido para outra fileira, é reforçado em {Boost}.
+200040_fluff;Ahh, assim você me mata de rir, nortenho! Não consegue nem segurar a arma, quem dirá me acertar com ela.
+200040_name;An Craite: Espada
+200040_tooltip;Sempre que um inimigo na fileira oposta sofrer dano, reforça a si mesma em {Boost}.
+200041_fluff;Não é o melhor para tomar cidades, mas serve bem para queimá-las por completo.
+200041_name;Helge Pesado
+200041_tooltip;<keyword=immune>Imune</keyword>.\n<keyword=order>Ordem</keyword>: causa {Damage} de dano a um inimigo por cada soldado nesta fileira.
+200042_fluff;Não é uma tarefa fácil caçar nos íngremes penhascos de Mahakam... mas quem disse que anões são avessos ao perigo?
+200042_name;Saqueador de Mahakam
+200042_tooltip;<keyword=deploy>Mobilização</keyword>: se esta unidade está reforçada, ganha <keyword=resilient>Resiliência</keyword>.
+200043_fluff;Já foi um burgomestre orgulhoso do clã Tordarroch, agora é um louco murmurante.
+200043_name;Harald Houndsnout
+200043_tooltip;<keyword=deploy>Mobilização</keyword>: <keyword=spawn>faz surgir</keyword> {MaxTargets} dos Amigos de Harald e os <keyword=summon>invoca</keyword> na sua outra fileira aliada.\n<keyword=order>Ordem</keyword>: causa {Damage} de dano a um aliado.\n<keyword=cooldown>Tempo de espera</keyword>: {Cooldown}.
+200044_fluff;Eu sei que o imperador defende todas as terras dele... mas uma guarnição para defender essa pocilga acabada é como pôr um cinto de castidade em uma bruxa sepulcral.
+200044_name;Divisão Magne
+200044_tooltip;A cada turno, no fim do turno, reforça a si mesma em {Boost} se for a única carta nesta fileira.
+200046_fluff;Na minha época, vi maravilhas que nenhum homem jamais sonhou e fiz coisas que nenhum homem deveria fazer.
+200046_name;Tuirseach: Veterano
+200046_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a si mesma.
+200048_fluff;Comparo constantemente as conquistas das adeptas de Aretuza com o trabalho feito pelos rapazes de Ban Ard, e minha conclusão quase sempre favorece as garotas.
+200048_name;Tutor de Ban Ard
+200048_tooltip;<keyword=deploy>Mobilização</keyword>: reforça um aliado em {Boost} por cada <keyword=charge>carga</keyword> que ele possui.
+200049_fluff;Não vai abrir o jogo, hein? Acho que vamos ter que bater mais forte.
+200049_name;Aríete
+200049_tooltip;<keyword=deploy>Mobilização</keyword>: se você controla um Soldado, destrói um artefato inimigo.
+200050_fluff;O Grande Sol aquecerá o Norte com seus raios, mesmo que eu tenha que massacrar todos vocês!
+200050_name;Vreemde
+200050_tooltip;<keyword=deploy>Mobilização</keyword>: reforça um soldado aliado e todas as cópias dele em {Boost}.
+200052_fluff;Alguns dizem que Golyat já foi um famoso cavaleiro. Infelizmente, um dia ele despertou a ira da Dama do Lago, que o transformou em um monstro.
+200052_name;Golyat
+200052_tooltip;<keyword=deathwish>Desejo de Morte</keyword>: seu oponente <keyword=summon>invoca</keyword> a unidade de poder mais baixo do baralho dele na fileira oposta.
+200053_fluff;A estatueta expandiu-se num instante, pulsante e latejante, mudando sua forma e estrutura como uma nuvem de fumaça rastejando sobre o chão. Raios de luz revelaram movimento e materiais que endureciam. Pouco depois, no centro do círculo mágico, uma forma humana apareceu subitamente.
+200053_name;Artefato: Compressão
+200053_tooltip;<keyword=lock>Bloqueia</keyword> uma unidade e a restaura para sua base de poder.
+200055_fluff;Ninguém, nem os vampiros superiores, sabe exatamente a idade do Ancião Sonegado. Só sabem que não se deve jamais, sob nenhuma circunstância, desafiar a vontade dele.
+200055_name;Ancião Sonegado
+200055_tooltip;<keyword=order>Ordem</keyword>: ativa a habilidade de <keyword=deathwish>Desejo de Morte</keyword> de um aliado.\nNo começo da rodada, restaura essa habilidade.
+200056_fluff;Já ouviu falar de um "anterion"? Pense nele como o oposto de um licantropo: uma fera que pode assumir a forma humana.
+200056_name;Aguara: Forma Real
+200056_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: <keyword=create>cria</keyword> qualquer carta especial.
+200058_fluff;Dei-lhe três pistas confirmadas, rastros frescos como orvalho, a ajuda dos meus espiões e da minha feiticeira. E, em vez de trazer minha filha, me trazes essa... monstruosidade?
+200058_name;Maldição de Uma
+200058_tooltip;<keyword=create>Cria</keyword> e usa uma unidade de ouro.
+200062_fluff;Fique esperto agora, ou você vai sobrar para uma aguara!
+200062_name;Aguara
+200062_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: <keyword=lock>bloqueia</keyword> uma unidade.\n<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: remove o <keyword=lock>bloqueio</keyword> de uma unidade.
+200067_fluff;Quando a lua está cheia, pesadelos rastejam pra fora de todos os cantos escuros do mundo.
+200067_name;Luar
+200067_tooltip;postponed
+200071_fluff;Um diplomata é um homem que usa muito mais palavras do que necessário para expressar muito menos do que sabe.
+200071_name;Shilard Fitz-Oesterlen
+200071_tooltip;<keyword=deploy>Mobilização</keyword>: define o poder da unidade mais alta na mão do seu oponente para {Power}.
+200073_fluff;E a estrige tá bem. Claro que ela tira o pedaço de alguém às vezes, mas a gente se acostuma.
+200073_name;Adda: Estrige
+200073_tooltip;<keyword=deploy>Mobilização</keyword>: se você controla a unidade mais alta, causa {Damage} de dano a um inimigo.
+200078_fluff;Imaginem um pedaço de argila. Para dar forma, é preciso umedecê-la, se não ela se despedaça. A primeira parte do Teste faz isso. Ela abre o corpo para a mudança, por assim dizer. Só então as poções mutagênicas produzirão um bruxo.
+200078_name;O Teste das Ervas
+200078_tooltip;Reforça uma unidade até {Boost} de poder. Se não é um bruxo, causa {Damage} de dano a ela antes disso.
+200079_fluff;Este feitiço te permite ver o último momento da vida de um homem morto... se sobreviver ao lançá-lo.
+200079_name;Sonho Azul
+200079_tooltip;Usa uma unidade da pilha de descarte do oponente e concede <keyword=doomed>Condenado</keyword> a ela.
+200080_fluff;E então? Alguma coisa errada? A carne de veado está um pouco rançosa pro seu gosto? Hein, princesa?
+200080_name;Xavier Moran
+200080_tooltip;<keyword=melee>Corpo a corpo</keyword>: sempre que esta unidade for reforçada, receberá mais {Boost} de reforço.
+200081_fluff;"Em Skellige, não queimamos mulheres sábias: nós aceitamos seus conselhos."
+200081_name;Heymaey: Herbalista
+200081_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: <keyword=heal>cura</keyword> um aliado em {Boost}, depois o reforça em {Boost2}.
+200083_fluff;Preferimos manter nossos nomes pra nós mesmos. Pense em nós como... amigos da casa.
+200083_name;Companheiros de Iris
+200083_tooltip;<keyword=deploy>Mobilização</keyword>: compra uma carta de sua escolha do seu baralho, depois <keyword=discard>descarta</keyword> uma carta aleatória.
+200087_fluff;Como os bruxos, Dorregaray é aficionado por monstros, embora tenha desenvolvido seu próprio sistema de classificação. Em vez de dividi-los em necrófagos, ogroides e coisas do tipo, ele simplesmente acha todos maravilhosos.
+200087_name;Dorregaray de Vole
+200087_tooltip;<keyword=deploy>Mobilização</keyword>: <keyword=lock>bloqueia</keyword> uma unidade.
+200088_fluff;O legista é uma pessoa calma e pacífica. Inclusive, trata os cadáveres com extrema delicadeza.
+200088_name;Hubert Rejk
+200088_tooltip;<keyword=deploy>Mobilização</keyword>: reforça a si mesma pela quantidade de dano que você causou aos inimigos neste turno.
+200089_fluff;Perdido? Bom, vá ficar perdido em outro lugar. Algum lugar que não seja na minha propriedade, digo. Aponte sua orelha esquerda para o sol e continue andando, vai encontrar a estrada muito em breve. E então? O que está esperando?
+200089_name;Nivellen
+200089_tooltip;<keyword=deploy>Mobilização</keyword>: move todas as unidades de uma fileira para a outra.
+200091_fluff;O bruxo havia encontrado ladrões que pareciam conselheiros da cidade, conselheiros da cidade que pareciam mendigos e reis que pareciam ladrões. Mas Stregobor sempre pareceu exatamente com o imaginário comum aceito do que um mago deveria aparentar.
+200091_name;Stregobor
+200091_tooltip;<keyword=ranged>Longa distância</keyword>: após {Counter} turnos, cada jogador compra uma unidade e define seu poder para {Power}.
+200098_fluff;De dia, capitão da guarda da cidade de Vizíma. De noite, um impiedoso vingador e defensor dos oprimidos.
+200098_name;Vincent Meis
+200098_tooltip;<keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>, <keyword=melee>Corpo a corpo</keyword>: define o poder de um inimigo não reforçado para {Power}.
+200102_fluff;Os deuses falam comigo… eu os ouço sussurrar das sombras…
+200102_name;Hym
+200102_tooltip;<keyword=deploy>Mobilização</keyword>: troca o poder desta unidade pelo de uma unidade danificada.
+200103_fluff;Dez vezes vencedor do respeitável título de Campeão da Arena An Skellig.
+200103_name;Olaf
+200103_tooltip;<keyword=order>Ordem</keyword>: reforça Olaf com o dobro do dano que ele sofreu.
+200104_fluff;Lobisomem? Ah, não, não… isso é algo muito, muito pior.
+200104_name;Ulfhedinn
+200104_tooltip;<keyword=deploy>Mobilização</keyword>: causa dano a um inimigo equivalente a metade do poder atual dele.
+200105_fluff;Navios de guerra do clã Dimun são leves e rápidos, perfeitos para caçar fragatas mercantes lentas.
+200105_name;Dimun: Navio
+200105_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo três vezes.
+200112_fluff;Lendas alegam que atraem marinheiros para seu fim com músicas hipnotizantes… mas é provável que marinheiros ficassem hipnotizados por seus outros charmes abundantes.
+200112_name;Sereia
+200112_tooltip;<keyword=deploy>Mobilização</keyword>: reforça um aliado com <keyword=deathwish>Desejo de Morte</keyword> em {Boost}.
+200114_fluff;Alguns dizem que a licantropia é contagiosa: se for mordido por um lobisomem, você se transforma em um. Bruxos sabem que isso é bobagem, é claro. Somente uma maldição poderosa pode provocar esta condição.
+200114_name;Lobisomem Alfa
+200114_tooltip;<keyword=immune>Imune</keyword>. <keyword=thrive>Prosperar</keyword>.
+200115_fluff;Assassino: uma das profissões mais populares da corte imperial, só ficando atrás de escribas e cortesãs.
+200115_name;Assassinato
+200115_tooltip;Causa {Damage} de dano a uma unidade. Reduz o dano em {Damage2} por unidade adjacente a ela.
+200118_fluff;Você pode correr, mas não pode se esconder.
+200118_name;Infiltrador
+200118_tooltip;<keyword=melee>Corpo a corpo</keyword>: no fim da rodada, embaralha esta unidade no baralho do oponente.
+200124_fluff;A escola da víbora renascerá... Letho se certificou disso.
+200124_name;Bruxo Víbora
+200124_tooltip;<keyword=deploy>Mobilização</keyword>: <keyword=reveal>revela</keyword> a carta no topo do baralho do oponente e a <keyword=banish>bane</keyword>.
+200132_fluff;Quem são os caçadores de bruxas? Canalhas e fanáticos, na sua maioria. Apesar de que, depois dos atos criminosos perpetrados pela Estada das Feiticeiras, muitos homens decentes, indignados, juntaram-se às suas fileiras...
+200132_name;Caçador de Bruxas
+200132_tooltip;postponed
+200135_fluff;Um ofício arriscado de Mahakam e, por isso, muito reverenciado. Seu maior expoente foi um anão chamado Mikkel Bay.
+200135_name;Pirotécnico
+200135_tooltip;<keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>: destrói um artefato aliado e causa {Damage} de dano a uma unidade.\n<keyword=cooldown>Tempo de espera</keyword>: {Cooldown}.
+200136_fluff;Às vezes, as palavras dela parecem ininteligíveis, mas sempre contêm significados ocultos e imensa sabedoria.
+200136_name;Vidente
+200136_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: <keyword=reveal>revela</keyword> uma carta aleatória do seu baralho. Se for uma carta especial, reforça a si mesma em {Boost}.
+200138_fluff;O conhecimento, meu caro, é um privilégio, e privilégios são compartilhados apenas entre iguais.
+200138_name;Sábio
+200138_tooltip;Sempre que você usar uma carta especial, reforça a si mesma em {Boost}.
+200139_fluff;Um estudioso de Oxenfurt uma vez examinou uma pantera e declarou que não passava de um leopardo de cor diferente. A pantera pareceu indiferente a este pronunciamento e o devorou antes que concluísse sua pesquisa.
+200139_name;Pantera
+200139_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a uma unidade inimiga não Scoia'tael.
+200144_fluff;Não toque nele. Não olhe nos olhos dele. Na verdade… nem se aproxime dele.
+200144_name;Tuirseach: Domador
+200144_tooltip;<keyword=deploy>Mobilização</keyword>: reforça uma fera aliada em {Boost}. Aumenta o reforço em {Boost2} por cada fera na sua pilha de descarte.
+200145_fluff;O mar é nosso, junto com tudo que nele flutua, nada ou navega!
+200145_name;Dimun: Corsário
+200145_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano por navio na sua mão.
+200146_fluff;Spikeroog é um remanso estéril, mas isso não nos incomoda. Tudo o que precisamos, pegamos de vocês.
+200146_name;Dimun: Contrabando
+200146_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: causa {Damage} de dano a uma unidade, depois a reforça em {Boost}.
+200147_fluff;Flaminique, a posição mais alta das druidas, impõe muito respeito e detém muito poder.
+200147_name;Heymaey: Flaminique
+200147_tooltip;A cada turno, no fim do turno, <keyword=heal>cura</keyword> todos os aliados danificados nesta fileira em {Boost}.
+200149_fluff;Ele não teme nada além da fúria de Freya... e da esposa.
+200149_name;Heymaey: Protetor
+200149_tooltip;Sempre que uma unidade adjacente sofre dano, reforça a si mesma em {Boost}.
+200154_fluff;Nós, Foltest, pelo divino Rei de Teméria, Príncipe de Alagante, Protetor-Sênior de Brugge, etcétera, etcétera, decretamos o seguinte...
+200154_name;Decreto Real
+200154_tooltip;Usa uma unidade do seu baralho.
+200158_fluff;Não está morto aquilo que pode eternamente descansar, pois em eras estranhas até a morte pode morrer.
+200158_name;Dagon
+200158_tooltip;<keyword=spawn>Faz surgir</keyword> Névoa Impenetrável ou Chuva Torrencial.
+200159_fluff;Ninguém substituirá o Bran. Mas sabemos que eles tentarão.
+200159_name;Bran Tuirseach
+200159_tooltip;<keyword=order>Ordem</keyword>: <keyword=discard>descarta</keyword> uma carta, depois compra uma carta.\nNo começo da rodada, restaura esta habilidade.\nSempre que você <keyword=discard>descarta</keyword> uma carta, causa {Damage} de dano a um inimigo aleatório.
+200160_fluff;Nilfgaardianos o chamam de Tirth ys Muire, o javali selvagem do mar. Falam dele pra assustar as criancinhas!
+200160_name;Crach an Craite
+200160_tooltip;<keyword=order>Ordem</keyword>: causa {Damage} de dano a uma unidade. \n<keyword=cooldown>Tempo de espera</keyword>: {Cooldown}.
+200161_fluff;Ninguém sabe como ele ganhou o apelido... ninguém ousa perguntar.
+200161_name;Harald, o Aleijado
+200161_tooltip;<keyword=order>Ordem</keyword>: divide {Damage} de dano aleatoriamente entre todos os inimigos.
+200162_fluff;Não sou conhecido pela minha paciência. Agradeça por não te conhecerem por perder a cabeça.
+200162_name;Emhyr var Emreis
+200162_tooltip;<keyword=order>Ordem</keyword>: move uma carta do campo de batalha para a sua mão, depois usa uma carta.
+200163_fluff;O sol do verão refletido nas águas calmas do Alba. Para mim, isso é Nilfgaard.
+200163_name;Morvran Voorhis
+200163_tooltip;<keyword=order>Ordem</keyword>: <keyword=reveal>revela</keyword> uma carta aleatória do baralho do seu oponente. Se ela for de bronze, reforça um aliado em {Boost}. Se for de ouro, reforça em {Boost2}.\nNo começo da rodada, restaura esta habilidade.
+200164_fluff;Uma espada é uma de várias ferramentas à disposição de um governante.
+200164_name;Jan Calveit
+200164_tooltip;<keyword=order>Ordem</keyword>: olha {MaxTargets} cartas do topo do seu baralho e usa uma.
+200165_fluff;Para viver em paz, precisamos matar. É o final cruel da opressão dos humanos.
+200165_name;Francesca Findabair
+200165_tooltip;<keyword=order>Ordem</keyword>: usa uma carta especial da sua pilha de descarte.
+200166_fluff;A rainha das dríades tem olhos de prata em chamas e um coração de aço frio.
+200166_name;Eithné
+200166_tooltip;<keyword=order>Ordem</keyword>: causa {Damage} de dano a uma unidade.\n<keyword=charge>Carga</keyword>: {Charges}.\nNo início da rodada, restaura a contagem de <keyword=charge>cargas</keyword> de Eithné.
+200167_fluff;Esse idiota frouxo? Dá nem pra saber se tá vivo ou foi empalhado!
+200167_name;Brouver Hoog
+200167_tooltip;<keyword=order>Ordem</keyword>: move uma unidade para a outra fileira. Se for um inimigo, causa {Damage} de dano a ele; se for um aliado, reforça ele em {Boost}.\n<keyword=charge>Carga</keyword>: {Charges}.
+200168_fluff;Não preciso de conselheiros e os seus planos. Confio nas espadas dos meus soldados.
+200168_name;Rei Foltest
+200168_tooltip;<keyword=order>Ordem</keyword>: reforça um aliado em {Boost} e concede <keyword=zeal>Zelo</keyword> a ele.\n<keyword=charge>Carga</keyword>: {Charges}.
+200169_fluff;Um rei deve ser impiedoso com os inimigos e generoso com os amigos.
+200169_name;Rei Radovid V
+200169_tooltip;Alterna os status de <keyword=lock>bloqueio</keyword> de {MaxTargets} unidades. Se forem inimigas, causa {Damage} de dano a elas. <keyword=crew>Equipe</keyword>.
+200170_fluff;O rei Henselt não parecia ser um ladrão, mas, com o devido respeito, era isso que ele era.
+200170_name;Rei Henselt
+200170_tooltip;<keyword=order>Ordem</keyword>: usa uma cópia de uma unidade aliada do seu baralho no campo de batalha, reforça-a em {Boost} e concede <keyword=zeal>Zelo</keyword> a ela.
+200171_fluff;Soldados leais ao velho barão de Tridam deixaram a cidade com Falibor, assim se tornando renegados procurados pela lei.
+200171_name;Infantaria de Tridam
+200171_tooltip;Sempre que esta unidade é reforçada, causa {Damage} de dano a um inimigo aleatório.
+200177_fluff;O meu apelido é Águia. Sabe por quê? Porque eu devoro ratos como você sem pensar duas vezes.
+200177_name;Cerys an Craite
+200177_tooltip;Se estiver na pilha de descarte, esta unidade é <keyword=summon>invocada</keyword> para uma fileira aliada aleatória quando você usa uma unidade da sua pilha de descarte.
+200209_fluff;Não me importo com reis e seus títulos. Ao leste há alguém que realmente merece uma coroa.
+200209_name;Saskia
+200209_tooltip;<keyword=order>Ordem</keyword>: causa {Damage} de dano a um inimigo.\n<keyword=cooldown>Tempo de espera</keyword>: {Cooldown}.\nSe você tem um elfo, anão ou dríade na sua mão, reduz o <keyword=cooldown>tempo de espera</keyword> em {Cooldown2} (limitado a uma vez por categoria).
+200212_fluff;Acerte o nome dele da Saga dos Ancestrais! Ninguém ousa dar abrigo ou alimento a ele!
+200212_name;Skjall
+200212_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo não danificado.
+200218_fluff;As lendas de Skellige dizem que o poderoso e terrível Jotunn, Rei dos Gigantes, reinou sobre as ilhas em tempos antigos. Ele foi morto por Hemdall, mas em seu último suspiro jurou que retornaria para o Ragh nar Roog.
+200218_name;Jotunn
+200218_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: reforça a si mesma em {Boost} por cada unidade a mais que seu oponente tem no campo de batalha.
+200220_fluff;Eu seria a sua melhor... e a última.
+200220_name;Sibilante: Tributo
+200220_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: usa uma carta orgânica do seu baralho.
+200221_fluff;A gente vai te picar todinho, moleque. Vai dar um ótimo caldo.
+200221_name;Sacrifício Ritual
+200221_tooltip;Ativa as habilidades de <keyword=deathwish>Desejo de Morte</keyword> de todos os aliados.
+200222_fluff;Sinto a sua dor. Vejo o seu medo.
+200222_name;Tecelã: Encantamento
+200222_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: <keyword=consume>consome</keyword> uma unidade na sua mão e compra uma carta.
+200223_fluff;Aí estão todos vocês! Com admiração desperta, duvidando do plano e da alta descoberta. Alguns estão como se agarrados pela mandrágora caída, outros pela diabrura do cão negro.
+200223_name;Mandrágora
+200223_tooltip;<keyword=reset>Redefine</keyword> uma unidade.
+200224_fluff;Um certo pirata famoso tanto adorava essa erva intoxicante que recebeu o apelido de "Olho de Corvo". Contudo, a versão teatral da lenda omite isso, para grande consternação dos defensores das histórias dos piratas.
+200224_name;Olho de Corvo
+200224_tooltip;Ativa a habilidade de <keyword=deathwish>Desejo de Morte</keyword> de uma unidade de bronze.
+200225_fluff;Nunca houve fera que Fringilla Vigo não pudesse domar.
+200225_name;Mordaça de Vigo
+200225_tooltip;<keyword=seize>Toma</keyword> um inimigo com {Power} de poder ou menos e o <keyword=lock>bloqueia</keyword>.
+200226_fluff;Também conhecido como "rainha dos venenos", o acônito é usado em várias poções de bruxo e compostos alquímicos.
+200226_name;Acônito
+200226_tooltip;Causa {Damage} de dano a todos os inimigos com poder par, ou causa {Damage} de dano a todos os inimigos com poder ímpar.
+200227_fluff;Estive assentado em Novigrad por treze anos. Já vi muita coisa: crueldade, cinismo, ganância. Mas o que está acontecendo lá agora me preocupa demais.
+200227_name;Henry var Attre
+200227_tooltip;postponed
+200228_fluff;Simples, barata e fatalmente eficiente. Não é de se admirar que é uma das armadilhas favoritas de Scoia'tael.
+200228_name;Armadilha de Alçapão
+200228_tooltip;<keyword=ambush>Emboscada</keyword>: destrói a próxima unidade usada por seu oponente antes que qualquer habilidade seja ativada.
+200233_fluff;Ataca sempre entre as vértebras, sob o rim esquerdo ou diretamente na aorta. Assim, só precisa atacar uma vez.
+200233_name;Cocatriz
+200233_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo por cada Fera adjacente.
+200234_fluff;Sou veterano de guerra! Tem uma moeda de ouro?
+200234_name;Pobre Fodida Infantaria
+200234_tooltip;<keyword=deploy>Mobilização</keyword>: reforça a si mesma em {Boost}.
+200235_fluff;Vai ensinar a sua avó a chupar ovos.
+200235_name;Lambert: Espadachim
+200235_tooltip;<keyword=deploy>Mobilização</keyword>: destrói um inimigo com <keyword=resilient>Resiliência</keyword>.
+200236_fluff;Ouvi você ofegando há seis quilômetros. Só não quis dar a vantagem.
+200236_name;Eskel: Desbravador
+200236_tooltip;<keyword=melee>Corpo a corpo</keyword>: a cada turno, no fim do turno, reforça a si mesma em {Boost}.
+200237_fluff;Matar monstros não deve ser levado na brincadeira. Ciri deve entender isso, se quer se tornar uma de nós.
+200237_name;Vesemir: Mentor
+200237_tooltip;<keyword=deploy>Mobilização</keyword>: reforça todos os bruxos aliados na mão, no baralho ou no campo de batalha em {Boost}.
+200293_fluff;"Escrevam o que eu digo: se não mexerem suas bundas, os humanos vão vir até aqui e roubar nossas moçoilas!"
+200293_name;Anão Agitador
+200293_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: reforça um anão na sua mão em {Boost}.
+200294_fluff;"Vocês têm que defender este estandarte com suas vidas! Gloir aen Ard Feain!"
+200294_name;Porta-Estandarte
+200294_tooltip;<keyword=deploy>Mobilização</keyword>: reforça um aliado em {Boost}.\nSempre que você <keyword=reveal>revela</keyword> esta carta, reforça um aliado aleatório em {Boost2}.
+200295_fluff;Vai sentir o cheiro deles muito antes de vê-los.
+200295_name;Necroso
+200295_tooltip;<keyword=deathwish>Desejo de Morte</keyword>: causa {Damage} de dano a um inimigo aleatório.
+200296_fluff;Um grupo de cavaleiros atacou a falange com ímpeto esmagador. Como uma punhalada em um ventre exposto, a Divisão Alba atravessou facilmente tudo que havia entre ela e os órgãos vitais da Infantaria Temeriana.
+200296_name;Cavalaria Alba
+200296_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: <keyword=lock>bloqueia</keyword> uma unidade inimiga.
+200299_fluff;Não era a carreira que ele tinha em mente quando disse à mãe que queria ser músico.
+200299_name;Teméria: Tambor
+200299_tooltip;<keyword=order>Ordem</keyword>: reforça um aliado em {Boost} e concede <keyword=zeal>zelo</keyword> a ele.
+200300_fluff;O povo de Skellige sabe há muito tempo que arpões são eficazes não só contra baleias...
+200300_name;Troféu de Pesca
+200300_tooltip;Move um inimigo para a outra fileira e causa dano no valor de unidades nesta fileira.
+200301_fluff;As ondas castigam a costa, ondas empurradas pela proa do fantasmagórico Naglfar. A corneta de Hemdall soa pelo ar, e ele encara seus inimigos do topo da Bifrost, o arco-íris ardente. A Geada Branca é a noite, e a hora da ventania e da tempestade está próxima...
+200301_name;Naglfar
+200301_tooltip;Olha {MaxTargets} cartas de ouro aleatórias do seu baralho, depois usa uma e coloca a outra no topo.
+200320_fluff;Um membro da força de defesa bovina. Semper fi!
+200320_name;Chorabash
+200320_tooltip;Sem habilidade.
+200502_fluff;Há muitas variedades de trolls, com formatos, tamanhos e predileções diferentes, mas sempre com a inteligência de um balde de pregos enferrujados.
+200502_name;Troll do Gelo
+200502_tooltip;A cada turno, no fim do turno, se você tem menos unidades do que o seu oponente, reforça a si mesma em {Boost}.
+200518_fluff;Ebbing tem fama por seus excelentes mercenários e cavalaria leve.
+200518_name;Elite de Venendal
+200518_tooltip;<keyword=deploy>Mobilização</keyword>: se a habilidade do seu líder foi usada neste turno, causa {Damage} de dano a um inimigo.
+200519_fluff;Considerada como a maior contribuição dos anões à cultura mundial.
+200519_name;Cerveja de Mahakam
+200519_tooltip;Reforça uma unidade em {Boost} e remove seu <keyword=lock>bloqueio</keyword>.
+200520_fluff;Única coisa que compete com suas espadas? Seus bolinhos.
+200520_name;Éibhear Hattori
+200520_tooltip;<keyword=order>Ordem</keyword>: usa um artefato de bronze da sua pilha de descarte.
+200523_fluff;O herói que Toussaint precisa, mas não o herói que merece.
+200523_name;Germain Piquant
+200523_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: <keyword=spawn>faz surgir</keyword> {Counter} Vacas nos dois lados desta unidade.
+200528_fluff;"Todas as mulheres de Skellige são selvagens e imprevisíveis. Todas as unidades devem tratá-las como ameaças e nunca subestimar sua capacidade." - Diretriz Geral para as Forças Invasoras da Armada Imperial
+200528_name;Heymaey: Lanceira
+200528_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo, depois causa {Damage2} de dano a si mesma.
+200529_fluff;Este autointitulado cavaleiro vaga pelo mundo defendendo a honra de sua amada Dama Bilberry, embora ninguém saiba onde ela vive, se ainda vive ou se já viveu.
+200529_name;Ronvid, o Incessante
+200529_tooltip;<keyword=deploy>Mobilização</keyword>: reforça a si mesma em {Boost}.\nSempre que você usa um soldado, <keyword=summon>invoca</keyword> esta unidade da sua pilha de descarte para uma fileira aliada aleatória.
+200530_fluff;Essa cerveja era pra ser verde…?
+200530_name;Cerveja Estragada
+200530_tooltip;<keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>: causa {Damage} de dano a uma unidade.\n<keyword=charge>Carga</keyword>: {Charges}.
+200532_fluff;Boros, o lendário fundador do clã Fuchs, morreu após abusar da bebida - ele desmaiou enquanto buscava alcançar seu anel de ouro, que caíra num riacho.
+200532_name;Breja dos Ancestrais
+200532_tooltip;<keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>: reforça uma unidade em {Boost}. \n<keyword=cooldown>Tempo de espera</keyword>: {Cooldown}.
+200534_fluff;Amante de sopa de cebola com elfo.
+200534_name;Dona Troll de Vergen
+200534_tooltip;<keyword=melee>Corpo a corpo</keyword>: sempre que um aliado for destruído durante seu turno, reforça a si mesma em {Boost}.
+200535_fluff;O combate é uma dança, nunca permita que seu oponente conduza.
+200535_name;Espadachim Elfo
+200535_tooltip;<keyword=order>Ordem</keyword>, <keyword=melee>Corpo a corpo</keyword>: causa {Damage} de dano a um inimigo.\n<keyword=cooldown>Tempo de espera</keyword>: {Cooldown}.\nSempre que você usar um elfo, diminui o <keyword=cooldown>tempo de espera</keyword> em {Cooldown2}.
+200539_fluff;Nenhum homem vivo, independente de garra ou habilidade, pode defender o golpe da cauda de um lagaz, das pinças de um escorpião gigante e das garras de um grifo.
+200539_name;Lagaz
+200539_tooltip;<keyword=order>Ordem</keyword>: <keyword=consume>consome</keyword> uma unidade aliada nesta fileira.\n<keyword=cooldown>Tempo de espera</keyword>: {Cooldown}.
+200540_fluff;Affe, esses caras às vezes são uma pedra no sapato.
+200540_name;Destruidor de Aedirn
+200540_tooltip;<keyword=order>Ordem</keyword>: causa {Damage} de dano a um inimigo.
+201523_fluff;Ele se deitou ao lado dos restos mumificados de Adda, desenhando o Sinal Yrden no lado de dentro da tampa do seu sarcófago.
+201523_name;Geralt: Yrden
+201523_tooltip;<keyword=deploy>Mobilização</keyword>: restaura todas as unidades em uma fileira para sua base de poder.
+201559_fluff;Ooopa! Ooopa! Uau! Preparem seus traseiros, palhaços! Logo logo a gente vai aparecer! Pra chutar eles até vocês terem pés no lugar das carrancas!
+201559_name;Recrutas de Mahakam
+201559_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: se há um anão nesta fileira, <keyword=summon>invoca</keyword> uma cópia desta unidade do seu baralho para esta fileira.
+201574_fluff;Aquele alto é o Wilmar. À direita está o Wilfred. E aquele cara gago é o Wilhelm.
+201574_name;Amigo de Harald
+201574_tooltip;<keyword=deathwish>Desejo de Morte</keyword>: causa {Damage} de dano a uma unidade inimiga aleatória.
+201576_fluff;Em Beauclair, tudo é melhor: o vinho é mais doce, as vacas maiores e todas as damas acima da média.
+201576_name;Vaca
+201576_tooltip;<keyword=doomed>Condenado</keyword>.
+201578_fluff;Você é burro? Quer navegar até Skellige? Aqueles bárbaros vão te despedaçar!
+201578_name;An Craite: Saqueador
+201578_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: divide {Damage} de dano aleatoriamente entre todas as unidades.
+201579_fluff;O que veio primeiro, o ovo ou a galinha? Comparada ao enigma que é a fênix, esta pergunta parece absolutamente trivial.
+201579_name;Fênix
+201579_tooltip;No começo da rodada, se Fênix está na sua pilha de descarte, <keyword=banish>bane-a</keyword>, <keyword=spawn>faz surgir</keyword> Filhote de Fênix e a <keyword=summon>invoca</keyword> para uma fileira aliada aleatória.
+201580_fluff;Por que algo tão trivial quanto o nascimento determina quem nos governa?
+201580_name;Usurpador
+201580_tooltip;No começo da partida, desativa o líder inimigo por toda a duração da batalha.
+201581_fluff;Mestres de runas ofieri podem combiná-las em palavras de runa de poder incrível.
+201581_name;Pedra rúnica Stribog
+201581_tooltip;<keyword=create>Cria</keyword> e usa uma carta Skellige de bronze.
+201582_fluff;Sinto um frio palpável vindo desta pedra de runa… eu fiz alguma coisa para magoá-la?
+201582_name;Pedra rúnica Zoria
+201582_tooltip;<keyword=create>Cria</keyword> e usa uma carta dos Reinos do Norte de bronze.
+201583_fluff;Cuidado. Ainda está quente.
+201583_name;Pedra rúnica Dazhbog
+201583_tooltip;<keyword=create>Cria</keyword> e usa uma carta de Nilfgaard de bronze.
+201584_fluff;Minhas lâminas são tão afiadas que cortam papel!
+201584_name;Pedra rúnica Devana
+201584_tooltip;<keyword=create>Cria</keyword> e usa uma carta da facção Monstros de bronze.
+201585_fluff;Desmaio só de ver…
+201585_name;Pedra rúnica Morana
+201585_tooltip;<keyword=create>Cria</keyword> e usa uma carta Scoia'tael de bronze.
+201587_fluff;Ela voltará, em algum lugar, longe do nosso alcance. Sangue correrá novamente.
+201587_name;Colina Sussurrante
+201587_tooltip;Destrói uma unidade aliada, depois <keyword=spawn>faz surgir</keyword> e usa uma cópia básica dela.
+201589_fluff;Embora sejamos poucos e esparsos, os nossos corações ardem como nunca.
+201589_name;Filavandrel
+201589_tooltip;<keyword=order>Ordem</keyword>: reforça todas as unidades na sua mão em {Boost}.
+201595_fluff;A maldição dela foi quebrada… mas seu apetite por carne crua permaneceu.
+201595_name;Princesa Adda
+201595_tooltip;<keyword=order>Ordem</keyword>: causa {Damage} de dano a uma unidade.
+201597_fluff;Eist veio a Cintra para ajudar Crach an Craite a ganhar a mão da Princesa Pavetta, mas acabou ganhando o coração da mãe dela para si.
+201597_name;Eist Tuirseach
+201597_tooltip;<keyword=order>Ordem</keyword>: usa um guerreiro da sua pilha de descarte.
+201598_fluff;O objeto mais simples às vezes possui o maior poder.
+201598_name;Talismã de Osso
+201598_tooltip;Reforça todos os aliados em {Boost}.
+201599_fluff;Ele odeia quando fazem carinho na sua barriga.
+201599_name;Felinomem
+201599_tooltip;<keyword=thrive>Prosperar</keyword>.\n<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a todas as unidades inimigas na fileira oposta.\n<keyword=deathwish>Desejo de Morte</keyword>: repete a habilidade de <keyword=deploy>Mobilização</keyword>.
+201600_fluff;Alguns dizem que a licantropia é contagiosa: se for mordido por um lobisomem, você se transforma em um. Bruxos sabem que isso é bobagem, é claro. Somente uma maldição poderosa pode provocar esta condição.
+201600_name;Lobisomem
+201600_tooltip;<keyword=immune>Imune</keyword>
+201601_fluff;O melhor é não ficar no caminho de Yennefer. Especialmente quando ela está com pressa.
+201601_name;Invocação de Yennefer
+201601_tooltip;Escolha qualquer unidade ou artefato no campo de batalha e o coloque no topo do baralho de seu dono.
+201603_fluff;Por que este monge usa luvas cravejadas…?
+201603_name;Letho: Regicida
+201603_tooltip;<keyword=deploy>Mobilização</keyword>: transforma-se em uma cópia de outra unidade no campo de batalha sem alterar seu poder.
+201606_fluff;Quanto aos tordos, a isca a usar é a seguinte: bata uma estaca no chão, prenda uma cabra a ela e esconda-se no arbusto mais próximo o quanto antes.
+201606_name;Tordo
+201606_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a todas as outras unidades.
+201609_fluff;O truque é quebrar suas vontades, não os seus corpos.
+201609_name;Caçador de escravos
+201609_tooltip;<keyword=deploy>Mobilização</keyword>: se há {MaxTargets} unidades na fileira oposta ou mais, <keyword=seize>toma</keyword> o inimigo mais baixo na fileira em questão.
+201610_fluff;Um homem livre tem escolha. As escolhas de um escravo são feitas para ele.
+201610_name;Infantaria Escrava
+201610_tooltip;<keyword=deploy>Mobilização</keyword>: transforma uma unidade aliada em Infantaria Escrava.
+201611_fluff;Iorveth pode ter um olho só, mas sua visão interna é incomparável.
+201611_name;Aposta de Iorveth
+201611_tooltip;Se você tem {MaxTargets} armadilhas ou mais no seu baralho inicial, usa duas delas aleatoriamente.
+201612_fluff;O que motiva um traficante de escravos? Uma só coisa: ver suas ordens cumpridas ao pé da letra.
+201612_name;Escravagista
+201612_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo. Aumenta o dano em {Damage2} por cada unidade <keyword=lock>bloqueada</keyword>.
+201613_fluff;Herdei a habilidade de meu pai de assumir outras formas... Bem, uma outra forma, no meu caso.
+201613_name;Saesenthessis: Fogo
+201613_tooltip;<keyword=order>Ordem</keyword>: causa {Damage} de dano a um inimigo.\n<keyword=charge>Carga</keyword>: {Maxtargets}.
+201615_fluff;Diante de nós jaz a Passagem de Elskerdeg, e depois dela, Zerrikânia e Hakland. Diante de nós jaz uma estrada longa e perigosa. Se a percorreremos juntos… que deixemos de lado nossa desconfiança.
+201615_name;Conselho de Isengrim
+201615_tooltip;Olha um anão, uma dríade e um elfo aleatórios do seu baralho, depois usa um.
+201616_fluff;Ah, Grande Sol que nos céus voa, salve-nos do piolho que teimosamente infesta nossas calçolas.
+201616_name;Mestre do disfarce
+201616_tooltip;<keyword=order>Ordem</keyword>: troca o poder desta unidade pelo de um inimigo.
+201617_fluff;Não cabe a ele questionar, somente… descascar uma maldita batata após a outra.
+201617_name;Recrutar
+201617_tooltip;<keyword=deploy>Mobilização</keyword>: <keyword=reveal>revela</keyword> uma unidade aleatória de ambos os baralhos. Se o poder da sua for maior, reforça a si mesma em {Boost}.
+201618_fluff;Embora tivesse fama por suas virtudes, sobretudo sua coragem indomável, Seltkirk não foi poupado do destino que tiveram todos aqueles mortos na Batalha de Aedirn Superior.
+201618_name;Seltkirk de Gulet
+201618_tooltip;<keyword=order>Ordem</keyword>, <keyword=melee>Corpo a corpo</keyword>: <keyword=duel>duela</keyword> contra uma unidade inimiga.
+201619_fluff;Vai ajudar? Vai saber. Mas mal não deve fazer. Provavelmente.
+201619_name;Unguento
+201619_tooltip;Reforça um soldado de bronze em {Boost} e repete sua habilidade de <keyword=deploy>Mobilização</keyword>.
+201620_fluff;O general achou que a guerra por Lormark terminaria rapidamente, com perdas mínimas… mas acabou lutando nela por toda a eternidade.
+201620_name;Vandergrift
+201620_tooltip;<keyword=order>Ordem</keyword>, <keyword=melee>Corpo a corpo</keyword>: causa {Damage} de dano a uma unidade.\n<keyword=cooldown>Tempo de espera</keyword>: {Cooldown}.\nSe você controla Lâmina de Vandergrift, causa {Damage2} de dano em vez disso.
+201621_fluff;Vivemos em uma ilha plácida de ignorância no meio de mares escuros de infinidade, e nós não deveríamos viajar para muito longe.
+201621_name;Kiyan
+201621_tooltip;<keyword=order>Ordem</keyword>: causa dano a uma unidade equivalente à contagem de <keyword=charge>cargas</keyword> de Kiyan.\n<keyword=charge>Carga</keyword>: {Charges}.
+201622_fluff;Nem todos os homens no Exército de Kaedwen apoiam as políticas do seu rei. Mas nenhum deles ousaria falar isso em voz alta.
+201622_name;Kaedwen: Cavaleiro
+201622_tooltip;<keyword=deploy>Mobilização</keyword>: se usada do baralho, reforça a si mesma em {Boost}.
+201623_fluff;A maioria dos homens, ao ver um javali enorme na floresta, sujam as calças e se apressam a subir na árvore mais próxima. Mas um homem de Skellige… ele só baba.
+201623_name;Javali Gigante
+201623_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: reforça a si mesma em {Boost} por unidade danificada.
+201624_fluff;Condenado a repetir o mesmo dia eternamente, como os funcionários do Banco Cianfanelli.
+201624_name;Kaedwen: Regressário
+201624_tooltip;<keyword=order>Ordem</keyword>: causa {Damage} de dano a uma unidade. Se ela for destruída, <keyword=spawn>faz surgir</keyword> uma cópia básica de Kaedwen: Regressário e a <keyword=summon>invoca</keyword> para esta fileira.
+201625_fluff;Ele luta em uma guerra sem fim cujo início não lembra mais.
+201625_name;Cavaleiro Maldito
+201625_tooltip;<keyword=deploy>Mobilização</keyword>: transforma uma unidade aliada, exceto Cavaleiro Maldito, em um Cavaleiro Maldito sem mudar seu poder.
+201626_fluff;A Zireael possui um poder muito grande que não consegue controlar. É um perigo para si mesma e para as outras pessoas. Até aprender a controlá-lo, ela devia ficar isolada.
+201626_name;Ciri: Nova
+201626_tooltip;No começo do turno, se esta unidade for a única na sua pilha de descarte, <keyword=summon>invoca-a</keyword> para uma fileira aliada aleatória.
+201627_fluff;Os outros trolls sempre o consideraram um pouco estranho - afinal de contas, quem em plena consciência preferiria pedaços de papel colorido em vez de pedras?
+201627_name;Folga do Lojø
+201627_tooltip;<keyword=doomed>Condenado</keyword>.\nSe seu baralho inicial não tiver repetidas, envie Lojø em uma aventura.
+201628_fluff;Proibida? Sim. Eliminada? Longe disso.
+201628_name;Magia Proibida
+201628_tooltip;Causa {Damage} de dano a um inimigo por cada espectro aliado.
+201630_fluff;A maldição de Sabrina não poupou ninguém, nem mesmo seus colegas praticantes de magia.
+201630_name;Feiticeira Condenada
+201630_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo.
+201631_fluff;Humanos desprezam tanto dúplices que sentem que uma mera execução não é suficiente. Assim, eles amarram os apreendidos a uma vara, cobrem-nos em uma argila espessa e os assam em uma fogueira.
+201631_name;Dúplice
+201631_tooltip;<keyword=deploy>Mobilização</keyword>: escolhe uma unidade na sua mão, depois reforça a si mesma em um valor equivalente ao número total de unidades na sua mão com a mesma categoria primária da unidade escolhida.
+201632_fluff;"O que está escrito na lâmina? É uma maldição?" "Não. Um insulto."
+201632_name;Sihil
+201632_tooltip;<keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>: causa {Damage} de dano a um inimigo.\n<keyword=cooldown>Tempo de espera</keyword>: {Cooldown}.\nSempre que Sihil destruir um inimigo, aumenta o dano de <keyword=order>Ordem</keyword> de Sihil em {Damage2} até ser removido do campo de batalha.
+201633_fluff;Há armas banidas por todos os Reinos do Norte, pois os ferimentos que criam são inimaginavelmente horríveis.
+201633_name;Mangual Sangrento
+201633_tooltip;<keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>: causa dano a um inimigo equivalente à contagem de <keyword=charge>cargas</keyword> do Mangual Sangrento, depois remove todas as <keyword=charge>cargas</keyword>.\n<keyword=charge>Carga</keyword>: {Charges}.\nQuando uma unidade aliada ganha <keyword=charge>cargas</keyword>, recebe a mesma quantidade.
+201634_fluff;Só falta uma pedra e acabamos.
+201634_name;Avalanche de Bekker
+201634_tooltip;Causa {Damage} de dano a uma unidade.
+201635_fluff;Pelas gônadas dos deuses, bruxo, por que você me trouxe esta imundície?! "Eu quero a cabeça daquela fera!", era uma maldita figura de linguagem!
+201635_name;Caçada Gloriosa
+201635_tooltip;Destrói a unidade com a base de poder mais alta.
+201636_fluff;Odiado pelos homens, insultado pelos elfos e sempre escolhido por último nos jogos do pátio da escola. Não é de se admirar que meios-elfos tendem a ser amargurados.
+201636_name;Caçador Meio-elfo
+201636_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo por cada artefato que você controla.
+201637_fluff;Em Zerrikânia, a adoração aos dragões domina todos os aspectos do cotidiano. Assim, não é surpresa que eles nomeiem suas armas em sua honra.
+201637_name;Sonho do Dragão
+201637_tooltip;Aplica este efeito de fileira a uma fileira inimiga:\nApós {Counter} turnos, no começo do turno, explode e causa {Damage} de dano a todas as unidades nesta fileira.
+201638_fluff;Dizem que elfos não deixam rastros na neve, mas se me perguntar, essas pessoas são só umas idiotas da vila, falando besteira.
+201638_name;Batedor élfico
+201638_tooltip;Sempre que uma armadilha aliada é ativada, reforça a si mesma em {Boost}.
+201639_fluff;Toc, toc… alguém em casa?
+201639_name;Guarnição
+201639_tooltip;Reforça uma unidade em {Boost}.
+201642_fluff;Parece impressionante, mas só é boa mesmo para passar manteiga.
+201642_name;Espada ornamental
+201642_tooltip;postponed
+201643_fluff;Lâminas élficas são leves, mas causam ferimentos pesados.
+201643_name;Lâmina élfica
+201643_tooltip;postponed
+201644_fluff;Ninguém imaginaria que eu sou uma ferreira habilidosa: uma humana e mulher ainda por cima. Um ferreiro anão, isso é outra coisa.
+201644_name;Yoana
+201644_tooltip;<keyword=order>Ordem</keyword>: <keyword=heal>cura</keyword> um aliado em {Boost}.\n<keyword=charge>Carga</keyword>: {Charges}.\nGanha {Charges2} de <keyword=charge>carga</keyword> sempre que uma unidade adjacente sofre dano.
+201645_fluff;Depois dele te derrubar, você não levanta novamente.
+201645_name;Armadilha Esmagadora
+201645_tooltip;<keyword=ambush>Emboscada</keyword>: após {Counter} turnos, no começo do turno, causa {Damage} de dano a todas as unidades na fileira inimiga com mais unidades.\n<keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>: vira para cima e causa {Damage2} de dano a todas as unidades em uma fileira.
+201646_fluff;Seja lá o que tenha causado esta loucura, deve ser aterrorizante...
+201646_name;Derran
+201646_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: move até {MaxTargets} cartas do seu baralho para a sua pilha de descarte.
+201647_fluff;Algum dia, no futuro, talvez um pedaço de pedra de duas toneladas caia em você.
+201647_name;Barreira de pedra
+201647_tooltip;Causa {Damage} de dano a um inimigo e move ele para a outra fileira.
+201648_fluff;Seltkirk estilhaçou a espada de Vandergrift durante um torneio de cavaleiros em Ard Carraigh. Depois, Vandergrift, enfurecido pelo fracasso da sua arma, mandou forjar uma nova, desta vez contendo o encantamento de pedras de runas poderosas.
+201648_name;Vandergrift: Lâmina
+201648_tooltip;Sempre que você usa um soldado nesta fileira, reforça-o em {Boost}.
+201650_fluff;Com seu último suspiro, Sabrina Glevissig lançou uma maldição poderosa que atingiu não somente seus executores, mas todos que estavam por perto.
+201650_name;Inferno de Sabrina
+201650_tooltip;Causa {Damage} de dano a todas as unidades, exceto espectros. Se alguma for destruída, repete esta habilidade uma vez.
+201653_fluff;Era uma vez, Mahakam teve um concurso de soprar chifres. Naquele dia, os anões fizeram uma importante descoberta: barulhos altos e picos cobertos de neve não vão bem juntos.
+201653_name;Chifre de Mahakam
+201653_tooltip;<keyword=ambush>Emboscada</keyword>: quando seu oponente passa, reforça as unidades adjacentes em {Boost}.
+201656_fluff;Segure a lança para cima, fracote! Nem um único cavalo passará!
+201656_name;Lança obra-prima
+201656_tooltip;<keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>: causa {Damage} de dano a uma unidade.\n<keyword=cooldown>Tempo de espera</keyword>: {Cooldown}.
+201657_fluff;Chama mesmo a atenção.
+201657_name;Parasita
+201657_tooltip;Causa {Damage} de dano a um inimigo ou reforça um aliado em {Boost}.
+201659_fluff;É um guincho. Não tem muito o que falar.
+201659_name;Guincho
+201659_tooltip;Usa uma máquina de bronze da sua pilha de descarte.
+201660_fluff;Ninguém jamais entrou naquela floresta e viveu para contar...
+201660_name;Ruehin
+201660_tooltip;<keyword=deathwish>Desejo de Morte</keyword>: no fim do turno, <keyword=summon>invoca</keyword> esta unidade da sua pilha de descarte para uma fileira aliada aleatória.
+201661_fluff;Construa pontes, não muros.
+201661_name;Sentinela
+201661_tooltip;postponed
+201662_fluff;Não confio minha vida ao acaso. Confio-a a uma camada espessa de cadaverina na minha lâmina.
+201662_name;Cadaverina
+201662_tooltip;<keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>: destrói a si mesma e todas as unidades com poder igual à contagem de <keyword=charge>cargas</keyword> de Cadaverina.\n<keyword=charge>Carga</keyword>: {Charges2}.\nA cada turno, no começo do turno e sempre que você usa uma tática, ganha {Charges} de <keyword=charge>carga</keyword>.
+201664_fluff;"Olho por olho" só termina quando o mundo inteiro estiver cego.
+201664_name;Vrygheff
+201664_tooltip;<keyword=deploy>Mobilização</keyword>: ativa as habilidades de <keyword=deploy>Mobilização</keyword> dos soldados de bronze adjacentes.
+201676_fluff;Ninguém contrabandeou tanta comida para os elfos das Montanhas Azuis quanto Gale. Ele levava sacos de nabos e, os mais preciosos de todos, alhos-porós.
+201676_name;Pavko Gale
+201676_tooltip;<keyword=order>Ordem</keyword>: causa {Damage} de dano a uma unidade. \n<keyword=cooldown>Tempo de espera</keyword>: {Cooldown}.
+201696_fluff;Mexam os traseiros! É uma maldita armadilha!
+201696_name;Paulie Dahlberg
+201696_tooltip;<keyword=order>Ordem</keyword>: reforça a unidade da esquerda em {Boost}, ou concede <keyword=immune>imune</keyword> à da direita.
+201697_fluff;Todo os vampiros concordam: usar esta poção é espírito esportivo ruim.
+201697_name;Sangue preto
+201697_tooltip;Na próxima vez em que um inimigo for reforçado, destrói esta unidade e a si mesma.
+201698_fluff;Alguns necrófagos desenvolveram um tal gosto pela carne humana que desenterrar cadáveres não mais os satisfaz...
+201698_name;Ozzrel
+201698_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: <keyword=consume>consome</keyword> uma unidade da pilha de descarte do seu oponente.\n<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: <keyword=consume>consome</keyword> uma unidade da sua pilha de descarte.
+201699_fluff;Não pensem que estão abertos para visitantes…
+201699_name;Nilfgaard: Portões
+201699_tooltip;postponed
+201700_fluff;Essa ponte aqui? Os trolls construíram há muito tempo. Sentavam embaixo dela, faziam as pessoas pagarem uma boa quantia pra passar. Acontece que não tem muita gente que passa por aqui. Então eles fizeram as malas e foram embora. Mas a ponte, não. Ela ficou.
+201700_name;Troll da ponte
+201700_tooltip;<keyword=deathwish>Desejo de Morte</keyword>: reforça o aliado mais alto em {Boost}.
+201701_fluff;O que, há uns momentos atrás, pareciam pedras redondas entre as estalagmites, agora o encaravam com olhos grandes, brilhantes e ameaçadores.
+201701_name;Barbegazi
+201701_tooltip;<keyword=order>Ordem</keyword>: <keyword=consume>consome</keyword> uma unidade aliada.\n<keyword=charge>Carga</keyword>: {Charges}.
+201704_fluff;Se nossos batedores não voltarem, daremos meia-volta. Os caipiras dizem que essa mata é cheia de esquilos. E não do tipo que ama nozes.
+201704_name;Batedor
+201704_tooltip;<keyword=deploy>Mobilização</keyword>: remove um efeito de uma fileira aliada.
+201709_fluff;"O que está escrito na lâmina? É uma maldição?" "Não. Um insulto."
+201709_name;Equalizar
+201709_tooltip;Causa {Damage} de dano a todos os inimigos com poder par.
+201710_fluff;"O que está escrito na lâmina? É uma maldição?" "Não. Um insulto."
+201710_name;Atrapalhar
+201710_tooltip;Causa {Damage} de dano a todos os inimigos com poder ímpar.
+201725_fluff;Os outros trolls sempre o consideraram um pouco estranho - afinal de contas, quem em plena consciência preferiria pedaços de papel colorido em vez de pedras?
+201725_name;Shupe: Mago
+201725_tooltip;Envia Lojø para a Academia Ban Ard para Rapazes.
+201726_fluff;Os outros trolls sempre o consideraram um pouco estranho - afinal de contas, quem em plena consciência preferiria pedaços de papel colorido em vez de pedras?
+201726_name;Shupe: Mago
+201726_tooltip;<keyword=deploy>Mobilização</keyword>: transforma a carta mais à direita na mão de cada jogador em uma carta especial aleatória.
+201727_fluff;Os outros trolls sempre o consideraram um pouco estranho - afinal de contas, quem em plena consciência preferiria pedaços de papel colorido em vez de pedras?
+201727_name;Shupe: Mago
+201727_tooltip;<keyword=deploy>Mobilização</keyword>: move uma unidade aleatória para a fileira oposta.
+201728_fluff;Os outros trolls sempre o consideraram um pouco estranho - afinal de contas, quem em plena consciência preferiria pedaços de papel colorido em vez de pedras?
+201728_name;Shupe: Mago
+201728_tooltip;<keyword=deploy>Mobilização</keyword>: aplica um efeito de fileira aleatório em todas as fileiras.
+201729_fluff;Os outros trolls sempre o consideraram um pouco estranho - afinal de contas, quem em plena consciência preferiria pedaços de papel colorido em vez de pedras?
+201729_name;Shupe: Mago
+201729_tooltip;<keyword=deploy>Mobilização</keyword>: divide {Damage} de dano aleatoriamente entre todas as outras unidades no campo de batalha.
+201730_fluff;Os outros trolls sempre o consideraram um pouco estranho - afinal de contas, quem em plena consciência preferiria pedaços de papel colorido em vez de pedras?
+201730_name;Shupe: Mago
+201730_tooltip;<keyword=deploy>Mobilização</keyword>: <keyword=spawn>faz surgir</keyword> e <keyword=summon>invoca</keyword> uma unidade aleatória para uma fileira aleatória em cada lado.
+201731_fluff;Os outros trolls sempre o consideraram um pouco estranho - afinal de contas, quem em plena consciência preferiria pedaços de papel colorido em vez de pedras?
+201731_name;Shupe: Caçador
+201731_tooltip;Envia Lojø para as florestas de Dol Blathanna.
+201732_fluff;Os outros trolls sempre o consideraram um pouco estranho - afinal de contas, quem em plena consciência preferiria pedaços de papel colorido em vez de pedras?
+201732_name;Shupe: Caçador
+201732_tooltip;<keyword=deploy>Mobilização</keyword>: usa uma carta aleatória do seu baralho.
+201733_fluff;Os outros trolls sempre o consideraram um pouco estranho - afinal de contas, quem em plena consciência preferiria pedaços de papel colorido em vez de pedras?
+201733_name;Shupe: Caçador
+201733_tooltip;<keyword=deploy>Mobilização</keyword>: divide {Damage2} de dano aleatoriamente entre todas as unidades inimigas.
+201734_fluff;Os outros trolls sempre o consideraram um pouco estranho - afinal de contas, quem em plena consciência preferiria pedaços de papel colorido em vez de pedras?
+201734_name;Shupe: Caçador
+201734_tooltip;<keyword=deploy>Mobilização</keyword>: reforça todas as unidades na sua mão entre {Boost} e {Boost2} de poder.
+201735_fluff;Os outros trolls sempre o consideraram um pouco estranho - afinal de contas, quem em plena consciência preferiria pedaços de papel colorido em vez de pedras?
+201735_name;Shupe: Caçador
+201735_tooltip;<keyword=deploy>Mobilização</keyword>: destrói um inimigo aleatório.
+201736_fluff;Os outros trolls sempre o consideraram um pouco estranho - afinal de contas, quem em plena consciência preferiria pedaços de papel colorido em vez de pedras?
+201736_name;Shupe: Caçador
+201736_tooltip;<keyword=deploy>Mobilização</keyword>: aplica um efeito de fileira aleatório a uma fileira inimiga.
+201737_fluff;Os outros trolls sempre o consideraram um pouco estranho - afinal de contas, quem em plena consciência preferiria pedaços de papel colorido em vez de pedras?
+201737_name;Shupe: Cavaleiro
+201737_tooltip;Envia Lojø para a Academia Militar da Corte Imperial.
+201738_fluff;Os outros trolls sempre o consideraram um pouco estranho - afinal de contas, quem em plena consciência preferiria pedaços de papel colorido em vez de pedras?
+201738_name;Shupe: Cavaleiro
+201738_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage3} de dano a um inimigo.
+201739_fluff;Os outros trolls sempre o consideraram um pouco estranho - afinal de contas, quem em plena consciência preferiria pedaços de papel colorido em vez de pedras?
+201739_name;Shupe: Cavaleiro
+201739_tooltip;<keyword=deploy>Mobilização</keyword>: <keyword=lock>bloqueia</keyword> uma unidade.
+201740_fluff;Os outros trolls sempre o consideraram um pouco estranho - afinal de contas, quem em plena consciência preferiria pedaços de papel colorido em vez de pedras?
+201740_name;Shupe: Cavaleiro
+201740_tooltip;<keyword=deploy>Mobilização</keyword>: ganha <keyword=resilient>Resiliência</keyword>.
+201741_fluff;Os outros trolls sempre o consideraram um pouco estranho - afinal de contas, quem em plena consciência preferiria pedaços de papel colorido em vez de pedras?
+201741_name;Shupe: Cavaleiro
+201741_tooltip;<keyword=deploy>Mobilização</keyword>: destrói um artefato inimigo.
+201742_fluff;Os outros trolls sempre o consideraram um pouco estranho - afinal de contas, quem em plena consciência preferiria pedaços de papel colorido em vez de pedras?
+201742_name;Shupe: Cavaleiro
+201742_tooltip;<keyword=deploy>Mobilização</keyword>: reforça um aliado em {Boost4}.
+201743_fluff;Seus filhos herdaram sua beleza.
+201743_name;Aracna Rainha
+201743_tooltip;Sempre que uma unidade aliada é destruída no seu turno, <keyword=spawn>faz surgir</keyword> uma aracna macho e a <keyword=summon>invoca</keyword> para uma fileira aliada inimiga.
+201744_fluff;O vento os transporta pelo continente... e eles semeiam a loucura e a praga onde caem.
+201744_name;Esporos
+201744_tooltip;Restaura uma unidade para sua base de poder.
+201748_fluff;Como o Rei Foltest gosta de dizer, não importa o tamanho, só se faz o serviço.
+201748_name;Orgulho de Foltest
+201748_tooltip;<keyword=order>Ordem</keyword>, <keyword=melee>Corpo a corpo</keyword>: causa {Damage} de dano a um inimigo e a todos os outros inimigos com o mesmo poder.\n<keyword=charge>Carga</keyword>: {Charges}.
+201749_fluff;Sente o cheiro? É o cheiro da felicidade.
+201749_name;Espuma Dourada
+201749_tooltip;Reforça todas as unidades em uma fileira em {Boost}.
+201753_fluff;Somos a milícia, veja bem. Mantemos a paz.
+201753_name;Milícia Camponesa
+201753_tooltip;<keyword=deploy>Mobilização</keyword>: reforça um aliado em {Boost}.
+201772_fluff;Certa vez, aceitei um trabalho. Após concluí-lo, quando me disseram para escolher uma recompensa, evoquei a Lei da Surpresa.
+201772_name;Geralt: Profissional
+201772_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: causa {Damage} de dano a um inimigo. Se o poder dele é múltiplo de {Power}, destrua-o em vez disso.
+201773_fluff;Aprisionamentos não funcionarão. Nem piadas a deixarão menos perigosa. Não, dimerítio é a única solução.
+201773_name;Triss: Telecinese
+201773_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: <keyword=create>cria</keyword> e usa uma carta especial de bronze do baralho atual de qualquer um dos jogadores.
+201774_fluff;Dandelion me contou tudo sobre as suas aventuras. Como ele o preparava para a batalha com as suas músicas, como ele domou o kayran com o seu alaúde...
+201774_name;Dandelion: Vanglória
+201774_tooltip;<keyword=deploy>Mobilização</keyword>: destrói uma fera inimiga.
+201776_fluff;A pena é mais poderosa que a espada.
+201776_name;Dandelion: Poeta
+201776_tooltip;<keyword=deploy>Mobilização</keyword>: compra uma carta, depois usa uma carta.
+201777_fluff;Medo não combina conosco. Porém, há um certo d'hoine... Vernon Roche. Cuidado com ele.
+201777_name;Roche: Impiedoso
+201777_tooltip;<keyword=order>Ordem</keyword>: <keyword=seize>toma</keyword> um inimigo com poder igual ou menor do que a contagem de <keyword=charge>cargas</keyword> de Roche: Impiedoso e depois remove todas as <keyword=charge>cargas</keyword>.\n<keyword=charge>Carga</keyword>: {Charges}.\nA cada turno, no começo do turno, ganha {Charges2} de <keyword=charge>carga</keyword>.
+201778_fluff;Preciso unir os clãs. Prefiro evitar a guerra, mas se Nilfgaard pretende atacar, precisamos combatê-la juntos.
+201778_name;Cerys: Destemida
+201778_tooltip;postponed
+201779_fluff;Brokilon me é mais querida do que minha própria vida. Ela é a mãe que cuida dos filhos. Eu a defenderei até meu último suspiro.
+201779_name;Chamado da Floresta
+201779_tooltip;Embaralha uma unidade aliada no seu baralho, depois usa uma unidade da mesma categoria principal do seu baralho e reforça-a em {Boost}.
+201780_fluff;Sim, eu vi o futuro. E você não está nele.
+201780_name;Yennefer: Divinação
+201780_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: <keyword=reveal>revela</keyword> uma unidade aleatória do seu baralho, depois reforça um aliado com o poder dela.
+201781_fluff;As irmãs disseram que você viria. Elas viram você chegar na superfície da água.
+201781_name;Imlerith
+201781_tooltip;<keyword=order>Ordem</keyword>: se você controla a unidade mais alta, causa {Damage} de dano a uma unidade.\n<keyword=cooldown>Tempo de espera</keyword>: {Cooldown}.
+201817_fluff;"Inconcebível. Impossível.” – pensou Ciri, voltando à consciência. "Unicórnios não existem, não mais, não nesse mundo. Os unicórnios foram extintos."
+201817_name;Ihuarraquax
+201817_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: cada jogador <keyword=summon>invoca</keyword> a unidade com o Custo de Recruta mais alto de seu baralho para a fileira corpo a corpo.\n<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: cada jogador <keyword=summon>invoca</keyword> a unidade com o Custo de Recruta mais baixo de seu baralho para a fileira de longa distância.
+202044_fluff;Controle a escória com punho de ferro. Não tenha medo de usar a chibata!
+202044_name;Gerwin Coxo
+202044_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: causa {Damage} de dano a um inimigo e a todas as cópias dele.
+202054_fluff;Sirva queijo gratinado como acompanhamento. Adicione olhos para o gosto. Sirva ainda quente.
+202054_name;Sopa: cebola com elfo
+202054_tooltip;Destrói {Maxtargets} unidades aliadas da mesma cor, depois <keyword=create>cria</keyword> e usa uma unidade da cor em questão.
+202064_fluff;Não é a razão que me falta, apenas emoção.
+202064_name;Ivo de Belhaven
+202064_tooltip;<keyword=order>Ordem</keyword>, <keyword=melee>Corpo a corpo</keyword>: causa {Damage} de dano a um inimigo.\n<keyword=charge>Carga</keyword>: {Charges}.\nGanha {Charge} de <keyword=charge>carga</keyword> sempre que você usa um bruxo.
+202093_fluff;Dandelion, você é cínico, tarado, mentiroso e o meu melhor amigo.
+202093_name;Dandelion: Destruidor
+202093_tooltip;Sem habilidade.
+202094_fluff;Mais um passo em direção à carruagem, e vai tomar flechada no olho!
+202094_name;Escolta da Caravana
+202094_tooltip;Sem habilidade.
+202095_fluff;Pela graça de Melitele, juro que o caminho era por aqui em algum lugar...
+202095_name;Guia da Caravana
+202095_tooltip;Sem habilidade.
+202096_fluff;Se isso for o que é preciso para salvar o mundo, é melhor deixá-lo morrer.
+202096_name;Geralt de Rívia
+202096_tooltip;Sem habilidade.
+202097_fluff;Esses pequenos são quase bonitinhos, se ignorar que são assassinos impiedosos.
+202097_name;Nekker
+202097_tooltip;Sem habilidade.
+202098_fluff;O Bom Livro diz que o mundo é um jardim que os deuses concederam ao homem. E nós, os homens, negligenciamos esse jardim.
+202098_name;Eyck de Denesle
+202098_tooltip;<keyword=deploy>Mobilização</keyword>: se há um dragão na sua mão, ganha <keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>: destrói uma unidade com {Power} ou mais de poder.
+202099_fluff;Os Vira-Latas de Spalla. É você quem os lidera? É você quem chamam de Duque dos Cães?
+202099_name;Gascon
+202099_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: reforça a si mesma em um valor aleatório entre {Power} e {Power2} de poder.
+202100_fluff;Aquele rapaz não nasceu para usar a coroa, faltam-lhe a inteligência e a determinação para isso. Eu sei disso, você sabe... Só ele que não.
+202100_name;Príncipe Villem
+202100_tooltip;<keyword=spying>Espionagem</keyword>.\n<keyword=deploy>Mobilização</keyword>: usa uma carta de ouro aleatória do seu baralho.
+202101_fluff;Vossa Majestade... A rainha interrogar plebeus?... Simplesmente não é adequado.
+202101_name;Conde Caldwell
+202101_tooltip;A cada turno, no fim do turno, move-se para a fileira com a unidade mais alta no campo de batalha.
+202102_fluff;Seu engenheiro tem a cabeça que parece um churrasco, mas ele conserta muito bem, isso é fato.
+202102_name;Xavier Lemmens
+202102_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: <keyword=banish>bane</keyword> todas as cartas na pilha de descarte do oponente.\n<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: <keyword=banish>bane</keyword> todas as cartas na sua pilha de descarte.
+202103_fluff;Quando veio pra cá, eles lutaram contra ele por quase um século. Uma hora, o dragão cansou de lutar e eles perceberam que ele não sairia daqui, então... eles fizeram um acordo. Ele não incomoda os anões em troca do que ele precisar.
+202103_name;Keltullis
+202103_tooltip;<keyword=melee>Corpo a corpo</keyword>: a cada turno, no fim do turno, destrói a unidade mais baixa no lado com mais unidades.
+202104_fluff;"O que foi que eu fiz?", disse o mago, assustado com a sua criação.
+202104_name;Espanto: Desperto
+202104_tooltip;<keyword=immune>Imune</keyword>
+202105_fluff;O pântano sob seus pés de repente explodiu com um impacto poderoso. Da escuridão, saíram garras com espinhos parecidos com as de um louva-deus. Os ganchos verdes abissais pegaram o pé de um azarado, arrastando ele para baixo da superfície da água.
+202105_name;Glustyworp
+202105_tooltip;<keyword=deploy>Mobilização</keyword>: destrói todas as unidades com {Power} de poder. Para cada unidade destruída, reforça a si mesma em {Boost}.
+202106_fluff;Brouver Hoog queria expulsar ele de Mahakam numa certa época, por ter uma lhama na sua sala de estar… é uma longa história.
+202106_name;Gabor Zigrin
+202106_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: concede <keyword=resilient>resiliência</keyword>.\n<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: concede <keyword=immune>imune</keyword>.\nSempre que usar um anão, reforça a si mesma em {Boost}.
+202107_fluff;Chegou aqui com uma carroça cheia de tranqueiras e bugigangas. Passou de casa em casa cantando mil louvores às suas tralhas. E o que foi que nos vendeu? Bomba que explode na sua mão! Fórmula de crescer barba que faz seu cabelo pegar fogo!
+202107_name;Barnabas Beckenbauer
+202107_tooltip;<keyword=deploy>Mobilização</keyword>: reforça um elfo, anão e uma aliada dríade em {Boost}.
+202108_fluff;Eu prometi que jamais usaria magia de novo para machucar outras pessoas.
+202108_name;Isbel de Hagge
+202108_tooltip;<keyword=order>Ordem</keyword>, <keyword=ranged>Longa distância</keyword>: olha a carta no topo de ambos os baralhos. Fica com uma e dá a outra para o oponente.
+202109_fluff;O litoral foi depenado há muito tempo! Então levamos nossos barcos Yaruga acima, pelo ouro e pela glória!
+202109_name;Gudmund Beiçudo
+202109_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: troca todas as cartas na sua pilha de descarte com seu baralho.
+202110_fluff;Só frangotes usam escudos.
+202110_name;Dagur Duas Espadas
+202110_tooltip;<keyword=melee>Corpo a corpo</keyword>: sempre que um inimigo sofre dano, reforça a si mesma em {Boost}.
+202111_fluff;Os nilfgaardianos estão indo na direção da rainha sem demonstrarem medo. O homem liderando os nilfgaardianos estava de robes elegantes. Ele exalava orgulho... e um certo almíscar.
+202111_name;Traheaern var Vdyffir
+202111_tooltip;<keyword=deploy>Mobilização</keyword>: olha as {MaxTargets} cartas no topo do baralho do oponente e move 1 para a pilha de descarte dele.
+202112_fluff;Servi seu marido por dez anos e você há oito. Nunca lutei por causa mais justa.
+202112_name;Reynard Odo
+202112_tooltip;Sempre que uma unidade aliada com <keyword=charge>carga</keyword> é usada, concede 1 de <keyword=charge>carga</keyword> a ela.
+202113_fluff;Exceções são um caminho certo para o derramamento de sangue. Todos os Scoia'tael precisam morrer. Deixe que os deuses separem o joio do trigo.
+202113_name;Rayla Negra
+202113_tooltip;<keyword=deploy>Mobilização</keyword>: causa dano a um inimigo equivalente ao número de aliados humanos.
+202114_fluff;O que veio primeiro, o ovo ou a galinha? Comparada ao enigma que é a fênix, esta pergunta parece absolutamente trivial.
+202114_name;Filhote de Fênix
+202114_tooltip;<keyword=doomed>Condenado</keyword>. <keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>: transforma-se em Fênix.
+202115_fluff;O rei enviou um representante a Eldain uma vez... apesar do meu conselho. O enviado foi encontrado no dia seguinte com os olhos arrancados e uma bandeira branca enfiada na garganta.
+202115_name;Eldain
+202116_fluff;Estamos em guerra, momento quando os governantes não empenham ou escolhem. Quando os governantes pegam em espadas para defenderem seus súditos.
+202116_name;Rainha Meve
+202117_fluff;Afrescos nas paredes do túmulo representavam os pântanos de Angren e as feras que espreitavam por eles. Duas palavras foram inscritas sob o maior dos horrores: Gvaern Ichaer – a Senhora Sangrenta.
+202117_name;Gernichora
+202118_fluff;De onde venho, no mundo civilizado, um general comanda sua força. Ele não corre e se debate como um cão com raiva.
+202118_name;Ardal aep Dahy
+202119_fluff;Queremos matar. Nilfgaardianos, lyrianos... Luta, sangue e vísceras para lavar nossa vergonha.
+202119_name;Arnjolf, o Patricida
+202121_fluff;Auuu, auuuu, auuuu!
+202121_name;Vira-Latas de Spalla
+202121_tooltip;<keyword=deploy>Mobilização</keyword>: move uma unidade para a outra fileira.​
+202122_fluff;Conheci um casal uma vez que se separou logo depois do casamento. Uma bomba na carruagem faz isso.
+202122_name;Carregador de Bomba
+202122_tooltip;<keyword=deploy>Mobilização</keyword>: destrói um artefato inimigo.
+202124_fluff;Um cruzamento entre um caranguejo, uma aranha... e uma montanha.
+202124_name;Aracna Gigante
+202124_tooltip;Sem habilidade.
+202125_fluff;Feiura é como a natureza diz: "fica longe".
+202125_name;Aracna macho
+202125_tooltip;Sem habilidade.
+202126_fluff;O que tem na carruagem? E por que isso me interessaria?
+202126_name;Guarda Mercenário
+202126_tooltip;Sem habilidade.
+202127_fluff;Esquerda, direita, esquerda, direita... Não dava pra misturar um pouco de vez em quando?
+202127_name;Desertor Soldado Raso
+202127_tooltip;Sem habilidade.
+202128_fluff;Maldita corda! Estou com bolhas nos dedos!
+202128_name;Desertor Arqueiro
+202128_tooltip;Sem habilidade.
+202129_fluff;Espeta eles com a ponta.
+202129_name;Lança
+202129_tooltip;Sem habilidade.
+202130_fluff;Simbolizando nascimento e rejuvenescimento, esta poção acelera a velocidade na qual as feridas cicatrizam e curam.
+202130_name;Andorinha
+202130_tooltip;Reforça uma unidade em {Boost}.
+202131_fluff;Espeta eles com a ponta.
+202131_name;Lança
+202131_tooltip;<keyword=order>Ordem</keyword>: causa {Damage} de dano a um inimigo.
+202132_fluff;O movimento dos dedos de um bruxo pode acender uma lâmpada... ou incinerar um inimigo.
+202132_name;Geralt: Igni
+202132_tooltip;<keyword=deploy>Mobilização</keyword>: destrói a(s) unidade(s) inimiga(s) mais alta(s).
+202133_fluff;Sempre tento ajudar quando posso. Mas não posso ajudar morto.
+202133_name;Dandelion: Benfeitor
+202133_tooltip;<keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>: reforça todos os aliados em {Power}.
+202134_fluff;Seus filhos herdaram sua beleza.
+202134_name;Rainha do Enxame
+202134_tooltip;Causa {Damage} de dano a {MaxTargets} inimigos.
+202135_fluff;Os elfos têm uma excelente visão e uma mira impecável. Deixa eu te mostrar.
+202135_name;Arqueira Scoia'tael
+202135_tooltip;Sem habilidade.
+202136_fluff;Quer dizer que a elfa dançou no meio do combate? Você ficou louco, soldado?!
+202136_name;Elfa Dançarina de Guerra
+202136_tooltip;Sem habilidade.
+202137_fluff;Esta floresta é o nosso lar... e será o seu túmulo.
+202137_name;Líder do Comando
+202137_tooltip;<keyword=order>Ordem</keyword>: reforça uma unidade em {Boost}.
+202138_fluff;Às vezes, a natureza desmente a frase "juventude é beleza".
+202138_name;Filhote de Aracna
+202138_tooltip;Sem habilidade.
+202139_fluff;Esse elfo é meu. Meu!
+202139_name;Líder da Caravana
+202139_tooltip;Causa {Damage} de dano a uma unidade e às unidades adjacentes a ela.
+202140_fluff;Lembrem-se, cadetes! Quem desembainha a lâmina primeiro ganha vantagem sobre o inimigo!
+202140_name;Vantagem Tática
+202140_tooltip;<keyword=immune>Imune</keyword>.\n<keyword=order>Ordem</keyword>: reforça um aliado em {Boost}, depois <keyword=banish>bane</keyword> a si mesma.\nSe for removida do campo de batalha, <keyword=banish>bane</keyword> a si mesma.
+202141_fluff;INVISIBLE, IGNORE
+202141_name;INVISIBLE, IGNORE
+202142_fluff;Cuidado, rapazes, tem nekkers debaixo desta ponte aqui.
+202142_name;Nekker guerreiro
+202142_tooltip;Sem habilidade.
+202143_fluff;Se carniçais são parte do ciclo da vida, esse ciclo deve ser bem abusivo.
+202143_name;Carniçal
+202143_tooltip;Sem habilidade.
+202144_fluff;A névoa chega sorrateiramente. Nevolosos chegam matando.
+202144_name;Nevoloso
+202144_tooltip;Sem habilidade.
+202145_fluff;Muitos medos primitivos jazem no coração dos homens. O medo da névoa tem razão de ser...
+202145_name;Antigo Nevoloso
+202145_tooltip;Sem habilidade.
+202146_fluff;Um demônio parece quase como um cervo, como um cervo grande e maligno.
+202146_name;Demônio
+202146_tooltip;Sem habilidade.
+202147_fluff;Lá! Entre as árvores!
+202147_name;Rastreador
+202147_tooltip;<keyword=order>Ordem</keyword>: causa {Damage} de dano a uma unidade.
+202148_fluff;Meu rei é um bon-vivant... Ele aproveita frequentemente os prazeres da vida. Mas nada disso prejudicou sua habilidade de governar bem.
+202148_name;Rei Demavend III
+202148_tooltip;<keyword=order>Ordem</keyword>: concede {Charge} de <keyword=charge>carga</keyword> a uma unidade.\n<keyword=cooldown>Tempo de espera</keyword>: {Cooldown}.
+202149_fluff;Não importa se rasteja, desliza ou escala, eu já comi de tudo. Quanto a coisas que voam... uma vez comi uma pipa só porque tinha farinha grudada nela.
+202149_name;Angoulême
+202149_tooltip;<keyword=order>Ordem</keyword>: usa um artefato aleatório do baralho do seu oponente.
+202150_fluff;Tem quase meio século que não exerço a medicina. Os anos não foram gentis com minha memória, nem com a destreza de meus dedos.
+202150_name;Vysogota de Corvo
+202150_tooltip;<keyword=zeal>Zelo</keyword>.\n<keyword=order>Ordem</keyword>, <keyword=ranged>Longa distância</keyword>: reforça uma unidade em {Boost}.\n<keyword=charge>Carga</keyword>: {Charges}.\nGanha {Charges2} de <keyword=charge>carga</keyword> sempre que um dos jogadores usa uma carta.
+202151_fluff;De longe, ele parece um urso. De perto, bom... parece um ursão.
+202151_name;Falibor
+202151_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: destrói uma unidade inimiga com <keyword=order>Ordens</keyword>.
+202152_fluff;Anna odiava tanto o marido que estava disposta a tudo para se livrar dele, e da criança que ele colocara dentro dela.
+202152_name;Anna Strenger
+202152_tooltip;Se esta unidade estiver reforçada no fim do turno, reforça unidades adjacentes em {Boost}.
+202153_fluff;Um cavaleiro só é tão bom quanto sua montaria. Cavalos lyrianos estão entre os melhores do continente.
+202153_name;Cavalaria de Lyria
+202153_tooltip;Sempre que usar uma unidade com <keyword=order>Ordens</keyword>, reforça a si mesma em {Boost}.
+202154_fluff;Desça de seu cavalinho e me enfrente!
+202154_name;Piqueiro Riviano
+202154_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo. Se ele foi destruído, causa {Damage2} de dano a outro inimigo.
+202155_fluff;Consigo achar o alvo de cem passos! Talvez não no primeiro tiro, é claro...
+202155_name;Besteiro lyriano
+202155_tooltip;<keyword=order>Ordem</keyword>: causa {Damage} de dano a uma unidade.\n<keyword=charge>Carga</keyword>: {Charges}.\nGanha {Charges2} de <keyword=charge>carga</keyword> sempre que usar uma carta com <keyword=order>Ordens</keyword>.
+202156_fluff;Melhor não rir de seus chapéus ridículos. Confie em mim.
+202156_name;Lansquenete Lyriano
+202156_tooltip;<keyword=order>Ordem</keyword>: causa {Damage} de dano a uma unidade. Se Lansquenete Lyriano foi reforçado, causa {Damage2} de dano a uma unidade.
+202157_fluff;Claro que te ajudo com as feridas, mas isso vai custar.
+202157_name;Curandeira Havekar
+202157_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: reforça um aliado em {Boost}.\n<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: <keyword=heal>cura</keyword> um aliado.
+202158_fluff;Elfo, anão, tanto faz. Desde que tenham dinheiro.
+202158_name;Auxiliar Havekar
+202158_tooltip;<keyword=deploy>Mobilização</keyword>: reforça um aliado em {Boost}.
+202159_fluff;O combate é uma dança, nunca permita que seu oponente conduza.
+202159_name;Espadachim Elfo
+202159_tooltip;<keyword=order>Ordem</keyword>: causa {Damage} de dano a um inimigo.\n<keyword=cooldown>Tempo de espera</keyword>: {Cooldown2}.\nSe o inimigo foi destruído, reduz o <keyword=cooldown>tempo de espera</keyword> em {Cooldown1}.
+202160_fluff;Vai sentir o cheiro deles muito antes de vê-los.
+202160_name;Necroso
+202160_tooltip;Sem habilidade.
+202161_fluff;Alimentar nosso povo e derramar sangue inimigo.
+202161_name;Ceifador lyriano
+202161_tooltip;<keyword=deploy>Mobilização</keyword>: reforça a si mesma em {Boost} para cada aliado reforçado.
+202162_fluff;Vivo ou morto, este elfo será meu. Marque minhas palavras.
+202162_name;Líder da Caravana
+202162_tooltip;Sem habilidade.
+202163_fluff;Lâminas élficas são leves, mas causam ferimentos pesados.
+202163_name;Lâmina élfica
+202163_tooltip;Causa {Damage} de dano a uma unidade, exceto elfos.
+202164_fluff;Nunca seremos pegos de surpresa. Não se eu puder impedir.
+202164_name;Elfo Sentinela
+202164_tooltip;<keyword=deploy>Mobilização</keyword>: causa dano a um inimigo equivalente ao número de fileiras que o separam desta unidade.
+202165_fluff;Homem ou cervo, a ideia é a mesma: mire entre os ombros.
+202165_name;Caçador Élfico
+202165_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a um inimigo. Se ele sobreviver, reforça a si mesma em {Boost}.
+202166_fluff;Acha que está com sorte? É mesmo, dh'oine?
+202166_name;Vândalo Élfico
+202166_tooltip;Sem habilidade.
+202167_fluff;A maioria partiu por medo. Eu parti por tédio.
+202167_name;Desertor Sádico
+202167_tooltip;Sem habilidade.
+202168_fluff;Por que aprender a transformar ferro em ouro quando posso simplesmente conseguir usando o que já sei?
+202168_name;Feiticeira Mercenária
+202168_tooltip;<keyword=deploy>Mobilização</keyword>: reforça uma unidade em {Boost}.
+202169_fluff;Ossos e juramentos, eu tenho bastante habilidade em quebrar ambos.
+202169_name;Campeão Mercenário
+202169_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: reforça a si mesma em {Boost}.
+202170_fluff;Finalmente! Posso tocar o que eu quiser, no volume que eu quiser!
+202170_name;Percussionista
+202170_tooltip;A cada 5 turnos, no começo do turno, reforça unidades adjacentes em {Boost}.
+202171_fluff;Quem a empunhar encontrará a vitória em combate e então, traído, morrerá.
+202171_name;Lâmina Amaldiçoada
+202171_tooltip;<keyword=order>Ordem</keyword>: reforça uma unidade em {Boost} e concede a ela <keyword=doomed>condenado</keyword>, depois destrói a si mesma.
+202172_fluff;Não sei o que era pior no exército, o soldo ou a comida.
+202172_name;Veterano
+202172_tooltip;Sem habilidade.
+202173_fluff;Mais um passo em direção à carruagem, e vai tomar flechada no olho!
+202173_name;Escolta da Caravana
+202173_tooltip;Sem habilidade.
+202174_fluff;Pela graça de Melitele, juro que o caminho era por aqui em algum lugar...
+202174_name;Guia da Caravana
+202174_tooltip;Sem habilidade.
+202175_fluff;O que tem na carruagem? E por que isso me interessaria?
+202175_name;Guarda Mercenário
+202175_tooltip;<keyword=deploy>Mobilização</keyword>, <keyword=melee>Corpo a corpo</keyword>: reforça a si mesma em {Boost2}.\n<keyword=deploy>Mobilização</keyword>, <keyword=ranged>Longa distância</keyword>: reforça todas as outras unidades nesta fileira em {Boost}.
+202176_fluff;O sonho de um bom comandante... e o terror de um péssimo.
+202176_name;Névoa Impenetrável
+202176_tooltip;Aplica este efeito de fileira a uma fileira inimiga:\nPor {Counter} turnos, no começo do turno, causa {Damage} de dano à unidade mais alta desta fileira.
+202177_fluff;Dizem que os elfos entendem os cavalos melhor que os humanos. Não é mentira.
+202177_name;Cavaleiro Scoia'tael
+202177_tooltip;<keyword=deploy>Mobilização</keyword>: causa {Damage} de dano a uma unidade.
+202178_fluff;Abandonar um amigo em perigo? Jamais!
+202178_name;Dandelion: Amigo Leal
+202178_tooltip;No final da rodada, move esta carta da pilha de descarte ao seu baralho.
+202179_fluff;Lembrem-se, cadetes! Quem desembainha a lâmina primeiro ganha vantagem sobre o inimigo!
+202179_name;Vantagem Tática
+202179_tooltip;<keyword=immune>Imune</keyword>. <keyword=doomed>Condenado</keyword>.\n<keyword=order>Ordem</keyword>: reforça um aliado em {Boost}, depois <keyword=banish>bane</keyword> a si mesma.
+202180_fluff;O sol estava brilhando agora há pouco! Eu juro pelos deuses!
+202180_name;Névoa Incomum
+202180_tooltip;A cada turno, no começo do turno, causa {Damage} de dano à unidade mais alta desta fileira.
+32_name_lt;Ragh Nar Roog
+32_tooltip_lt;A cada turno, no começo do turno, causa {Damage} de dano à unidade mais alta desta fileira.
+4_name_lt;Chuva Torrencial
+4_tooltip_lt;Por {Counter} turnos, no começo do turno, causa {Damage} de dano a {MaxTargets} unidades aleatórias.
+64_name_lt;Skellige: Tempestade
+64_tooltip_lt;Por {Counter} turnos, no início do turno, causa {Damage} de dano a todas as unidades em uma fileira.
+card_category_1;Agente Duplo
+card_category_10;Caçada Selvagem
+card_category_11;Tática
+card_category_12;Fera
+card_category_13;Líder
+card_category_14;Mago
+card_category_15;Chefe
+card_category_16;Vampiro
+card_category_17;Cintra
+card_category_18;Insectoide
+card_category_19;Vira-Latas
+card_category_2;Construto
+card_category_20;Feitiço
+card_category_21;Redânia
+card_category_22;Reforço de Cerco
+card_category_23;Clã Drummond
+card_category_24;Espectro
+card_category_25;Amaldiçoado
+card_category_26;Soldado
+card_category_27;Kaedwen
+card_category_28;Vodyanoi
+card_category_29;Clã Tuirseach
+card_category_3;Clã Tordarroch
+card_category_30;Clã Dimun
+card_category_31;Bruxo
+card_category_32;Cultista
+card_category_33;Alquimia
+card_category_34;Imprudente
+card_category_35;Clã Heymaey
+card_category_36;Blitz
+card_category_37;Dríade
+card_category_38;Especial
+card_category_39;Elfo
+card_category_4;Lyria
+card_category_40;Necrófago
+card_category_41;Máquina
+card_category_42;Aedirn
+card_category_43;Suporte
+card_category_44;Clã an Craite
+card_category_46;Armadilha
+card_category_47;Anão
+card_category_48;Draconídeo
+card_category_49;Máquina de Cerco
+card_category_5;Teméria
+card_category_50;Oficial
+card_category_52;Clima
+card_category_53;Orgânico
+card_category_54;Item
+card_category_55;Perigo
+card_category_56;Dádiva
+card_category_57;Emboscada
+card_category_58;Condenado
+card_category_59;Urso
+card_category_6;Ogroide
+card_category_60;Listras Azuis
+card_category_61;Procriável
+card_category_62;Devorador
+card_category_63;Dragão
+card_category_64;Harpia
+card_category_65;Médico
+card_category_66;Teimoso
+card_category_67;Morte cabal
+card_category_68;Camponês
+card_category_69;Poção
+card_category_7;Relicto
+card_category_70;Regressão
+card_category_71;Metamorfo
+card_category_73;Ficha
+card_category_75;Agente
+card_category_76;Pirata
+card_category_77;Navio
+card_category_78;Humano
+card_category_79;Cavaleiro
+card_category_8;Clã Brokvar
+card_category_80;Gnomo
+card_category_81;Planta
+card_category_82;Demônio
+card_category_83;Bandido
+card_category_84;Vran
+card_category_85;Druida
+card_category_86;Guerreiro
+card_category_87;Svalblod
+card_category_9;Teste
+card_token_berserk;obsolete
+card_token_doomed;Status que remove a unidade do jogo depois que ela se move para a pilha de descarte.
+card_token_immune;Não pode ser visada.
+card_token_lock;Status que desativa as habilidades de uma carta e remove outros status. Desativa e desvira cartas viradas para baixo.
+card_token_marked;Esta unidade está marcada. Ela agora é o alvo das habilidades da carta que a marcou.
+card_token_resilience;Status que permite uma carta permanecer no tabuleiro no fim da rodada e depois restaura sua base de poder, se reforçada.
+card_token_spying;Status de uma unidade usada ou movida para o lado oposto do campo de batalha.
+keyword_ambush;<#600101>Emboscada:</color> usada virada para baixo, depois desvirada sob determinada condição da habilidade.
+keyword_armor;<#600101>Armadura:</color> absorve certa quantidade de dano e depois é removida.
+keyword_aura;<#600101>Aura:</color> habilidade passiva que é desfeita quando a unidade é destruída ou bloqueada.
+keyword_banish;<#600101>Banir:</color> remove do jogo. Não aciona habilidades de Desejo de Morte.
+keyword_banish_in_graveyard;<#600101>Condenado:</color> unidades: são removidas do jogo quando movidas do tabuleiro para a pilha de descarte.\nCartas especiais: são removidas do jogo após a habilidade da carta ser ativada.
+keyword_bloodthirst;<#600101>Sede de Sangue:</color> número de unidades inimigas danificadas necessárias para ativar esta habilidade.
+keyword_bond;<#600101>Elo:</color> esta habilidade é ativada cada vez que uma cópia desta unidade é usada no mesmo lado.
+keyword_boon;<#600101>Dádiva:</color> efeito positivo de fileira. Substituído por outros efeitos na fileira e removido no fim da rodada.
+keyword_boost;<#600101>Reforçar:</color> aumenta o poder atual de uma unidade.
+keyword_boosted;<#600101>Reforçado:</color> o poder atual de uma unidade reforçada é maior que sua base de poder.
+keyword_brave;<#600101>Corajoso:</color> esta habilidade é ativada caso seu oponente esteja vencendo a rodada atual (calculado após colocar esta unidade e quaisquer unidades que ela faça surgir).
+keyword_charge;<#600101>Carga:</color> o número de vezes que uma habilidade de Ordem pode ser utilizada. Apenas cartas com Carga: X podem ganhar cargas adicionais.
+keyword_charm;<#600101>Encanto:</color> move um inimigo para a fileira oposta.
+keyword_clone;<#600101>Clone:</color> uma cópia exata de uma carta, com os mesmos poderes e habilidade atuais.
+keyword_conceal;<#600101>Ocultar:</color> vira uma carta virada para cima na sua mão.
+keyword_consume;<#600101>Consumir:</color> come uma unidade e se reforça pelo seu poder. Se estiver no campo de batalha, ela é destruída. Se estiver na mão ou no baralho, mova-a para a pilha de descarte. Se estiver na pilha de descarte, remova-a do jogo.
+keyword_cooldown;<#600101>Tempo de espera:</color> o número de turnos antes de uma habilidade de Ordem poder ser reutilizada.
+keyword_counter;<#600101>Contador:</color> reduz o contador sob uma determinada condição. O contador é reiniciado quando a unidade deixa o tabuleiro.
+keyword_craven;<#600101>Covarde:</color> esta habilidade é ativada caso seu oponente esteja perdendo a rodada atual.
+keyword_create;<#600101>Criar:</color> faz surgir uma de três cartas escolhidas aleatoriamente de uma facção específica e das cartas neutras, a menos que seja especificado de outra forma.
+keyword_crew;<#600101>Equipe:</color> esta unidade ativa a habilidade de unidades em equipe usadas ao lado dela.
+keyword_crewed;<#600101>Em equipe:</color> quando usada, ativa esta habilidade uma vez para cada unidade de equipe adjacente.
+keyword_damage;<#600101>Dano:</color> diminui o poder atual de uma unidade.
+keyword_damaged;<#600101>Danificado:</color> o poder atual de uma unidade danificada é menor que sua base de poder.
+keyword_deadlock;<#600101>Confronto:</color> esta habilidade é acionada somente se nenhum jogador passou.
+keyword_deathwish;<#600101>Desejo de Morte:</color> esta habilidade é ativada quando a carta é movida do campo de batalha para a pilha de descarte. Observação: unidades banidas não são enviadas para a pilha de descarte.
+keyword_demote;<#600101>Rebaixar:</color> converte a carta ouro para prata (ou bronze, conforme a cor original).
+keyword_deploy;<#600101>Mobilização:</color> ativa esta habilidade quando é usada.
+keyword_destroy;<#600101>Destruir:</color> move a carta para a pilha de descarte.
+keyword_discard;<#600101>Descartar:</color> move uma carta da sua mão para a pilha de descarte. Observação: habilidades relacionadas não são ativadas quando descartada manualmente.
+keyword_doomed;<#600101>Condenado:</color> status que remove a unidade do jogo depois que ela se move para a pilha de descarte.
+keyword_drain;<#600101>Dreno:</color> causa dano e reforça a si mesma na mesma quantidade.
+keyword_draw;<#600101>Comprar:</color> move a(s) carta(s) do topo do seu baralho para sua mão.
+keyword_duel;<#600101>Duelo:</color> unidades se alternam causando dano igual ao poder delas até que uma delas seja destruída.
+keyword_enemy;<#600101>Inimigo:</color> uma unidade no lado do tabuleiro do oponente.
+keyword_fatigue;<#600101>Uso único:</color> a habilidade desta carta pode ser usada apenas uma vez por partida.
+keyword_friendly;<#600101>Aliado:</color> uma unidade no seu lado do tabuleiro.
+keyword_gamble;<#600101>Aposta:</color> faz um jogo de azar.
+keyword_gold;<#600101>Imune:</color> status que impede que esta carta seja alvo.
+keyword_hazard;<#600101>Perigo:</color> efeito negativo de fileira. Substituído por outros efeitos na fileira e removido no fim da rodada.
+keyword_heal;<#600101>Cura:</color> se o poder atual de uma unidade estiver abaixo da sua base de poder, a recupera para a base de poder ou pelo valor especificado.
+keyword_highest;<#600101>Mais alta:</color> poder mais alto, empates são resolvidos aleatoriamente.
+keyword_idle;<#600101>Ocioso:</color> o número de turnos pelos quais uma unidade precisa ficar no tabuleiro antes de ser ativada.
+keyword_immobile;Não pode ser movida.
+keyword_immune;<#600101>Imune:</color> não pode ser visada.
+keyword_leadership;<#600101>Liderança:</color> esta habilidade é ativada quando uma das cartas de líder é usada (mas antes da habilidade do líder ser decidida).
+keyword_lock;<#600101>Bloqueio:</color> status que desativa as habilidades de uma carta e remove outros status. Desativa e vira para cima cartas viradas para baixo.
+keyword_lowest;<#600101>Mais baixa:</color> poder mais baixo, empates são resolvidos aleatoriamente.
+keyword_melee;<#600101>Corpo a corpo:</color> esta habilidade só pode ser usava quando estiver na fileira de combate corpo a corpo.
+keyword_mulligan;<#600101>Segunda chance:</color> embaralha uma carta da sua mão no seu baralho e compra a carta no topo do seu baralho.
+keyword_muster;<#600101>Invocação:</color> usa automaticamente do baralho.
+keyword_non_decoyable;<#600101>Teimoso:</color> não pode ser devolvida à mão.
+keyword_order;<#600101>Ordem:</color> uma habilidade ativada manualmente pelo jogador. Cartas com Ordem não podem ser usadas por 1 turno depois de terem sido colocadas no campo de batalha.
+keyword_overstrain;<#600101>Esforço:</color> realiza a ação especificada para cada carta visada pela habilidade anterior.
+keyword_pair;<#600101>Par:</color> esta habilidade é ativada quando há 2 cópias da carta no tabuleiro.
+keyword_promote;<#600101>Promover:</color> converte a carta para ouro até o fim da rodada.
+keyword_ranged;<#600101>Longa distância:</color> esta habilidade só pode ser usada quando estiver na fileira de longa distância.
+keyword_reach;<#600101>Alcance:</color> a distância de fileiras nas quais você pode mirar.
+keyword_regress;<#600101>Regredir:</color> retorna a carta ao seu estado original.
+keyword_regressing;<#600101>Regressão:</color> quando esta unidade é removida do tabuleiro, sua base de poder retorna ao valor que tem na coleção. Não é desativada por bloqueio.
+keyword_reset;<#600101>Redefinir:</color> devolve uma carta ao seu estado padrão (como ela apareceria no Construtor de Baralhos).
+keyword_resilient;<#600101>Resiliência:</color> status que permite uma unidade permanecer no tabuleiro no fim da rodada e depois restaura sua base de poder, se reforçada.
+keyword_resistant;<#600101>Resistente:</color> uma unidade resistente é imune ao efeito de perigo especificado.
+keyword_restrained;Não pode mirar em chefes.
+keyword_resurrect;<#600101>Ressuscitar:</color> usa carta da sua pilha de descarte.
+keyword_retaliation;<#600101>Retaliação:</color> esta habilidade é ativada sempre que esta unidade for danificada sem ser enviada para a pilha de descarte.
+keyword_reveal;<#600101>Revelar:</color> exibe uma carta para os dois jogadores, depois a esconde de volta na mão ou no baralho.
+keyword_revealed;<#600101>Revelado:</color> a carta que foi virada na mão.
+keyword_revenge;<#600101>Vingança:</color> esta habilidade é ativada quando a carta é movida do tabuleiro para a pilha de descarte no turno do oponente.
+keyword_round_end;<#600101>Fim da rodada:</color> esta habilidade é ativada quando a rodada termina.
+keyword_seize;<#600101>Tomada:</color> move um inimigo para a fileira oposta.
+keyword_shield;<#600101>Escudo:</color> um marcador de escudo protege uma unidade do próximo efeito que ferir, enfraquecer ou reduzir o seu poder.
+keyword_solitary;<#600101>Solitário:</color> esta habilidade é ativada quando há apenas 1 cópia desta carta no tabuleiro.
+keyword_spawn;<#600101>Fazer surgir:</color> adiciona uma carta ao jogo e a usa.
+keyword_spring;<#600101>Acionar:</color> revela uma carta de emboscada virada para baixo e ativa sua habilidade.
+keyword_spying;<#600101>Espionagem:</color> status de uma unidade usada ou movida para o lado oposto do campo de batalha.
+keyword_strengthen;<#600101>Fortalecer:</color> aumenta base de valor de uma unidade.
+keyword_stubborn;<#600101>Teimoso:</color> não pode ser usada novamente ou devolvida à mão.
+keyword_summon;<#600101>Invocação:</color> move-se automaticamente para o campo de batalha (não é considerada usada).
+keyword_swap;<#600101>Troca:</color> move uma carta da mão para o baralho e compra outra em seu lugar durante seu turno.
+keyword_thrive;<#600101>Prosperar:</color> reforça esta unidade em 1 sempre que um aliado com poder maior é usado.
+keyword_timer;<#600101>Cronômetro:</color> diminui a contagem do cronômetro em 1 a cada turno enquanto esta unidade estiver no tabuleiro. A habilidade é ativada quando ele chega a 0 (no início ou fim do turno). O cronômetro é reiniciado quando a unidade deixa o tabuleiro.
+keyword_token;<#600101>Marcador:</color> uma unidade que é removida do jogo no fim da rodada.
+keyword_transform;<#600101>Transformar:</color> converte para uma carta diferente.
+keyword_trio;<#600101>Trio:</color> exatamente 3 cópias desbloqueadas de uma unidade na mesma fileira.
+keyword_truce;<#600101>Trégua:</color> se nenhum dos jogadores tiver passado.
+keyword_turn_end;<#600101>Fim do turno:</color> esta habilidade é ativada quando seu turno termina.
+keyword_turn_start;<#600101>Início do turno:</color> esta habilidade é ativada quando seu turno começa.
+keyword_veteran;<#600101>Veterano X:</color> esta habilidade é ativada no início das rodadas 2 e 3, fortalecendo esta unidade por X, onde quer que ela esteja.
+keyword_weaken;<#600101>Enfraquecer:</color> diminui a base de poder de uma unidade. Se chegar a menos de 1, remove-a do jogo. Não aciona habilidades de Desejo de Morte.
+keyword_zeal;<#600101>Zelo:</color> uma habilidade de Ordem que pode ser usada no mesmo turno em que a carta foi colocada no campo de batalha.
+

@@ -1,0 +1,2011 @@
+﻿1_name_lt;Trzaskający Mróz
+1_tooltip_lt;Na początku każdej z {Counter} tur zadaj najsłabszej jednostce w rzędzie {Damage} pkt obrażeń.
+100_fluff;Niektórzy mieszkańcy Kontynentu nie uznają zwierzchności żadnego władcy… Co nie znaczy, że nie można ich kupić. Każdy ma swoją cenę.
+100_name;Neutralne
+101_fluff;Legion ohydnych monstrów, od alghula po zeugla. Drży przed nimi zarówno Północ, jak i Nilfgaard.
+101_name;Potwory
+102_fluff;Potężne Cesarstwo Nilfgaardu nie zatrzyma się, póki nie podbije całego Kontynentu. Patrząc na wydarzenia ostatnich lat, stanie się to wkrótce.
+102_name;Nilfgaard
+1024_name_lt;Smoczy Sen
+1024_tooltip_lt;Po {Counter} turach, na początku tury, eksploduj i zadaj wszystkim jednostkom w rzędzie {Damage} pkt obrażeń.
+103_fluff;Królestwa, księstwa, marchie… Północ podzielona jest na tuziny państewek, które nie walczą ze sobą tylko dlatego, że akurat walczą z Nilfgaardem.
+103_name;Królestwa Północy
+104_fluff;Bojownicy o prawa nieludzi, którzy nie cofną się przed niczym, żeby osiągnąć swój cel. Uczyniły z lasów Kontynentu krwawe pole bitwy - i cmentarz.
+104_name;Scoia'Tael
+105_fluff;Wojowie, którzy nie czują strachu ani zimna… Ale za to przejawiają wielką słabość do miodu, pieśni i cielesnych uciech.
+105_name;Skellige
+112101_fluff;Ja mogę iść, gdzie chcę i kiedy chcę.
+112101_name;Ciri
+112101_tooltip;Za każdym razem, gdy przegrasz rundę, cofnij tę jednostkę z pola bitwy do swojej ręki.
+112102_fluff;Było wielu takich, którzy lekceważyli wiedźmińskie znaki. Każdy, kto poczuł na swojej skórze Znak Igni, szybko zmienił zdanie na ten temat.
+112102_name;Geralt: Igni
+112102_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Zniszcz najsilniejszą jednostkę lub jednostki w rzędzie przeciwnika o łącznej sile {Power} lub większej.
+112103_fluff;Jeżeli mam wybierać pomiędzy jednym złem a drugim, to wolę nie wybierać wcale.
+112103_name;Geralt z Rivii
+112103_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zniszcz wroga o sile {power} lub większej.
+112104_fluff;Uchodzę, delikatnie mówiąc, za potwora. Za krwiożercze monstrum.
+112104_name;Regis
+112104_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wszystkim wrogom w rzędzie {Damage} pkt obrażeń. Jeśli któryś ulegnie zniszczeniu, powtórz tę umiejętność.
+112105_fluff;Może, gdy zechce, stać się niewidzialny. Może spojrzeniem zauroczyć, wprawić w głęboki sen. Przybierać postać nietoperza i latać jak nietoperz.
+112105_name;Regis: Wampir Wyższy
+112105_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: <keyword=drain>Wykradnij</keyword> wrogowi wszystkie wzmocnienia.
+112106_fluff;Potrafię o siebie zadbać. Wierz mi.
+112106_name;Triss Merigold
+112106_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: <keyword=reveal>Ujawnij</keyword> losową jednostkę ze swojej talii i zadaj wrogowi obrażenia równe jej sile.
+112107_fluff;Było w tym stworzeniu coś pełnego niewysłowionej gracji.
+112107_name;Villentretenmerth
+112107_tooltip;Po {Counter} turach, na koniec tury, zniszcz najsilniejszą jednostkę na polu bitwy (nie licząc tej jednostki).
+112108_fluff;Odziana w kompozycję czerni i bieli, przywodziła na myśl grudniowy poranek.
+112108_name;Yennefer z Vengerbergu
+112108_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Zadaj wszystkim innym jednostkom {Damage} pkt obrażeń.\n<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Wzmocnij wszystkie inne jednostki o {Boost}.
+112109_fluff;Wybaczcie. Mądre to zamorskie ptaszysko, ale nieobyczajne. Dziesięć talarów za cudaka dałem.
+112109_name;Zoltan: Szelma
+112109_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: <keyword=spawn>Stwórz</keyword> i zagraj Dudę: Mąciciela.\n<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: <keyword=spawn>Stwórz</keyword> i zagraj Dudę: Towarzysza.
+112110_fluff;Wiesz, kiedy bajki przestają być bajkami? Kiedy ludzie zaczynają w nie wierzyć.
+112110_name;Ciri: Szarża
+112110_tooltip;Po {Counter} turach, na początku tury, dobierz kartę.
+112111_fluff;Wiedźmin złożył palce w Znak Aard. Huknęło tak, że Geralta zakłuło w uszach, a od wsysanego przez implozję powietrza aż zaszumiały wikliny.
+112111_name;Geralt: Aard
+112111_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Zadaj {Damage} pkt obrażeń {Maxtargets} wrogom i przenieś ich do rzędu dalekiego zasięgu, jeśli to możliwe.
+112112_fluff;Nieliczni wśród wolnych elfów Aen Saevherne - Wiedzący - byli bliską legendzie enigmą.
+112112_name;Avallac'h: Wiedzący
+112112_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Zagraj Artefakt ze swojej talii.
+112113_fluff;Nie ma takiej klątwy, z którą nie poradzą sobie wiedźmin i czarodziejka.
+112113_name;Yennefer: Klątwy
+112113_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj najsilniejszej jednostce/jednostkom wroga {Damage} pkt obrażeń.\n<keyword=cooldown>Odnowienie</keyword>: {Cooldown}.
+112201_fluff;Mimik. Ma zresztą wiele nazw - Mieniak, podwójniak, vexling, bedak. Lub doppler.
+112201_name;Dudu
+112201_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Przemień kartę w bazowy egzemplarz wrogiej jednostki.
+112202_fluff;Jestem prostym wiedźminem. Nie walczę ze smokami, nie bratam się z królami, ani nie sypiam z czarodziejkami…
+112202_name;Eskel
+112202_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: <keyword=summon>Wezwij</keyword> do tego rzędu Vesemira i Lamberta ze swojej talii.
+112203_fluff;Gdy cię mają wieszać, poproś o wodę. Nie wiadomo, co się zdarzy, zanim przyniosą.
+112203_name;Vesemir
+112203_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: <keyword=summon>Wezwij</keyword> do tego rzędu Eskela i Lamberta ze swojej talii.
+112204_fluff;No, takie negocjacje to ja rozumiem.
+112204_name;Lambert
+112204_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: <keyword=summon>Wezwij</keyword> do tego rzędu Eskela i Vesemira ze swojej talii.
+112205_fluff;Nigdy nie wchodź pomiędzy smoczycę a jej młode.
+112205_name;Myrgtabrakke
+112205_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.\n<keyword=charge>Ładunki</keyword>: {Charges}.
+112206_fluff;Pan na Kwarcowej Górze, Niszczyciel, Zagłada Traiana. Prywatnie lubi długie spacery i rozmowy przy świetle księżyca.
+112206_name;Ocvist
+112206_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj wszystkim wrogom {Damage} pkt obrażeń.
+112207_fluff;Teraz przynajmniej wiesz, że łatwo nie tracę głowy.
+112207_name;Olgierd von Everec
+112207_tooltip;<keyword=order>Rozkaz</keyword>: <keyword=heal>Uzdrów</keyword> tę jednostkę.\n<keyword=cooldown>Odnowienie</keyword> {Cooldown}.
+112208_fluff;Gdy czas i przestrzeń przed nami się kurczą, to rozszerzają się za nami. W ten sposób idzie się naprzód w czasie i przestrzeni.
+112208_name;Operator
+112208_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: <keyword=spawn>Stwórz</keyword> i <keyword=summon>wezwij</keyword> bazowy egzemplarz brązowej jednostki ze swojej ręki do tego rzędu po stronie obu graczy.
+112209_fluff;Muuuuu.
+112209_name;Krowa Czempionka
+112209_tooltip;<keyword=order>Rozkaz</keyword>: Przemień w Czarta.
+112210_fluff;"Bez urazy, Geralt, ale musimy porozmawiać na temat tego, jak mną kierujesz."
+112210_name;Płotka
+112210_tooltip;Za każdym razem, gdy zagrasz złotą kartę, <keyword=summon>wezwij</keyword> tę jednostkę ze swojej talii do losowego rzędu sojuszniczego.
+112211_fluff;Życie bez napawania się brzmieniem "bisiora racicznicy" jest jak lizanie ślimaków przez sukno.
+112211_name;Janek
+112211_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj jednostce {Damage} pkt obrażeń.\n<keyword=charge>Ładunki</keyword>: {Charges}.\nDaj tej jednostce <keyword=charge>ładunki</keyword> ({Charges2}) za każdym razem, gdy zagrywasz kartę specjalną.
+112212_fluff;Mała Sara chce się bawić!
+112212_name;Sara
+112212_tooltip;<keyword=order>Rozkaz</keyword>: Wzmocnij jednostkę o {Boost}.\n<keyword=charge>Ładunki</keyword>: {Charges}.\nDaj tej jednostce <keyword=charge>ładunki</keyword> ({Charges2}) za każdym razem, gdy zagrywasz kartę specjalną.
+112213_fluff;Może się okazać, że mi do twarzy bez uszu. Albo bez ręki. Król Żebraków podobno traktuje to jako zaliczkę na poczet.
+112213_name;Król Żebraków
+112213_tooltip;Na koniec każdej tury wzmocnij najsłabszą jednostkę w swojej ręce o {Boost}.
+112214_fluff;Należy do czwórki ludzi, którzy trzęsą miejscowym półświatkiem – razem z Sigim Reuvenem, Tasakiem i Królem Żebraków.
+112214_name;Cyprian Willey
+112214_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: <keyword=banish>Wygnaj</keyword> jednostkę o sile {Power} lub mniejszej.
+112215_fluff;"Tak niewiele pamiętam... Tylko gdy myślę o mojej róży, przypominam sobie to, co było."
+112215_name;Iris von Everec
+112215_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Zniszcz wrogi Artefakt.\n<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Usuń wszystkie efekty z rzędów po swojej stronie.
+112401_fluff;Powiadają, że jednorożce lgną do dziewic. Cóż, znalezienie dziewicy w dzisiejszych czasach jest równie trudne co znalezienie jednorożca, więc nikt nie zweryfikował tej tezy.
+112401_name;Jednorożec
+112401_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij jednostkę o {Boost}. Jeśli masz w ręce Chironexa, podwój wzmocnienie.
+112402_fluff;Bogowie… to nie jest jednorożec! To… - ostatnie słowa Vilemara, słynnego kolekcjonera osobliwości.
+112402_name;Chironex
+112402_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj jednostce {Damage} pkt obrażeń. Jeśli masz w ręce Jednorożca, podwój obrażenia.
+112403_fluff;Zna sto słów - osiemdziesiąt z nich to przekleństwa, reszta to łączniki.
+112403_name;Duda: Towarzysz
+112403_tooltip;Wzmocnij wszystkie jednostki w wybranym rzędzie o {Boost}.
+112404_fluff;Papuga Zoltana miała niezwykły talent do irytowania wszystkich, którym weszła w drogę. W tym Zoltana.
+112404_name;Duda: Mąciciel
+112404_tooltip;Zadaj wszystkim jednostkom w wybranym rzędzie {Damage} pkt obrażeń.
+112405_fluff;Bies wygląda trochę jak jeleń. Wielki, wściekły jeleń.
+112405_name;Bies
+112405_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij wszystkie jednostki z <keyword=deathwish>zemstą</keyword> w swojej ręce o {Boost}.
+113101_fluff;Gdy nadejdzie Czas Końca, Hemdall stawi czoło złym mocom z krainy Morhogg - upiorom, demonom i widmom Chaosu.
+113101_name;Ragh Nar Roog
+113101_tooltip;Zastosuj ten efekt w rzędzie przeciwnika:\nNa początku każdej tury zadaj najsilniejszej jednostce w tym rzędzie {Damage} pkt obrażeń.
+113102_fluff;Geniusz, moi panowie, spełnia tylko trzy życzenia, a potem jest wolny i ucieka w swój wymiar.
+113102_name;Ostatnie Życzenie
+113102_tooltip;Podejrzyj wierzchnie karty ze swojej talii ({Maxtargets}), następnie zagraj jedną i <keyword=banish>wygnaj</keyword> drugą.
+113201_fluff;Niespodzianka, sukinsyny!
+113201_name;Atrapa
+113201_tooltip;Wtasuj do swojej talii sojusznika z pola bitwy, następnie zagraj wierzchnią jednostkę ze swojej talii.
+113202_fluff;Niebo ściemniało nagle, nad miastem zakłębiły się chmury. Zrobiło się diabelnie mroczno. I powiało zimnem.\n– Jej – stęknęła Yennefer. – Zdaje się, żeśmy narozrabiały.
+113202_name;Gradobicie Merigold
+113202_tooltip;Zadaj {Maxtargets} wrogom {Damage} pkt obrażeń.
+113203_fluff;To nie jest zwykła burza. To gniew bogów.
+113203_name;Skelligijski Sztorm
+113203_tooltip;Zastosuj ten efekt w rzędzie przeciwnika:\nNa początku każdej z {Counter} tur zadaj wszystkim jednostkom w tym rzędzie {Damage} pkt obrażeń.
+113204_fluff;Czarodziej Stammelford przesunął kiedyś górę, bo mu zasłaniała widok z wieży. Jak wieść niesie, miał na usługi d'ao, geniusza Ziemi.
+113204_name;Wstrząsy Stammelforda
+113204_tooltip;Zadaj wszystkim wrogom {Damage} pkt obrażeń.
+113205_fluff;Podstawowy element wyposażenia Łowców Czarownic - w ułamku sekundy zamienia najpotężniejszego czarodzieja w bezbronną ofiarę.
+113205_name;Bomba dwimerytowa
+113205_tooltip;Zniszcz Artefakt.
+113206_fluff;To Tedd Deireadh, Czas Końca. Świat zniszczony przez Białe Zimno.
+113206_name;Białe Zimno
+113206_tooltip;Zniszcz wszystkie Artefakty.
+113207_fluff;Plus jeden do morale, minus trzy do słuchu.
+113207_name;Róg dowódcy
+113207_tooltip;Wzmocnij sąsiadujące jednostki ({maxtargets}) o {Boost}.
+113208_fluff;Vaedermakar to druid, który potrafi wpływać na pogodę. Przerwać sztorm. Wywołać gradobicie. Sprawić, by wroga spopielił piorun. Więc dobrze radzę... Zwracaj się do niego z szacunkiem.
+113208_name;Vaedermakar
+113208_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Wydłuż czas trwania wszystkich efektów rzędów o {Counter}.\n<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Skróć czas trwania wszystkich efektów rzędów o {Counter2}.
+113209_fluff;Kilka stworów Alzura jeszcze krąży po świecie, w tym również wij, który zmasakrował go i zniszczył pół Mariboru, zanim nie uciekł w las na Zarzeczu.
+113209_name;Krzyż Alzura
+113209_tooltip;Zagraj najsilniejszą jednostkę ze swojej talii.
+113301_fluff;Nie mamy szans, by wyskandować zaklęcie tak skomplikowane, jak Piorun Alzura. Alzur, jak się twierdzi, miał głos jak dzwon i dykcję oratora.
+113301_name;Piorun Alzura
+113301_tooltip;Zadaj jednostce {Damage} pkt obrażeń.
+113302_fluff;Tak mi palce zgrabiały, że ledwie miecz trzymam... A tu jeszcze machać trzeba.
+113302_name;Trzaskający Mróz
+113302_tooltip;Zastosuj ten efekt w rzędzie przeciwnika:\nNa początku każdej z {Counter} tur zadaj najsłabszej jednostce w tym rzędzie {Damage} pkt obrażeń.
+113303_fluff;Piękny dzień, żeby umrzeć.
+113303_name;Czyste Niebo
+113303_tooltip;Usuń wszystkie efekty z rzędów po swojej stronie.
+113305_fluff;Mgła, że oko wykol... Cokolwiek to znaczy.
+113305_name;Gęsta Mgła
+113305_tooltip;Zastosuj ten efekt w rzędzie przeciwnika:\nNa początku każdej z {Counter} tur zadaj najsilniejszej jednostce w tym rzędzie {Damage} pkt obrażeń.
+113306_fluff;Zabija szybciej, niż jesteś w stanie wymówić pełen tytuł cesarza Nilfgaardu.
+113306_name;Jad Mantikory
+113306_tooltip;Zadaj {MaxTargets} wrogom {Damage} pkt obrażeń.
+113307_fluff;Bestia szarżowała na nich w dzikiej furii, niewrażliwa na ból i razy zadane przez obrońców. Nic nie mogło stanąć na jej drodze…
+113307_name;Adrenalina
+113307_tooltip;Daj lub odbierz jednostce <keyword=resilient>wytrzymałość</keyword>.
+113308_fluff;Epidemie nie uznają granic ani nie robią wyjątków osobistych.
+113308_name;Epidemia
+113308_tooltip;Zniszcz najsłabszą jednostkę lub jednostki.
+113309_fluff;Geralt zrobił krok w tył. Widział już ludzi, których potraktowano "Pożogą". A raczej to, co z tych ludzi zostało.
+113309_name;Pożoga
+113309_tooltip;Zniszcz najsilniejszą jednostkę lub jednostki.
+113310_fluff;Jaskółka, symbol wiosny i odnowy, dała nazwę eliksirowi, który przyspiesza zasklepianie się ran.
+113310_name;Jaskółka
+113310_tooltip;Wzmocnij jednostkę o {Boost}.
+113311_fluff;Twarz wiedźmina zmieniła się - było w niej coś nieludzkiego, przerażającego.
+113311_name;Grom
+113311_tooltip;<keyword=zeal>Zapał</keyword>.\n<keyword=order>Rozkaz</keyword>: Wzmocnij jednostkę o {Boost}.\n<keyword=charge>Ładunki</keyword>: {Charges}.
+113312_fluff;„Wieża oblężnicza utknęła w błocie!”„Widzę, idioto. Trąb na odwrót”.
+113312_name;Ulewny Deszcz
+113312_tooltip;Zastosuj ten efekt w rzędzie przeciwnika:\nNa początku każdej z {Counter} tur zadaj {MaxTargets} losowym jednostkom w tym rzędzie {Damage} pkt obrażeń.
+113313_fluff;Każdy mężczyzna i każda kobieta na Skellige umie posługiwać się toporem - gdy zajdzie potrzeba, chwycą za nie aby stanąć w obronie Wysp.
+113313_name;Ochotnicy an Craite
+113313_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij tę jednostkę o liczbę obrażeń odniesionych przez wroga.
+113315_fluff;Gdy długo spoglądamy w otchłań, otchłań spogląda również w nas.
+113315_name;Zwierciadło Bekkera
+113315_tooltip;Wybierz jednostkę. Jeśli jest wzmocniona, zadaj jej obrażenia równe dwukrotności wzmocnienia. Jeśli jest ranna, wzmocnij ją o dwukrotność obrażeń.
+113316_fluff;Medicus curat, magicae sanat.
+113316_name;Uzdrowienie
+113316_tooltip;Zagraj jednostkę ze swojego cmentarza.
+113319_fluff;Redańczycy zatrzasnęli okowy na wykręconych do tyłu rękach czarodzieja. Terranova zakrzyczał, zatargał się, zgiął, zacharczał w wymiotnym odruchu. Geralt wiedział już, z czego zrobiono kajdany.
+113319_name;Kajdany z dwimerytu
+113319_tooltip;<keyword=lock>Zablokuj</keyword> jednostkę i zadaj jej {Damage} pkt obrażeń.
+113320_fluff;Zjedz ich odpowiednio dużo, a świat już nigdy nie będzie taki sam...
+113320_name;Mardroeme
+113320_tooltip;Zadaj wybranej jednostce {Damage} pkt obrażeń, następnie wzmocnij ją o {Boost}.
+122101_fluff;Wiem, że nie byłem dobrym ojcem, ale... może jeszcze nie jest za późno.
+122101_name;Krwawy Baron
+122101_tooltip;<keyword=order>Rozkaz</keyword>: Podwój liczbę <keyword=charge>ładunków</keyword> sojusznika.
+122102_fluff;Patriota, chociaż sukinsyn.
+122102_name;Vernon Roche
+122102_tooltip;<keyword=spying>Szpieg</keyword>.\n<keyword=deploy>Rozmieszczenie</keyword>: Zagraj wierzchnie karty ({MaxTargets}) ze swojej talii.
+122103_fluff;Ten skwer powinien nosić imię poległych żołnierzy. Nie moje.
+122103_name;Jan Natalis
+122103_tooltip;<keyword=melee>Bliskie starcie</keyword>: Gdy ta jednostka jest na polu bitwy, wszyscy sojusznicy z <keyword=order>rozkazem</keyword> zyskują <keyword=zeal>zapał</keyword>.
+122104_fluff;Filippa Eilhart, choć bardzo atrakcyjna, była zdecydowanie niemiła.
+122104_name;Filippa Eilhart
+122104_tooltip;postponed
+122105_fluff;Naprawdę myślisz, że nabiorę się na tę wyjętą z dupy historyjkę?
+122105_name;Sigismund Dijkstra
+122105_tooltip;postponed
+122106_fluff;Jestem medyczką, kiedy coś zalecam, zazwyczaj wiem, co robię.
+122106_name;Shani
+122106_tooltip;<keyword=order>Rozkaz</keyword>: Daj jednostce <keyword=immune>odporność</keyword>.
+122107_fluff;Kapitanie... nasze strzały, one... mają skrzydła!
+122107_name;Triss: Motyle
+122107_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij losową jednostkę w swojej ręce o {Boost}.
+122108_fluff;Skoro mam dziś umrzeć, muszę odpowiednio wyglądać.
+122108_name;Keira Metz
+122108_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Zagraj Zaklęcie ze swojej talii.
+122201_fluff;Julian Alfred Pankratz wicehrabia de Lettenhove. Dla przyjaciół – Jaskier.
+122201_name;Jaskier
+122201_tooltip;<keyword=ranged>Daleki zasięg</keyword>: Za każdym razem, gdy sojusznik zyskuje <keyword=charge>ładunek</keyword>, wzmocnij go o {Boost}.
+122202_fluff;Wyobraź sobie, że Jaskier zmienił płeć i będziesz miał pełny obraz.
+122202_name;Priscilla
+122202_tooltip;<keyword=zeal>Zapał</keyword>.\n<keyword=order>Rozkaz</keyword>: Daj jednostce <keyword=charge>ładunki</keyword> ({Charges}).\n<keyword=cooldown>Odnowienie</keyword>: {Cooldown}.
+122203_fluff;No, to jak będzie? Robimy interes?
+122203_name;Talar
+122203_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zabierz wszystkie <keyword=charge>ładunki</keyword> wrogiej jednostce i daj je Talarowi.\n<keyword=order>Rozkaz</keyword>: Daj sojuszniczej jednostce <keyword=charge>ładunki</keyword> ({Charges2}).\n<keyword=charge>Ładunki</keyword>: {Charges}.
+122204_fluff;Lepiej przeżyć jeden dzień jak król niż całe życie jak dziad.
+122204_name;Ves
+122204_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.\n<keyword=order>Rozkaz</keyword>: Daj sojusznikowi <keyword=zeal>Zapał</keyword>.
+122205_fluff;Nie ma nic gorszego niż naukowo podbudowany szowinizm.
+122205_name;Sheala
+122205_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.\n<keyword=order>Rozkaz</keyword>: Zadaj wrogowi {Damage} pkt obrażeń
+122206_fluff;Córa kaedweńskich puszcz.
+122206_name;Sabrina Glevissig
+122206_tooltip;<keyword=spying>Szpieg</keyword>.\n<keyword=deathwish>Zemsta</keyword>: Zadaj wszystkim jednostkom w tym rzędzie {Damage} pkt obrażeń.
+122207_fluff;Tysiąc trupów w jednej chwili! Takimi czarami wygrywa się wojny!
+122207_name;Detmold
+122207_tooltip;<keyword=order>Rozkaz</keyword>, <keyword=ranged>daleki zasięg</keyword>: Zadaj wrogowi obrażenia równe wzmocnieniu Detmolda.
+122208_fluff;Od razu było widać, że to kawał sukinsyna. Kto nosi złotą zbroję?!
+122208_name;Książę Stennis
+122208_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij sojusznika o {Boost} i daj mu <keyword=charge>ładunki</keyword> ({Charges}).
+122209_fluff;Co, ludź nie widzi? Zaciągłem się do armii króla Radozwida Fał. I mam rozkaz – bronić łodzie.
+122209_name;Trollololo
+122209_tooltip;postponed
+122210_fluff;Mawiali, że królewna jest wybuchowa, ale nikt nie spodziewał się tego…
+122210_name;Królewna Pavetta
+122210_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wtasuj brązową jednostkę i wszystkie jej kopie ze swojego cmentarza do swojej talii.
+122211_fluff;Interesuje mnie jedynie dobro mojej Aretuzy i moich uczennic.
+122211_name;Margarita Laux-Antille
+122211_tooltip;<keyword=zeal>Zapał</keyword>.\n<keyword=order>Rozkaz</keyword>: Zużyj <keyword=charge>ładunki</keyword> ({Charges}), by <keyword=lock>zablokować</keyword> jednostkę wroga.\n<keyword=charge>Ładunki</keyword>: {Charges}.
+122212_fluff;Mało kto wie więcej o uzdrawianiu niż Nenneke.
+122212_name;Nenneke
+122212_tooltip;<keyword=order>Rozkaz</keyword>, <keyword=ranged>daleki zasięg</keyword>: Wzmocnij jednostkę o {Boost}.\n<keyword=charge>Ładunki</keyword>: {Charges}.
+122213_fluff;Picie bez Odrina jest jak kajakowanie bez wioseł.
+122213_name;Odrin
+122213_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Daj <keyword=charge>ładunki</keyword> ({Charge}) wszystkim jednostkom sojuszniczym.
+122214_fluff;Naprzód, psia wasza mać! Naprzód, albo przekonacie się, że Nilfgaardczycy to najmniejsze z waszych zmartwień!
+122214_name;Kaedweński setnik
+122214_tooltip;<keyword=zeal>Zapał</keyword>.\n<keyword=order>Rozkaz</keyword>: Wzmocnij sojusznika o {Boost}.\n<keyword=charge>Ładunki</keyword>: {Charges}.
+122216_fluff;Każdy, kto chce handlować w Novigradzie, wie, że wybór jest prosty - ułożyć się z Tasakiem lub pożegnać się z kolanami.
+122216_name;Tasak
+122216_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj jednostce {Damage} pkt obrażeń za każdą kartę w swojej ręce.
+122301_fluff;Zwykle dajemy im jakieś dźwięczne kobiece imiona. Jak Helga.
+122301_name;Balista
+122301_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj jednostce {Damage} pkt obrażeń.\n<keyword=charge>Ładunki</keyword>: {Charges}.
+122302_fluff;Nigdy nie trafia dwa razy w to samo miejsce, co po dłuższym zastanowieniu może stanowić duży problem.
+122302_name;Wzmocniona Balista
+122302_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj jednostce {Damage} pkt obrażeń.\n<keyword=charge>Ładunki</keyword>: {Charges}.
+122303_fluff;Jeden trebuszet jest wart stu piechurów. I trzystu takich łachudrów, jak ty.
+122303_name;Trebusz
+122303_tooltip;<keyword=order>Rozkaz</keyword>, <keyword=ranged>daleki zasięg</keyword>: Zadaj jednostce {Damage} pkt obrażeń. Jeśli zostanie zniszczona, zadaj sąsiadującym z nią jednostkom {Damage} pkt obrażeń.\n<keyword=charge>Ładunki</keyword>: {Charges}.
+122304_fluff;Najnowszy krzyk mody w dziedzinie zdobywania murów.
+122304_name;Wieża Oblężnicza
+122304_tooltip;<keyword=order>Rozkaz</keyword>, <keyword=melee>bliskie starcie</keyword>: Wzmocnij sąsiadujących sojuszników o {Boost}.\n<keyword=charge>Ładunki</keyword>: {Charges}.
+122306_fluff;Widzisz ten tatuaż, panienko? To ja, jak walczyłem ze smokiem. Ze SMOKIEM.
+122306_name;Rębacze z Crinfrid
+122306_tooltip;postponed
+122307_fluff;Naszą specjalizacją były smoki, ale i wojaczka dobra.
+122307_name;Zwiadowca Rębaczy
+122307_tooltip;postponed
+122308_fluff;Za chwałę! Za Radowida!
+122308_name;Redański Rycerz
+122308_tooltip;postponed
+122309_fluff;„Przekalibrujcie kąt ramienia o pięć stopni!” „Przeka-... co?”
+122309_name;Inżynier Oblężniczy
+122309_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Daj <keyword=charge>ładunki</keyword> ({Charges}) sojuszniczej Maszynie.
+122310_fluff;Niebieskie Pasy i Scoia'tael łączy jedno - jednych i drugich napędza nienawiść.
+122310_name;Niebieskie Pasy: Zwiad
+122310_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: <keyword=spawn>Stwórz</keyword> egzemplarz brązowego sojusznika na spód swojej talii.
+122311_fluff;Dla Temerii zrobiłbym wszystko. Ale głównie zabijam.
+122311_name;Niebieskie Pasy
+122311_tooltip;<keyword=order>Rozkaz</keyword>: <keyword=summon>Wezwij</keyword> egzemplarz tej jednostki ze swojej talii do tego rzędu.
+122312_fluff;Przyszywaj czerwone do czerwonego a białe do białego i wszystko będzie dobrze.
+122312_name;Medyk Polowy
+122312_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij sąsiadujące jednostki o {Boost}.
+122313_fluff;Proszę zachować spokój. Czujność również. Płaszcze i bobrze kołpaki dość łatwo zmieniają właścicieli.
+122313_name;Jazda Burej Chorągwi
+122313_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Daj tej jednostce <keyword=zeal>Zapał</keyword>, jeśli zostanie zagrana po sąsiedzku z {MaxTargets} żołnierzami.\n<keyword=order>Rozkaz</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.
+122314_fluff;Zawsze mnie zastanawiało, jak oni sobie radzą, gdy muszą iść za potrzebą…
+122314_name;Zagon Burej Chorągwi
+122314_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Odbierz wrogowi wszystkie <keyword=charge>ładunki</keyword>, następnie zadaj mu obrażenia równe liczbie odebranych ładunków.
+122315_fluff;Czujesz to? Ziemia drży, gdy "Gruba Berta" wystrzeliwuje pocisk.
+122315_name;Wzmocniony Trebusz
+122315_tooltip;<keyword=ranged>Daleki zasięg</keyword>: Na koniec każdej tury zadaj losowemu wrogowi w rzędzie dalekiego zasięgu {Damage} pkt obrażeń.
+122316_fluff;Marsz, marsz, Temeria, nasz dzielny narodzie. Odpoczniemy po swej pracy w ojczystej zagrodzie.
+122316_name;Temerski Piechur
+122316_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń za każdą wzmocnioną jednostkę w tym rzędzie.
+122317_fluff;Dla Redanii wszystko! Znaczy, o ile żołd na czas dostanę.
+122317_name;Redańska Elita
+122317_tooltip;postponed
+122318_fluff;Nigdy nie chybiam dwa razy z rzędu.
+122318_name;Mistrz oblężeń
+122318_tooltip;Za każdym razem, gdy w rzędzie tej jednostki umieszczana jest Maszyna, daj jej <keyword=zeal>zapał</keyword>.
+122401_fluff;Mogiła jest rozkopana... Znaczy, poroniec wyszedł na żer.
+122401_name;Poroniec
+122401_tooltip;Na koniec każdej tury zadaj najsilniejszemu wrogowi {Damage} pkt obrażeń.\n<keyword=order>Rozkaz</keyword>: Przemień w Kłobuka.
+122402_fluff;Nadaję ci imię Dea i uznaję za córkę.
+122402_name;Kłobuk
+122402_tooltip;Na koniec każdej tury wzmocnij najsłabszego sojusznika o {Boost}.\n<keyword=order>Rozkaz</keyword>: Przemień w Porońca.
+122403_fluff;Czarodzieje w Nilfgaardzie nie cieszą się szczególnym poważaniem - gdy jeden z nich rozczaruje Cesarza, na jego miejsce czeka już dziesięciu innych.
+122403_name;Nowicjusz z Vicovaro
+122403_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Dobierz kartę, następnie przenieś kartę z ręki na szczyt swojej talii.
+123201_fluff;Trąbić do odwrotu! Przegrupować się, musimy czekać na posiłki!
+123201_name;Posiłki
+123201_tooltip;<keyword=spawn>Stwórz</keyword> egzemplarz brązowej jednostki sojuszniczej i <keyword=summon>wezwij</keyword> go do tego rzędu.
+123301_fluff;Nie pieniądze, lecz chęć szczera zrobi z ciebie bohatera!
+123301_name;Temerski aspirant
+123301_tooltip;<keyword=spawn>Stwórz</keyword>
+131101_fluff;Król Gonu śmieje się, kłapią przegniłe zęby nad zardzewiałym kołnierzem zbroi.
+131101_name;Eredin Bréacc Glas
+131101_tooltip;<keyword=order>Rozkaz</keyword>: Ulepsz jednostkę o {Boost} i daj jej <keyword=immune>odporność</keyword>.
+131102_fluff;Obrazy służą przekazywaniu emocji, nie słów.
+131102_name;Ge'els
+131102_tooltip;<keyword=ranged>Daleki zasięg</keyword>: Za każdym razem, gdy zagrywasz jednostkę z <keyword=deathwish>zemstą</keyword>, aktywuj jej umiejętność <keyword=deathwish>zemsty</keyword>.
+132101_fluff;Generał nie pogodził się z przegraną. Zginął, ale walczy dalej.
+132101_name;Draug
+132101_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Przekształć wszystkich ludzkich sojuszników w Kaedweńskie Upiory, nie zmieniając ich siły.
+132102_fluff;Chwalił się, że jego zbroi nie przebije żadna broń. Miał rację - ale i tak nie przeżył.
+132102_name;Krwawa miazga
+132102_tooltip;Zadaj wrogowi obrażenia równe sile swojego najsilniejszego sojusznika.
+132103_fluff;W tym lesie się nie poluje. Nigdy. Choćby wieś umierała z głodu.
+132103_name;Duch Lasu
+132103_tooltip;<keyword=order>Rozkaz</keyword>: Wzmocnij jednostkę w swojej ręce o {Boost}.
+132104_fluff;Złote dziecko, które wyrosło na zbrodniarza.
+132104_name;Caranthir Ar-Feiniel
+132104_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: <keyword=spawn>Stwórz</keyword> egzemplarz jednostki ze swojej ręki o sile {Power} i <keyword=summon>wezwij</keyword> go do tego rzędu.
+132105_fluff;Nie zwykłem żartować.
+132105_name;Avallac'h
+132105_tooltip;<keyword=order>Rozkaz</keyword>: Daj sojuszniczej jednostce <keyword=immune>odporność</keyword>.
+132106_fluff;Niektórych rzeczy lepiej nie nazywać ich prawdziwym imieniem…
+132106_name;Klucznik
+132106_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Zagraj Artefakt ze swojego cmentarza.
+132107_fluff;„Ten pień tam, z lewej... On się rusza!” „To nie pień. To macka”.
+132107_name;Kejran
+132107_tooltip;<keyword=zeal>Zapał</keyword>.\n<keyword=order>Rozkaz</keyword>: <keyword=consume>Pochłoń</keyword> sojusznika.\n<keyword=charge>Ładunki</keyword>: {Charges}.
+132108_fluff;Po co walczyć? Jest tyle lepszych sposobów na spożytkowanie energii…
+132108_name;Miruna
+132108_tooltip;<keyword=deathwish>Zemsta</keyword>: <keyword=seize>Przechwyć</keyword> wroga o sile {Power} lub mniejszej.
+132201_fluff;To... To się rusza!
+132201_name;Olbrzymi krabopająk
+132201_tooltip;<keyword=spawn>Stwórz</keyword> Krabopająki ({MaxTargets}) i <keyword=summon>wezwij</keyword> je do tego rzędu, następnie wzmocnij wszystkie inne Insektoidy w tym rzędzie o {Boost}.
+132202_fluff;Uważaj... Leziesz po trupach. Smacznych trupach.... Hi, hi.
+132202_name;Żalnica
+132202_tooltip;<keyword=order>Rozkaz</keyword>: <keyword=banish>Wygnaj</keyword> wszystkie jednostki ze swojego cmentarza, następnie wzmocnij tę jednostkę o {Boost} za każdą wygnaną.
+132203_fluff;Wiele paskudnych stworów widziałem w swoim życiu, ale żaden z nich nie dorównuje brzydotą babie wodnej.
+132203_name;Wodnica
+132203_tooltip;<keyword=thrive>Pokrzepienie</keyword>.\n<keyword=deploy>Rozmieszczenie</keyword>: Aktywuj umiejętność <keyword=deathwish>zemsty</keyword> brązowego sojusznika.
+132204_fluff;Skąd ta nazwa? Poczekaj, aż ją zobaczysz.
+132204_name;Przeraza: Uśpiona
+132204_tooltip;Obudź Przerazę, gdy zniszczeniu ulegnie {Counter} sojuszników.
+132205_fluff;Wyjątkowy okaz biesa znaleziony na Ard Skellig, wyjątkowo wybredny jeśli idzie o pokarm.
+132205_name;Morvudd
+132205_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij wszystkie sojusznicze Bestie o {Boost}.
+132206_fluff;Hi hi hi hi hi hi hi!
+132206_name;Szepciucha
+132206_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.\nZwiększ te obrażenia o {Damage2} za każdym razem, gdy zagrasz Kuchtę albo Prządkę.
+132207_fluff;Wiem, co mówię. W tej zupie pływają oczy! Nie oka!
+132207_name;Kuchta
+132207_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: <keyword=consume>Pochłoń</keyword> jednostki sojusznicze ({MaxTargets}).\nZwiększ liczbę celów o {Maxtargets2} za każdym razem, gdy zagrasz Szepciuchę albo Prządkę.
+132208_fluff;Czuję twój ból, widzę twój strach.
+132208_name;Prządka
+132208_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij sojusznika o {Boost}.\nZwiększ to wzmocnienie o {Boost2} za każdym razem, gdy zagrasz Szepciuchę lub Kuchtę.
+132209_fluff;Myślelim, zeżre rycerza i odleci, ale gdzie tam! Siadła pono na drodze, psia jej mać, i siedzi, syczy, zębiskami łyska...
+132209_name;Mantikora Cesarska
+132209_tooltip;<keyword=deathwish>Zemsta</keyword>: Zniszcz najsłabszego wroga.
+132210_fluff;No, teraz to się zrobi gorąco.
+132210_name;Ifrit Kolos
+132210_tooltip;<keyword=zeal>Zapał</keyword>.\n<keyword=order>Rozkaz</keyword>: Zadaj wszystkim jednostkom w przeciwnym rzędzie {Damage} pkt obrażeń.\n<keyword=cooldown>Odnowienie</keyword>: {Cooldown}.
+132211_fluff;Uważajcie panowie, pod tym mostem żyją nekkery.
+132211_name;Nekker Wojownik
+132211_tooltip;<keyword=thrive>Pokrzepienie</keyword>.
+132212_fluff;Uciekłem w życiu jeden raz. Przed lodowym gigantem. I nawet się tego nie wstydzę.
+132212_name;Lodowy Gigant
+132212_tooltip;Brak umiejętności.
+132213_fluff;Jak walczyć z żywiołakiem ziemi, pytacie? Nie walczyć, uciekać ile sił w nogach.
+132213_name;Przedwieczny D'ao
+132213_tooltip;Brak umiejętności.
+132214_fluff;Każdy wojownik Dzikiego Gonu przechodzi przez ścisłą selekcję, ale do orszaku Eredina dołączają tylko najbrutalniejsze i najbardziej zaciekłe elfy Aen Elle.
+132214_name;Nithral
+132214_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zniszcz wrogi Artefakt. Jeśli kontrolujesz najsilniejszą jednostkę, zadaj sąsiadującym z tym Artefaktem jednostkom {Damage} pkt obrażeń.
+132215_fluff;Życzenia twe zawsze spełni z ochotą, da ci brylanty i srebro, i złoto.
+132215_name;Gaunter O'Dimm
+132215_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Daj wrogiej jednostce <keyword=doomed>fatum</keyword>.\n<keyword=order>Rozkaz</keyword>: Zniszcz wroga z <keyword=doomed>fatum</keyword>.
+132216_fluff;Duży. Zły. Paskudny. W kanałach siedzi.
+132216_name;Królewicz Ropuch
+132216_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: <keyword=consume>Pochłoń</keyword> jednostkę o sile {Power} lub mniejszej.
+132217_fluff;Zwykłe harpie żywią się padliną. A Celaeno – snami.
+132217_name;Harpia Celaeno
+132217_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: <keyword=consume>Pochłoń</keyword> sojuszniczą jednostkę.
+132218_fluff;"Nie przeszkadzać".
+132218_name;Stary Grot: Sen
+132218_tooltip;Brak umiejętności.
+132220_fluff;Melitele, Matko, uchroń nas ode złego, nade wszystko zaś od szponów katakana.
+132220_name;Nekurat
+132220_tooltip;postponed
+132301_fluff;Jak widzisz światło we mgle, zawracaj. Natychmiast.
+132301_name;Mglak
+132301_tooltip;<keyword=deathwish>Zemsta</keyword>: <keyword=summon>Wezwij</keyword> egzemplarz tej jednostki ze swojej talii do losowego rzędu sojuszniczego.
+132302_fluff;Ludzie posiadają wiele głęboko zakorzenionych lęków. Lęk przed mgłą jest uzasadniony...
+132302_name;Starożytny Mglak
+132302_tooltip;<keyword=deathwish>Zemsta</keyword>: <keyword=summon>Wezwij</keyword> tę jednostkę z cmentarza do tego samego rzędu, wzmocnij ją o {Boost} i daj jej <keyword=doomed>fatum</keyword>.
+132303_fluff;To było coś, co żyło tylko po to, by zabijać.
+132303_name;Wiwerna
+132303_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.
+132304_fluff;Pół krab, pół pająk. Słowem, sukinsyn.
+132304_name;Krabopająk truteń
+132304_tooltip;<keyword=doomed>Fatum</keyword>.
+132305_fluff;Małe, szybkie i wredne.
+132305_name;Nekker
+132305_tooltip;<keyword=thrive>Pokrzepienie</keyword>.\n<keyword=deploy>Rozmieszczenie</keyword>: <keyword=spawn>Stwórz</keyword> egzemplarz bazowy tej jednostki i <keyword=summon>wezwij</keyword> go do tego rzędu.
+132306_fluff;Chodzą ghule koło drogi, zeżrą ręce, zeżrą nogi.
+132306_name;Ghul
+132306_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: <keyword=consume>Pochłoń</keyword> jednostkę ze swojego cmentarza.
+132307_fluff;Gryfy lubią pomęczyć. Jeść żywcem po kawałku.
+132307_name;Gryf
+132307_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zniszcz sojuszniczą jednostkę w tym rzędzie. Jeśli nie ma takich jednostek, zniszcz tę kartę.
+132308_fluff;Siedzieli na koniach nieruchomo, jakby niedbale. Widział ich broń - krótkie dzidy o szerokim ostrzu. Miecze z dziwacznie wykutą gardą. Berdysze. Zębate gizarmy.
+132308_name;Vran Wojownik
+132308_tooltip;Za każdym razem, gdy inna jednostka ulegnie zniszczeniu podczas twojej tury, zadaj {Damage} pkt obrażeń losowemu wrogowi.
+132309_fluff;Nadchodzi zima.
+132309_name;Wojownik Gonu
+132309_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj jednostce {Damage} pkt obrażeń za każdą jednostkę Dzikiego Gonu w tym rzędzie.
+132310_fluff;W sunącej po niebie wstędze zjawiają się niewyraźne, koszmarne sylwetki jeźdźców. Chwieją się bawole rogi i wystrzępione pióropusze na hełmach, spod hełmów bieleją trupie maski.
+132310_name;Jeździec Gonu
+132310_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Jeśli kontrolujesz najsilniejszą jednostkę, <keyword=summon>wezwij</keyword> egzemplarz Jeźdźca Gonu ze swojej talii do tego rzędu.
+132312_fluff;Przerażeni mieszkańcy Hengfors schowali się za murami… I na niewiele im się to zdało.
+132312_name;Atak z powietrza
+132312_tooltip;Każdy gracz niszczy swoją najsłabszą jednostkę.
+132313_fluff;Ekimma to taki jakby nietoperz... tyle że wielkości człowieka.
+132313_name;Ekimma
+132313_tooltip;postponed
+132314_fluff;Chociaż wiedźmak wielce chciwy a na złoto łasy, nie dać onemu za utopca więcej jak srebrny grosz albo półtorak.
+132314_name;Utopiec
+132314_tooltip;<keyword=thrive>Pokrzepienie</keyword>.\n<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń i przenieś go do drugiego rzędu.
+132315_fluff;Schowajcie te błyskotki, pani. Bo jeszcze harpie się zlecą.
+132315_name;Harpia
+132315_tooltip;<keyword=doomed>Fatum</keyword>.
+132316_fluff;Omlet z jaj harpii to prawdziwy rarytas. Ale, jak waszmość może sobie wyobrazić, harpie nie dzielą się nimi zbyt ochoczo.
+132316_name;Jajo harpii
+132316_tooltip;<keyword=deathwish>Zemsta</keyword>: <keyword=spawn>Stwórz</keyword> Harpię i <keyword=summon>wezwij</keyword> ją do losowego rzędu sojuszniczego.
+132402_fluff;Walecznych jedna tylko śmierć spotyka. Wołać będzie: mordować! I spuści psy wojny.
+132402_name;Ogar Dzikiego Gonu
+132402_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń. Jeśli kontrolujesz najsilniejszą jednostkę, zamiast tego zadaj {Damage2} pkt obrażeń.
+132403_fluff;"Spokojnie… wiem jak oswoić wilka" - ostatnie słowa łowcy Dunbara.
+132403_name;Wataha
+132403_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.
+132404_fluff;Pewien czarodziej uważał, że są urocze - jego los dał początek powiedzeniu, aby nie igrać z ogniem…
+132404_name;Wściekły Ifrit
+132404_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.
+132405_fluff;Łatwo je pomylić z kamieniami, co jest przyczyną wielu przykrych w skutkach pomyłek ze strony Trolli.
+132405_name;Opętany d'ao
+132405_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zniszcz wrogi Artefakt.
+132406_fluff;Żadna brama go nie powstrzyma, przeciśnie się przez każdą szczelinę…
+132406_name;Bezkost
+132406_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Aktywuj umiejętność <keyword=deathwish>zemsty</keyword> brązowego sojusznika.
+132407_fluff;Najpotężniejsi nilfgaardzcy czarodzieje opanowali sztukę tworzenia golemów. Czasem nawet udaje się zaprząc je do walki po stronie cesarstwa...
+132407_name;Cesarski Golem
+132407_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: <keyword=reveal>Ujawnij</keyword> jednostkę ze szczytu talii przeciwnika i zadaj tej karcie obrażenia równe sile ujawnionej, następnie wtasuj ją z powrotem.
+132408_fluff;No i się doigrałeś...
+132408_name;Stary Grot
+132408_tooltip;Brak umiejętności.
+132409_fluff;Głupiec nasłuchał się bajań, napchał do uszu wosku i nie słyszał ostrzeżeń. Wpakował okręt prosto na skały.
+132409_name;Odrażająca Uczta
+132409_tooltip;Zadaj wrogowi {Damage} pkt obrażeń i wzmocnij sojusznika o {Boost}.
+133301_fluff;Trwalsza niż zwykła tarcza i zdecydowanie bardziej stylowa.
+133301_name;Tarcza z łusek
+133301_tooltip;<keyword=zeal>Zapał</keyword>.\n<keyword=order>Rozkaz</keyword>: Wzmocnij jednostkę o {Boost}.\n<keyword=cooldown>Odnowienie</keyword>: {Cooldown}.
+133302_fluff;Ależ się tu paskudy urządziły… bez wiedźmina nie lza tu żyć.
+133302_name;Gniazdo krabopająków
+133302_tooltip;<keyword=spawn>Stwórz</keyword> Krabopająki ({Counter}) o sile 1 i <keyword=summon>wezwij</keyword> je do sojuszniczego rzędu.
+142101_fluff;Odziedziczyłam po ojcu zdolność polimorfii, choć potrafię przemieniać się jedynie w jedną postać.
+142101_name;Saesenthessis
+142101_tooltip;<keyword=immune>Odporność</keyword>.\n<keyword=order>Rozkaz</keyword>: Odbierz tej jednostce <keyword=immune>odporność</keyword> na okres do końca tej tury.
+142102_fluff;Zalazł ludziom za skórę jak mało kto, wielka jest cena za jego głowę.
+142102_name;Isengrim Faoiltiarna
+142102_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij wszystkie inne sojusznicze Elfy o {Boost}.\nZa każdym razem, gdy zagrywasz Elfa, wzmocnij tę jednostkę o {Boost2}.
+142103_fluff;Cholernie celny jak na faceta z jednym okiem.
+142103_name;Iorweth
+142103_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Cofnij sojuszniczą Pułapkę do ręki, następnie zagraj Pułapkę.
+142104_fluff;Jestem głupia, prosta dziewucha ze wsi. Ale z łuku strzelam jak nikt.
+142104_name;Milva
+142104_tooltip;<keyword=immune>Odporność</keyword>.\nWzmocnij tę kartę o {Boost} za każdym razem, gdy zagrywasz jednostkę Scoia'tael.
+142105_fluff;Picie w pojedynkę jest jak sranie w towarzystwie.
+142105_name;Zoltan Chivay
+142105_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Zniszcz jednostkę o sile równej liczbie sojuszniczych Krasnoludów lub mniejszej.
+142106_fluff;Brokilon krwawi… nawet ja nie jestem w stanie go uzdrowić.
+142106_name;Aglaïs
+142106_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Na koniec tury podwój wszystkie wzmocnienia wpływające na tę jednostkę.
+142107_fluff;Słynie z tego, że przepowiada zagładę świata. Niezbyt lubiana w towarzystwie.
+142107_name;Ithlinne Aegli
+142107_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij jednostkę Scoia'tael w swojej ręce o {Boost}.
+142108_fluff;Pora spojrzeć śmierci w twarz.
+142108_name;Schirrú
+142108_tooltip;<keyword=zeal>Zapał</keyword>.\n<keyword=order>Rozkaz</keyword>: Zniszcz wszystkie inne jednostki o takiej samej sile jak Schirrú.
+142201_fluff;Wiem, jak wykonywać rozkazy, obejdę się bez pouczeń.
+142201_name;Dennis Cranmer
+142201_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Wzmocnij sąsiadujące jednostki o {Boost2}.\n<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Wzmocnij wszystkie inne jednostki w tym rzędzie o {Boost}.
+142202_fluff;Ida Emean aep Sivney. Jak zwykle tajemnicza.
+142202_name;Ida Emean aep Sivney
+142202_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Zniszcz Artefakt.\n<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Wzmocnij jednostkę o {Boost}.
+142203_fluff;Znam ludzi na wylot – jesteście równie skomplikowani jak konstrukcja cepa.
+142203_name;Yaevinn
+142203_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń za każdego sojuszniczego Elfa.
+142204_fluff;Chętnie pchnęłabym cię z bliska, patrząc w oczy. Ale śmierdzisz, człowieku.
+142204_name;Toruviel
+142204_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Zadaj {Damage} pkt obrażeń wrogom przy krawędziach rzędu.\n<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Zadaj {Damage2} pkt obrażeń wszystkim wrogom w rzędzie.
+142205_fluff;"Moje trzy najgorsze wspomnienia? Zaraza Catriony, pożar Vengerbergu i szarża dragonów Vrihedd."
+142205_name;Dragoni Vrihedd
+142205_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Przenieś wrogą jednostkę do drugiego rzędu przeciwnika.\n<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Przenieś sojuszniczą jednostkę do swojego drugiego rzędu.
+142206_fluff;Bloede dh'oine!
+142206_name;Ciaran
+142206_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: <keyword=lock>Zablokuj</keyword> jednostkę i przenieś ją do drugiego rzędu.
+142207_fluff;Ze śpiewem na ustach! Ale gromko, żeby tamci ze strachu se pludry obsrali!
+142207_name;Barclay Els
+142207_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij sojusznika o {Boost} za każdego sojuszniczego Krasnoluda.
+142208_fluff;Córka pani Eithné odziedziczyła po niej nieziemską urodę oraz dziką nienawiść do wszystkiego, co ludzkie.
+142208_name;Morenn
+142208_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.\n<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: <keyword=lock>Zablokuj</keyword> jednostkę.
+142209_fluff;Mona…? Nie… nie. Jestem Braenn, córka Brokilonu.
+142209_name;Braenn
+142209_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Jeśli kontrolujesz Driady w liczbie co najmniej {Counter} zyskaj <keyword=zeal>zapał</keyword>.\n<keyword=order>Rozkaz</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.\n<keyword=charge>Ładunki</keyword>: {Charges}.
+142210_fluff;Nienawidzę was, dh'oine. Wszyscy jesteście tacy sami.
+142210_name;Malena
+142210_tooltip;<keyword=order>Rozkaz</keyword>: Przenieś jednostkę do drugiego rzędu po jej stronie.\n<keyword=cooldown>Odnowienie</keyword>: {Cooldown}.
+142211_fluff;Lepiej umrzeć stojąc niż żyć na kolanach.
+142211_name;Aelirenn
+142211_tooltip;Jeśli na koniec tury kontrolujesz Elfich sojuszników w liczbie {MaxTargets} lub większej, <keyword=summon>wezwij</keyword> tę jednostkę ze swojej talii do rzędu bliskiego starcia.
+142212_fluff;Ja byłem w pierwszej linii! Tam, gdzie było gorąco!
+142212_name;Sheldon Skaggs
+142212_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi obrażenia równe sile tej jednostki.
+142213_fluff;O smoku Ocviście z Kwarcowej Góry słyszałeś? Wiedz, że właśnie Yarpen Zigrin i jego krasnoludy załatwiły Ocvista.
+142213_name;Yarpen Zigrin
+142213_tooltip;Na koniec każdej tury wzmocnij tę jednostkę o {Boost}, jeśli na polu bitwy nie ma sojuszniczych jednostek.
+142214_fluff;Miłość usprawiedliwia każde szaleństwo.
+142214_name;Ele'yas
+142214_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wszystkim rannym jednostkom {Damage} pkt obrażeń i wzmocnij wszystkie wzmocnione jednostki o {Boost}.
+142301_fluff;Opatrzę was, opatrzę. Ale za odpowiednią opłatą.
+142301_name;Havekarski medyk
+142301_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Wzmocnij sojuszniczą jednostkę o {Boost}.\n<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: <keyword=heal>Uzdrów</keyword> sojuszniczą jednostkę z {Boost2} pkt obrażeń.
+142302_fluff;Jak przetłumaczyć słowo Vrihedd? Nie wiem. Ale oznacza kłopoty.
+142302_name;Brygada Vrihedd
+142302_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj losowemu wrogowi {Damage} pkt obrażeń.\nZa każdym razem, kiedy Brygada Vrihedd zostanie przeniesiona do drugiego rzędu, powtórz jej umiejętność <keyword=deploy>rozmieszczenia</keyword>.
+142303_fluff;Nienawiść płonie jaśniej niż ogień, tnie głębiej niż jakiekolwiek ostrze.
+142303_name;Oficer Vrihedd
+142303_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.\n<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Wzmocnij sojusznika o {Boost}.
+142304_fluff;Nosy mają jak psy gończe. Oczy jak sokoły. A serca z lodu.
+142304_name;Elfi Traper
+142304_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj losowemu wrogowi w każdym rzędzie {Damage} pkt obrażeń.
+142305_fluff;Całe życie robiłem kilofem, to i z mieczem sobie poradzę.
+142305_name;Krasnolud Harcownik
+142305_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń. Jeśli przeżył, wzmocnij tę jednostkę o {Boost}.
+142306_fluff;Walka z krasnoludami z Mahakamu... To jakby żużel żuć.
+142306_name;Obrońcy Mahakamu
+142306_tooltip;Na koniec każdej tury wzmocnij tę jednostkę o {Boost}, jeśli jest wzmocniona.
+142307_fluff;Skończ już tańcować, długouchu zasrany, bo trafić nie mogę!
+142307_name;Saperzy Vrihedd
+142307_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Jeśli masz w ręce Elfa, zniszcz wrogi Artefakt.
+142308_fluff;Plwam na idee Scoia'tael, ale groszem nie pogardzę.
+142308_name;Zaczepka
+142308_tooltip;Jeśli na polu bitwy znajduje się sojuszniczy Elf, zniszcz losową jednostkę wroga.
+142309_fluff;Temerczycy, redańczycy, wszystko jedno. Wszyscy muszą… umrzeć.
+142309_name;Awangarda Vrihedd
+142309_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij tę jednostkę o {Boost} za każdego Elfa w twojej ręce.
+142310_fluff;Jeszcze krok, dh'oine, a wpakuję ci strzałę między oczy.
+142310_name;Elfi Łucznik
+142310_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.\n<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Zadaj {MaxTargets} jednostkom {Damage2} pkt obrażeń.
+142311_fluff;Grunt to łączyć przyjemne z pożytecznym - lać po ryjach i dostawać za to pełną sakiewkę.
+142311_name;Krasnolud Najemnik
+142311_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.\n<keyword=charge>Ładunki</keyword>: {Charges}.\nDaj tej jednostce <keyword=charge>ładunki</keyword> ({Charges2}) za każdym razem, gdy zagrywasz Krasnoluda.
+142312_fluff;Elf, krasnolud, co za różnica - pieniądz nie śmierdzi.
+142312_name;Havekarskie wsparcie
+142312_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij sojusznika o {Boost}. Jeśli kontrolujesz Artefakt, zamiast tego wzmocnij sojusznika o {Boost2}.
+142313_fluff;Chcecie mi powiedzieć, że ta elfica tańczyła na polu bitwy? Czyście rozum postradali, setniku?!
+142313_name;Elfi Tancerz Ostrzy
+142313_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Jeśli ta jednostka jest już wzmocniona, zadaj wrogowi {Damage} pkt obrażeń.
+142314_fluff;Możesz się ukryć, ale uciec nie zdążysz.
+142314_name;Strzelec Wyborowy
+142314_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń za każdy rząd oddzielający go od tej jednostki.
+142315_fluff;Walczę dla tych, którzy więcej zapłacą. Albo tych, których łatwiej okraść.
+142315_name;Havekar przemytnik
+142315_tooltip;<keyword=melee>Bliskie starcie</keyword>: Na koniec każdej tury wzmocnij losową jednostkę w swojej ręce o {Boost}.
+142316_fluff;Kiedy ich usłyszeliśmy, było już za późno…
+142316_name;Komando z Gór Sinych
+142316_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń, jeśli w jego rzędzie nie ma innych jednostek.
+142317_fluff;Zakłócanie spokoju w Mahakamie jest surowo karane… obuchem w gębę.
+142317_name;Straż Mahakamska
+142317_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij tę jednostkę o liczbę Krasnoludów w drugim rzędzie.
+142401_fluff;Doznawszy rasizmu i ksenofobii,  wielu nieludzi z miast decyduje się na dołączenie do Scoia'tael.
+142401_name;Neofita Scoia'tael
+142401_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: <keyword=spawn>Stwórz</keyword> bazowy egzemplarz tej jednostki i <keyword=summon>wezwij</keyword> go do drugiego sojuszniczego rzędu.
+143201_fluff;Wam ziemia płaci krwawy haracz. Nas obdarowywała. Wy wydzieracie ziemi jej skarby siłą. Dla nas ziemia rodziła i kwitła, bo kochała nas.
+143201_name;Wężowa Pułapka
+143201_tooltip;<keyword=ambush>Zasadzka</keyword>: Zniszcz następną kartę specjalną zagraną przez przeciwnika zanim aktywuje jakiekolwiek umiejętności.
+143301_fluff;Ostrożnie… tylko jeden krok dzieli was od stopienia na szkliwo.
+143301_name;Pułapka zapalająca
+143301_tooltip;<keyword=ambush>Zasadzka</keyword>: Zadaj następnej jednostce zagranej przez przeciwnika {Damage} pkt obrażeń.\n<keyword=zeal>Zapał</keyword>.\n<keyword=order>Rozkaz</keyword>: Odwróć jednostkę i zadaj jej {Damage2} pkt obrażeń.
+152101_fluff;Zamiast użalać się nad poległymi, lepiej wypijmy za ich pamięć!
+152101_name;Hjalmar an Craite
+152101_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: <keyword=banish>Wygnaj</keyword> jednostkę ze swojego cmentarza i zadaj wrogowi obrażenia równe jej sile.
+152103_fluff;Tylko ignoranci bagatelizują znaczenie mitów.
+152103_name;Myszowór
+152103_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Zagraj kartę Alchemii ze swojej talii.
+152104_fluff;Kiedy przyjdzie czas, Kambi zapieje i ostrzeże Hemdalla.
+152104_name;Kambi
+152104_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: <keyword=discard>Odrzuć</keyword> skrajną prawą kartę ze swojej ręki, następnie zmuś do tego samego przeciwnika.
+152105_fluff;Skellige potrzebuje silnego króla. Bez względu na konsekwencje.
+152105_name;Birna Bran
+152105_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Dobierz karty ({MaxTargets}), a następnie <keyword=discard>odrzuć</keyword> karty ({MaxTargets}).
+152106_fluff;WAAAAAAAAAAGH!!!!
+152106_name;Lugos Szalony
+152106_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi obrażenia równe dwukrotności liczby rannych wrogów.
+152107_fluff;Jej prawdziwe imię to Astrid Lyttneyd Ásgeirrfinnbjornsdottir, ale miała już dosyć problemów w urzędach.
+152107_name;Koral
+152107_tooltip;<keyword=order>Rozkaz</keyword>: <keyword=discard>Odrzuć</keyword> kartę, następnie dobierz kartę.\n<keyword=charge>Ładunki</keyword>: {Charges}.\nZa każdym razem, gdy <keyword=discard>odrzucana</keyword> jest karta specjalna, zadaj wrogowi {Damage} pkt obrażeń.
+152109_fluff;Nilfgaardczykom na jego widok robi się ciepło w kalesonach.
+152109_name;Dzik Morski
+152109_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Zadaj wszystkim rannym wrogom {Damage} pkt obrażeń.
+152201_fluff;Zaraz porzygam się z nudów.
+152201_name;Lugos Siny
+152201_tooltip;Za każdym razem, gdy ta jednostka otrzymuje obrażenia, zadaj losowemu wrogowi {Damage} pkt obrażeń.
+152202_fluff;Trolle nie używają broni. Nie potrzebują.
+152202_name;Wściekła szarża
+152202_tooltip;Zadaj jednostce {Damage} pkt obrażeń.\n<keyword=bloodthirst>Żądza krwi</keyword> {Bloodthirst}: Zamiast tego zniszcz jednostkę.
+152203_fluff;Kiedy list gończy mówi "żywy lub martwy" większość łowców po prostu by cię zabiła… ale nie ja. Jeśli ja cię złapię, zawiśniesz.
+152203_name;Djenge Frett
+152203_tooltip;<keyword=bloodthirst>Żądza krwi</keyword> {Bloodthirst}: <keyword=lock>Zablokuj</keyword> jednostkę wroga.
+152204_fluff;Zwołałem radę jarlów na Twoje żądanie. Przedstaw swoje racje.
+152204_name;Donar an Hindar
+152204_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.\n<keyword=bloodthirst>Żądza krwi</keyword> {Bloodthirst}: Zamiast tego zadaj wrogowi {Damage2} pkt obrażeń.
+152205_fluff;Posłuchaj sagi o bohaterskich czynach wojowników Craite.
+152205_name;Draig Bon-Dhu
+152205_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij wszystkich sojuszniczych Wojowników o {Boost}.
+152206_fluff;Arcydruid, Mistrz Alchemiczny, a zarazem najbardziej zrzędliwy dziad na wyspach.
+152206_name;Gremista
+152206_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Zagraj brązową kartę Alchemii ze swojego cmentarza.
+152207_fluff;A co tu kryć? Faroe to skała porośnięta sosnami, ale nam więcej nie trzeba.
+152207_name;Holger Czarna Ręka
+152207_tooltip;Za każdym razem, gdy zagrywasz Okręt, wzmocnij go o {Boost}.\nZa każdym razem, gdy zagrywasz Pirata, zadaj losowemu wrogowi {Damage} pkt obrażeń.
+152208_fluff;Przez niektórych nazywana "Żelazną Dziewicą".
+152208_name;Jutta Dimun
+152208_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Jeśli Jutta Dimun jest najsilniejszą jednostką, zadaj tej jednostce {Damage} pkt obrażeń.
+152209_fluff;Najpodlejszy człowiek, jakiego znało Skellige.
+152209_name;Morkvarg
+152209_tooltip;Gdy ta jednostka przeniesie się na cmentarz, <keyword=summon>wezwij</keyword> ją do rzędu bliskiego starcia i daj jej <keyword=doomed>Fatum</keyword>.
+152210_fluff;"Oswojony"? Mój drogi chłopcze, fakt że Skelligijczycy tresują niedźwiedzie wcale nie oznacza, że są one "oswojone"…
+152210_name;Zdziczały niedźwiedź
+152210_tooltip;<keyword=zeal>Zapał</keyword>.\n<keyword=deploy>Rozmieszczenie</keyword>: Zyskaj <keyword=charge>ładunki</keyword> ({Charges2}) za każdego Zdziczałego Niedźwiedzia na cmentarzu.\n<keyword=order>Rozkaz</keyword>: Zadaj jednostce {Damage} pkt obrażeń.\n<keyword=charge>Ładunki</keyword>: {Charges}.
+152211_fluff;Padnij na kolana i proś Modron Freyę o łaskę.
+152211_name;Błogosławieństwo
+152211_tooltip;<keyword=summon>Wezwij</keyword> Wojownika ze swojego cmentarza do rzędu sojuszniczego.
+152213_fluff;Cesarz też miał go za króla z przypadku. Do czasu.
+152213_name;Svanrige Tuirseach
+152213_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=bloodthirst>żądza krwi</keyword> {Bloodthirst}: Wzmocnij tę kartę o {Boost}.
+152214_fluff;Haaaa! Za mną, kto odważny!
+152214_name;Udalryk an Brokvar
+152214_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj jednostce {Damage} pkt obrażeń.\n<keyword=charge>Ładunki</keyword>: {Charges}.\n<keyword=bloodthirst>Żądza krwi</keyword> {Bloodthirst}: Zyskaj <keyword=zeal>zapał</keyword>.
+152301_fluff;Chcesz dostać toporkiem?
+152301_name;Wściekły berserker
+152301_tooltip;postponed
+152302_fluff;Nie lekceważ ich, nawet młodsze osobniki są niebezpieczne.
+152302_name;Berserker maruder
+152302_tooltip;postponed
+152303_fluff;Przyniosę klanowi Craite chwałę, a moje imię będą sławić w pieśniach!
+152303_name;Wojownik an Craite
+152303_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń. Jeśli zagrywasz tę jednostkę z cmentarza, zamiast tego zadaj {Damage2} pkt obrażeń.
+152304_fluff;Polujemy, a jakże. Tylko zwierzyna na Spikeroog licha…
+152304_name;Łowca Brokvar
+152304_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj jednostce {Damage} pkt obrażeń.\n<keyword=charge>Ładunki</keyword>: {Charges}.\nZyskaj <keyword=charge>ładunki</keyword> ({Charges2}) za każdym razem, gdy <keyword=discard>odrzucasz</keyword> kartę.
+152305_fluff;W ich oczach widzę strach. Boją się... Za mną! Za klan Dimun!
+152305_name;Pirat Dimun
+152305_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Przenieś wierzchnią kartę ze swojej talii na swój cmentarz.
+152306_fluff;Ciągnąć razem, podnieśmy wysoko banderę!
+152306_name;Kapitan Piratów
+152306_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=bloodthirst>żądza krwi</keyword> {Bloodthirst}: Zadaj wrogowi {Damage} pkt obrażeń.
+152307_fluff;Królowej strzegą najwytrwalsze i najzacieklejsze tarczowniczki jakie nosiło Skellige.
+152307_name;Straż Królowej
+152307_tooltip;<keyword=order>Rozkaz</keyword>: Jeśli ta jednostka odniosła obrażenia, <keyword=spawn>stwórz</keyword> jej bazowy egzemplarz i <keyword=summon>wezwij</keyword> go z prawej strony.
+152308_fluff;Czyny wojowników klanu Heymaey przejdą do wieczności.
+152308_name;Skald Heymaey
+152308_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: <keyword=discard>Odrzuć</keyword> kartę, następnie dobierz kartę.
+152309_fluff;Uciec im? Na wodach Skellige? Powodzenia.
+152309_name;Drakkar Dimun
+152309_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj tej jednostce i wrogowi po {Damage} pkt obrażeń.\n<keyword=cooldown>Odnowienie</keyword>: {Cooldown}.
+152310_fluff;Modron Freya, Wielka Matka, jest boginią miłości, urody i urodzaju.
+152310_name;Ofiara dla Freyi
+152310_tooltip;Zagraj brązową jednostkę ze swojego cmentarza.
+152311_fluff;Zapamiętaj moje słowa, dobra tarcza może uratować ci życie.
+152311_name;Zbrojmistrz
+152311_tooltip;<keyword=order>Rozkaz</keyword>: Wzmocnij sojusznika o {Boost}.\n<keyword=charge>Ładunki</keyword>: {Charges}.\nZyskaj <keyword=charge>ładunki</keyword> ({Charges2}) za każdym razem, gdy zagrywasz Wojownika.
+152312_fluff;Miecz to broń kobiet. Spraw sobie topór.
+152312_name;Topornik Tuirseach
+152312_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Zniszcz wroga o sile nie większej niż połowa jego siły bazowej.
+152313_fluff;Dla przyjaciół mamy serce, a dla wrogów topór. Pamiętaj o tym.
+152313_name;Harcownicy Tuirseach
+152313_tooltip;Gdy ta jednostka zostanie <keyword=discard>odrzucona</keyword>, <keyword=summon>wezwij</keyword> ją ze swojego cmentarza do rzędu bliskiego starcia.
+152314_fluff;Mówi się, że kiedy drakkary wypływają na rejzę, serce Hemdalla rośnie.
+152314_name;Drakkar Bojowy
+152314_tooltip;Za każdym razem, gdy twój przeciwnik zagrywa jednostkę, zadaj jej {Damage} pkt obrażeń.
+152315_fluff;Trafiasz pędzący cel z dwustu kroków? Ja też. W czasie sztormu.
+152315_name;Łucznik Brokvar
+152315_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Zadaj wrogowi obrażenia równe liczbie rannych jednostek po stronie przeciwnika.
+152316_fluff;Człowiek, drzewo, dla skelligijskiego topora wszystko jedno.
+152316_name;Zamaszysty cios
+152316_tooltip;Zadaj jednostce {Damage} pkt obrażeń.\n<keyword=bloodthirst>Żądza krwi</keyword> {Bloodthirst}: Zamiast tego zadaj jednostce {Damage2} pkt obrażeń.
+152317_fluff;Wyklepie się.
+152317_name;Płatnerz an Craite
+152317_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij sojusznika o {Boost}. Jeśli to Wojownik, zamiast tego wzmocnij go o {Boost2}.
+152318_fluff;Rozbiją się o nasze tarcze, jak morze o brzeg.
+152318_name;Tarczowniczka Drummond
+152318_tooltip;Przy następnym zranieniu tej jednostki <keyword=summon>wezwij</keyword> jej egzemplarz ze swojej talii do tego rzędu.
+152402_fluff;Kiedy nadejdzie Czas Białego Zimna, Hemdall wezwie nas do walki.
+152402_name;Hemdall
+152402_tooltip;Za każdym razem, gdy sojuszniczy Wojownik zada obrażenia wrogowi, wzmocnij tę jednostkę o liczbę zadanych obrażeń.
+152403_fluff;"E, za duży jak na finwala. To płetwal." "Płetwal? Z takim krótkim pyskiem? Chyba ci odbiło po tych ziołach!"
+152403_name;Maligna
+152403_tooltip;Rozdziel {Damage} pkt obrażeń losowo pomiędzy wszystkie jednostki w rzędzie przeciwnika.
+152405_fluff;Pierwsza godzina niedźwiedź śpi, druga godzina niedźwiedź chrapie, trzecia godzina niedźwiedź łapie!
+152405_name;Niedźwiedź
+152405_tooltip;Brak umiejętności.
+152406_fluff;Aghrrrr!
+152406_name;Wściekły niedźwiedź
+152406_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj sojusznikowi z lewej {Damage} pkt obrażeń. Jeśli nie ma tam sojusznika, zamiast tego zadaj {Damage} pkt obrażeń tej jednostce.
+153201_fluff;Zasrani czarodzieje psują nam interes… po co męczyć się godzinami przy stole operacyjnym, kiedy taka wyperfumowana pańcia może załatwić sprawę jednym ruchem ręki?
+153201_name;Odnowa
+153201_tooltip;<keyword=heal>Uzdrów</keyword> wszystkie jednostki w rzędzie.
+153301_fluff;Okropny był to widok… posoka była wszędzie, bestia rozerwała nieszczęśnika na strzępy.
+153301_name;Rozdarcie
+153301_tooltip;Zadaj wszystkim jednostkom w wybranym rzędzie {Damage} pkt obrażeń.
+162101_fluff;Czekam na tych, którzy chcą mnie zabić.
+162101_name;Letho z Gulety
+162101_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Odbierz wszystkie wymiany wrogiemu Przywódcy.
+162102_fluff;Albo wrócicie z rekonesansu z informacją o formacji wroga – albo was powieszę.
+162102_name;Menno Coehoorn
+162102_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Zagraj kartę Taktyki ze swojej talii.
+162103_fluff;Nie ma problemu, którego nie da się rozwiązać skrytobójstwem.
+162103_name;Vattier de Rideaux
+162103_tooltip;<keyword=order>Rozkaz</keyword>, <keyword=melee>bliskie starcie</keyword>: <keyword=seize>Przechwyć</keyword> <keyword=lock>zablokowaną</keyword> wrogą jednostkę.
+162104_fluff;Poszukiwany za dezercję, raptus puellae, kradzież i fałszowanie dokumentów.
+162104_name;Cahir Mawr Dyffryn
+162104_tooltip;<keyword=melee>Bliskie starcie</keyword>: Za każdym razem, gdy wróg otrzymuje wzmocnienie, wzmocnij tę jednostkę o tyle samo.
+162105_fluff;Jesteśmy wszyscy pionkami na jego szachownicy. W grze, której reguł nie znamy.
+162105_name;Vilgefortz
+162105_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Zniszcz wrogą jednostkę, następnie przeciwnik <keyword=summon>wzywa</keyword> wierzchnią jednostkę ze swojej talii.\n<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Zniszcz sojuszniczą jednostkę, następnie <keyword=summon>wezwij</keyword> wierzchnią jednostkę ze swojej talii.
+162106_fluff;Blizna na twarzy przyszłej cesarzowej stanowi moje największe osiągnięcie.
+162106_name;Stefan Skellen
+162106_tooltip;<keyword=order>Rozkaz</keyword>: <keyword=spawn>Stwórz</keyword> i zagraj egzemplarz karty Taktyki zagranej przez ciebie w tej turze.
+162107_fluff;Gorliwość Tibora jest legendarna. Wieść niesie, że dla cesarza zrobiłby nawet fikołka.
+162107_name;Tibor Eggebracht
+162107_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Przeciwnik <keyword=summon>wzywa</keyword> wierzchnią jednostkę ze swojej talii do losowego wrogiego rzędu.
+162108_fluff;Astrologia, hydromancja, haruspicja, ceromancja. Owomancja, tuframancja, metroskopia, brontoskopia…
+162108_name;Xarthisius
+162108_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: <keyword=reveal>Ujawnij</keyword> losową kartę ze swojej talii. Jeśli to jednostka, wzmocnij tę kartę o siłę ujawnionej i wtasuj ją z powrotem. Jeśli jest to Artefakt lub karta specjalna, zagraj ją.
+162201_fluff;Kula ognia? Oczywiście. Co tylko Wasza Cesarska Mość sobie życzy.
+162201_name;Albrich
+162201_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Przenieś dowolną kartę ze swojej talii na jej szczyt. Jeśli to jednostka, wzmocnij ją o {Boost}.
+162202_fluff;Nilfgaardzcy czarodzieje mają do wyboru serwilizm – lub szafot.
+162202_name;Assire var Anahid
+162202_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Wtasuj kartę z cmentarza przeciwnika do jego talii.\n<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Wtasuj kartę ze swojego cmentarza do swojej talii.
+162203_fluff;Talent Cynthii jest olbrzymi. Trzeba jej krótszej smyczy.
+162203_name;Cynthia
+162203_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: <keyword=spawn>Stwórz</keyword> Strażnika i umieść go na szczycie talii przeciwnika.
+162204_fluff;To nie są ręce żadnej ekscelencji, tylko rolnika. Więc rozmawiajmy jak chłop z chłopem.
+162204_name;Peter Saar Gwynlew
+162204_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Przywróć jednostce jej siłę bazową.
+162205_fluff;Ach, miło rzucić wreszcie jakieś zaklęcie…
+162205_name;Fringilla Vigo
+162205_tooltip;<keyword=order>Rozkaz</keyword>: <keyword=reveal>Ujawnij</keyword> losową kartę specjalną z talii przeciwnika, następnie <keyword=spawn>stwórz</keyword> i zagraj jej egzemplarz.
+162206_fluff;Jazda do roboty, chamy!
+162206_name;Sweers
+162206_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.\nZwiększ obrażenia tej jednostki o {Damage2} za każdą <keyword=reveal>ujawnioną</keyword> przez ciebie kartę.
+162207_fluff;Lubię bawić się ogniem. Zwłaszcza z Nordlingami.
+162207_name;Vanhemar
+162207_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Zniszcz <keyword=lock>zablokowaną</keyword> wrogą jednostkę.
+162208_fluff;Letho ma plan… co mogłoby pójść źle?
+162208_name;Egan
+162208_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: <keyword=lock>Zablokuj</keyword> wrogą jednostkę.\nJeśli Serrit znajduje się w twojej ręce, <keyword=lock>zablokuj</keyword> wszystkie egzemplarze tej wrogiej jednostki w ręce, talii i na polu bitwy.
+162209_fluff;Robimy co musimy, nie wstydzę się tego.
+162209_name;Serrit
+162209_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń. Jeśli w twojej ręce jest Egan, zamiast tego zadaj wrogowi {Damage2} pkt obrażeń.
+162210_fluff;Mężczyznę trzeba stale uwodzić tajemniczością i wyrafinowaniem.
+162210_name;Cantarella
+162210_tooltip;<keyword=spying>Szpieg</keyword>.\n<keyword=deploy>Rozmieszczenie</keyword>: Zagraj wierzchnią kartę z talii przeciwnika.
+162211_fluff;Diuk de Wett dowodził grupą "Verden" w sposób, dla którego określenie "nieudolny" jest wybitnie za delikatne.
+162211_name;Joachim de Wett
+162211_tooltip;<keyword=spying>Szpieg</keyword>.\n<keyword=deploy>Rozmieszczenie</keyword>: Zagraj wierzchnią jednostkę niebędącą <keyword=spying>szpiegiem</keyword> ze swojej talii, następnie wzmocnij ją o {Boost}.
+162212_fluff;Oto nadchodzi interes cesarstwa, pomyślał. Fałszywa princessa, fałszywa królowa Cintry. Fałszywa władczyni ujścia rzeki Yarry, na której tak zależy cesarstwu.
+162212_name;Fałszywa Cirilla
+162212_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Przenieś wroga do drugiego rzędu.\n<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Zniszcz wrogi Artefakt.
+162213_fluff;Wasza wysokość... - jęknął seneszal, na którego nikt do tej pory zdawał się nie zwracać uwagi. - Dopraszam się łaski...
+162213_name;Ceallach Dyffryn
+162213_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Usuń wszystkie statusy wszystkich jednostek na polu bitwy.
+162301_fluff;Zatruć studnie? Ależ... To by było niehonorowe!
+162301_name;Daerlańscy Piechurzy
+162301_tooltip;Gdy <keyword=reveal>ujawnisz</keyword> tę jednostkę, <keyword=summon>wezwij</keyword> ją ze swojej talii do losowego sojuszniczego rzędu.
+162302_fluff;Historycy mogą spierać się nad tym, czy sianie zarazy wśród obrońców jest etyczne. Dla nas istotna jest przede wszystkim efektywność.
+162302_name;Siewca zarazy
+162302_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: <keyword=spawn>Stwórz</keyword> i zagraj Krowie Truchło.
+162303_fluff;Północ nie posiada niczego, czym mogłaby nas zaskoczyć.
+162303_name;Zwiadowca
+162303_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: <keyword=reveal>Ujawnij</keyword> losową jednostkę z talii przeciwnika i wzmocnij tę kartę o siłę ujawnionej.
+162304_fluff;Tobie nic już nie może zaszkodzić, więc…
+162304_name;Terapia eksperymentalna
+162304_tooltip;Zagraj brązową jednostkę z cmentarza przeciwnika.
+162305_fluff;Zawsze celuję w kolano.
+162305_name;Kusznik Deithwen
+162305_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń, następnie <keyword=reveal>ujawnij</keyword> losową jednostkę z obu talii. Jeśli twoja jest silniejsza, powtórz umiejętność <keyword=deploy>rozmieszczenia</keyword>.
+162306_fluff;Nie wiem skąd ta nazwa, nigdy nie widziałem skorpiona, który miota wybuchowe pociski na odległość tysiąca kroków...
+162306_name;Ognisty Skorpion
+162306_tooltip;<keyword=order>Rozkaz</keyword>, <keyword=ranged>daleki zasięg</keyword>: Zadaj jednostce {Damage} pkt obrażeń.\n<keyword=charge>Ładunki</keyword>: {Charges}.\nDaj tej jednostce <keyword=charge>ładunki</keyword> ({Charges2}) za każdym razem, gdy zagrywasz kartę Taktyki.
+162307_fluff;Brygada Impera nigdy się nie poddaje. Nigdy.
+162307_name;Brygada Impera
+162307_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: <keyword=summon>Wezwij</keyword> do tego rzędu egzemplarz tej jednostki ze swojej talii.
+162308_fluff;Członkowie fanatycznej gwardii cesarskiej walczą do ostatniego.
+162308_name;Egzekutor Impery
+162308_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.\n<keyword=charge>Ładunki</keyword>: {Charges}.\nDaj tej jednostce <keyword=charge>ładunki</keyword> ({Charges2}) za każdym razem, gdy zagrywasz <keyword=spying>szpiega</keyword>.
+162309_fluff;Cesarz nauczy Północ dyscypliny.
+162309_name;Sierżant Nauzikai
+162309_tooltip;Za każdym razem, gdy zagrywana jest jednostka z umiejętnością <keyword=deploy>rozmieszczenia</keyword>, wzmocnij tę kartę o {Boost}.
+162310_fluff;„Ci jeźdźcy... to Dziki Gon?” „Nie. Brygada Kawalerii Nauzicaa".
+162310_name;Brygada Nauzicaa
+162310_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wzmocnionemu wrogowi {Damage} pkt obrażeń.
+162311_fluff;Złóż przysięgę wierności naszemu cesarzowi albo zgiń.
+162311_name;Pikinierzy Alby
+162311_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Zadaj wrogowi obrażenia równe liczbie jednostek w drugim rzędzie przeciwnika.
+162312_fluff;Śmierć i chwała!
+162312_name;Włócznicy Alby
+162312_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń. Zwiększ obrażenia o {Damage2} za każdego sąsiadującego Żołnierza.
+162313_fluff;Nie można twierdzić, że cywilizacja się nie rozwija. Wszak w każdej nowej wojnie zabijają ludzi w ulepszony sposób.
+162313_name;Saper
+162313_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij tę kartę o {Boost}, jeśli kontrolujesz Artefakt.
+162314_fluff;Ależ… przecież to się nie godzi! Nie zabijajcie posłańca!
+162314_name;Emisariusz
+162314_tooltip;<keyword=spying>Szpieg</keyword>.\n<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij sojusznika o {Boost}.
+162315_fluff;Szpieg to trochę zbyt dużo powiedziane. Jestem raczej obserwatorem.
+162315_name;Poselstwo
+162315_tooltip;<keyword=create>Utwórz</keyword> i zagraj brązową jednostkę z frakcji przeciwnika.
+162316_fluff;Dwie uncje calcium equum, jedna uncja rubedo…
+162316_name;Alchemik
+162316_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Zamień siłę {MaxTargets} sojuszników.
+162317_fluff;„To badziewie jeszcze działa?!” „Zależy co przez to rozumiesz…"
+162317_name;Mangonela
+162317_tooltip;Za każdym razem, gdy <keyword=reveal>ujawnisz</keyword> kartę, zadaj losowemu wrogowi {Damage} pkt obrażeń.
+162318_fluff;Synowie szlachetnych rodów, urodzeni w mieście Złotych Wież, tworzą prawdziwą elitę cesarskiej armii.
+162318_name;Nilfgaardzki rycerz
+162318_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij wroga o {Boost}. Jeśli nie ma wrogich jednostek, zniszcz tę jednostkę.
+162401_fluff;Przed intruzami uzbrojonymi w miecze chronią mnie kamienne pięści. Przed uzbrojonymi w kłamstwa, żelazna logika.
+162401_name;Strażnik
+162401_tooltip;Brak umiejętności.
+162402_fluff;Czy to ptak? Czy to gryf? Nie! To...
+162402_name;Krowie truchło
+162402_tooltip;<keyword=spying>Szpieg</keyword>. <keyword=doomed>Fatum</keyword>.\nPo 1 turze, na koniec tury, zniszcz tę jednostkę i jednostkę na lewo od niej.
+163101_fluff;Ufni ludzie to w Nilfgaardzie gatunek zagrożony wyginięciem.
+163101_name;Zdrada
+163101_tooltip;Zmuś wrogą jednostkę do zadania sąsiadującym z nią jednostkom obrażeń równym jej sile.
+163201_fluff;Wielu uważa, że potęga cesarstwa jest zbudowana na zdyscyplinowanej armii i posłusznych magikach. Prawda jest taka, że światem rządzi nilfgaardzki floren.
+163201_name;Test lojalności
+163201_tooltip;<keyword=create>Utwórz</keyword> jednostkę z talii początkowej przeciwnika, następnie ją zagraj.
+2_name_lt;Gęsta mgła
+2_tooltip_lt;Na początku każdej z {Counter} tur zadaj najsilniejszej jednostce w tym rzędzie {Damage} pkt obrażeń.
+200008_fluff;Mag stojący za kilkudziesięcioma genialnymi wynalazkami. Umysł przerastający współczesnych... a i tak zwykle mówią o nim „ten gość od szalki”.
+200008_name;Filtr Petriego
+200008_tooltip;<keyword=zeal>Zapał</keyword>.\n<keyword=order>Rozkaz</keyword>: Wzmocnij sojusznika o {Boost} i daj mu <keyword=zeal>Zapał</keyword>.
+200018_fluff;Zdaniem uczonych z Vicovaro człowiek jest w stanie przeżyć bez wody maksymalnie siedem dni. Dane zbierano podczas wielkiej suszy w 1262, gdy cesarz odmówił pomocy zdradzieckiej prowincji dotkniętej przez suszę.
+200018_name;Sirocco z Korath
+200018_tooltip;<keyword=banish>Wygnaj</keyword> jednostkę lub Artefakt.
+200019_fluff;Jesteśmy tylko pionkami w rozgrywkach starców, na rozkaz których walczymy i umieramy...
+200019_name;Rozkaz wymarszu
+200019_tooltip;Zagraj najsłabszą jednostkę ze swojej talii.
+200020_fluff;Każdego można skłonić do mówienia... nawet trupa.
+200020_name;Nekromancja
+200020_tooltip;Zagraj brązową jednostkę ze swojego cmentarza i daj jej <keyword=doomed>Fatum</keyword>.
+200022_fluff;Poza naszą rzeczywistością istnieje wiele innych... posiadając odpowiednią wiedzę można do nich sięgnąć i wezwać istoty, które w nich żyją.
+200022_name;Krąg przywołań
+200022_tooltip;<keyword=zeal>Zapał</keyword>.\n<keyword=order>Rozkaz</keyword>: Zagraj ze swojej talii jednostkę o koszcie werbunku równym liczbie <keyword=charge>ładunków</keyword> Kręgu Przywołań lub mniejszym, następnie usuń wszystkie <keyword=charge>ładunki</keyword>.\n<keyword=charge>Ładunki</keyword>: {Charges2}.\nNa początku każdej tury daj tej jednostce <keyword=charge>ładunki</keyword> ({Charges}).
+200023_fluff;"W przypadku dostania się do oczu, zaleca się natychmiastowy kontakt ze znachorem bądź grabarzem."
+200023_name;Toksyna krabopająka
+200023_tooltip;Zadaj jednostce {Damage} pkt obrażeń. Jeśli zostanie zniszczona, zadaj sąsiadującym z nią jednostkom {Damage} pkt obrażeń.
+200026_fluff;Przez setki lat Avallac'h próbował odtworzyć gen Starszej Krwi drogą doboru hodowlanego - zdolności zaobserwowane u elfich dzieci były jedynie marną namiastką mocy Lary.
+200026_name;Nawigator Gonu
+200026_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij sojuszniczą jednostkę o {Boost}. Jeśli kontrolujesz najsilniejszą jednostkę, zamiast tego wzmocnij o {Boost2}.
+200028_fluff;Krew dla Svalbloda! Czaszki na jego tron!
+200028_name;Vabjorn
+200028_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Zniszcz rannego wroga.
+200030_fluff;Stary baron nie miał litości dla kłusowników, na szczęście dla Milaen stary baron był już martwy a jego ludzie zdesperowani.
+200030_name;Milaen
+200030_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.\n<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Zadaj {MaxTargets} wrogom {Damage2} pkt obrażeń.
+200031_fluff;Siedział tylko i gapił się na mnie bez słowa. Oczy miał takie... rybie jakieś. Bez brwi, bez rzęs... Takie wodniste kulki, w każdej zatopione czarne jądro. Wpijał we mnie te oczy i milczał. Przeraził mnie tym bardziej niż biciem.
+200031_name;Leo Bonhart
+200031_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Zniszcz wroga o sile {Power} lub większej.\n<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Zniszcz Wiedźmina.
+200032_fluff;Attre upadło wraz z Cintrą, a jego obrońcy stanęli przed wyborem - zaakceptować zwierzchnictwo Nilfgaardu bądź umrzeć.
+200032_name;Rainfarn z Attre
+200032_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij wroga o {Boost}, następnie wzmocnij tę jednostkę o {Boost}.
+200033_fluff;Adeptkom niczego się nie żałuje, żyją w Aretuzie jak królewny. A z nich żyje połowa miasta, krawcy, szewcy, cukiernicy, dostawcy...
+200033_name;Adeptka z Aretuzy
+200033_tooltip;<keyword=zeal>Zapał</keyword>.\n<keyword=order>Rozkaz</keyword>, <keyword=ranged>daleki zasięg</keyword>: Daj <keyword=charge>ładunki</keyword> ({Charges}) sojuszniczej jednostce.\n<keyword=cooldown>Odnowienie</keyword>: {Cooldown}.
+200036_fluff;Bierzcie wszystko, co da się zaciągnąć na drakkar!
+200036_name;Łupieżca Drummond
+200036_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>. <keyword=bloodthirst>Żądza krwi</keyword> {Bloodthirst}: Zniszcz wrogi Artefakt.
+200037_fluff;Nie patrz na jego oko, nie znosi tego...
+200037_name;Cyklop
+200037_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zniszcz sąsiadującą jednostkę sojuszniczą i zadaj wybranemu wrogowi obrażenia równe jej sile.
+200038_fluff;Wedle popularnego wierzenia, wyrastają w ziemi użyźnionej krwią umierających. Kwitną wszędzie tam, gdzie w przeszłości doszło do pogromów, krwawych rytuałów i okrutnych mordów.
+200038_name;Archespor
+200038_tooltip;<keyword=thrive>Pokrzepienie</keyword>.\n<keyword=deploy>Rozmieszczenie</keyword>: Zadaj losowemu wrogowi {Damage} pkt obrażeń.\n<keyword=deathwish>Zemsta</keyword>: Powtórz umiejętność <keyword=deploy>rozmieszczenia</keyword>.
+200039_fluff;Póki trwamy, ludzka stopa nie stanie w Dol Blathanna.
+200039_name;Elfi Obrońca
+200039_tooltip;<keyword=melee>Bliskie starcie</keyword>: Za każdym razem, gdy wróg zostaje przeniesiony do drugiego rzędu, zadaj mu {Damage} pkt obrażeń.\n<keyword=ranged>Daleki zasięg</keyword>: Za każdym razem, gdy sojusznik zostaje przeniesiony do drugiego rzędu, wzmocnij go o {Boost}.
+200040_fluff;Nie rozśmieszaj mnie, Nordlingu! Nie byłbyś w stanie nawet unieść mojego półtoraka, a co dopiero nim walczyć!
+200040_name;Rębacz an Craite
+200040_tooltip;Za każdym razem, gdy wróg w przeciwnym rzędzie odnosi obrażenia, wzmocnij tę jednostkę o {Boost}.
+200041_fluff;Nie nadaje się zbytnio do zdobywania miast, ale jest doskonała gdy potrzebujesz zrównać je z ziemią.
+200041_name;Gruba Helga
+200041_tooltip;<keyword=immune>Odporność</keyword>.\n<keyword=order>Rozkaz</keyword>: Zadaj wrogowi {Damage} pkt obrażeń za każdego Żołnierza w tym rzędzie.
+200042_fluff;Polowanie na mahakamskiej przełęczy nie jest najprostsze... Ale krasnoludom niestraszne są żadne przeciwności.
+200042_name;Mahakamski traper
+200042_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Jeśli ta jednostka jest już wzmocniona, daj jej <keyword=resilient>wytrzymałość</keyword>.
+200043_fluff;Niegdyś dumny jarl klanu Tordarroch, dziś bełkoczący szaleniec.
+200043_name;Harald Psia Gęba
+200043_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: <keyword=spawn>Stwórz</keyword> {MaxTargets} Druhów Haralda i <keyword=summon>wezwij</keyword> ich do drugiego rzędu sojuszniczego.\n<keyword=order>Rozkaz</keyword>: Zadaj sojusznikowi {Damage} pkt obrażeń.\n<keyword=cooldown>Odnowienie</keyword>: {Cooldown}.
+200044_fluff;Ja wiem, że cały kontynent należy do Cesarza... ale czy my naprawdę musimy siedzieć na tej chędożonej pustyni?
+200044_name;Dywizja Magne
+200044_tooltip;Na koniec każdej tury wzmocnij tę jednostkę o {Boost}, jeśli jest jedyną kartą w tym rzędzie.
+200046_fluff;W czasie moich podróży widziałem cuda, o jakich wam się nie śniło i robiłem rzeczy, których nikt nie powinien robić.
+200046_name;Skelligijski Weteran
+200046_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj tej jednostce {Damage} pkt obrażeń.
+200048_fluff;Stale porównuję wyniki adeptek Aretuzy z efektami pracy chłopców ze szkoły w Ban Ard, a porównanie wypada nieodmiennie na korzyść dziewcząt.
+200048_name;Wykładowca z Ban Ard
+200048_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij sojusznika o {Boost} za każdy z jego <keyword=charge>ładunków</keyword>.
+200049_fluff;Nie chcą otworzyć? To zapukamy.
+200049_name;Taran
+200049_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Jeśli kontrolujesz Żołnierza, zniszcz wrogi Artefakt.
+200050_fluff;Wielkie Słońce ogrzeje Północ swoimi promieniami, choćbym miał was wszystkich wyrżnąć!
+200050_name;Vreemde
+200050_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij sojuszniczego Żołnierza i wszystkie jego egzemplarze o {Boost}.
+200052_fluff;Niektórzy mówią, że Goliat był niegdyś sławnym rycerzem. Niestety, któregoś dnia rozgniewał Panią Jeziora... A ta zmieniła go w potwora.
+200052_name;Goliat
+200052_tooltip;<keyword=deathwish>Zemsta</keyword>: Przeciwnik <keyword=summon>wzywa</keyword> najsłabszą jednostkę ze swojej talii do przeciwnego rzędu.
+200053_fluff;Figurka rosła błyskawicznie, pulsując i tętniąc, zmieniała strukturę i kształt niczym pełzający po posadzce obłok dymu. W smugach blasku pojawiły się ruch i twardniejąca materia. Jeszcze moment, a w centrum magicznych kół pokazała się nagle postać ludzka.
+200053_name;Zaklęcie Kompresji
+200053_tooltip;<keyword=lock>Zablokuj</keyword> jednostkę i przywróć jej jednostce jej siłę bazową.
+200055_fluff;Nikt, nawet inne wampiry wyższe, nie wie dokładnie jak stary jest Ukryty. Wiadomo jedynie, że nigdy, przenigdy, nie należy wchodzić mu w drogę.
+200055_name;Ukryty
+200055_tooltip;<keyword=order>Rozkaz</keyword>: Aktywuj umiejętność <keyword=deathwish>zemsty</keyword> sojusznika.\nNa początku rundy odśwież tę umiejętność.
+200056_fluff;Wiesz, co to jest "anterion"? To jakby przeciwieństwo likantropa, bestia która przyjmuje ludzką postać.
+200056_name;Aguara: Lisica
+200056_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: <keyword=create>Utwórz</keyword> dowolną kartę specjalną.
+200058_fluff;Daję ci trzy świeże tropy. Oferuję pomoc wywiadu i nadwornej czarodziejki. A ty zamiast córki przywozisz mi jakąś... Pokrakę?
+200058_name;Klątwa Umy
+200058_tooltip;<keyword=create>Utwórz</keyword> i zagraj złotą jednostkę.
+200062_fluff;Uważaj, bo jak będziesz niegrzeczny oddam cię Aguarze!
+200062_name;Aguara
+200062_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: <keyword=lock>Zablokuj</keyword> jednostkę.\n<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Zdejmij z jednostki <keyword=lock>blokadę</keyword>.
+200067_fluff;Gdy księzyc jest w pełni, koszmary wychodzą z ciemnych zakamarków świata.
+200067_name;Blask Księżyca
+200067_tooltip;postponed
+200071_fluff;Dyplomata to człowiek, który używa znacznie więcej słów niż potrzeba, aby wyrazić znacznie mniej niż wie.
+200071_name;Shilard Fitz-Oesterlen
+200071_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zmień siłę najsilniejszej jednostki w ręce przeciwnika na {Power}.
+200073_fluff;Strzyga ma się dobrze. Tyle że co jakiś czas kogoś zagryzie. Można się przyzwyczaić.
+200073_name;Adda: Strzyga
+200073_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Jeśli kontrolujesz najsilniejszą jednostkę, zadaj wrogowi {Damage} pkt obrażeń.
+200078_fluff;Wyobraź sobie grudkę gliny. Żeby ją uformować, trzeba ją wpierw zwilżyć wodą, bo inaczej się skruszy. To właśnie robi pierwsza część Próby... Dopiero mutageny zmieniają w wiedźmina.
+200078_name;Próba Traw
+200078_tooltip;Wzmocnij jednostkę do siły {Boost}. Jeśli nie jest Wiedźminem, najpierw zadaj jej {Damage} pkt obrażeń.
+200079_fluff;Pozwoli ci zobaczyć ostatnie chwile z życia nieboszczyka... O ile przeżyjesz działanie zaklęcia.
+200079_name;Niebieski sen Hanmarvyna
+200079_tooltip;Zagraj jednostkę z cmentarza przeciwnika i daj jej <keyword=doomed>fatum</keyword>.
+200080_fluff;No, co jest? Śmierdzi ci sarnina, królewiczu?
+200080_name;Xavier Moran
+200080_tooltip;<keyword=melee>Bliskie starcie</keyword>: Za każdym razem, gdy ta jednostka jest wzmacniana, wzmocnij ją dodatkowo o {Boost}.
+200081_fluff;"Na Skellige nie palimy mądrych kobiet - tylko słuchamy ich porad."
+200081_name;Zielarka Heymaey
+200081_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: <keyword=heal>Uzdrów</keyword> sojusznika z {Boost} pkt obrażeń, następnie wzmocnij go o {Boost2}.
+200083_fluff;Wolimy zachować nasze imiona dla siebie. Myśl o nas jako o... Przyjaciołach domu.
+200083_name;Towarzysze Iris
+200083_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Dobierz wybraną kartę ze swojej talii, następnie <keyword=discard>odrzuć</keyword> losową kartę.
+200087_fluff;Dorregaray prześciga w fanaberiach nawet wiedźminów. Nie poprzestaje na dzieleniu potworów na dobre i złe. Uważa, że wszystkie są dobre.
+200087_name;Dorregaray z Vole
+200087_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: <keyword=lock>Zablokuj</keyword> jednostkę.
+200088_fluff;Koroner jest spokojnym, pokojowo usposobionym człowiekiem. Nawet z nieboszczykami obchodzi się jak z dziećmi.
+200088_name;Hubert Rejk
+200088_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij tę jednostkę o liczbę obrażeń zadanych przez siebie wrogom w tej turze.
+200089_fluff;Zabłądziłeś? No to się wybłądź. Za bramę, znaczy się. Nastaw lewe ucho ku słońcu i tak trzymaj, a wnet wrócisz na trakt. No, na co czekasz?
+200089_name;Nivellen
+200089_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Przenieś wszystkie jednostki z jednego rzędu do drugiego.
+200091_fluff;Wiedźmin spotykał w życiu złodziei wyglądających jak rajcy miejscy, rajców wyglądających jak proszalne dziady, i królów wyglądających jak złodzieje. A Stregobor zawsze wyglądał tak, jak wedle wszystkich prawideł i wyobrażeń winien wyglądać czarodziej.
+200091_name;Stregobor
+200091_tooltip;<keyword=ranged>Daleki zasięg</keyword>: Po {Counter} turach każdy gracz dobiera jednostkę i zmienia jej siłę na {Power}.
+200098_fluff;Za dnia kapitan Wyzimskiej Straży, nocą bezlitosny mściciel i obrońca uciśnionych.
+200098_name;Vincent Meiss
+200098_tooltip;<keyword=zeal>Zapał</keyword>.\n<keyword=order>Rozkaz</keyword>, <keyword=melee>bliskie starcie</keyword>: Zmień siłę niewzmocnionego wroga na {Power}.
+200102_fluff;Bogowie przemawiają do mnie. Słyszę ich szepty z cieni...
+200102_name;Him
+200102_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zamień siłę tej jednostki z siłą rannej jednostki.
+200103_fluff;Dziesięciokrotny zdobywca zaszczytnego tytułu czempiona areny na An Skellig.
+200103_name;Olaf
+200103_tooltip;<keyword=order>Rozkaz</keyword>: Wzmocnij Olafa o dwukrotność odniesionych przez niego obrażeń.
+200104_fluff;Wilkołak? O nie, nie... To coś dużo, dużo gorszego.
+200104_name;Ulfhedinn
+200104_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi obrażenia równe połowie jego aktualnej siły.
+200105_fluff;Drakkary klanu Dimun są lekkie i szybkie, w sam raz do pościgów za powolnymi kupieckimi fregatami.
+200105_name;Drakkar łupieżców
+200105_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń trzy razy.
+200112_fluff;Jeśli wierzyć plotkom, ich pieśń niejednego zwiodła na manowce. Choć bardziej prawdopodobne, że marynarzy skusiły ich pozostałe atuty.
+200112_name;Syrena
+200112_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij sojusznika z <keyword=deathwish>zemstą</keyword> o {Boost}.
+200114_fluff;Niektórzy mawiają, iż wilkołactwo jest zaraźliwe - wystarczy jedno ugryzienie by się przemienić. Gdyby tak było, na świecie byłyby już same wilkołaki.
+200114_name;Wilkołak Alfa
+200114_tooltip;<keyword=immune>Odporność</keyword>. <keyword=thrive>Pokrzepienie</keyword>.
+200115_fluff;Asasyn to jedna z najpopularniejszych profesji na cesarskim dworze, zaraz obok urzędników i kurtyzan.
+200115_name;Skrytobójstwo
+200115_tooltip;Zadaj wybranej jednostce {Damage} pkt obrażeń. Zmniejsz obrażenia o {Damage2} za każdą sąsiadującą z nią jednostkę.
+200118_fluff;Możesz uciekać, ale się nie ukryjesz.
+200118_name;Infiltrator
+200118_tooltip;<keyword=melee>Bliskie starcie</keyword>: Na koniec rundy wtasuj tę jednostkę do talii przeciwnika.
+200124_fluff;Szkoła Żmii się odrodzi... Letho o to zadbał.
+200124_name;Wiedźmin szkoły Żmii
+200124_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: <keyword=reveal>Ujawnij</keyword> wierzchnią kartę z talii przeciwnika i ją <keyword=banish>wygnaj</keyword>.
+200132_fluff;Kim są łowcy czarownic? W większości to szelmy i fanatycy, ale w obliczu niegodziwości dokonanych przez Lożę Czarodziejek dołączyło do nich również wielu porządnych ludzi...
+200132_name;Łowcy Czarownic
+200132_tooltip;postponed
+200135_fluff;Profesja wyjątkowo szanowana w Mahakamie ze względu na towarzyszące ryzyko. Jej najbardziej znanym przedstawicielem był krasnolud imieniem Miszel Bay.
+200135_name;Pirotechnik
+200135_tooltip;<keyword=zeal>Zapał</keyword>.\n<keyword=order>Rozkaz</keyword>: Zniszcz sojuszniczy Artefakt i zadaj jednostce {Damage} pkt obrażeń.\n<keyword=cooldown>Odnowienie</keyword>: {Cooldown}.
+200136_fluff;Jej słowa czasem mogą być niezrozumiałe, ale zawsze stoją za nimi ukryte znaczenia i wielka mądrość.
+200136_name;Wyrocznia
+200136_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: <keyword=reveal>Ujawnij</keyword> losową kartę ze swojej talii. Jeśli to karta specjalna, wzmocnij tę jednostkę o {Boost}.
+200138_fluff;Wiedza, mój drogi, to przywilej, a przywileje dzieli się tylko z równymi sobie.
+200138_name;Wiedzący
+200138_tooltip;Za każdym razem, gdy zagrasz kartę specjalną, wzmocnij tę jednostkę o {Boost}.
+200139_fluff;Pewien uczony z Oxenfurtu twierdził, że pantera nie jest osobnym gatunkiem a lampartem. Panterze było to obojętne, pożarła go zanim zdążył ukończyć swoje badania.
+200139_name;Czarna Pantera
+200139_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj jednostce wroga spoza Scoia'tael {Damage} pkt obrażeń.
+200144_fluff;Nie dotykaj go. Nie patrz mu w oczy. Tak po prawdzie... Lepiej w ogóle nie podchodź.
+200144_name;Treser Tuirseach
+200144_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij sojuszniczą Bestię o {Boost}. Zwiększ wzmocnienie o {Boost2} za każdą Bestię na twoim cmentarzu.
+200145_fluff;To morze jest nasze, wszystko co po nim pływa też!
+200145_name;Korsarz Dimun
+200145_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj jednostce {Damage} pkt obrażeń za każdy Okręt w twojej ręce.
+200146_fluff;Spikeroog to zapyziała dziura, ale nie szkodzi - wszystko czego potrzebujemy weźmiemy sobie od was.
+200146_name;Przemytnik Dimun
+200146_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Zadaj jednostce {Damage} pkt obrażeń, następnie wzmocnij ją o {Boost}.
+200147_fluff;Flaminika to najwyższy druidzki tytuł, jaki może nosić kobieta.
+200147_name;Flaminika Heymaey
+200147_tooltip;Na koniec każdej tury <keyword=heal>uzdrów</keyword> wszystkich rannych sojuszników w tym rzędzie z {Boost} pkt obrażeń.
+200149_fluff;Boi się jedynie gniewu Freyji i swojej żony.
+200149_name;Obrońca Heymaey
+200149_tooltip;Za każdym razem, gdy sąsiadująca jednostka odnosi obrażenia, wzmocnij tę kartę o {Boost}.
+200154_fluff;My, Foltest, z boskiego nadania pan Temerii, książę Sodden, senior i protektor Brugge, etcetera etcetera, oświadczamy co następuje...
+200154_name;Dekret królewski
+200154_tooltip;Zagraj jednostkę ze swojej talii.
+200158_fluff;Nie jest umarłym ten, który spoczywa wiekami, nawet śmierć może umrzeć wraz z dziwnymi eonami.
+200158_name;Dagon
+200158_tooltip;<keyword=spawn>Stwórz</keyword> Gęstą Mgłę lub Ulewny Deszcz.
+200159_fluff;Nikt nie zastąpi Brana. Mogą jedynie próbować.
+200159_name;Bran Tuirseach
+200159_tooltip;<keyword=order>Rozkaz</keyword>: <keyword=discard>Odrzuć</keyword> kartę, następnie dobierz kartę.\nNa początku rundy odśwież tę umiejętność.\nZa każdym razem, gdy <keyword=discard>odrzucasz</keyword> kartę, zadaj losowemu wrogowi {Damage} pkt obrażeń.
+200160_fluff;Nilfgaardczycy nadali mu przezwisko Tirth ys Muire, Dzik Morski. Straszą nim dzieci!
+200160_name;Crach an Craite
+200160_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj jednostce {Damage} pkt obrażeń.\n<keyword=cooldown>Odnowienie</keyword>: {Cooldown}.
+200161_fluff;Nikt nie wie skąd wziął się jego przydomek, nikt nie śmiał spytać.
+200161_name;Harald Chromy
+200161_tooltip;<keyword=order>Rozkaz</keyword>: Rozdziel losowo {Damage} pkt obrażeń pomiędzy wszystkich wrogów.
+200162_fluff;Nie jestem znany ze swojej cierpliwości. Poczyń, proszę, kroki, aby nie być znanym z braku głowy na karku.
+200162_name;Emhyr var Emreis
+200162_tooltip;<keyword=order>Rozkaz</keyword>: Przenieś kartę z pola bitwy do swojej ręki, następnie zagraj kartę.
+200163_fluff;„A ty kto? Też jakiś balwierz?” „Nie. Morvran Voorhis. Dowódca dywizji Alba".
+200163_name;Morvran Voorhis
+200163_tooltip;<keyword=order>Rozkaz</keyword>: <keyword=reveal>Ujawnij</keyword> losową kartę z talii przeciwnika. Jeśli jest brązowa, wzmocnij sojusznika o {Boost}. Jeśli jest złota, wzmocnij zamiast tego o {Boost2}.\nNa początku rundy odśwież tę umiejętność.
+200164_fluff;Siła jest tylko jedną z opcji dostępnych władcy.
+200164_name;Jan Calveit
+200164_tooltip;<keyword=order>Rozkaz</keyword>: Zapoznaj się z {MaxTargets} kartami ze szczytu swojej talii i zagraj jedną z nich.
+200165_fluff;Wszystko ma swoją cenę. Wojna wymaga ofiar. Pokój, jak się okazuje, również.
+200165_name;Francesca Findabair
+200165_tooltip;<keyword=order>Rozkaz</keyword>: Zagraj kartę specjalną ze swojego cmentarza.
+200166_fluff;Bądź pozdrowiona, Srebrnooka Eithné, Pani Brokilonu!
+200166_name;Eithné
+200166_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj jednostce {Damage} pkt obrażeń.\n<keyword=charge>Ładunki</keyword>: {Charges}.\nNa początku rundy odśwież <keyword=charge>ładunki</keyword> Eithné.
+200167_fluff;Stary grzyb! Spojrzysz i nie wiesz, żywy czy wypchany.
+200167_name;Brouver Hoog
+200167_tooltip;<keyword=order>Rozkaz</keyword>: Przenieś jednostkę do drugiego rzędu. Jeśli to wróg, zadaj mu {Damage} pkt obrażeń; jeśli to sojusznik, wzmocnij go o {Boost}.\n<keyword=charge>Ładunki</keyword>: {Charges}.
+200168_fluff;Cholerni doradcy i ich polityczne układanki. Na polu bitwy ufam sobie i swoim zbrojnym.
+200168_name;Król Foltest
+200168_tooltip;<keyword=order>Rozkaz</keyword>: Wzmocnij sojusznika o {Boost} i daj mu <keyword=zeal>Zapał</keyword>.\n<keyword=charge>Ładunki</keyword>: {Charges}.
+200169_fluff;Król powinien być surowy dla wrogów i szczodry dla przyjaciół.
+200169_name;Król Radowid V
+200169_tooltip;Aktywuj lub dezaktywuj <keyword=lock>blokadę</keyword> {MaxTargets} jednostek. Jeśli to wrogowie, zadaj im {Damage} pkt obrażeń. <keyword=crew>Załoga</keyword>.
+200170_fluff;Gdyby policzyć bękarty, które spłodziłem, to mógłbym nimi obsadzić wszystkie trony Północy.
+200170_name;Król Henselt
+200170_tooltip;<keyword=order>Rozkaz</keyword>: Zagraj egzemplarz znajdującej się na polu bitwy sojuszniczej jednostki ze swojej talii, wzmocnij ją o {Boost} i daj jej <keyword=zeal>zapał</keyword>.
+200171_fluff;Żołnierze lojalni wobec starego barona Tridam opuścili miasto wraz Faliborem, aby stać się renegatami poszukiwanymi przez prawo.
+200171_name;Tridamski piechur
+200171_tooltip;Za każdym razem, gdy ta jednostka jest wzmacniana, zadaj losowemu wrogowi {Damage} pkt obrażeń.
+200177_fluff;Chodź, już ja ci pokażę "Przepióreczkę"...
+200177_name;Cerys an Craite
+200177_tooltip;Jeśli ta jednostka jest na cmentarzu, <keyword=summon>wezwij</keyword> ją do losowego rzędu sojuszniczego za każdym razem, gdy zagrywasz jednostkę ze swojego cmentarza.
+200209_fluff;Plwać na królów i ich tytuły. Na wschodzie jest ktoś, kto jest naprawdę godny korony.
+200209_name;Saskia
+200209_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.\n<keyword=cooldown>Odnowienie</keyword>: {Cooldown}.\nJeśli masz w ręce Elfa, Krasnoluda lub Driadę, skróć licznik <keyword=cooldown>odnowienia</keyword> o {Cooldown2} (raz na kategorię).
+200212_fluff;Niechaj jego imię zostanie wykreślone z Sagi Przodków, niech nikt nie da mu schronienia ni jadła.
+200212_name;Skjall
+200212_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj niezranionemu wrogowi {Damage} pkt obrażeń.
+200218_fluff;Według starych skelligijskich legend, wyspami władał niegdyś straszliwy Król Gigantów - Jotunn. Zgładzony przez Hemdalla poprzysiągł powrócić, gdy nadejdzie Ragh Nar Rog.
+200218_name;Jotunn
+200218_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Wzmocnij tę kartę o {Boost} za każdą jednostkę przewagi wroga na polu bitwy.
+200220_fluff;Hi hi hi hi hi hi hi!
+200220_name;Szepciucha: Trybut
+200220_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Zagraj Organiczną kartę ze swojej talii.
+200221_fluff;Wiem, co mówię. W tej zupie pływają oczy! Nie oka!
+200221_name;Rytualna Ofiara
+200221_tooltip;Aktywuj umiejętności <keyword=deathwish>zemsty</keyword> wszystkich sojuszników.
+200222_fluff;Czuję twój ból, widzę twój strach.
+200222_name;Prządka: Inkantacja
+200222_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: <keyword=consume>Pochłoń</keyword> jednostkę ze swojej ręki i dobierz kartę.
+200223_fluff;Nie wierząc w to, czym los ich raczy, na miejscu tkwią i dziwią się. Ten o Alraunach coś majaczy, a tamten znów o czarnym psie.
+200223_name;Mandragora
+200223_tooltip;<keyword=reset>Zresetuj</keyword> jednostkę.
+200224_fluff;Pewien słynny pirat ponoć tak bardzo umiłował sobie narkotyzujące właściwości tego ziela, że zyskał przydomek "Wronie Oko".
+200224_name;Wronie oko
+200224_tooltip;Aktywuj umiejętność <keyword=deathwish>zemsty</keyword> brązowej jednostki.
+200225_fluff;Nie ma takiej bestii, której Fringilla Vigo nie potrafiłaby ujarzmić.
+200225_name;Kaganiec Vigo
+200225_tooltip;<keyword=seize>Przechwyć</keyword> wroga o sile {Power} lub mniejszej i go <keyword=lock>zablokuj</keyword>.
+200226_fluff;Zwany również mordownikiem, jest wykorzystywany w wielu wiedźmińskich eliksirach i alchemicznych truciznach.
+200226_name;Tojad
+200226_tooltip;Zadaj {Damage} pkt obrażeń wszystkim wrogom z parzystą siłą lub zadaj {Damage} pkt obrażeń wszystkim wrogom z nieparzystą siłą.
+200227_fluff;Jestem na placówce w Novigradzie od trzynastu lat. Wiele widziałem. Okrucieństwo, cynizm, chciwość. Ale to, co tam się teraz dzieje, przyprawia o dreszcze.
+200227_name;Henry var Attre
+200227_tooltip;postponed
+200228_fluff;Prosta, tania a zarazem skuteczna - jedna z ulubionych pułapek Scoia'tael.
+200228_name;Wilczy Dół
+200228_tooltip;<keyword=ambush>Zasadzka</keyword>: Zniszcz następną jednostkę zagraną przez twojego przeciwnika zanim aktywuje jakiekolwiek umiejętności.
+200233_fluff;Mierzy bezbłędnie między kręgi lub pod lewą nerkę, na aortę. Zwykle wystarcza jeden cios i jesteś martwy.
+200233_name;Kuroliszek
+200233_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń za każdą sąsiadującą Bestię.
+200234_fluff;Z werbunku? Dawać papiery! Czego zaraza, stoisz jeden z drugim? W lewo zwrot!
+200234_name;Biedna Pierdolona Piechota
+200234_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij tę jednostkę o {Boost}.
+200235_fluff;Nie ucz ojca dzieci robić.
+200235_name;Lambert: Fechmistrz
+200235_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zniszcz wroga z <keyword=resilient>wytrzymałością</keyword>.
+200236_fluff;Słyszałem twoje sapanie z trzech mil, tylko nie chciało mi się z krzaków wyjść.
+200236_name;Eskel: Tropiciel
+200236_tooltip;<keyword=melee>Bliskie starcie</keyword>: Na koniec każdej tury wzmocnij tę jednostkę o {Boost}.
+200237_fluff;Zabijanie potworów to nie żarty. Ciri musi to zrozumieć, jeśli ma zostać jedną z nas.
+200237_name;Vesemir: Mentor
+200237_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij wszystkich sojuszniczych Wiedźminów w ręce, talii lub na polu bitwy o {Boost}.
+200293_fluff;"Zważcie moje słowa: jeśli nie ruszycie dupy, ludzie tu przyjdą i zabiorą nasze baby!"
+200293_name;Agitator Scoia'tael
+200293_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Wzmocnij Krasnoluda w swojej ręce o {Boost}.
+200294_fluff;"Będziecie bronić tego sztandaru za cenę waszego życia! Gloir aen Ard Feain!"
+200294_name;Nilfgaardzki oficer
+200294_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij sojusznika o {Boost}.\nZa każdym razem, gdy <keyword=reveal>ujawniasz</keyword> tę kartę, wzmocnij losowego sojusznika o {Boost2}.
+200295_fluff;Poczujesz je na długo zanim je zobaczysz.
+200295_name;Zgnilec
+200295_tooltip;<keyword=deathwish>Zemsta</keyword>: Zadaj losowemu wrogowi {Damage} pkt obrażeń.
+200296_fluff;Klin jazdy z impetem wbił się w czworobok. Niczym gigantyczny puginał w sztychu dywizja "Alba" skruszyła wszystko, co broniło dostępu do żywego ciała temerskiej piechoty.
+200296_name;Konnica Dywizji Alba
+200296_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: <keyword=lock>Zablokuj</keyword> wrogą jednostkę.
+200299_fluff;Nie tak wyobrażał sobie swoją karierę, gdy marzył o byciu bardem.
+200299_name;Temerski Werblista
+200299_tooltip;<keyword=order>Rozkaz</keyword>: Wzmocnij sojusznika o {Boost} i daj mu <keyword=zeal>Zapał</keyword>.
+200300_fluff;Mieszkańcy Skellige szybko odkryli, że harpun można stosować nie tylko przeciw wielorybom...
+200300_name;Krwawy połów
+200300_tooltip;Przenieś wroga do drugiego rzędu i zadaj mu obrażenia równe liczbie jednostek w tym rzędzie.
+200301_fluff;Fala bije o brzeg, pchana dziobem upiornego Naglfara. Rozbrzmiewa róg Hemdalla stojącego twarzą ku wrogom na tęczowym łuku Bifrostu. Nadciąga Białe Zimno, nadciąga wichura i zamieć...
+200301_name;Naglfar
+200301_tooltip;Podejrzyj losowe złote karty ({MaxTargets}) ze swojej talii, a następnie zagraj jedną, a drugą umieść na wierzchu swojej talii.
+200320_fluff;Członek Bydlęcych Sił Zbrojnych. "Semper fi"!
+200320_name;Czart
+200320_tooltip;Brak umiejętności.
+200502_fluff;Istnieje wiele różnych odmian trolli. Jednakże wciąż nie udało się znaleźć jednego, który nie byłby durny jak wiadro gwoździ.
+200502_name;Lodowy troll
+200502_tooltip;Na koniec każdej tury, jeśli masz mniej jednostek niż przeciwnik, wzmocnij tę jednostkę o {Boost}.
+200518_fluff;Ebbing słynie z doskonałych najemników i lekkiej jazdy.
+200518_name;Dywizja Venendal
+200518_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Jeśli w tej turze użyto umiejętności twojego Przywódcy, zadaj wrogowi {Damage} pkt obrażeń.
+200519_fluff;Prawdopodobnie największy wkład krasnoludów w kulturę światową.
+200519_name;Mahakamski Dwójniak
+200519_tooltip;Wzmocnij jednostkę o {Boost} i zdejmij z niej <keyword=lock>blokadę</keyword>.
+200520_fluff;Od jego mieczy ostrzejsze są jedynie jego pierożki.
+200520_name;Éibhear Hattori
+200520_tooltip;<keyword=order>Rozkaz</keyword>: Zagraj brązowy Artefakt ze swojego cmentarza.
+200523_fluff;Bohater, którego Toussaint potrzebowało, ale na którego nie zasługiwało.
+200523_name;Maćko z Lisich Dołów
+200523_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword> <keyword=spawn>Stwórz</keyword> Krowy ({Counter}) po obu stronach tej jednostki.
+200528_fluff;"Kobiety na Skellige są dzikie i nieobliczalne, wszystkim oddziałom zaleca się szczególną ostrożność i nie lekceważenie ich możliwości." - z generalnej dyrektywy dla Sił Inwazyjnych Floty Cesarskiej.
+200528_name;Włóczniczka Heymaey
+200528_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń, następnie zadaj tej jednostce {Damage2} pkt obrażeń.
+200529_fluff;Wieść niesie, że po dziś dzień próbuje dopełnić ślubów złożonych pannie Jagódce.
+200529_name;Ronvid z Małego Łęgu
+200529_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij tę jednostkę o {Boost}.\nza każdym razem, gdy zagrywasz Żołnierza, <keyword=summon>wezwij</keyword> tę jednostkę ze swojego cmentarza do losowego rzędu sojuszniczego.
+200530_fluff;Czy ten miód powinien być zielony... ?
+200530_name;Zatruty Miód
+200530_tooltip;<keyword=zeal>Zapał</keyword>.\n<keyword=order>Rozkaz</keyword>: Zadaj jednostce {Damage} pkt obrażeń.\n<keyword=charge>Ładunki</keyword>: {Charges}.
+200532_fluff;Legendarny przodek klanu Fuchsów ponoć utopił się w górskim strumyku po spożyciu zbyt dużej ilości tego trunku.
+200532_name;Miód Przodków
+200532_tooltip;<keyword=zeal>Zapał</keyword>.\n<keyword=order>Rozkaz</keyword>: Wzmocnij jednostkę o {Boost}.\n<keyword=cooldown>Odnowienie</keyword>: {Cooldown}.
+200534_fluff;Koneserka zupy cebulowej na wywarze z elfa.
+200534_name;Trollica
+200534_tooltip;<keyword=melee>Bliskie starcie</keyword>: Za każdym razem, gdy podczas twojej tury zniszczony zostaje sojusznik, wzmocnij tę jednostkę o {Boost}.
+200535_fluff;Walka jest tańcem, ale nie pozwól by przeciwnik dyktował ci kroki.
+200535_name;Mistrzyni Miecza
+200535_tooltip;<keyword=order>Rozkaz</keyword>, <keyword=melee>bliskie starcie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.\n<keyword=cooldown>Odnowienie</keyword>: {Cooldown}.\nZa każdym razem, gdy zagrywasz Elfa, zmniejsz <keyword=cooldown>odnowienie</keyword> o {Cooldown2}.
+200539_fluff;Żaden mocarz tego świata, żaden waligóra ani osiłek nie zdoła sparować ciosu zadanego ogonem oszluzga, kleszczami gigaskorpiona lub pazurami gryfa.
+200539_name;Oszluzg
+200539_tooltip;<keyword=order>Rozkaz</keyword>: <keyword=consume>Pochłoń</keyword> sojuszniczą jednostkę w tym rzędzie.\n<keyword=cooldown>Odnowienie</keyword>: {Cooldown}.
+200540_fluff;A gdybym był młotkowym, to co byś powiedziała?
+200540_name;Aedirnski Rębajło
+200540_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.
+201523_fluff;Położył się na wznak obok zmumifikowanych zwłok Addy, na płycie od wewnątrz nakreślił Znak Yrden.
+201523_name;Geralt: Yrden
+201523_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Przywróć wszystkim jednostkom w rzędzie ich siłę bazową.
+201559_fluff;Hooouuuu! Hooouuu! Hou! Czekajcie, klienty! Wnet wam pójdzie w pięty! Rozleci się ten burdel, aż po fundamenty!
+201559_name;Huf Mahakamski
+201559_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Jeśli w tym rzędzie jest Krasnolud, <keyword=summon>wezwij</keyword> do niego egzemplarz tej jednostki ze swojej talii.
+201574_fluff;Ten wysoki, to Wilmar. Wilfred jest po jego prawicy. A ten co się jąka, to Wilhelm.
+201574_name;Druh Haralda
+201574_tooltip;<keyword=deathwish>Zemsta</keyword>: Zadaj losowej wrogiej jednostce {Damage} pkt obrażeń.
+201576_fluff;W Beauclair wszystko jest lepsze - Winogrona są słodsze, krowy większe, a dziewczęta... mądrzejsze.
+201576_name;Krasula z Beauclair
+201576_tooltip;<keyword=doomed>Fatum</keyword>.
+201578_fluff;Oszalałeś? Chcesz płynąć na Skellige? Ich wojownicy rozszarpią cię na strzępy!
+201578_name;Skelligijski Maruder
+201578_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Rozdziel losowo {Damage} pkt obrażeń pomiędzy wszystkie jednostki.
+201579_fluff;Pytanie co było pierwsze, jajko czy kura, nabiera nowego wydźwięku w przypadku Feniksów.
+201579_name;Feniks
+201579_tooltip;Jeśli na początku rundy Feniks jest na twoim cmentarzu, <keyword=banish>wygnaj</keyword> go, następnie <keyword=spawn>stwórz</keyword> Młode Feniksa i <keyword=summon>wezwij</keyword> je do losowego rzędu sojuszniczego.
+201580_fluff;Czemu urodzenie ma decydować o tym, kto nam przewodzi?
+201580_name;Uzurpator
+201580_tooltip;Na początku gry wyłącz Przywódcę wroga na cały czas jej trwania.
+201581_fluff;Ofirscy mistrzowie run potrafią układać je w najróżniejsze słowa, dodając im przy tym mocy.
+201581_name;Runa Strzybóg
+201581_tooltip;<keyword=create>Utwórz</keyword> i zagraj brązową kartę Skellige.
+201582_fluff;Runa emanuje nienaturalnym chłodem... Być może ktoś zranił kiedyś jej uczucia?
+201582_name;Runa Zoria
+201582_tooltip;<keyword=create>Utwórz</keyword> i zagraj brązową kartę Królestw Północy.
+201583_fluff;Uważaj, wciąż jest gorąca.
+201583_name;Runa Darzbóg
+201583_tooltip;<keyword=create>Utwórz</keyword> i zagraj brązową kartę Nilfgaardu.
+201584_fluff;Moje ostrze tnie... Cóż, ostrzej.
+201584_name;Runa Dziewanna
+201584_tooltip;<keyword=create>Utwórz</keyword> i zagraj brązową kartę z frakcji Potworów.
+201585_fluff;Mdli mnie na sam jej widok...
+201585_name;Runa Morana
+201585_tooltip;<keyword=create>Utwórz</keyword> i zagraj brązową kartę Scoia'tael.
+201587_fluff;Pojawi się znowu. W innym miejscu, poza naszym zasięgiem. Znów poleje się krew.
+201587_name;Szepczące Wzgórze
+201587_tooltip;Zniszcz sojuszniczą jednostkę, następnie <keyword=spawn>stwórz</keyword> i zagraj jej egzemplarz bazowy.
+201589_fluff;Jestem Filavandrel aen Fidhail ze Srebrnych Wież, z rodu Feleaornów z Białych Okrętów.
+201589_name;Filavandrel aén Fidháil
+201589_tooltip;<keyword=order>Rozkaz</keyword>: Wzmocnij wszystkie jednostki w swojej ręce o {Boost}.
+201595_fluff;Klątwę odczyniono... Ale apetyt na surowe mięso pozostał.
+201595_name;Królewna Adda
+201595_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj jednostce {Damage} pkt obrażeń.
+201597_fluff;Eist przyjechał do Cintry by pomóc Crachowi an Craite zdobyć rękę królewny Pavetty, zamiast tego sam zdobył serce Królowej.
+201597_name;Eist Tuirseach
+201597_tooltip;<keyword=order>Rozkaz</keyword>: Zagraj Wojownika ze swojego cmentarza.
+201598_fluff;Proste przedmioty często mają wielką moc.
+201598_name;Kościany talizman
+201598_tooltip;Wzmocnij wszystkich sojuszników o {Boost}.
+201599_fluff;Nie znosi, kiedy drapie się go po brzuszku.
+201599_name;Kotołak
+201599_tooltip;<keyword=thrive>Pokrzepienie</keyword>.\n<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wszystkim jednostkom wroga w przeciwnym rzędzie {Damage} pkt obrażeń.\n<keyword=deathwish>Zemsta</keyword>: Powtórz umiejętność <keyword=deploy>rozmieszczenia</keyword>.
+201600_fluff;Niektórzy mawiają, iż wilkołactwo jest zaraźliwe - wystarczy jedno ugryzienie by się przemienić. Wiedźmini wiedzą oczywiście, że to bzdury - jedynie potężna klątwa może być źródłem tego stanu rzeczy.
+201600_name;Wilkołak
+201600_tooltip;<keyword=immune>Odporność</keyword>.
+201601_fluff;Lepiej nie wchodzić pani Yennefer w drogę, zwłaszcza jeśli gdzieś się spieszy.
+201601_name;Magiczny wstrząs
+201601_tooltip;Wybierz dowolną jednostkę lub Artefakt na polu bitwy i umieść ją na szczycie talii właściciela.
+201603_fluff;Czemu ten mnich ma ćwiekowane rękawice...?
+201603_name;Letho: Królobójca
+201603_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Przemień w egzemplarz innej jednostki na polu bitwy bez zmiany jej siły.
+201606_fluff;Ażeby widłogona zwabić, kozę powrozem do palika przywiąż i wśród listowia czem prędzej skryj się.
+201606_name;Widłogon
+201606_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wszystkim innym jednostkom {Damage} pkt obrażeń.
+201609_fluff;Sztuka polega na tym, żeby ich złamać ale za bardzo przy tym nie uszkodzić.
+201609_name;Łowca niewolników
+201609_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Jeśli w przeciwnym rzędzie są jednostki w liczbie co najmniej {MaxTargets}, <keyword=seize>przechwyć</keyword> najsłabszego wroga z tego rzędu.
+201610_fluff;Wolny człowiek ma wybór, niewolnik jest posłuszny.
+201610_name;Niewolnicza piechota
+201610_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Przemień sojuszniczą jednostkę w Niewolniczą Piechotę.
+201611_fluff;Cholernie celny jak na faceta z jednym okiem.
+201611_name;Podstęp Iorwetha
+201611_tooltip;Jeśli masz w swojej talii początkowej Pułapki w liczbie co najmniej {MaxTargets}, zagraj losowo 2 z nich.
+201612_fluff;Jego jedynym celem jest upewnienie się, że rozkazy zostaną wykonane co do joty.
+201612_name;Nadzorca niewolników
+201612_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń. Zwiększ obrażenia o {Damage2} za każdą <keyword=lock>zablokowaną</keyword> jednostkę.
+201613_fluff;Odziedziczyłam po ojcu zdolność polimorfii, choć potrafię przemieniać się jedynie w jedną postać.
+201613_name;Saskia: Smoczy Ogień
+201613_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.\n<keyword=charge>Ładunki</keyword>: {Maxtargets}.
+201615_fluff;Przed nami przełęcz Elskerdeg, a za przełęczą Zerrikania i Hakland. Przed nami daleka i niebezpieczna droga. Jeżeli mamy iść nią razem... Porzućmy nieufność.
+201615_name;Rada Isengrima
+201615_tooltip;Podejrzyj losowego Krasnoluda, Driadę i Elfa ze swojej talii, następnie zagraj jedną z tych kart.
+201616_fluff;Wielkie Słońce, uchowaj nas od zawszonych kaftanów.
+201616_name;Mistrz kamuflażu
+201616_tooltip;<keyword=order>Rozkaz</keyword>: Zamień siłę tej jednostki z siłą wybranego wroga.
+201617_fluff;Ktoś musi obierać ziemniaki, by walczyć mógł ktoś.
+201617_name;Rekrut
+201617_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: <keyword=reveal>Ujawnij</keyword> losową jednostkę z obu talii. Jeśli twoja jest silniejsza, wzmocnij ją o {Boost}.
+201618_fluff;Jego szlachetność i odwaga nie uchroniły go przed losem, który spotkał wszystkich pomordowanych w bitwie o Górne Aedirn.
+201618_name;Seltkirk
+201618_tooltip;<keyword=order>Rozkaz</keyword>, <keyword=melee>bliskie starcie</keyword>: Stocz <keyword=duel>pojedynek</keyword> z jednostką wroga.
+201619_fluff;Czy pomoże? Nie jestem pewien, ale raczej nie zaszkodzi.
+201619_name;Mazidło
+201619_tooltip;Wzmocnij brązowego Żołnierza o {Boost} i ponownie aktywuj jego umiejętność <keyword=deploy>rozmieszczenia</keyword>.
+201620_fluff;Generał myślał, że wojna o Dolną Marchię skończy się szybko i bez większych strat, ale został tam już na zawsze.
+201620_name;Vandergrift
+201620_tooltip;<keyword=order>Rozkaz</keyword>, <keyword=melee>bliskie starcie</keyword>: Zadaj jednostce {Damage} pkt obrażeń.\n<keyword=cooldown>Odnowienie</keyword>: {Cooldown}.\nJeśli kontrolujesz Miecz Vandergrifta, zamiast tego zadaj jednostce {Damage2} pkt obrażeń.
+201621_fluff;Żyjemy sobie na spokojnej wysepce niewiedzy śród czarnych mórz nieskończoności i nie powinniśmy wypuszczać się za daleko.
+201621_name;Kiyan
+201621_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj jednostce tyle pkt obrażeń, ile <keyword=charge>ładunków</keyword> posiada Kiyan.\n<keyword=charge>Ładunki</keyword>: {Charges}.
+201622_fluff;Nie wszyscy w kaedweńskiej armii popierają politykę króla, ale nikt nie odważy się powiedzieć tego otwarcie.
+201622_name;Rycerz z Kaedwen
+201622_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij tę jednostkę o {Boost}, jeśli zagrywasz ją z talii.
+201623_fluff;Gdy chłop zobaczy w lesie dzika, wnet na drzewo szybko zmyka. Chyba, że jest ze Skellige.
+201623_name;Olbrzymi dzik
+201623_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Wzmocnij tę jednostkę o {Boost} za każdą zranioną jednostkę.
+201624_fluff;Skazany na powtarzanie tego samego dnia znów i znów od nowa, zupełnie jak pracownicy banku Cianfanellich.
+201624_name;Kaedweński Upiór
+201624_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj jednostce {Damage} pkt obrażeń. Jeśli została zniszczona, <keyword=spawn>stwórz</keyword> egzemplarz bazowy Kaedweńskiego Upiora i <keyword=summon>wezwij</keyword> go do tego rzędu.
+201625_fluff;Walczy w wiecznej wojnie, której przyczyn nie pamięta.
+201625_name;Przeklęty Rycerz
+201625_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Przekształć sojuszniczą jednostkę niebędącą Przeklętym Rycerzem w Przeklętego Rycerza, nie zmieniając jego siły.
+201626_fluff;Zireael ma wielką moc, której nie potrafi kontrolować. Dopóki nie nauczy się panowania nad sobą, powinna pozostać w izolacji.
+201626_name;Ciri: Erupcja Mocy
+201626_tooltip;Jeśli na początku tury na twoim cmentarzu znajduje się tylko ta jednostka, <keyword=summon>wezwij</keyword> ją do losowego rzędu sojuszniczego.
+201627_fluff;Inne trolle zawsze uważały go za dziwaka - w końcu kto przy zdrowych zmysłach woli kolorowe papierki od kamieni?
+201627_name;Przygody Sklepa
+201627_tooltip;<keyword=doomed>Fatum</keyword>.\nJeśli w twojej talii początkowej nie ma duplikatów, wyślij Sklepa na spotkanie przygody.
+201628_fluff;Zakazana? Owszem. Wytępiona? Bynajmniej.
+201628_name;Czarna Magia
+201628_tooltip;Zadaj wrogowi {Damage} pkt obrażeń za każdego sojuszniczego Upiora.
+201630_fluff;Klątwa Arcymistrzyni nie oszczędziła nikogo, nawet konfraterek Sabriny.
+201630_name;Widmo Czarodziejki
+201630_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.
+201631_fluff;Ludzie nienawidzą ich do tego stopnia, że zwykła kara śmierci im nie wystarcza - złapany doppler jest przywiązywany do kija, oblepiany grubo gliną i pieczony na ogniu.
+201631_name;Doppler
+201631_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wybierz jednostkę ze swojej ręki, następnie wzmocnij tę kartę o sumę jednostek w twojej ręce o tej samej kategorii głównej jak wybrana.
+201632_fluff;"Co jest napisane na klindze? Jakieś zaklęcie?" "Nie, przekleństwa."
+201632_name;Sihill
+201632_tooltip;<keyword=zeal>Zapał</keyword>.\n<keyword=order>Rozkaz</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.\n<keyword=cooldown>Odnowienie</keyword>: {Cooldown}.\nZa każdym razem, kiedy Sihill zniszczy wroga, zwiększ obrażenia zadawane przez <keyword=order>rozkaz</keyword> Sihilla o {Damage2} (aż do momentu, w którym zostanie przeniesiony z pola bitwy).
+201633_fluff;Niektóre rodzaje oręża zostały zakazane w Królestwach Północy, tak straszne były rany zadane przy ich pomocy.
+201633_name;Krwawy korbacz
+201633_tooltip;<keyword=zeal>Zapał</keyword>.\n<keyword=order>Rozkaz</keyword>: Zadaj wrogowi obrażenia równe liczbie <keyword=charge>ładunków</keyword> Krwawego Korbacza, następnie odbierz tej jednostce wszystkie <keyword=charge>ładunki</keyword>.\n<keyword=charge>Ładunki</keyword>: {Charges}.\nZa każdym razem, gdy sojusznicza jednostka zyskuje <keyword=charge>ładunki</keyword>, daj tej jednostce tyle samo.
+201634_fluff;Wystarczy jeden kamyczek i mamy przesrane.
+201634_name;Lawina Bekkera
+201634_tooltip;Zadaj jednostce {Damage} pkt obrażeń.
+201635_fluff;Na cholerę mi to szkaradziejstwo przywlokłeś, wiedźminie?! "Przynieś mi głowę potwora" to była tylko chędożona figura retoryczna!
+201635_name;Udane Łowy
+201635_tooltip;Zniszcz jednostkę o największej sile bazowej.
+201636_fluff;Znienawidzeni przez ludzi, pogardzani przez elfy. Pół-elfom ciężko jest znaleźć swoje miejsce na świecie.
+201636_name;Pół-elf łowca
+201636_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń za każdy Artefakt, który kontrolujesz.
+201637_fluff;Kult Smoków jest ważną częścią codziennego życia w Zerrikani, nic więc dziwnego, że nazywają swoje uzbrojenie na ich cześć.
+201637_name;Smoczy Sen
+201637_tooltip;Zastosuj ten efekt w rzędzie przeciwnika:\nPo {Counter} turach, na początku tury, wybuchnij i zadaj wszystkim jednostkom w tym rzędzie {Damage} pkt obrażeń.
+201638_fluff;Elfy ponoć nie zostawiają śladów na śniegu, ale zdaje mi się, że to tylko gadanie wioskowych głupków.
+201638_name;Elfi zwiadowcy
+201638_tooltip;Za każdym razem, gdy uruchomiona zostanie Pułapka po twojej stronie, wzmocnij tę jednostkę o {Boost}.
+201639_fluff;Puk, puk, jest tam kto ?
+201639_name;Obsadzony Garnizon
+201639_tooltip;Wzmocnij jednostkę o {Boost}.
+201642_fluff;Wygląda wspaniale, ale można nim co najwyżej posmarować chleb.
+201642_name;Ozdobny miecz
+201642_tooltip;postponed
+201643_fluff;Elfie szable są bardzo lekkie, ale zadają ciężkie rany.
+201643_name;Elfia szabla
+201643_tooltip;postponed
+201644_fluff;Kto by uwierzył, że ludzka kobieta może być dobrym płatnerzem? Ale krasnolud-kowal to co innego...
+201644_name;Yoana
+201644_tooltip;<keyword=order>Rozkaz</keyword>: <keyword=heal>Uzdrów</keyword> sojusznika z {Boost} pkt obrażeń.\n<keyword=charge>Ładunki</keyword>: {Charges}.\nDaj tej jednostce <keyword=charge>ładunki</keyword> ({Charges2}) za każdym razem, gdy sąsiadująca jednostka odnosi obrażenia.
+201645_fluff;Po tym się już nie pozbierasz.
+201645_name;Pułapka Miażdżąca
+201645_tooltip;<keyword=ambush>Zasadzka</keyword>: Po {Counter} turach, na początku tury, zadaj {Damage} pkt obrażeń wszystkim jednostkom wroga w rzędzie z największą liczbą jednostek.\n<keyword=zeal>Zapał</keyword>.\n<keyword=order>Rozkaz</keyword>: Odwróć wszystkie jednostki w wybranym rzędzie i zadaj im {Damage2} pkt obrażeń.
+201646_fluff;Cokolwiek spowodowało jego obłęd musiało być przerażające…
+201646_name;Derran
+201646_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Przenieś jednostki (maks. {MaxTargets}) ze swojej talii na swój cmentarz.
+201647_fluff;Nic nie rozwiązuje problemu szybciej niż ważący blisko tonę głaz.
+201647_name;Grad Kamieni
+201647_tooltip;Zadaj wrogowi {Damage} pkt obrażeń i przenieś go do drugiego rzędu.
+201648_fluff;Po turnieju rycerskim w Ard Carraigh, gdy jego miecz został roztrzaskany przez Seltkirka, wściekły Vandergrift zamówił czarodziejskie ostrze, zaklęte potężnymi runami.
+201648_name;Miecz Vandergrifta
+201648_tooltip;Za każdym razem, gdy zagrywasz do tego rzędu Żołnierza, wzmocnij go o {Boost}.
+201650_fluff;Swoim ostatnim tchnieniem Sabrina Glevissig rzuciła potężną klątwę, której moc dotknęła nie tylko jej katów ale i całą okolicę.
+201650_name;Inferno Sabriny
+201650_tooltip;Zadaj wszystkim jednostkom, które nie są Upiorami, {Damage} pkt obrażeń. Jeśli jakaś jednostka została zniszczona, powtórz tę umiejętność jeden raz.
+201653_fluff;Pewnego razu w Mahakamie urządzono konkurs gry na rogu. Krasnoludy odkryły wtedy że głośne dźwięki i ośnieżone szczyty nie są szczęśliwym zestawieniem.
+201653_name;Mahakamski róg
+201653_tooltip;<keyword=ambush>Zasadzka</keyword>: Gdy przeciwnik spasuje, wzmocnij sąsiadujące jednostki o {Boost}.
+201656_fluff;Trzymaj włócznię prosto, łajdaku! Nie przejedzie tędy ani jeden konny!
+201656_name;Mistrzowska Włócznia
+201656_tooltip;<keyword=zeal>Zapał</keyword>.\n<keyword=order>Rozkaz</keyword>: Zadaj jednostce {Damage} pkt obrażeń.\n<keyword=cooldown>Odnowienie</keyword>: {Cooldown}.
+201657_fluff;Łatwo wpada w oko.
+201657_name;Pasożyt
+201657_tooltip;Zadaj wrogowi {Damage} pkt obrażeń lub wzmocnij sojusznika o {Boost}.
+201659_fluff;Co tu dużo gadać, to po prostu kołowrót.
+201659_name;Kołowrót
+201659_tooltip;Zagraj brązową Maszynę ze swojego cmentarza.
+201660_fluff;Nikt nigdy nie wrócił z puszczy aby o niej opowiedzieć…
+201660_name;Jennik
+201660_tooltip;<keyword=deathwish>Zemsta</keyword>: Na koniec tury <keyword=summon>wezwij</keyword> tę jednostkę ze swojego cmentarza do losowego rzędu sojuszniczego.
+201661_fluff;Budujcie mosty, nie mury.
+201661_name;Wartownik
+201661_tooltip;postponed
+201662_fluff;Nie pozostawiam mojego losu przypadkowi, zawsze pokrywam ostrze Jadem Wisielców.
+201662_name;Jad Wisielców
+201662_tooltip;<keyword=zeal>Zapał</keyword>.\n<keyword=order>Rozkaz</keyword>: Zniszcz tę jednostkę i wszystkie jednostki, których siła równa się liczbie <keyword=charge>ładunków</keyword> Jadu Wisielców.\n<keyword=charge>Ładunki</keyword>: {Charges2}.\nNa początku każdej tury i za każdym razem, gdy zagrywasz kartę Taktyki, daj tej jednostce {Charges} <keyword=charge>ładunek</keyword>.
+201664_fluff;Oko za oko uczyni tylko cały świat ślepym.
+201664_name;Vrygheff
+201664_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Aktywuj umiejętność <keyword=deploy>rozmieszczenia</keyword> sąsiadujących brązowych Żołnierzy.
+201676_fluff;Nikt nie przemycił elfom z Gór Sinych tyle jedzenia, co on. A zwłaszcza rzepy i porów.
+201676_name;Pavko Gale
+201676_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj jednostce {Damage} pkt obrażeń.\n<keyword=cooldown>Odnowienie</keyword>: {Cooldown}.
+201696_fluff;Szybciej, szybciej! To chędożona zasadzka!
+201696_name;Paulie Dahlberg
+201696_tooltip;<keyword=order>Rozkaz</keyword>: Wzmocnij jednostkę po lewej stronie o {Boost} lub daj jednostce po prawej stronie <keyword=immune>odporność</keyword>.
+201697_fluff;Wszystkie wampiry zgodnie uważają, że korzystanie z tego eliksiru jest niesportowym zachowaniem.
+201697_name;Czarna Krew
+201697_tooltip;Następnym razem, gdy wróg zostanie wzmocniony, zniszcz go wraz z tą jednostką.
+201698_fluff;Niektóre trupojady tak rozsmakowały się w ludzkim mięsie, że wygrzebywanie zwłok przestało im wystarczać...
+201698_name;Ozzrel
+201698_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: <keyword=consume>Pochłoń</keyword> jednostkę z cmentarza wroga.\n<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: <keyword=consume>Pochłoń</keyword> jednostkę ze swojego cmentarza.
+201699_fluff;Chyba nie przyjmują gości...
+201699_name;Nilfgaardzkie bramy
+201699_tooltip;postponed
+201700_fluff;Tego mosta trolle dawnymi czasy pobudowały, kto tędy jeździł, musiał im płacić słony grosz. Ale że rzadko tędy jeździli, tedy trolle z torbami poszli. A most ostał.
+201700_name;Troll mostowy
+201700_tooltip;<keyword=deathwish>Zemsta</keyword>: Wzmocnij najsilniejszego sojusznika o {Boost}.
+201701_fluff;To, co jeszcze przed chwilą brał za leżące u podnóży stalagmitów okrągłe głazy, teraz wybałuszało na niego wielkie, jarzące się ślepia.
+201701_name;Barbegazi
+201701_tooltip;<keyword=order>Rozkaz</keyword>: <keyword=consume>Pochłoń</keyword> sojuszniczą jednostkę.\n<keyword=charge>Ładunki</keyword>: {Charges}.
+201704_fluff;Jeśli zwiadowcy nie wrócą, zawracamy. Parobkowie gadali, że w tym lesie wiewiórcy grasują...
+201704_name;Zwiadowca
+201704_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Usuń efekt z sojuszniczego rzędu.
+201709_fluff;"Co jest napisane na klindze? Jakieś zaklęcie?" "Nie, przekleństwa."
+201709_name;Wyrównywacz
+201709_tooltip;Zadaj wszystkim wrogom o nieparzystej sile {Damage} pkt obrażeń.
+201710_fluff;"Co jest napisane na klindze? Jakieś zaklęcie?" "Nie, przekleństwa."
+201710_name;Mąciciel
+201710_tooltip;Zadaj wszystkim wrogom o parzystej sile {Damage} pkt obrażeń.
+201725_fluff;Inne trolle zawsze uważały go za dziwaka - w końcu kto przy zdrowych zmysłach woli kolorowe papierki od kamieni?
+201725_name;Sklep: Czarodziej
+201725_tooltip;Wyślij Sklepa do akademii dla chłopców w Ban Ard.
+201726_fluff;Inne trolle zawsze uważały go za dziwaka - w końcu kto przy zdrowych zmysłach woli kolorowe papierki od kamieni?
+201726_name;Sklep: Czarodziej
+201726_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Przemień skrajną prawą kartę w ręce każdego z graczy w losową kartę specjalną.
+201727_fluff;Inne trolle zawsze uważały go za dziwaka - w końcu kto przy zdrowych zmysłach woli kolorowe papierki od kamieni?
+201727_name;Sklep: Czarodziej
+201727_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Przenieś losową jednostkę do przeciwnego rzędu.
+201728_fluff;Inne trolle zawsze uważały go za dziwaka - w końcu kto przy zdrowych zmysłach woli kolorowe papierki od kamieni?
+201728_name;Sklep: Czarodziej
+201728_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zastosuj losowy efekt rzędu we wszystkich rzędach.
+201729_fluff;Inne trolle zawsze uważały go za dziwaka - w końcu kto przy zdrowych zmysłach woli kolorowe papierki od kamieni?
+201729_name;Sklep: Czarodziej
+201729_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Rozdziel {Damage} pkt obrażeń losowo pomiędzy wszystkie inne jednostki na polu bitwy.
+201730_fluff;Inne trolle zawsze uważały go za dziwaka - w końcu kto przy zdrowych zmysłach woli kolorowe papierki od kamieni?
+201730_name;Sklep: Czarodziej
+201730_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: <keyword=spawn>Stwórz</keyword> losową jednostkę i <keyword=summon>wezwij</keyword> ją do losowego rzędu po stronie każdego z graczy.
+201731_fluff;Inne trolle zawsze uważały go za dziwaka - w końcu kto przy zdrowych zmysłach woli kolorowe papierki od kamieni?
+201731_name;Sklep: Łowca
+201731_tooltip;Wyślij Sklepa do lasów Dol Blathanna.
+201732_fluff;Inne trolle zawsze uważały go za dziwaka - w końcu kto przy zdrowych zmysłach woli kolorowe papierki od kamieni?
+201732_name;Sklep: Łowca
+201732_tooltip;Szpieg.<keyword=deploy>Rozmieszczenie</keyword>: Zagraj losową kartę ze swojej talii.
+201733_fluff;Inne trolle zawsze uważały go za dziwaka - w końcu kto przy zdrowych zmysłach woli kolorowe papierki od kamieni?
+201733_name;Sklep: Łowca
+201733_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Rozdziel {Damage2} pkt obrażeń losowo pomiędzy wszystkie wrogie jednostki.
+201734_fluff;Inne trolle zawsze uważały go za dziwaka - w końcu kto przy zdrowych zmysłach woli kolorowe papierki od kamieni?
+201734_name;Sklep: Łowca
+201734_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij wszystkie jednostki w swojej ręce o punkty siły w przedziale od {Boost} do {Boost2}.
+201735_fluff;Inne trolle zawsze uważały go za dziwaka - w końcu kto przy zdrowych zmysłach woli kolorowe papierki od kamieni?
+201735_name;Sklep: Łowca
+201735_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zniszcz losowego wroga.
+201736_fluff;Inne trolle zawsze uważały go za dziwaka - w końcu kto przy zdrowych zmysłach woli kolorowe papierki od kamieni?
+201736_name;Sklep: Łowca
+201736_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zastosuj losowy efekt rzędu we wrogim rzędzie.
+201737_fluff;Inne trolle zawsze uważały go za dziwaka - w końcu kto przy zdrowych zmysłach woli kolorowe papierki od kamieni?
+201737_name;Sklep: Paladyn
+201737_tooltip;Wyślij Sklepa do Cesarskiej Akademii Wojskowej.
+201738_fluff;Inne trolle zawsze uważały go za dziwaka - w końcu kto przy zdrowych zmysłach woli kolorowe papierki od kamieni?
+201738_name;Sklep: Paladyn
+201738_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage3} pkt obrażeń.
+201739_fluff;Inne trolle zawsze uważały go za dziwaka - w końcu kto przy zdrowych zmysłach woli kolorowe papierki od kamieni?
+201739_name;Sklep: Paladyn
+201739_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: <keyword=lock>Zablokuj</keyword> jednostkę.
+201740_fluff;Inne trolle zawsze uważały go za dziwaka - w końcu kto przy zdrowych zmysłach woli kolorowe papierki od kamieni?
+201740_name;Sklep: Paladyn
+201740_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zyskaj <keyword=resilient>wytrzymałość</keyword>.
+201741_fluff;Inne trolle zawsze uważały go za dziwaka - w końcu kto przy zdrowych zmysłach woli kolorowe papierki od kamieni?
+201741_name;Sklep: Paladyn
+201741_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zniszcz wrogi Artefakt.
+201742_fluff;Inne trolle zawsze uważały go za dziwaka - w końcu kto przy zdrowych zmysłach woli kolorowe papierki od kamieni?
+201742_name;Sklep: Paladyn
+201742_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij sojusznika o {Boost4}.
+201743_fluff;Dzieci odziedziczyły po niej urodę.
+201743_name;Królowa Krabopająków
+201743_tooltip;Za każdym razem, gdy sojusznicza jednostka zostanie zniszczona podczas twojej tury, <keyword=spawn>stwórz</keyword> Krabopająka i <keyword=summon>wezwij</keyword> go do losowego sojuszniczego rzędu.
+201744_fluff;Podróżują przez Kontynent niesione wiatrem... A ich śladem idzie szaleństwo.
+201744_name;Zarodniki
+201744_tooltip;Przywróć jednostce jej siłę bazową.
+201748_fluff;Król Foltest zwykł mawiać, że efektywność jest ważniejsza niźli rozmiar.
+201748_name;Duma Foltesta
+201748_tooltip;<keyword=order>Rozkaz</keyword>, <keyword=melee>bliskie starcie</keyword>: Zadaj wrogowi i wszystkim innym wrogom o tej samej sile {Damage} pkt obrażeń.\n<keyword=charge>Ładunki</keyword>: {Charges}.
+201749_fluff;Czujesz ten zapach? Tak pachnie szczęście.
+201749_name;Złocista Piana
+201749_tooltip;Wzmocnij wszystkie jednostki w wybranym rzędzie o {Boost}.
+201753_fluff;My jesteśmy milicja. Porządku pilnujem.
+201753_name;Chłopska Milicja
+201753_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij sojusznika o {Boost}.
+201772_fluff;Kiedyś wykonałem pewne zlecenie. Gdy kazano mi wybrać nagrodę, skorzystałem z Prawa Niespodzianki.
+201772_name;Geralt: Zawodowiec
+201772_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń. Jeśli siła wrogiej jednostki jest wielokrotnością {Power}, zamiast tego ją zniszcz.
+201773_fluff;Nie wystarczy, że ją zwiążesz... Możesz nawet zakneblować wiedźmę, a i tak jest niebezpieczna. Dwimeryt to jedyne rozwiązanie.
+201773_name;Triss: Telekineza
+201773_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: <keyword=create>Utwórz</keyword> i zagraj brązową kartę specjalną z aktualnej talii dowolnego gracza.
+201774_fluff;Jaskier opowiadał mi o waszych przygodach. Jak zagrzewał cię śpiewem do walki, jak okiełznał kejrana grą na lutni...
+201774_name;Jaskier: Przechwałki
+201774_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zniszcz wrogą Bestię.
+201776_fluff;Pióro jest potężniejsze od miecza.
+201776_name;Jaskier: Poeta
+201776_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Dobierz kartę, a następnie zagraj kartę.
+201777_fluff;Strach nam nie przystoi, ale jest pewien d'hoine... Vernon Roche. Wystrzegaj się go.
+201777_name;Roche: Bezlitosny
+201777_tooltip;<keyword=order>Rozkaz</keyword>: <keyword=seize>Przechwyć</keyword> wroga o sile nie większej od liczby <keyword=charge>ładunków</keyword> Roche: Bezlitosnego, następnie wyzeruj <keyword=charge>ładunki</keyword>.\n<keyword=charge>Ładunki</keyword>: {Charges}.\nNa początku każdej tury zyskaj <keyword=charge>ładunki</keyword> ({Charges2}).
+201778_fluff;Muszę zjednoczyć klany. Wolę uniknąć wojny, ale jeśli Nilfgaard rzeczywiście zamierza nas zaatakować, wspólnie damy mu odpór.
+201778_name;Cerys: Nieustraszona
+201778_tooltip;postponed
+201779_fluff;Kocham Brokilon bardziej niż swoje życie, jest jak matka, która dba o swoje dzieci. Dlatego będę jej broniła do ostatniego tchu.
+201779_name;Zew Lasu
+201779_tooltip;Wtasuj sojuszniczą jednostkę do swojej talii, następnie zagraj z talii jednostkę z tej samej kategorii podstawowej i wzmocnij ją o {Boost}.
+201780_fluff;Tak, widzę przyszłość. I ciebie tam już nie ma.
+201780_name;Yennefer: Wróżba
+201780_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: <keyword=reveal>Ujawnij</keyword> losową jednostkę ze swojej talii, następnie wzmocnij sojusznika o jej siłę.
+201781_fluff;Siostry powiedziały, że przyjdziesz. Widziały twoje nadejście w lustrze wody.
+201781_name;Imlerith
+201781_tooltip;<keyword=order>Rozkaz</keyword>: Jeśli kontrolujesz najsilniejszą jednostkę, zadaj jednostce {Damage} pkt obrażeń.\n<keyword=cooldown>Odnowienie</keyword>: {Cooldown}.
+201817_fluff;Niemożliwa niemożliwość, pomyślała Ciri, przytomniejąc, zbierając myśli. Przecież jednorożców już nie ma na świecie, przecież wymarły.
+201817_name;Ihuarraquax
+201817_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: <keyword=summon>Wezwij</keyword> jednostkę o najwyższym koszcie werbunku z talii obu graczy do odpowiednich rzędów bliskiego starcia.\n<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: <keyword=summon>Wezwij</keyword> jednostkę o najniższym koszcie werbunku z talii obu graczy do odpowiednich rzędów dalekiego zasięgu.
+202044_fluff;Chamów trzeba trzymać krótko. I łoić nahajką.
+202044_name;Kulawy Gerwin
+202044_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Zadaj wrogowi i wszystkim jego egzemplarzom {Damage} pkt obrażeń.
+202054_fluff;Dla smaku można posypać startym serem. Albo dorzucić kilka gałek ocznych.
+202054_name;Zupa elfio-cebulowa
+202054_tooltip;Zniszcz sojusznicze jednostki tego samego koloru ({Maxtargets}), następnie <keyword=create>utwórz</keyword> i zagraj jednostkę tego koloru.
+202064_fluff;Jestem pozbawiony emocji, nie rozumu.
+202064_name;Iwo z Belhaven
+202064_tooltip;<keyword=order>Rozkaz</keyword>, <keyword=melee>bliskie starcie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.\n<keyword=charge>Ładunki</keyword>: {Charges}.\nDaj tej jednostce <keyword=charge>ładunki</keyword> ({Charge}) za każdym razem, gdy zagrywasz Wiedźmina.
+202093_fluff;Julian Alfred Pankratz wicehrabia de Lettenhove. Dla przyjaciół – Jaskier.
+202093_name;Jaskier: Pogromca
+202093_tooltip;Brak umiejętności.
+202094_fluff;Pierwszy, który podejdzie do wozu, dostanie w bebechy.
+202094_name;Konwojent karawany
+202094_tooltip;Brak umiejętności.
+202095_fluff;Klnę się na Melitele, ta ścieżka gdzieś tu była…
+202095_name;Przewodnik karawany
+202095_tooltip;Brak umiejętności.
+202096_fluff;Jeżeli mam wybierać pomiędzy jednym złem a drugim, to wolę nie wybierać wcale.
+202096_name;Geralt z Rivii
+202096_tooltip;Brak umiejętności.
+202097_fluff;Małe, szybkie i wredne.
+202097_name;Nekker
+202097_tooltip;Brak umiejętności.
+202098_fluff;Mówi Dobra Księga: „Świat jest niczym ogród, który bogowie dali człowiekowi we władanie". A myśmy ten ogród zaniedbali!
+202098_name;Eyck z Denesle
+202098_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Jeśli masz w ręce Smoka, zyskaj <keyword=zeal>zapał</keyword>.\n<keyword=order>Rozkaz</keyword>: Zniszcz jednostkę o sile {Power} lub większej.
+202099_fluff;To ty przewodzisz Kundlom ze Spalli? Ciebie wołają Księciem Psów?
+202099_name;Gascon
+202099_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Wzmocnij tę jednostkę o punkty siły w przedziale od {Power} do {Power2}.
+202100_fluff;Chłopak nie nadaje się, żeby nosić koronę. Nie jest ani dość bystry, ani dość dzielny. Ja to wiem, ty to wiesz... Ale on nie.
+202100_name;Książę Vilem
+202100_tooltip;<keyword=spying>Szpieg</keyword>.\n<keyword=deploy>Rozmieszczenie</keyword>: Zagraj losową złotą kartę ze swojej talii.
+202101_fluff;Wasza Wysokość... Nie godzi się, żeby królowa plebs indagowała...
+202101_name;Hrabia Caldwell
+202101_tooltip;Na koniec każdej tury przenieś do rzędu z najsilniejszą jednostką na polu bitwy.
+202102_fluff;Twój inżynier ma może gębę jak mięso z rosołu, ale na swoim fachu to on się zna.
+202102_name;Xavier Lemmens
+202102_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: <keyword=banish>Wygnaj</keyword> wszystkie karty z cmentarza przeciwnika.\n<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: <keyword=banish>Wygnaj</keyword> wszystkie karty ze swojego cmentarza.
+202103_fluff;Kiedy się tu sprowadził, sto lat się z nim tłukli. Ale w końcu gad się zmęczył, a oni zrozumieli, że łatwo go nie wypędzą ze swoich ziem... Więc poszli na układ. On im nie bruździ, a w zamian dostaje, czego mu trzeba.
+202103_name;Keltullis
+202103_tooltip;<keyword=melee>Bliskie starcie</keyword>: Na koniec każdej tury zniszcz najsłabszą jednostkę po stronie z większą liczbą jednostek.
+202104_fluff;Skąd ta nazwa? Poczekaj, aż ją zobaczysz.
+202104_name;Przeraza: Obudzona
+202104_tooltip;<keyword=immune>Odporność</keyword>.
+202105_fluff;Woda eksplodowała z głośnym pluskiem, wystrzeliły z niej dwie długie, zielone, kostropate łapy, najeżone kolcami jak odnóża modliszki. Łapy chwyciły Strażnika z bosakiem i w mgnieniu oka wciągnęły go pod wodę.
+202105_name;Żagnica
+202105_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zniszcz wszystkie jednostki o sile {Power}. Wzmocnij tę jednostkę o {Boost} za każdą zniszczoną jednostkę.
+202106_fluff;Brouver raz chciał go wygnać z Mahakamu, po tym jak znaleziono lamę w jego pokoju.
+202106_name;Gabor Zigrin
+202106_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Daj tej jednostce <keyword=resilient>wytrzymałość</keyword>.\n<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Daj tej jednostce <keyword=immune>odporność</keyword>.\nWzmocnij tę jednostkę o {Boost} za każdym razem, gdy zagrywasz Krasnoluda.
+202107_fluff;Przyjechał tu z całym kramem wynalazków, łaził po domach, wychwalał je pod niebiosa. I co nam sprzedał? Petardy, co wybuchają w rękach! Płyn na porost brody, od którego włosy stawały w ogniu!
+202107_name;Barnaba Beckenbauer
+202107_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij sojuszniczego Elfa, Krasnoluda i Driadę o {Boost}.
+202108_fluff;Obiecałam sobie, że nigdy więcej nie użyję magii do krzywdzenia innych.
+202108_name;Isbel z Hagge
+202108_tooltip;<keyword=order>Rozkaz</keyword>, <keyword=ranged>daleki zasięg</keyword>: Podejrzyj wierzchnią kartę z obu talii. Zatrzymaj jedną z nich, a drugą oddaj swojemu przeciwnikowi.
+202109_fluff;Wybrzeże już złupione, to skierowaliśmy drakkary dalej, ku źródłom Jarugi. Na rajd po złoto i chwałę!
+202109_name;Gudmund Pyskaty
+202109_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Zamień wszystkie karty na swoim cmentarzu z kartami z talii.
+202110_fluff;Tarcze są dla mięczaków.
+202110_name;Dagur Dwa Ostrza
+202110_tooltip;<keyword=melee>Bliskie starcie</keyword>: Za każdym razem, gdy wróg odnosi obrażenia, wzmocnij tę jednostkę o {Boost}.
+202111_fluff;Najeźdźcy ruszyli jej na spotkanie. Przewodził im bogato odziany mężczyzna, od którego biły silny zapach piżmowych perfum i pycha.
+202111_name;Traheaern var Vdyffir
+202111_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Podejrzyj wierzchnie karty ({MaxTargets}) z talii przeciwnika i przenieś 1 na jego cmentarz.
+202112_fluff;Dziesięć lat służyłem pod waszym mężem, potem osiem pod tobą, pani... I nigdy nie walczyłem o słuszniejszą sprawę.
+202112_name;Raynard Odo
+202112_tooltip;Za każdym razem, gdy zagrywana jest jednostka z <keyword=charge>ładunkiem</keyword>, daj jej 1 <keyword=charge>ładunek</keyword>.
+202113_fluff;Nie można robić wyjątków. Muszą zginąć wszyscy... A  bogowie ropoznają, którzy byli niewinni.
+202113_name;Czarna Rayla
+202113_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi obrażenia równe liczbie ludzkich sojuszników.
+202114_fluff;Pytanie co było pierwsze, jajko czy kura, nabiera nowego wydźwięku w przypadku Feniksów.
+202114_name;Młode Feniksa
+202114_tooltip;<keyword=doomed>Fatum</keyword>. <keyword=zeal>Zapał</keyword>.\n<keyword=order>Rozkaz</keyword>: Przemień się w Feniksa.
+202115_fluff;Kiedyś król wysłał do niego posła, zresztą wbrew mojej radzie... Znaleźliśmy go następnego dnia, z wyłupionymi oczami i białą flagą wepchniętą do gardła.
+202115_name;Eldain
+202116_fluff;Jest wojna. Król się wtedy nie stara, nie wybiera. Król chwyta za miecz i broni poddanych.
+202116_name;Królowa Meve
+202117_fluff;Ściany pokrywały freski przedstawiające angreńskie bagna i potwory. Nad głową największego z nich napisano dwa słowa: Gvaern Ichaer - Krwawa Pani.
+202117_name;Gernichora
+202118_fluff;U nas, w cywilizowanym świecie, generał dowodzi armią – a nie rzuca się do gryzienia jak wściekły pies.
+202118_name;Ardal aep Dahy
+202119_fluff;Przybyliśmy zabijać. Nilfgaardczyków, Lyrijczyków... Wszystko jedno. Jedyne, czego chcemy, to walki i krwi. Okazji, żeby zmazać naszą hańbę.
+202119_name;Arnjolf Ojcobójca
+202121_fluff;Hau, hau, hauuuuu!
+202121_name;Kundle ze Spalli
+202121_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Przenieś jednostkę do innego rzędu po jej stronie.
+202122_fluff;Wrzuciłem raz petardę do karocy. Oj, rozerwali się jaśnie państwo...
+202122_name;Miotacz petard
+202122_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zniszcz wrogi Artefakt.
+202124_fluff;To... To się rusza!
+202124_name;Olbrzymi krabopająk
+202124_tooltip;Brak umiejętności.
+202125_fluff;Pół krab, pół pająk. Słowem, sukinsyn.
+202125_name;Krabopająk
+202125_tooltip;Brak umiejętności.
+202126_fluff;Co jest na wozie? A co mnie to obchodzi?
+202126_name;Zaciężnik
+202126_tooltip;Brak umiejętności.
+202127_fluff;Lewa, prawa, lewa, prawa… No ile można!
+202127_name;Pieszy dezerter
+202127_tooltip;Brak umiejętności.
+202128_fluff;Aj, znów sobie rozciąłem palec na cięciwie!
+202128_name;Dezerter łucznik
+202128_tooltip;Brak umiejętności.
+202129_fluff;Dźga się ostrym końcem.
+202129_name;Włócznia
+202129_tooltip;Brak umiejętności.
+202130_fluff;Jaskółka, symbol wiosny i odnowy, dała nazwę eliksirowi, który przyspiesza zasklepianie się ran.
+202130_name;Jaskółka
+202130_tooltip;Wzmocnij jednostkę o {Boost}.
+202131_fluff;Dźga się ostrym końcem.
+202131_name;Włócznia
+202131_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.
+202132_fluff;Było wielu takich, którzy lekceważyli wiedźmińskie znaki. Każdy, kto poczuł na swojej skórze Znak Igni, szybko zmienił zdanie na ten temat.
+202132_name;Geralt: Igni
+202132_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zniszcz najsilniejszą jednostkę lub jednostki przeciwnika.
+202133_fluff;Wolę grać do bitki, niż do kotleta.
+202133_name;Jaskier: Otucha
+202133_tooltip;<keyword=zeal>Zapał</keyword>.\n<keyword=order>Rozkaz</keyword>: Wzmocnij wszystkich sojuszników o {Power}.
+202134_fluff;Dzieci odziedziczyły po niej urodę.
+202134_name;Królowa Roju
+202134_tooltip;Zadaj {MaxTargets} wrogom {Damage} pkt obrażeń.
+202135_fluff;Elfy mają świetny wzrok. Zaraz się o tym przekonasz.
+202135_name;Łucznik Scoia'tael
+202135_tooltip;Brak umiejętności.
+202136_fluff;Chcecie mi powiedzieć, że ta elfica tańczyła na polu bitwy? Czyście rozum postradali, setniku?!
+202136_name;Elfi Tancerz Ostrzy
+202136_tooltip;Brak umiejętności.
+202137_fluff;Ten las to nasz dom - i wasz cmentarz.
+202137_name;Przywódca komanda
+202137_tooltip;<keyword=order>Rozkaz</keyword>: Wzmocnij jednostkę o {Boost}.
+202138_fluff;Natura czasem zadaje kłam twierdzeniu, że "wszystko co młode, jest piękne".
+202138_name;Młode krabopająka
+202138_tooltip;Brak umiejętności.
+202139_fluff;Ten elf jest mój. Mój!
+202139_name;Przywódca karawany
+202139_tooltip;Zadaj {Damage} pkt obrażeń jednostce sąsiadującym z nią jednostkom.
+202140_fluff;Pamiętajcie, kadeci! Kto pierwszy dobywa miecza, ma przewagę nad wrogiem!
+202140_name;Przewaga Taktyczna
+202140_tooltip;<keyword=immune>Odporność</keyword>.\n<keyword=order>Rozkaz</keyword>: Wzmocnij sojusznika o {Boost}, następnie <keyword=banish>wygnaj</keyword> tę jednostkę.\nJeśli ta karta zostanie przeniesiona poza pole bitwy, <keyword=banish>wygnaj</keyword> ją.
+202141_fluff;INVISIBLE, IGNORE
+202141_name;INVISIBLE, IGNORE
+202142_fluff;Uważajcie panowie, pod tym mostem żyją nekkery.
+202142_name;Nekker Wojownik
+202142_tooltip;Brak umiejętności.
+202143_fluff;Chodzą ghule koło drogi, zeżrą ręce, zeżrą nogi.
+202143_name;Ghul
+202143_tooltip;Brak umiejętności.
+202144_fluff;Jak widzisz światło we mgle, zawracaj. Natychmiast.
+202144_name;Mglak
+202144_tooltip;Brak umiejętności.
+202145_fluff;Ludzie posiadają wiele głęboko zakorzenionych lęków. Lęk przed mgłą jest uzasadniony…
+202145_name;Starożytny Mglak
+202145_tooltip;Brak umiejętności.
+202146_fluff;Bies wygląda trochę jak jeleń. Wielki, wściekły jeleń.
+202146_name;Bies
+202146_tooltip;Brak umiejętności.
+202147_fluff;Tam! Między drzewami!
+202147_name;Tropiciel
+202147_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj jednostce {Damage} pkt obrażeń.
+202148_fluff;Mój król... lubi przyjemności. Ale nie przeszkadza mu to dobrze rządzić.
+202148_name;Król Demawend
+202148_tooltip;<keyword=order>Rozkaz</keyword>: Daj jednostce <keyword=charge>ładunki</keyword> ({Charge}).\n<keyword=cooldown>Odnowienie</keyword>: {Cooldown}.
+202149_fluff;Z tego, co pełza, zjadłam w życiu wszystko. A z tego, co fruwa, raz zjadłam nawet latawiec, bo był sklejony klejem z mąki.
+202149_name;Angoulême
+202149_tooltip;<keyword=order>Rozkaz</keyword>: Zagraj losowy Artefakt z talii przeciwnika.
+202150_fluff;Niechże zapisane zostanie, że minęło blisko pół wieku, od kiedy zajmowałem się praktyką medyczną, czuję, jak lata te ciążą na mej pamięci i na zręczności mych palców.
+202150_name;Vysogota z Corvo
+202150_tooltip;<keyword=zeal>Zapał</keyword>.\n<keyword=order>Rozkaz</keyword>, <keyword=ranged>daleki zasięg</keyword>: Wzmocnij jednostkę o {Boost}.\n<keyword=charge>Ładunki</keyword>: {Charges}.\nDaj tej jednostce <keyword=charge>ładunki</keyword> ({Charges2}) za każdym razem, gdy któryś z graczy zagrywa kartę.
+202151_fluff;Z daleka wyglądał jak niedźwiedź. Z bliska zresztą też.
+202151_name;Falibor
+202151_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Zniszcz wrogą jednostkę z <keyword=order>rozkazem</keyword>.
+202152_fluff;Anna tak znienawidziła męża, iż gotowa była na wszystko, byle tylko uwolnić się od niego i jego nienarodzonego dziecka.
+202152_name;Anna Strenger
+202152_tooltip;Jeśli na koniec tury ta jednostka jest wzmocniona, wzmocnij sąsiadujące jednostki o {Boost}.
+202153_fluff;Kawalerzysta jest wart tyle, co jego koń. A lyrijskie konie należą do najlepszych na Kontynencie.
+202153_name;Lyrijski kawalerzysta
+202153_tooltip;Za każdym razem, gdy zagrywasz jednostkę z <keyword=order>rozkazem</keyword>, wzmocnij tę kartę o {Boost}.
+202154_fluff;Jak spadłeś z siodła to już nie jesteś taki twardziel, hę?
+202154_name;Rivski pikinier
+202154_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń. Jeśli został zniszczony, zadaj innemu wrogowi {Damage2} pkt obrażeń.
+202155_fluff;Trafię w jabłko ze stu kroków! Może nie za pierwszym razem... Ale w końcu na pewno!
+202155_name;Lyrijski kusznik
+202155_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj jednostce {Damage} pkt obrażeń.\n<keyword=charge>Ładunki</keyword>: {Charges}.\nDaj tej jednostce <keyword=charge>ładunki</keyword> ({Charges2}) za każdym razem, gdy zagrywasz jednostkę z <keyword=order>rozkazem</keyword>.
+202156_fluff;Nie śmiej się z ich beretów. Dobrze radzę.
+202156_name;Lyrijski knecht
+202156_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj jednostce {Damage} pkt obrażeń. Jeśli Lyrijski Knecht jest wzmocniony, zamiast tego zadaj jednostce {Damage2} pkt obrażeń.
+202157_fluff;Opatrzę was, opatrzę. Ale za odpowiednią opłatą.
+202157_name;Havekarski medyk
+202157_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Wzmocnij sojusznika o {Boost}.\n<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: <keyword=heal>Uzdrów</keyword> sojusznika.
+202158_fluff;Elf, krasnolud, co za różnica - pieniądz nie śmierdzi.
+202158_name;Havekarskie wsparcie
+202158_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij sojusznika o {Boost}.
+202159_fluff;Walka jest tańcem, ale nie pozwól by przeciwnik dyktował ci kroki.
+202159_name;Mistrzyni miecza
+202159_tooltip;<keyword=order>Rozkaz</keyword>: Zadaj wrogowi {Damage} pkt obrażeń.\n<keyword=cooldown>Odnowienie</keyword>: {Cooldown2}.\nJeśli został zniszczony, skróć licznik <keyword=cooldown>odnowienia</keyword> o {Cooldown1}.
+202160_fluff;Poczujesz je na długo zanim je zobaczysz.
+202160_name;Zgnilec
+202160_tooltip;Brak umiejętności.
+202161_fluff;Żywią i bronią.
+202161_name;Lyrijski kosynier
+202161_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij tę jednostkę o {Boost} za każdego wzmocnionego sojusznika.
+202162_fluff;Dorwę tego elfa, żywego albo martwego. Miarkuj moje słowa.
+202162_name;Przywódca karawany
+202162_tooltip;Brak umiejętności.
+202163_fluff;Elfie szable są bardzo lekkie, ale zadają ciężkie rany.
+202163_name;Elfia szabla
+202163_tooltip;Zadaj jednostce niebędącej Elfem {Damage} pkt obrażeń.
+202164_fluff;Nie zaskoczą nas. Nie na mojej warcie.
+202164_name;Elfia wartowniczka
+202164_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi obrażenia równe liczbie rzędów dzielących go od tej jednostki.
+202165_fluff;Człowiek czy jeleń, zasada ta sama: celuj między łopatki.
+202165_name;Elfi myśliwy
+202165_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj wrogowi {Damage} pkt obrażeń. Jeśli przeżył, wzmocnij tę jednostkę o {Boost}.
+202166_fluff;Który dh'oine ma problem? No, który?!
+202166_name;Elfi zawadiaka
+202166_tooltip;Brak umiejętności.
+202167_fluff;Inni zdezerterowali, bo stchórzyli. Ja się po prostu znudziłem.
+202167_name;Osiłek dezerter
+202167_tooltip;Brak umiejętności.
+202168_fluff;Po co zamieniać żelazo w złoto, skoro można je po prostu zarobić.
+202168_name;Najemna czarodziejka
+202168_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Wzmocnij jednostkę o {Boost}.
+202169_fluff;Kości i przysięgi łamię z równą wprawą.
+202169_name;Najemny rębajło
+202169_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Wzmocnij tę jednostkę o {Boost}.
+202170_fluff;Wreszcie nikt mi nie mówi co mam grać!
+202170_name;Werblista
+202170_tooltip;Co 5 tur, na początku tury, wzmocnij sąsiednie jednostki o {Boost}.
+202171_fluff;Kto go dzierży, zwycięży w boju. A potem zginie zdradzony.
+202171_name;Przeklęty miecz
+202171_tooltip;<keyword=order>Rozkaz</keyword>: Wzmocnij jednostkę o {Boost} i daj jej <keyword=doomed>Fatum</keyword>, następnie zniszcz tę kartę.
+202172_fluff;Nie wiem, co było gorsze w woju, żołd czy żarcie.
+202172_name;Weteran
+202172_tooltip;Brak umiejętności.
+202173_fluff;Pierwszy, który podejdzie do wozu, dostanie w bebechy.
+202173_name;Konwojent karawany
+202173_tooltip;Brak umiejętności.
+202174_fluff;Klnę się na Melitele, ta ścieżka gdzieś tu była…
+202174_name;Przewodnik karawany
+202174_tooltip;Brak umiejętności.
+202175_fluff;Co jest na wozie? A co mnie to obchodzi?
+202175_name;Zaciężnik
+202175_tooltip;<keyword=deploy>Rozmieszczenie</keyword>, <keyword=melee>bliskie starcie</keyword>: Wzmocnij tę jednostkę o {Boost2}.\n<keyword=deploy>Rozmieszczenie</keyword>, <keyword=ranged>daleki zasięg</keyword>: Wzmocnij pozostałe jednostki w tym rzędzie o {Boost}.
+202176_fluff;Mgła, że oko wykol... Cokolwiek to znaczy.
+202176_name;Gęsta mgła
+202176_tooltip;Zastosuj ten efekt w rzędzie przeciwnika:\nNa początku każdej z {Counter} tur zadaj najsilniejszej jednostce w tym rzędzie {Damage} pkt obrażeń.
+202177_fluff;Mówią, że elfy rozumieją konie lepiej, niż ludzie… I jest w tym sporo prawdy.
+202177_name;Jeździec Scoia'tael
+202177_tooltip;<keyword=deploy>Rozmieszczenie</keyword>: Zadaj jednostce {Damage} pkt obrażeń.
+202178_fluff;Porzucić przyjaciela w potrzebie? Nigdy!
+202178_name;Jaskier: Wierny druh
+202178_tooltip;Na końcu tury przenieś tę kartę z cmentarza do swojej talii.
+202179_fluff;Pamiętajcie, kadeci! Kto pierwszy dobywa miecza, ma przewagę nad wrogiem!
+202179_name;Przewaga Taktyczna
+202179_tooltip;<keyword=immune>Odporność</keyword>. <keyword=doomed>Fatum</keyword>.\n<keyword=order>Rozkaz</keyword>: Wzmocnij sojusznika o {Boost}, następnie <keyword=banish>wygnaj</keyword> tę jednostkę.
+202180_fluff;Przed chwilą jeszcze świeciło słońce! Słowo daję!
+202180_name;Nienaturalna mgła
+202180_tooltip;Na początku każdej tury zadaj najsilniejszej jednostce w tym rzędzie {Damage} pkt obrażeń.
+32_name_lt;Ragh Nar Roog
+32_tooltip_lt;Na początku każdej tury zadaj najsilniejszej jednostce w tym rzędzie {Damage} pkt obrażeń.
+4_name_lt;Ulewny Deszcz
+4_tooltip_lt;Na początku każdej z {Counter} tur zadaj {MaxTargets} losowym jednostkom {Damage} pkt obrażeń.
+64_name_lt;Skelligijski Sztorm
+64_tooltip_lt;Na początku każdej z {Counter} tur zadaj wszystkim jednostkom w wybranym rzędzie {Damage} pkt obrażeń.
+card_category_1;Podwójny Agent
+card_category_10;Dziki Gon
+card_category_11;Taktyka
+card_category_12;Bestia
+card_category_13;Dowódca
+card_category_14;Czarodziej
+card_category_15;Czempion
+card_category_16;Wampir
+card_category_17;Cintra
+card_category_18;Insektoid
+card_category_19;Kundle ze Spalli
+card_category_2;Konstrukt
+card_category_20;Zaklęcie
+card_category_21;Redania
+card_category_22;Wsparcie oblężnicze
+card_category_23;Klan Drummond
+card_category_24;Upiór
+card_category_25;Przeklęty
+card_category_26;Żołnierz
+card_category_27;Kaedwen
+card_category_28;Vodyanoi
+card_category_29;Klan Tuirseach
+card_category_3;Klan Tordarroch
+card_category_30;Klan Dimun
+card_category_31;Wiedźmin
+card_category_32;Kultysta
+card_category_33;Alchemia
+card_category_34;Zuchwały
+card_category_35;Klan Heymaey
+card_category_36;Zdyscyplinowany
+card_category_37;Driada
+card_category_38;Karta Specjalna
+card_category_39;Elf
+card_category_4;Lyria
+card_category_40;Trupojad
+card_category_41;Maszyna
+card_category_42;Aedirn
+card_category_43;Wsparcie
+card_category_44;Klan An Craite
+card_category_46;Pułapka
+card_category_47;Krasnolud
+card_category_48;Drakonid
+card_category_49;Machina Oblężnicza
+card_category_5;Temeria
+card_category_50;Oficer
+card_category_52;Pogoda
+card_category_53;Organiczne
+card_category_54;Przedmiot
+card_category_55;Zagrożenia
+card_category_56;Korzyść
+card_category_57;Zasadzka
+card_category_58;Fatum
+card_category_59;Niedźwiedź
+card_category_6;Ogroid
+card_category_60;Niebieskie Pasy
+card_category_61;Rój
+card_category_62;Pożeracz
+card_category_63;Smok
+card_category_64;Harpia
+card_category_65;Medyk
+card_category_66;Nieustępliwy
+card_category_67;Nieuleczalny
+card_category_68;Parobek
+card_category_69;Eliksir
+card_category_7;Relikt
+card_category_70;Niestabilny
+card_category_71;Zmiennokształtny
+card_category_73;Sługa
+card_category_75;Agent
+card_category_76;Korsarz
+card_category_77;Okręt
+card_category_78;Człowiek
+card_category_79;Rycerz
+card_category_8;Klan Brokvar
+card_category_80;Gnom
+card_category_81;Roślina
+card_category_82;Demon
+card_category_83;Bandyta
+card_category_84;Vran
+card_category_85;Druid
+card_category_86;Wojownik
+card_category_9;Test
+card_token_berserk;obsolete
+card_token_doomed;Ten status usuwa jednostkę z gry po tym, jak trafi na cmentarz.
+card_token_immune;Nie może być celem.
+card_token_lock;Status dezaktywujący umiejętności karty i usuwający z niej inne efekty. Pozbawia umiejętności i odkrywa zakryte karty.
+card_token_marked;Ta jednostka jest oznaczona. Będzie teraz celem umiejętności karty, która ją oznaczyła.
+card_token_resilience;Status, który pozwala karcie pozostać na polu bitwy na końcu rundy, a następnie przywraca jej siłę bazową, jeśli była wzmocniona.
+card_token_spying;Status jednostki zagrywanej po przeciwnej stronie pola bitwy lub tam przeniesionej.
+keyword_ambush;<#600101>Zasadzka:</color> Zagrywana zakryta. Odkrywana po spełnieniu warunków tej umiejętności.
+keyword_armor;<#600101>Pancerz:</color> Pochłania określoną ilość obrażeń, po czym ulega zniszczeniu.
+keyword_aura;<#600101>Aura:</color> Umiejętność pasywna działająca do zniszczenia lub zablokowania jednostki.
+keyword_banish;<#600101>Wygnaj:</color> Usuń kartę z gry. Nie aktywuje umiejętności zemsty.
+keyword_banish_in_graveyard;<#600101>Ulotna:</color> Usuń tę kartę z gry po przeniesieniu z pola bitwy na cmentarz. Jeśli to karta specjalna, usuń ją z gry po aktywowaniu jej umiejętności.
+keyword_bloodthirst;<#600101>Żądza krwi:</color> Liczba rannych jednostek wroga wymagana do aktywowania tej umiejętności.
+keyword_bond;<#600101>Więź:</color> Aktywuje umiejętność za każdym razem, gdy zostanie zagrana kopia tej karty po tej samej stronie.
+keyword_boon;<#600101>Korzyść:</color> Pozytywny wpływ na rząd. Może zostać zastąpiony innym efektem, znika wraz z końcem rundy.
+keyword_boost;<#600101>Wzmocnij:</color> Zwiększ aktualną siłę jednostki.
+keyword_boosted;<#600101>Wzmocniona:</color> Aktualna siła jednostki jest większa, niż jej siła bazowa.
+keyword_brave;<#600101>Bohater:</color> Aktywuje umiejętność, jeżeli aktualnie przeciwnik ma przewagę punktową (liczone po umieszczeniu tej jednostki i jednostek, które tworzy, na polu bitwy).
+keyword_charge;<#600101>Ładunek:</color> Liczba użyć umiejętności Rozkazu po aktywowaniu. Tylko karty z „Ładunek: X” w opisie mogą otrzymywać dodatkowe ładunki.
+keyword_charm;<#600101>Urok:</color> Przenieś wroga do przeciwnego rzędu.
+keyword_clone;<#600101>Kopia:</color> Dokładna kopia danej karty, zachowuje jej siłę i umiejętności.
+keyword_conceal;<#600101>Zakryj:</color> Odwróć odkrytą kartę w twojej ręce.
+keyword_consume;<#600101>Pochłoń:</color> Zjedz jednostkę i wzmocnij tę jednostkę o siłę pochłoniętej. Jeśli pochłonięta jednostka znajduje się na polu bitwy, zniszcz ją. Jeśli znajduje się w ręce lub talii, przenieś ją na cmentarz. Jeśli znajduje się na cmentarzu, usuń ją z gry.
+keyword_cooldown;<#600101>Odnowienie:</color> Liczba tur przed ponownym użyciem umiejętności Rozkazu.
+keyword_counter;<#600101>Licznik:</color> Zlicza wystąpienie określonego warunku. Licznik resetuje się, gdy jednostka opuści pole bitwy.
+keyword_craven;<#600101>Tchórz:</color> Aktywuje umiejętność, jeżeli aktualnie masz przewagę punktową.
+keyword_create;<#600101>Utwórz:</color> Stwórz jedną spośród trzech losowo wybranych kart z wybranej frakcji i kart neutralnych, chyba że zaznaczono inaczej.
+keyword_crew;<#600101>Załoga:</color> Ta jednostka aktywuje jednostki z umiejętnością Obsadzenie zagrywane w jej sąsiedztwie.
+keyword_crewed;<#600101>Obsadzenie:</color> Przy zagrywaniu aktywuj tę umiejętność jeden raz za każdą sąsiadującą jednostkę Załogi.
+keyword_damage;<#600101>Zrań:</color> Zmniejsz siłę jednostki.
+keyword_damaged;<#600101>Ranna:</color> Aktualna siła jednostki jest mniejsza niż jej siła bazowa.
+keyword_deadlock;<#600101>Starcie:</color> Sytuacja, w której żaden z graczy nie spasował.
+keyword_deathwish;<#600101>Zemsta:</color> Aktywuj tę umiejętność, gdy karta zostaje przeniesiona z pola bitwy na cmentarz. Uwaga: jednostki, które zostały wygnane, nie są wysyłane na cmentarz.
+keyword_demote;<#600101>Zdegraduj:</color> Zmień złotą kartę w srebrną lub w brązową, jeśli taki był jej oryginalny kolor.
+keyword_deploy;<#600101>Rozmieszczenie:</color> Aktywuj tę umiejętność po zagraniu karty.
+keyword_destroy;<#600101>Zniszcz:</color> Przenieś kartę na cmentarz.
+keyword_discard;<#600101>Odrzuć:</color> Przenieś kartę ze swojej ręki na cmentarz. Uwaga: Powiązane umiejętności nie są aktywowane, jeśli karta zostaje odrzucona ręcznie.
+keyword_doomed;<#600101>Fatum:</color> Ten status usuwa jednostkę z gry po tym, jak przeniesie się na cmentarz.
+keyword_drain;<#600101>Kradzież:</color> Zadaje obrażenia i wzmacnia się o liczbę punktów równą ich sile.
+keyword_draw;<#600101>Dobierz:</color> Przenieś określoną liczbę kart ze szczytu talii do ręki.
+keyword_duel;<#600101>Pojedynek:</color> Jednostki na zmianę zadają sobie nawzajem liczbę pkt obrażeń równą swojej sile aż do zniszczenia jednej z nich.
+keyword_enemy;<#600101>Wróg:</color> Jednostka znajdująca się po stronie przeciwnika.
+keyword_fatigue;<#600101>Jednorazowa:</color> Umiejętność tej karty może zostać użyta tylko raz na grę.
+keyword_friendly;<#600101>Sojusznik:</color> Jednostka znajdująca się po twojej stronie.
+keyword_gamble;<#600101>Zakład:</color> Oddaj się odrobinie hazardu.
+keyword_gold;<#600101>Odporność:</color> Ten status uniemożliwia tej karcie bycie celem.
+keyword_hazard;<#600101>Zagrożenie:</color> Negatywny wpływ na rząd. Może zostać zastąpiony innym efektem, znika wraz z końcem rundy.
+keyword_heal;<#600101>Uzdrów:</color> Jeśli obecna siła jednostki jest niższa od jej siły bazowej, przywróć jej siłę bazową lub określoną liczbę punktów siły.
+keyword_highest;<#600101>Najsilniejsze:</color> Najwyższa siła, remisy rozwiązywane losowo.
+keyword_idle;<#600101>Bezczynność:</color> Liczba tur, które jednostka musi spędzić na polu bitwy, nim będzie można ją aktywować.
+keyword_immobile;Nie można przenieść.
+keyword_immune;<#600101>Odporność:</color> Nie może być celem.
+keyword_leadership;<#600101>Natchnienie:</color> Aktywuje umiejętność, gdy zostanie użyta umiejętność dowódcy.
+keyword_lock;<#600101>Zablokuj:</color> Status dezaktywujący umiejętności karty i usuwający z niej inne efekty. Pozbawia umiejętności i odkrywa zakryte karty.
+keyword_lowest;<#600101>Najsłabsze:</color> Najniższa siła, remisy rozwiązywane losowo.
+keyword_melee;<#600101>Bliskie starcie:</color> Tę umiejętność można wykorzystać tylko w rzędzie bliskiego starcia.
+keyword_mulligan;<#600101>Wymień:</color> Wtasuj kartę z twojej ręki do talii i dobierz kartę ze szczytu twojej talii.
+keyword_muster;<#600101>Wezwanie:</color> Zagraj automatycznie z talii.
+keyword_non_decoyable;<#600101>Nieustępliwa:</color> Nie można przenieść z powrotem do ręki.
+keyword_order;<#600101>Rozkaz:</color> Umiejętność aktywowana ręcznie przez gracza. Karty z rozkazem nie mogą być wykorzystane przez 1 turę po umieszczeniu na polu boju.
+keyword_overstrain;<#600101>Wysiłek:</color> Aktywuje tę umiejętność za każdym razem, gdy poprzedzająca umiejętność zadziałała na cel.
+keyword_pair;<#600101>Para:</color> Aktywuje umiejętność, jeżeli na polu bitwy jest już jeden egzemplarz tej karty.
+keyword_promote;<#600101>Awansuj:</color> Zmień kartę w złotą do końca tej rundy.
+keyword_ranged;<#600101>Daleki zasięg:</color> Tę umiejętność można wykorzystać tylko w rzędzie dalekiego zasięgu.
+keyword_reach;<#600101>Zasięg:</color> Maksymalna odległość celu w rzędach.
+keyword_regress;<#600101>Odrodzenie:</color> Przywróć siłę jednostki do stanu początkowego.
+keyword_regressing;<#600101>Niestabilna:</color> Kiedy ta jednostka zostanie usunięta z pola bitwy, jej siła bazowa zostanie przywrócona do wartości, jaką ta karta posiada w kolekcji.\nTej umiejętności nie da się zablokować.
+keyword_reset;<#600101>Zresetuj:</color> Przywróć jednostce jej siłę bazową (wyświetlaną w module tworzenia talii).
+keyword_resilient;<#600101>Wytrzymałość:</color> Status, który pozwala jednostce pozostać na polu bitwy na końcu rundy, następnie przywraca jej siłę bazową, jeśli była wzmocniona.
+keyword_resistant;<#600101>Odporność:</color> Określone efekty Zagrożenia nie działają na tę jednostkę.
+keyword_restrained;Nie można brać na cel Czempionów.
+keyword_resurrect;<#600101>Wskrześ:</color> Zagraj z twojego cmentarza.
+keyword_retaliation;<#600101>Odwet:</color> Aktywuje umiejętność za każdym razem, gdy ta jednostka zostanie zraniona, ale nie zostanie przeniesiona na cmentarz.
+keyword_reveal;<#600101>Ujawnij:</color> Pokaż kartę obu graczom, po czym ponownie ją schowaj w ręce lub talii.
+keyword_revealed;<#600101>Ujawniona karta:</color> Karta w ręce, która została odwrócona.
+keyword_revenge;<#600101>Rewanż:</color> Aktywuje umiejętność po przeniesieniu karty z pola bitwy na cmentarz w czasie tury przeciwnika.
+keyword_round_end;<#600101>Koniec rundy:</color> Umiejętność tej karty aktywuje się na koniec rundy.
+keyword_seize;<#600101>Przechwycenie:</color> Przenieś wroga do przeciwnego rzędu.
+keyword_shield;<#600101>Tarcza:</color> Znacznik tarczy jednorazowo chroni jednostkę przed efektem, który by ją zranił, osłabił lub zmienił jej siłę na niższą.
+keyword_solitary;<#600101>Samotnik:</color> Aktywuje umiejętność, jeżeli na polu bitwy nie ma żadnego innego egzemplarza tej karty.
+keyword_spawn;<#600101>Stwórz:</color> Dodaj kartę do gry.
+keyword_spring;<#600101>Aktywuj:</color> Odkryj zakrytą kartę zasadzki na polu bitwy i aktywuj jej umiejętność.
+keyword_spying;<#600101>Szpieg:</color> Status jednostki zagrywanej po przeciwnej stronie pola bitwy lub tam przeniesionej.
+keyword_strengthen;<#600101>Ulepsz:</color> Zwiększ siłę bazową jednostki.
+keyword_stubborn;<#600101>Nieustępliwa:</color> Nie można zagrać ponownie ani cofnąć do ręki.
+keyword_summon;<#600101>Wezwij:</color> Przenieś automatycznie na pole walki (taka jednostka nie jest uznawana za zagraną).
+keyword_swap;<#600101>Zamiana:</color> Przenieś kartę z ręki do talii i dobierz zamiast niej inną podczas twojej tury.
+keyword_thrive;<#600101>Pokrzepienie:</color> Wzmocnij tę jednostkę o 1 za każdym razem, gdy zagrany zostanie silniejszy sojusznik.
+keyword_timer;<#600101>Odliczanie:</color> Zmniejsz odliczanie o 1 co turę, gdy jednostka z tą umiejętnością jest na polu bitwy. Gdy licznik dojdzie do 0 umiejętność aktywuje się. Odliczanie resetuje się, gdy jednostka opuści pole bitwy.
+keyword_token;<#600101>Sługa:</color> Jednostka usuwana z gry na końcu rundy.
+keyword_transform;<#600101>Przemień:</color> Przemień kartę w inną.
+keyword_trio;<#600101>Trio:</color> dokładnie 3 niezablokowane egzemplarze danej jednostki w tym samym rzędzie.
+keyword_truce;<#600101>Rozejm:</color> Jeśli żaden z graczy nie spasował.
+keyword_turn_end;<#600101>Koniec tury:</color> Ta umiejętność aktywuje się pod koniec twojej tury.
+keyword_turn_start;<#600101>Początek tury:</color> Ta umiejętność aktywuje się na początku twojej tury.
+keyword_veteran;<#600101>Weteran X:</color> Na początku drugiej i trzeciej rundy wzmocnij tę jednostkę o X, gdziekolwiek się znajduje.
+keyword_weaken;<#600101>Osłab:</color> Zmniejsz siłę bazową jednostki. Jeśli spadnie poniżej 1, usuń ją z gry. Nie aktywuje umiejętności zemsty.
+keyword_zeal;<#600101>Zapał:</color> Umiejętność rozkazu może zostać wykorzystana w tej samej turze, w której umieszczono kartę na polu bitwy.
+

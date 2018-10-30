@@ -1,5 +1,7 @@
 # Gwent Card Parser
 
+![gwenty-cards](./gwentyCards.jpg)
+
 **오우썸**한 카드 파서
 
 Parse Gwent Data Definiton files to JSON

@@ -1,9 +1,14 @@
+const path = require('path');
 const fs = require('fs');
 const parse = require('csv/lib/sync').parse;
 
 const localParser = locale => {
   const localeCSV = fs.readFileSync(
-    `./data_definitions/Localization/${locale}.csv`,
+    path.join(
+      'data_definitions',
+      'Localization',
+      `${locale}.csv`,
+    ),
     'utf-8'
   );
 

@@ -2,7 +2,7 @@ const fs = require('fs');
 const { parseString } = require('xml2js');
 
 const localeParser = require('./src/localeParser');
-
+const abilityParser = require('./src/abilityParser');
 const xml = fs.readFileSync('./data_definitions/Templates.xml', 'utf-8');
 
 /* Templates필요 키 */
@@ -18,7 +18,6 @@ const NEED_KEY = [
 ];
 
 const locale = localeParser(process.argv[2] || 'ko-kr');
-
 const parseTemplate = (acc, curr) => {
   const id = curr.$.Id;
   const need = {};
@@ -43,7 +42,7 @@ const mergeTemplate = templates => (acc, [key, value]) => {
   };
 };
 
-parseString(xml, (err, templates) => {
+parseString(xml, async (err, templates) => {
   if (err) {
     return console.error(err);
   }
@@ -51,9 +50,10 @@ parseString(xml, (err, templates) => {
     Templates: { Template }
   } = templates;
   const parsed = Template.reduce(parseTemplate, {});
+  const abilityMerged = await abilityParser(locale.Cards);
   const merged = {
     ...locale,
-    Cards: Object.entries(locale.Cards).reduce(mergeTemplate(parsed), {})
+    Cards: Object.entries(abilityMerged).reduce(mergeTemplate(parsed), {})
   };
   fs.writeFileSync('./GwentDefinitions.json', JSON.stringify(merged, null, 2));
 });

@@ -4,3 +4,6 @@ node_modules/
 data_definitions/
 # project output file
 GwentDefinitions.json
+
+# misc
+.DS_Store

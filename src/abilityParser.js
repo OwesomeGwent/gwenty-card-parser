@@ -3,11 +3,8 @@ const fs = require('fs');
 const { parseString } = require('xml2js');
 
 const abilities = fs.readFileSync(
-  path.join(
-    'data_definitions',
-    'Abilities.xml',
-  ),
-  'utf-8'
+  path.join('data_definitions', 'Abilities.xml'),
+  'utf-8',
 );
 
 const VAR_REG = /\{(.*?)\}/g;
@@ -36,28 +33,31 @@ const mergeAbility = temp => ability => {
   }, []);
   // 순서대로 replace
   let result = tooltip;
-  variables.map((variable, i) => result = result.replace(variable, matches[i]));
+  variables.map(
+    (variable, i) => (result = result.replace(variable, matches[i])),
+  );
   temp[id].tooltip = result;
-}
+};
 
-const abilityParser = async (data) => {
+const abilityParser = async data => {
   try {
     const parsed = await new Promise(res => {
       parseString(abilities, (err, ability) => {
         if (err) {
           return console.error(err);
         }
-        const { Abilities: { Ability }} = ability;
+        const {
+          Abilities: { Ability },
+        } = ability;
         const temp = { ...data };
         Ability.map(mergeAbility(temp));
         res(temp);
       });
     });
     return parsed;
-  }
-  catch (err) {
+  } catch (err) {
     console.error(err);
   }
-}
+};
 
 module.exports = abilityParser;

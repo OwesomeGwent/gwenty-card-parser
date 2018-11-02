@@ -14,20 +14,22 @@ const NEED_KEY = [
   'Provision',
   'Muligans',
   'Type',
-  'Kind'
+  'Kind',
 ];
 
 const locale = localeParser(process.argv[2] || 'ko-kr');
 const parseTemplate = (acc, curr) => {
   const id = curr.$.Id;
+  const Availability = curr.$.id;
   const need = {};
   NEED_KEY.map(key => (need[key] = curr[key]));
   return {
     ...acc,
     [id]: {
+      Availability,
       ...need,
-      $: undefined
-    }
+      $: undefined,
+    },
   };
 };
 
@@ -37,8 +39,8 @@ const mergeTemplate = templates => (acc, [key, value]) => {
     ...acc,
     [key]: {
       ...value,
-      ...templates[key]
-    }
+      ...templates[key],
+    },
   };
 };
 
@@ -47,13 +49,13 @@ parseString(xml, async (err, templates) => {
     return console.error(err);
   }
   const {
-    Templates: { Template }
+    Templates: { Template },
   } = templates;
   const parsed = Template.reduce(parseTemplate, {});
   const abilityMerged = await abilityParser(locale.Cards);
   const merged = {
     ...locale,
-    Cards: Object.entries(abilityMerged).reduce(mergeTemplate(parsed), {})
+    Cards: Object.entries(abilityMerged).reduce(mergeTemplate(parsed), {}),
   };
   fs.writeFileSync('./GwentDefinitions.json', JSON.stringify(merged, null, 2));
 });

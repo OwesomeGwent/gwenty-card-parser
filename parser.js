@@ -21,12 +21,14 @@ const locale = localeParser(process.argv[2] || 'ko-kr');
 const parseTemplate = (acc, curr) => {
   const id = curr.$.Id;
   const Availability = curr.$.Availability;
+  const ArtId = curr.$.ArtId;
   const need = {};
   NEED_KEY.map(key => (need[key] = curr[key]));
   return {
     ...acc,
     [id]: {
       Availability,
+      ArtId,
       ...need,
       $: undefined,
     },

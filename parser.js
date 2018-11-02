@@ -20,7 +20,7 @@ const NEED_KEY = [
 const locale = localeParser(process.argv[2] || 'ko-kr');
 const parseTemplate = (acc, curr) => {
   const id = curr.$.Id;
-  const Availability = curr.$.id;
+  const Availability = curr.$.Availability;
   const need = {};
   NEED_KEY.map(key => (need[key] = curr[key]));
   return {
